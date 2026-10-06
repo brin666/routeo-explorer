@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#e8e1cf"/>
+  <path d="M274 91 C384 36 555 42 694 88 C831 132 926 226 900 331 C875 431 782 500 659 543 C521 592 352 548 261 457 C166 361 153 177 274 91Z" fill="#4f9da5" stroke="#d4d0b5" stroke-width="12"/>
+  <path d="M257 147 C400 113 551 133 681 178 S815 279 753 355 S625 425 567 505" fill="none" stroke="#76b8ac" stroke-width="24"/>
+  <path d="M506 69 C546 177 540 250 524 333 S497 480 533 590" fill="none" stroke="#b2c092" stroke-width="45"/>
+  <path d="M221 94 C270 118 323 142 368 181 M803 129 C862 180 918 218 966 237 M823 370 C916 378 1002 404 1114 469 M215 435 C174 481 141 538 124 614" fill="none" stroke="#faf7eb" stroke-width="18"/>
+  <path d="M256 62 C394 1 582 9 742 64 S1000 195 994 327 M156 312 C187 437 245 525 342 581 S532 640 670 601" fill="none" stroke="#faf7eb" stroke-width="13"/>
+  <g fill="#c5d5ae" stroke="#91a983" stroke-width="4"><path d="M219 105 292 70 348 98 342 158 289 183 234 158Z"/><path d="M370 62 442 46 475 87 461 132 397 140 361 107Z"/><path d="M705 65 777 86 800 132 760 164 697 137Z"/><path d="M1043 159 1116 188 1120 240 1074 266 1019 224Z"/><path d="M977 463 1049 448 1092 490 1069 546 1006 550 964 508Z"/><path d="M177 517 247 485 293 528 268 584 199 600 156 562Z"/></g>
+  <g fill="#c8b99b" stroke="#aa987a" stroke-width="2"><path d="M79 213 130 199 162 232 149 274 100 282Z"/><path d="M95 356 148 335 180 370 161 408 112 415Z"/><path d="M338 211 385 190 421 221 404 263 358 271Z"/><path d="M715 217 759 199 794 230 777 272 731 279Z"/><path d="M881 292 928 272 962 306 945 347 899 354Z"/><path d="M380 503 426 483 464 515 446 554 400 564Z"/><path d="M736 485 785 466 820 501 801 542 754 550Z"/><path d="M1004 346 1052 327 1090 362 1070 401 1024 407Z"/></g>
+  <g fill="#9fc68c"><path d="M490 198 518 187 544 201 549 226 527 239 499 228Z"/><path d="M553 351 583 336 610 353 611 379 584 392 559 379Z"/></g>
+  <g fill="#a87956" stroke="#694c37" stroke-width="3"><path d="M972 90h67v62h-67z"/><path d="M444 423h73v62h-73z"/><path d="M814 520h68v61h-68z"/></g>
+  <path d="M974 123 C903 121 855 128 802 132 C722 139 641 179 592 252 S519 352 526 421 C537 494 629 517 730 529 S858 511 846 486" fill="none" stroke="#d96f4d" stroke-width="7" stroke-linecap="round" stroke-dasharray="3 14"/>
+  <g font-family="sans-serif" font-size="17" font-weight="700" text-anchor="middle">
+    <g><circle cx="974" cy="123" r="15" fill="#df9a48" stroke="#fff" stroke-width="5"/><text x="974" y="91" fill="#343b35">1 断桥残雪</text></g>
+    <g><circle cx="802" cy="132" r="15" fill="#639bc0" stroke="#fff" stroke-width="5"/><text x="802" y="100" fill="#343b35">2 平湖秋月</text></g>
+    <g><circle cx="526" cy="421" r="15" fill="#59a681" stroke="#fff" stroke-width="5"/><text x="526" y="462" fill="#343b35">3 苏堤春晓</text></g>
+    <g><circle cx="846" cy="486" r="15" fill="#d98b4b" stroke="#fff" stroke-width="5"/><text x="846" y="452" fill="#343b35">4 雷峰塔</text></g>
+  </g>
+</svg>

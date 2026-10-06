@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+  <defs>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#eee9d9"/><stop offset="1" stop-color="#e6dfca"/></linearGradient>
+    <linearGradient id="lake" x2=".8" y2="1"><stop stop-color="#a6c9c4"/><stop offset="1" stop-color="#72a7a5"/></linearGradient>
+    <pattern id="garden" width="94" height="81" patternUnits="userSpaceOnUse">
+      <circle cx="17" cy="20" r="9" fill="#8da17a"/><circle cx="17" cy="20" r="3" fill="#c0c59e"/>
+      <circle cx="68" cy="51" r="13" fill="#7d9774"/><circle cx="68" cy="51" r="4" fill="#c7c69d"/>
+      <path d="M5 64q13-10 24 1t27-2" fill="none" stroke="#c0b899" stroke-width="3"/>
+    </pattern>
+    <style>
+      .lane{fill:none;stroke:#f8f4e9;stroke-width:13;stroke-linecap:round;stroke-linejoin:round}
+      .lane-edge{fill:none;stroke:#b7aa8e;stroke-width:1.8;stroke-dasharray:5 7;stroke-linecap:round;stroke-linejoin:round}
+      .minor{fill:#d3c8ad;stroke:#a99c7f;stroke-width:2}
+      .roof{fill:#c9b997;opacity:.82}
+      .marker{fill:#fffdf7;stroke-width:7}
+    </style>
+  </defs>
+  <rect width="1672" height="941" fill="url(#paper)"/>
+  <path d="M0 290Q144 264 252 301T496 282Q572 266 622 311M0 610Q130 565 254 600T542 577M1080 0Q1040 102 1108 178T1072 355M1290 0Q1238 129 1315 231T1282 399M1116 498Q1243 457 1371 498T1672 462M1112 760Q1256 713 1372 765T1672 720" class="lane"/>
+  <path d="M0 290Q144 264 252 301T496 282Q572 266 622 311M0 610Q130 565 254 600T542 577M1080 0Q1040 102 1108 178T1072 355M1290 0Q1238 129 1315 231T1282 399M1116 498Q1243 457 1371 498T1672 462M1112 760Q1256 713 1372 765T1672 720" class="lane-edge"/>
+
+  <!-- North and east neighborhoods: varied Hutong parcels, angled lanes and changing block sizes. -->
+  <g opacity=".98">
+    <path class="minor" d="M32 30l132-18 25 14 4 42-43 25-112-8-17-22zM223 20l99 5 26 16-8 54-31 16-89-17-16-36zM383 25l70-12 54 24-9 38-31 19-81-13-14-28zM529 16l120 1 21 31-18 43-96 19-34-32zM715 20l86-12 35 28-12 40-44 24-78-14-9-38zM884 25l132-13 26 35-17 43-73 18-72-28zM1136 22l116-11 14 30-19 42-85 18-34-36zM1373 19l84-12 28 29-5 53-70 23-46-39zM1532 13l108 18 19 40-27 42-72-9-32-49z"/>
+    <path class="minor" d="M17 119l93-24 34 12 17 43-22 37-90 19-43-26zM194 128l117-18 26 30-10 50-38 27-90-10-26-32zM370 110l67 7 34 29-20 52-55 24-55-35 4-45zM518 121l98-22 34 18 6 47-35 42-79-8-37-35zM683 112l111-17 24 36-7 42-43 34-82-19-20-37zM852 117l94-24 41 22 9 40-35 35-89-10-33-30zM1027 103l88 18 25 37-26 38-69-4-38-41zM1190 123l105-25 34 31-9 44-61 30-81-20zM1374 121l79-10 34 29-1 44-51 28-65-30zM1540 129l87-23 31 28 8 46-51 29-68-23z"/>
+    <path class="minor" d="M12 415l89-18 34 20-2 43-40 30-78-7-17-32zM178 408l125-22 25 33-15 48-50 28-91-20-19-35zM352 412l83-22 33 29-5 43-40 36-79-9-21-39zM1100 399l95-20 29 33-9 48-47 22-77-12-15-34zM1270 411l109-15 19 28-7 53-62 19-75-28zM1450 399l76-21 36 28-3 48-41 35-82-14-9-40z"/>
+    <path class="minor" d="M15 665l120-20 22 27-16 44-56 27-80-24-9-32zM192 655l90-17 39 26-4 50-48 28-82-15-20-41zM370 658l107-24 31 35-17 52-64 19-69-31zM1091 624l97-25 38 33-11 48-58 24-76-19zM1276 646l74-18 42 30-7 55-60 17-60-42zM1451 637l114-23 30 34-13 55-61 18-68-34z"/>
+    <path class="minor" d="M27 822l85-23 45 23-9 43-54 31-72-22zM196 814l112-23 26 36-21 54-67 20-67-43zM386 821l73-23 46 31-8 45-44 30-82-37zM1096 815l97-26 39 27-14 54-53 24-84-31zM1282 811l123-13 25 31-22 51-70 24-67-40zM1468 816l77-25 51 27-8 48-54 29-69-33z"/>
+    <path d="M39 25l620 925M205 2l448 939M470 8l330 928M1000 8L761 929M1202 3L963 941M1430 0l-287 941M1642 2l-305 939" fill="none" stroke="#d0c4a7" stroke-width="2.2" stroke-dasharray="10 15" opacity=".65"/>
+    <path d="M24 207q62-42 135-12t132-4q66-35 135 3t112-9M648 38q93 50 178 5t183 34M1076 331q75-47 146-6t144-12q81-37 151-1M1100 584q90 45 165 0t156 24q92 31 183-17M639 901q94-52 189-5t178 0" fill="none" stroke="#b9ad91" stroke-width="4" stroke-dasharray="2 10" opacity=".72"/>
+  </g>
+
+  <!-- Beihai Park: an irregular shoreline with the White Pagoda island west-northwest of the axis. -->
+  <path d="M84 70Q162 29 263 48Q339 26 427 57Q500 69 542 132Q587 186 556 251Q577 307 538 363Q512 415 444 444Q379 477 305 445Q237 463 176 422Q107 405 91 347Q50 305 69 241Q49 189 65 137Q65 96 84 70Z" fill="url(#lake)" stroke="#587f79" stroke-width="10"/>
+  <path d="M165 106Q222 77 273 101T348 93Q414 109 428 162T474 219Q463 280 419 291T367 343Q311 356 276 329T201 313Q164 278 181 236T144 178Q138 132 165 106Z" fill="url(#garden)" stroke="#687d61" stroke-width="9"/>
+  <path d="M280 184Q308 150 344 173T384 218Q380 262 344 281Q303 292 278 264T280 184Z" fill="#a9b58e" stroke="#67775e" stroke-width="6"/>
+  <path d="M325 206l19-37 18 37h-10v30h-16v-30z" fill="#f1ead9" stroke="#8d8a76" stroke-width="5"/>
+  <path d="M106 286Q158 272 191 296T264 326M377 105Q425 126 430 165T487 211M212 388Q262 365 292 392T378 404" fill="none" stroke="#f4eedb" stroke-width="9" stroke-linecap="round"/>
+  <path d="M125 280q24-17 41 1l-18 13zM447 187q23-12 37 5l-18 12zM221 385q25-13 42 5l-21 12z" fill="#b5794c" stroke="#73583e" stroke-width="3"/>
+
+  <!-- Jingshan hill and winding garden paths. -->
+  <path d="M688 45Q757 24 821 43Q894 21 945 64Q991 96 969 147Q988 191 958 229Q920 272 850 267Q782 288 724 255Q673 228 680 184Q648 147 669 105Q667 69 688 45Z" fill="#8fa57c" stroke="#5e765d" stroke-width="9"/>
+  <path d="M706 181Q754 131 798 157T874 112Q918 115 946 155M719 222Q774 193 818 220T906 190" fill="none" stroke="#d3dfb8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M801 136h42l-6 14h-31zM806 127l16-23 17 23" fill="#b98650" stroke="#6d5134" stroke-width="5"/>
+
+  <!-- Forbidden City: keep the formal palace footprint and north-south axis crisp. -->
+  <path d="M628 307Q657 296 686 307L1010 307Q1044 312 1046 343L1046 665Q1040 704 1008 710L661 706Q625 695 624 665L625 344Q620 321 628 307Z" fill="#c9775d" stroke="#873f35" stroke-width="12"/>
+  <path d="M657 332H1013V679H657Z" fill="#e1c987" stroke="#a35343" stroke-width="8"/>
+  <path d="M679 350H991V403H679zM679 422H991V456H679zM679 474H991V510H679zM679 528H991V563H679zM679 582H991V659H679z" fill="#bf6652" stroke="#8e473b" stroke-width="5"/>
+  <path d="M835 333V680" fill="none" stroke="#f5e8be" stroke-width="13" stroke-dasharray="20 11"/>
+  <path d="M779 378h112m-94-19 38-25 38 25m-91 53 53 24 53-24M765 541h140m-116-18 48-30 48 30" fill="none" stroke="#72553b" stroke-width="5"/>
+
+  <!-- Tiananmen Square: an open ceremonial space south of the palace. -->
+  <path d="M592 746Q627 738 667 744H1006Q1050 749 1072 772L1060 858Q1039 875 1007 872H631Q591 865 586 836Z" fill="#d9c99d" stroke="#a99872" stroke-width="7"/>
+  <path d="M634 770H1024V830H634Z" fill="#eee0bb" stroke="#b7a47a" stroke-width="4"/>
+  <path d="M799 742h72v48h-72zM807 729l28-19 28 19" fill="#bc624c" stroke="#7b4639" stroke-width="5"/>
+
+  <!-- Local streets bend around lakes, parks and old compounds; avoid a repeated square lattice. -->
+  <g class="lane">
+    <path d="M16 493Q93 473 154 500T285 494Q353 475 424 500T558 482Q595 468 621 484"/>
+    <path d="M28 548Q89 529 145 550T259 547Q319 531 370 555T478 539Q538 522 600 550"/>
+    <path d="M54 704Q130 672 203 706T350 698Q421 681 486 719T601 698"/>
+    <path d="M64 882Q150 845 221 879T363 866Q437 840 520 878T610 856"/>
+    <path d="M1083 57Q1047 121 1095 173T1080 274Q1062 330 1096 387"/>
+    <path d="M1218 42Q1181 94 1227 150T1200 263Q1184 316 1215 389"/>
+    <path d="M1412 38Q1374 101 1428 154T1403 266Q1377 320 1410 389"/>
+    <path d="M1626 64Q1563 104 1602 167T1562 273Q1538 330 1581 381"/>
+    <path d="M1089 431Q1164 402 1226 434T1364 425Q1432 396 1506 437T1658 414"/>
+    <path d="M1094 519Q1167 547 1232 520T1379 534Q1451 562 1515 529T1668 550"/>
+    <path d="M1084 631Q1153 602 1223 630T1358 617Q1428 587 1499 630T1661 608"/>
+    <path d="M1081 687Q1152 715 1216 691T1353 700Q1422 731 1497 697T1667 718"/>
+    <path d="M1090 797Q1167 765 1242 797T1380 784Q1452 756 1524 793T1668 778"/>
+    <path d="M1093 862Q1170 891 1242 860T1380 879Q1454 908 1527 872T1662 886"/>
+    <path d="M636 34Q657 88 634 143T650 254Q659 281 641 299M1024 29Q1001 92 1033 147T1018 263Q1005 288 1022 303"/>
+  </g>
+  <g class="lane-edge">
+    <path d="M16 493Q93 473 154 500T285 494Q353 475 424 500T558 482Q595 468 621 484"/>
+    <path d="M28 548Q89 529 145 550T259 547Q319 531 370 555T478 539Q538 522 600 550"/>
+    <path d="M54 704Q130 672 203 706T350 698Q421 681 486 719T601 698"/>
+    <path d="M64 882Q150 845 221 879T363 866Q437 840 520 878T610 856"/>
+    <path d="M1083 57Q1047 121 1095 173T1080 274Q1062 330 1096 387M1218 42Q1181 94 1227 150T1200 263Q1184 316 1215 389M1412 38Q1374 101 1428 154T1403 266Q1377 320 1410 389M1626 64Q1563 104 1602 167T1562 273Q1538 330 1581 381"/>
+    <path d="M1089 431Q1164 402 1226 434T1364 425Q1432 396 1506 437T1658 414M1094 519Q1167 547 1232 520T1379 534Q1451 562 1515 529T1668 550M1084 631Q1153 602 1223 630T1358 617Q1428 587 1499 630T1661 608M1081 687Q1152 715 1216 691T1353 700Q1422 731 1497 697T1667 718M1090 797Q1167 765 1242 797T1380 784Q1452 756 1524 793T1668 778M1093 862Q1170 891 1242 860T1380 879Q1454 908 1527 872T1662 886"/>
+  </g>
+
+  <!-- Unequal courtyard clusters, turned at different angles and broken by trees and paths. -->
+  <g fill="#cabea3" stroke="#9e9275" stroke-width="3">
+    <path d="M17 367l39-17 39 14 12 35-26 25-54-7-18-24zM151 378l67-11 20 24-15 35-49 13-34-20zM267 367l48-24 38 20 4 33-36 28-49-17zM400 379l51-17 24 30-9 43-50 8-29-28zM495 376l53-18 30 32-18 39-46 8-28-25z"/>
+    <path d="M9 636l44-18 41 17-4 32-42 20-43-15zM130 631l57-22 34 20-10 42-56 18-31-25zM242 642l53-20 41 19-6 35-42 19-43-22zM362 637l68-17 29 31-20 40-49 10-36-26zM487 649l54-25 48 23-6 39-49 17-43-25z"/>
+    <path d="M12 770l56-19 42 20-8 36-48 20-43-23zM144 770l50-22 45 17 5 34-51 28-49-22zM285 765l58-22 35 27-12 39-58 14-34-28zM414 765l49-16 39 20-2 37-47 19-39-24zM512 773l62-15 36 28-15 37-55 8-33-28z"/>
+    <path d="M1104 371l38-21 42 13 13 36-31 27-49-11-19-23zM1228 368l62-14 27 24-12 37-49 20-37-23zM1363 373l48-18 34 22-3 36-43 23-42-25zM1492 370l60-18 39 30-16 37-55 10-34-27zM1594 371l47-14 30 29-12 40-40 10-28-34z"/>
+    <path d="M1105 578l59-21 35 22-5 40-49 21-44-24zM1233 584l46-22 45 21-7 43-46 19-40-26zM1364 579l65-14 27 31-19 38-54 11-34-32zM1494 579l44-21 43 24-5 39-46 18-40-26zM1594 582l52-21 31 30-6 43-48 15-34-29z"/>
+    <path d="M1103 735l54-21 42 21-9 37-50 19-40-24zM1229 741l53-24 38 23-5 39-54 22-40-25zM1357 741l66-17 26 25-12 41-56 18-37-27zM1487 745l54-24 48 27-11 39-51 18-42-24zM1601 740l43-18 35 24-4 40-42 16-36-30z"/>
+  </g>
+  <g fill="#809276" opacity=".92">
+    <circle cx="98" cy="456" r="19"/><circle cx="321" cy="456" r="14"/><circle cx="571" cy="458" r="18"/><circle cx="82" cy="582" r="14"/><circle cx="295" cy="580" r="21"/><circle cx="535" cy="584" r="16"/>
+    <circle cx="1151" cy="287" r="19"/><circle cx="1312" cy="308" r="15"/><circle cx="1551" cy="289" r="20"/><circle cx="1150" cy="475" r="13"/><circle cx="1457" cy="481" r="20"/>
+    <circle cx="1178" cy="654" r="18"/><circle cx="1324" cy="743" r="14"/><circle cx="1548" cy="670" r="17"/><circle cx="1640" cy="828" r="20"/>
+  </g>
+
+  <!-- A light route guide passes through the same four map anchors as the page overlay. -->
+  <path d="M835 800C835 758 835 728 835 690L835 580Q835 526 835 493L835 300Q835 237 820 174Q745 169 674 178T580 228Q548 269 506 280T392 235Q359 205 335 176" fill="none" stroke="#fffdf4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" opacity=".96"/>
+  <path d="M835 800C835 758 835 728 835 690L835 580Q835 526 835 493L835 300Q835 237 820 174Q745 169 674 178T580 228Q548 269 506 280T392 235Q359 205 335 176" fill="none" stroke="#d67859" stroke-width="6" stroke-dasharray="2 14" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Four numbered anchors align exactly to storyArtwork's image-coordinate frame. -->
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#282c28">
+    <g transform="translate(835 800)"><circle class="marker" r="22" stroke="#d85f52"/><circle r="7" fill="#d85f52"/><text x="31" y="-18" font-size="20" font-weight="700">天安门广场</text></g>
+    <g transform="translate(835 493)"><circle class="marker" r="22" stroke="#e2a750"/><circle r="7" fill="#e2a750"/><text x="31" y="37" font-size="20" font-weight="700">故宫博物院</text></g>
+    <g transform="translate(820 174)"><circle class="marker" r="22" stroke="#67a67f"/><circle r="7" fill="#67a67f"/><text x="31" y="-23" font-size="20" font-weight="700">景山公园</text></g>
+    <g transform="translate(335 176)"><circle class="marker" r="22" stroke="#63aabd"/><circle r="7" fill="#63aabd"/><text x="-32" y="-39" text-anchor="end" font-size="20" font-weight="700">北海公园</text></g>
+    <text x="1620" y="48" text-anchor="end" font-size="16" letter-spacing="2" fill="#6a6b61">N ↑ · ORGANIC BLOCK STUDY</text>
+    <text x="1620" y="912" text-anchor="end" font-size="14" fill="#74756d">景点锚点对齐；街区仅作插画结构参考</text>
+  </g>
+</svg>

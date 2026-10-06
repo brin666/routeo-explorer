@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#e9e2cf"/>
+  <path d="M-30 178 C112 112 173 173 294 127 S480 83 548 151 S697 202 788 147 S980 88 1230 144" fill="none" stroke="#65aab0" stroke-width="36"/>
+  <path d="M-20 486 C111 433 180 474 300 422 S476 342 570 390 S739 479 848 425 S1034 365 1220 415" fill="none" stroke="#65aab0" stroke-width="43"/>
+  <path d="M218 48 C257 152 244 229 278 307 S358 450 318 690 M703 -12 C660 102 706 202 760 276 S803 423 765 685 M1038 -20 C974 94 1018 200 1078 271 S1106 446 1048 684" fill="none" stroke="#65aab0" stroke-width="22"/>
+  <path d="M31 281 C193 245 311 288 420 254 S637 237 741 276 S972 329 1170 269 M26 565 C176 521 331 563 453 510 S650 466 781 528 S1018 579 1178 520 M93 44 C128 164 86 220 97 349 S139 523 82 649 M486 19 C453 127 489 198 466 290 S413 465 480 660 M905 22 C865 132 908 207 881 301 S858 499 916 650" fill="none" stroke="#faf7eb" stroke-width="15"/>
+  <g fill="#c6d4ad" stroke="#94aa83" stroke-width="3"><path d="M50 93 157 68 202 111 186 190 114 211 45 170Z"/><path d="M342 72 412 54 454 92 430 149 361 158 325 120Z"/><path d="M565 197 648 178 694 220 672 290 593 303 547 261Z"/><path d="M883 205 956 183 1012 224 988 297 916 313 868 267Z"/><path d="M185 350 256 326 308 364 292 420 225 440 171 400Z"/><path d="M528 431 610 404 657 449 640 509 566 531 515 482Z"/><path d="M941 466 1011 440 1075 476 1055 542 982 565 926 521Z"/></g>
+  <g fill="#c9b99a" stroke="#a8997d" stroke-width="2">
+    <path d="M24 224 73 203 102 235 88 272 39 279Z"/><path d="M136 230 180 211 215 239 205 274 158 286Z"/><path d="M329 180 376 164 409 196 392 232 346 239Z"/><path d="M484 176 530 159 564 193 547 228 501 238Z"/><path d="M811 200 853 181 887 211 874 246 827 254Z"/><path d="M1024 321 1072 302 1108 335 1091 371 1044 379Z"/><path d="M350 324 397 306 429 338 413 376 367 382Z"/><path d="M707 340 754 321 791 352 774 391 727 399Z"/><path d="M817 555 863 534 900 567 883 609 836 614Z"/><path d="M1100 174 1149 153 1182 184 1164 222 1118 232Z"/>
+  </g>
+  <g fill="#ab7957" stroke="#654938" stroke-width="3"><path d="M170 116h86v70h-86z"/><path d="M283 197h72v55h-72z"/><path d="M614 323h84v76h-84z"/><path d="M903 339h82v70h-82z"/></g>
+  <path d="M211 148 C294 188 370 230 470 286 S604 392 735 425 S866 392 944 374" fill="none" stroke="#d96f4d" stroke-width="7" stroke-linecap="round" stroke-dasharray="3 14"/>
+  <g font-family="sans-serif" font-size="17" font-weight="700" text-anchor="middle">
+    <g><circle cx="211" cy="148" r="15" fill="#d9544f" stroke="#fff" stroke-width="5"/><text x="211" y="116" fill="#343b35">1 拙政园</text></g>
+    <g><circle cx="330" cy="208" r="15" fill="#e39b49" stroke="#fff" stroke-width="5"/><text x="330" y="176" fill="#343b35">2 苏州博物馆</text></g>
+    <g><circle cx="735" cy="425" r="15" fill="#5d9ccc" stroke="#fff" stroke-width="5"/><text x="735" y="465" fill="#343b35">3 平江路</text></g>
+    <g><circle cx="944" cy="374" r="15" fill="#4aa986" stroke="#fff" stroke-width="5"/><text x="944" y="343" fill="#343b35">4 耦园</text></g>
+  </g>
+</svg>

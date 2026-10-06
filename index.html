@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f4f1ea" />
+    <meta name="description" content="沿着地图，发现下一段值得走的旅行路线。" />
+    <title>Routeo — 发现一条好路线</title>
+    <link rel="icon" href="./assets/routeo-favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="主导航">
+        <a class="brand" href="#/explore" aria-label="Routeo 首页">
+          <svg class="brand-mark" viewBox="0 0 42 34" aria-hidden="true">
+            <path d="M3 27.5 14.2 8.8c.6-1 2.1-1 2.7 0l5.2 8.5 3.8-6.2c.7-1.1 2.2-1.1 2.9 0l10.2 16.4H3Z" fill="currentColor" />
+            <path d="m9.3 27.5 8.2-13.4 8.2 13.4H9.3Z" fill="var(--canvas)" opacity=".94" />
+            <circle cx="32.1" cy="8.8" r="2.1" fill="currentColor" />
+          </svg>
+          <span>Routeo</span>
+        </a>
+
+        <nav class="side-nav" aria-label="探索导航">
+          <a class="side-nav__item is-active" href="#/explore" data-nav="explore" aria-current="page">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3.5 10.8 8.5-7 8.5 7v9.1a.9.9 0 0 1-.9.9h-5.2v-6h-4.8v6H4.4a.9.9 0 0 1-.9-.9v-9.1Z"/><path d="M2.5 10.8 12 3l9.5 7.8"/></svg>
+            <span>探索</span>
+          </a>
+          <a class="side-nav__item" href="#/destinations" data-nav="destinations">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.2 10.1c0 5.2-7.2 11-7.2 11s-7.2-5.8-7.2-11a7.2 7.2 0 1 1 14.4 0Z"/><circle cx="12" cy="10" r="2.4"/></svg>
+            <span>目的地</span>
+          </a>
+          <a class="side-nav__item" href="#/saved" data-nav="saved">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.3 8.8c0 5.1-8.3 11-8.3 11s-8.3-5.9-8.3-11a4.4 4.4 0 0 1 8.3-2 4.4 4.4 0 0 1 8.3 2Z"/></svg>
+            <span>收藏</span>
+            <span class="side-nav__count" id="saved-count" aria-label="收藏数量">0</span>
+          </a>
+        </nav>
+
+        <div class="sidebar-bottom">
+          <button class="side-nav__item side-nav__button" id="settings-toggle" type="button" aria-expanded="false" aria-controls="settings-popover">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3.1"/><path d="m19.2 13.7 1.4 1.1-1.7 3-1.7-.6a7.8 7.8 0 0 1-1.8 1l-.3 1.8h-3.5l-.3-1.8a7.8 7.8 0 0 1-1.8-1l-1.7.6-1.7-3 1.4-1.1a7.1 7.1 0 0 1 0-2.1l-1.4-1.1 1.7-3 1.7.6a7.8 7.8 0 0 1 1.8-1l.3-1.8h3.5l.3 1.8a7.8 7.8 0 0 1 1.8 1l1.7-.6 1.7 3-1.4 1.1a7.1 7.1 0 0 1 0 2.1Z"/></svg>
+            <span>设置</span>
+          </button>
+          <div class="sidebar-note" aria-hidden="true">
+            <p>Collect<br />Plan<br />Explore</p>
+            <svg viewBox="0 0 118 116" fill="none">
+              <path d="M26 80c-1-21 9-39 28-44 23-6 43 9 43 30 0 15-8 25-23 29-15 4-34 0-40-11-3-1-7-1-11-4l3-10Z" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M45 41 39 32l18 5M74 38l4-10 12 14M44 70c4 4 9 5 14 3M65 63h.1M82 62h.1M17 83l13-5 12 7-4 20-23 5-8-9 10-18Z" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="m18 87 12 7 12-9M26 94l-1 17M44 84l14-2 7 7-6 16-19 2" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M49 78c4-2 7-1 10 1M66 78c4-2 7-2 10 .3" stroke="currentColor" stroke-width="2.1" stroke-linecap="round"/>
+            </svg>
+          </div>
+          <div class="settings-popover" id="settings-popover" role="region" aria-label="页面偏好" hidden>
+            <p class="settings-popover__title">页面偏好</p>
+            <label class="settings-switch">
+              <span><strong>减少动态效果</strong><small>关闭悬停路线动画</small></span>
+              <input id="reduce-motion" type="checkbox" />
+              <span class="switch-track" aria-hidden="true"></span>
+            </label>
+            <p class="settings-footnote">地图预览为路线示意图</p>
+          </div>
+        </div>
+      </aside>
+
+      <main class="main-column" id="main-content">
+        <div class="mobile-topline">
+          <a class="brand brand--mobile" href="#/explore" aria-label="Routeo 首页">
+            <svg class="brand-mark" viewBox="0 0 42 34" aria-hidden="true"><path d="M3 27.5 14.2 8.8c.6-1 2.1-1 2.7 0l5.2 8.5 3.8-6.2c.7-1.1 2.2-1.1 2.9 0l10.2 16.4H3Z" fill="currentColor"/><path d="m9.3 27.5 8.2-13.4 8.2 13.4H9.3Z" fill="var(--canvas)" opacity=".94"/><circle cx="32.1" cy="8.8" r="2.1" fill="currentColor"/></svg>
+            <span>Routeo</span>
+          </a>
+          <button class="mobile-settings" id="mobile-settings-toggle" type="button" aria-label="页面设置" aria-expanded="false" aria-controls="settings-popover">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3.1"/><path d="m19.2 13.7 1.4 1.1-1.7 3-1.7-.6a7.8 7.8 0 0 1-1.8 1l-.3 1.8h-3.5l-.3-1.8a7.8 7.8 0 0 1-1.8-1l-1.7.6-1.7-3 1.4-1.1a7.1 7.1 0 0 1 0-2.1l-1.4-1.1 1.7-3 1.7.6a7.8 7.8 0 0 1 1.8-1l.3-1.8h3.5l.3 1.8a7.8 7.8 0 0 1 1.8 1l1.7-.6 1.7 3-1.4 1.1a7.1 7.1 0 0 1 0 2.1Z"/></svg>
+          </button>
+          <button class="mobile-saved" id="mobile-saved" type="button" aria-label="查看收藏路线">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.3 8.8c0 5.1-8.3 11-8.3 11s-8.3-5.9-8.3-11a4.4 4.4 0 0 1 8.3-2 4.4 4.4 0 0 1 8.3 2Z"/></svg>
+            <span id="mobile-saved-count">0</span>
+          </button>
+        </div>
+
+        <section class="explore-view" id="explore-view" aria-label="旅行路线探索">
+          <header class="topbar">
+            <form class="search-box" id="search-form" role="search">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.5 4.5"/></svg>
+              <label class="sr-only" for="route-search">搜索目的地、城市或主题</label>
+              <input id="route-search" type="search" placeholder="搜索目的地、城市或主题…" autocomplete="off" />
+              <button class="search-clear" id="search-clear" type="button" aria-label="清除搜索" hidden>
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
+              </button>
+            </form>
+            <nav class="filter-bar" id="filter-bar" aria-label="按城市或体验筛选">
+              <button class="filter-chip is-active" type="button" data-filter="all" data-value="all" aria-pressed="true">全部</button>
+              <span class="filter-divider" aria-hidden="true"></span>
+              <button class="filter-chip" type="button" data-filter="city" data-value="苏州" aria-pressed="false">苏州</button>
+              <button class="filter-chip" type="button" data-filter="city" data-value="杭州" aria-pressed="false">杭州</button>
+              <button class="filter-chip" type="button" data-filter="city" data-value="南京" aria-pressed="false">南京</button>
+              <button class="filter-chip" type="button" data-filter="city" data-value="成都" aria-pressed="false">成都</button>
+              <button class="filter-chip" type="button" data-filter="city" data-value="北京" aria-pressed="false">北京</button>
+              <span class="filter-divider" aria-hidden="true"></span>
+              <button class="filter-chip filter-chip--topic" type="button" data-filter="tag" data-value="自然" aria-pressed="false">自然</button>
+              <button class="filter-chip filter-chip--topic" type="button" data-filter="tag" data-value="城市" aria-pressed="false">城市</button>
+              <button class="filter-chip filter-chip--topic" type="button" data-filter="tag" data-value="美食" aria-pressed="false">美食</button>
+              <button class="filter-chip filter-chip--topic" type="button" data-filter="tag" data-value="亲子" aria-pressed="false">亲子</button>
+              <button class="filter-chip filter-chip--topic" type="button" data-filter="tag" data-value="徒步" aria-pressed="false">徒步</button>
+            </nav>
+          </header>
+
+          <div class="feed-heading" id="feed-heading">
+            <div>
+              <h1 class="sr-only" id="feed-title">旅行路线探索</h1>
+            </div>
+            <span class="feed-count" id="feed-count">— 条路线</span>
+          </div>
+
+          <div class="route-feed" id="route-feed" aria-live="polite" aria-busy="false"></div>
+          <div class="empty-state" id="empty-state" hidden>
+            <svg viewBox="0 0 58 58" aria-hidden="true"><path d="M10 42 23 16l8 15 5-9 12 20H10Z"/><path d="M16 42c7-7 13-7 20 0"/></svg>
+            <h2>还没有找到这条路线</h2>
+            <p>换个目的地或体验关键词试试。</p>
+            <button class="reset-button" id="reset-filters" type="button">查看全部路线</button>
+          </div>
+          <footer class="page-footer">
+            <span>走慢一点，风景会追上来。</span>
+            <span>ROUTEO · ROUTES TO REMEMBER</span>
+          </footer>
+        </section>
+
+        <section class="story-view" id="story-view" aria-label="路线故事" hidden></section>
+      </main>
+    </div>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>

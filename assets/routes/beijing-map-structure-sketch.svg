@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <pattern id="minor-grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#b2aa8f" stroke-width="1" opacity=".32"/>
+    </pattern>
+    <pattern id="block-grid" width="115" height="90" patternUnits="userSpaceOnUse">
+      <rect x="8" y="8" width="86" height="58" rx="5" fill="#d7ccb0" stroke="#aaa084" stroke-width="2"/>
+      <path d="M20 18h26v14H20zm34 0h28v14H54zM20 39h62v16H20z" fill="#c2b598"/>
+    </pattern>
+  </defs>
+
+  <!-- north-up city structure: streets and courtyard blocks -->
+  <rect width="1600" height="900" fill="#eee8d7"/>
+  <rect width="1600" height="900" fill="url(#minor-grid)"/>
+  <rect x="0" y="40" width="1600" height="790" fill="url(#block-grid)" opacity=".82"/>
+
+  <!-- Beihai Park, northwest of Jingshan: lake and Qionghua Island -->
+  <path d="M145 112 C245 67 422 76 519 135 C579 171 601 249 563 326 C526 401 446 464 335 456 C225 449 146 388 116 302 C91 229 91 151 145 112Z" fill="#9ec8c3" stroke="#557f7a" stroke-width="9"/>
+  <path d="M254 213 C291 176 353 179 385 214 C419 250 402 297 365 318 C328 339 278 323 254 291 C235 267 235 235 254 213Z" fill="#a8b58a" stroke="#65765c" stroke-width="7"/>
+  <circle cx="324" cy="248" r="22" fill="#f4e6c7" stroke="#b99b63" stroke-width="5"/>
+  <path d="M310 250h28m-23-7 9-11 9 11m-19 12 10 11 10-11" fill="none" stroke="#756547" stroke-width="4"/>
+
+  <!-- Jingshan: wooded hill directly north of the palace axis -->
+  <path d="M676 118 C738 83 879 85 934 131 C973 164 972 249 930 289 C885 332 738 334 681 293 C637 261 635 159 676 118Z" fill="#8fa77c" stroke="#5d765d" stroke-width="9"/>
+  <path d="M700 146 C760 112 847 116 899 150 C930 171 933 224 902 254 C862 287 760 290 710 258 C678 237 675 172 700 146Z" fill="none" stroke="#d3dfb8" stroke-width="8" stroke-dasharray="12 12"/>
+  <path d="M787 173h54l-7 13h-40zM795 166l19-24 19 24" fill="#b98650" stroke="#6d5134" stroke-width="5"/>
+
+  <!-- Forbidden City: strict north-south palace compound, centered on axis -->
+  <rect x="604" y="337" width="378" height="369" rx="5" fill="#c9775d" stroke="#873f35" stroke-width="12"/>
+  <rect x="629" y="358" width="328" height="327" fill="#e1c987" stroke="#a35343" stroke-width="8"/>
+  <path d="M651 377H935V428H651zM651 448H935V478H651zM651 496H935V526H651zM651 544H935V574H651zM651 593H935V664H651z" fill="#bf6652" stroke="#8e473b" stroke-width="5"/>
+  <path d="M790 358V685" fill="none" stroke="#f5e8be" stroke-width="13" stroke-dasharray="20 11"/>
+  <path d="M755 406h89m-81-17 36-23 36 23m-81 43 45 21 45-21M769 550h130m-112-14 47-27 47 27" fill="none" stroke="#72553b" stroke-width="5"/>
+
+  <!-- Tiananmen Square south of the palace compound -->
+  <path d="M546 738H1039V844H546Z" fill="#d9c99d" stroke="#a99872" stroke-width="7"/>
+  <path d="M586 764H999V818H586Z" fill="#eee0bb" stroke="#b7a47a" stroke-width="4"/>
+  <path d="M756 739h70v45h-70zM764 727l27-18 27 18" fill="#bc624c" stroke="#7b4639" stroke-width="5"/>
+
+  <!-- Broad north-south axis and connected neighborhood streets -->
+  <path d="M790 850V724M790 706V338M790 337V295M790 294V263" fill="none" stroke="#faf8ee" stroke-width="24"/>
+  <path d="M790 850V724M790 706V338M790 337V295M790 294V263" fill="none" stroke="#a89c7f" stroke-width="3" stroke-dasharray="10 9"/>
+  <path d="M80 504H575M1015 504H1510M83 602H563M1028 602H1510M1015 366H1485M1016 704H1480M500 93V317M500 727V858M1095 91V843M1275 91V843" fill="none" stroke="#faf8ee" stroke-width="19"/>
+  <path d="M80 504H575M1015 504H1510M83 602H563M1028 602H1510M1015 366H1485M1016 704H1480M500 93V317M500 727V858M1095 91V843M1275 91V843" fill="none" stroke="#a89c7f" stroke-width="2.5" stroke-dasharray="9 8"/>
+
+  <!-- illustrative walking route follows the central axis then turns west -->
+  <path d="M790 790 C790 751 790 731 790 704 L790 578 C790 514 790 444 790 337 C790 311 803 265 819 231 C772 227 719 232 680 241 L640 247 C616 253 604 271 595 292 L580 315 C550 325 519 327 485 319 C459 313 441 304 427 294" fill="none" stroke="#fffdf4" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M790 790 C790 751 790 731 790 704 L790 578 C790 514 790 444 790 337 C790 311 803 265 819 231 C772 227 719 232 680 241 L640 247 C616 253 604 271 595 292 L580 315 C550 325 519 327 485 319 C459 313 441 304 427 294" fill="none" stroke="#dc7657" stroke-width="7" stroke-dasharray="2 15" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- numbered attraction anchors with short attraction-type notes -->
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#282c28">
+    <g transform="translate(790 790)"><circle r="25" fill="#fff" stroke="#c85448" stroke-width="8"/><circle r="8" fill="#c85448"/><path d="M31 4h260v69H31z" rx="12" fill="#fffdf7" stroke="#c85448" stroke-width="3"/><text x="49" y="31" font-size="23" font-weight="700">01 天安门广场</text><text x="49" y="58" font-size="16" fill="#66685e">城市广场 · 中轴南端</text></g>
+    <g transform="translate(790 526)"><circle r="25" fill="#fff" stroke="#d49b48" stroke-width="8"/><circle r="8" fill="#d49b48"/><path d="M31 -78h260v69H31z" fill="#fffdf7" stroke="#d49b48" stroke-width="3"/><text x="49" y="-51" font-size="23" font-weight="700">02 故宫博物院</text><text x="49" y="-24" font-size="16" fill="#66685e">宫城建筑群 · 南北中轴</text></g>
+    <g transform="translate(819 231)"><circle r="25" fill="#fff" stroke="#65a47a" stroke-width="8"/><circle r="8" fill="#65a47a"/><path d="M31 -68h260v69H31z" fill="#fffdf7" stroke="#65a47a" stroke-width="3"/><text x="49" y="-41" font-size="23" font-weight="700">03 景山公园</text><text x="49" y="-14" font-size="16" fill="#66685e">城市山林 · 俯瞰宫城</text></g>
+    <g transform="translate(427 294)"><circle r="25" fill="#fff" stroke="#63a5bd" stroke-width="8"/><circle r="8" fill="#63a5bd"/><path d="M-300 -76h260v69h-260z" fill="#fffdf7" stroke="#63a5bd" stroke-width="3"/><text x="-282" y="-49" font-size="23" font-weight="700">04 北海公园</text><text x="-282" y="-22" font-size="16" fill="#66685e">皇家园林 · 湖心白塔</text></g>
+    <text x="1510" y="54" text-anchor="end" font-size="17" letter-spacing="3" fill="#6a6b61">N ↑ · STRUCTURE STUDY</text>
+    <text x="1510" y="878" text-anchor="end" font-size="15" fill="#74756d">路线为插画构图参考；非导航底图</text>
+  </g>
+</svg>

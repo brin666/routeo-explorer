@@ -1,0 +1,17 @@
+{
+  "name": "routeo-explorer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:motion": "vite build --config vite.motion.config.js"
+  },
+  "dependencies": {
+    "@remotion/player": "4.0.533",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.533"
+  },
+  "devDependencies": {
+    "vite": "8.3.2"
+  }
+}

@@ -1,0 +1,43 @@
+# Dependencies and generated build output
+node_modules/
+dist/
+coverage/
+.vite/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.mobileprovision
+
+# Local browser profiles, screenshots, tunnel logs, and review artifacts
+.routeo-*/
+.uizze/
+*.log
+
+# Superseded or unrelated artwork not used by the five-city demo
+assets/routes/great-ocean-road.webp
+assets/routes/kamakura.webp
+assets/routes/kyoto.webp
+assets/routes/provence.webp
+assets/routes/singapore.webp
+assets/routes/stops/eikando.jpg
+assets/routes/stops/ginkakuji.jpg
+assets/routes/stops/nanzenji.jpg
+assets/routes/stops/philosophers-path.jpg
+assets/routes/hangzhou-route-4k.*
+assets/routes/hangzhou-route-v*-4k.*
+assets/routes/hangzhou-route-v*.png
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#e8e0ce"/>
+  <path d="M36 94 C184 48 329 73 423 123 S567 165 673 125 S920 58 1160 112 M-20 552 C138 482 262 535 381 480 S604 404 720 452 S948 538 1214 446" fill="none" stroke="#faf7eb" stroke-width="22"/>
+  <path d="M102 32 C159 118 118 184 163 254 S251 375 219 459 S170 590 206 700 M449 -15 C489 92 445 174 490 246 S568 360 531 441 S500 581 552 690 M846 -10 C797 91 836 173 799 254 S753 376 805 456 S861 587 812 686 M1086 -15 C1039 95 1076 185 1031 271 S1002 412 1062 503 S1095 608 1052 687" fill="none" stroke="#faf7eb" stroke-width="15"/>
+  <g fill="#c6d4ad" stroke="#91a681" stroke-width="4"><path d="M93 84 201 68 246 107 221 176 141 189 87 145Z"/><path d="M311 201 385 180 429 218 411 279 341 293 292 250Z"/><path d="M579 72 659 55 705 92 686 157 616 177 566 129Z"/><path d="M890 155 972 137 1014 181 991 240 921 257 874 210Z"/><path d="M345 375 426 352 470 392 450 451 377 467 329 423Z"/><path d="M828 354 908 334 957 376 937 438 860 452 812 409Z"/><path d="M172 506 262 479 310 525 284 590 202 610 151 560Z"/></g>
+  <g fill="#c8b99b" stroke="#a7977d" stroke-width="2"><path d="M43 229 91 211 124 245 107 284 62 292Z"/><path d="M259 91 307 73 343 106 328 145 278 154Z"/><path d="M460 319 508 300 544 335 527 374 478 383Z"/><path d="M599 215 648 194 684 227 665 269 616 278Z"/><path d="M724 68 770 47 809 82 790 124 743 131Z"/><path d="M1018 287 1065 267 1104 301 1087 345 1038 356Z"/><path d="M532 509 580 487 621 521 600 565 552 571Z"/><path d="M664 562 715 539 753 575 733 618 684 624Z"/><path d="M933 500 982 479 1019 514 1002 558 955 566Z"/></g>
+  <g fill="#ae805d" stroke="#634a38" stroke-width="4"><path d="M238 135 334 135 356 157 356 211 238 211Z"/><path d="M411 157 480 157 480 208 411 208Z"/><path d="M684 395 752 395 752 449 684 449Z"/><path d="M833 467 920 467 920 528 833 528Z"/></g>
+  <path d="M292 172 C364 171 423 179 467 183 C561 194 612 284 665 358 S718 431 723 422 C760 441 811 475 874 496" fill="none" stroke="#d96f4d" stroke-width="7" stroke-linecap="round" stroke-dasharray="3 14"/>
+  <g font-family="sans-serif" font-size="17" font-weight="700" text-anchor="middle">
+    <g><circle cx="292" cy="172" r="15" fill="#df9a48" stroke="#fff" stroke-width="5"/><text x="292" y="137" fill="#343b35">1 总统府</text></g>
+    <g><circle cx="467" cy="183" r="15" fill="#609bc2" stroke="#fff" stroke-width="5"/><text x="467" y="218" fill="#343b35">2 六朝博物馆</text></g>
+    <g><circle cx="723" cy="422" r="15" fill="#55a681" stroke="#fff" stroke-width="5"/><text x="723" y="461" fill="#343b35">3 老门东</text></g>
+    <g><circle cx="874" cy="496" r="15" fill="#d9815b" stroke="#fff" stroke-width="5"/><text x="874" y="462" fill="#343b35">4 夫子庙·秦淮河</text></g>
+  </g>
+</svg>
