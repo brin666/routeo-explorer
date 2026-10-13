@@ -1,0 +1,12 @@
+# 苏州 地图底图生成提示词
+
+内置 image_gen；结构图决定空间关系，广州图仅决定风格。
+
+```text
+Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 苏州, not a scenic postcard.
+Reference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.
+Place these landmarks at these normalized image positions: 1: Suzhou Museum main building: white walls, geometric black roofs, pale gravel courtyard, at 68% from left and 23% from top; 2: Humble Administrators Garden: irregular ponds, white walls, tiled pavilions and garden islands, at 76% from left and 21% from top; 3: Pingjiang Road: narrow north-south canal and stone bridges with white/grey houses, at 82% from left and 56% from top; 4: Shuangta Market: compact urban produce market near twin old pagodas as nearby context, at 84% from left and 83% from top; 5: Shantang Street: older canal-side commercial lane and bridges to west, at 13% from left and 45% from top.
+Geographic context: Flat old Suzhou city with narrow urban canals and white-grey irregular courtyard houses. Museum/garden north-east, Pingjiang/Shaungta further south-east and Shantang separate west; do not cluster all landmarks around one pond.
+Use clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.
+No text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.
+```

@@ -1,0 +1,3944 @@
+{
+  "city": "青岛",
+  "slug": "qingdao",
+  "queriedAt": "2026-10-13T05:43:01.096Z",
+  "source": "AMap JS API 2.0 PlaceSearch",
+  "coordinateSystem": "GCJ-02",
+  "points": [
+    {
+      "name": "石老人海浴场",
+      "placeKey": "qingdao:shilaoren_beach",
+      "experienceKey": "qingdao:shilaoren_beach:coast_walk",
+      "searchKeyword": "石老人海水浴场",
+      "status": "candidate-selected",
+      "selectionMethod": "manually-reviewed-exact-POI-id-name-type-and-address",
+      "poiId": "B021406PJ6",
+      "address": "海口路287号",
+      "type": "体育休闲服务;运动场馆;海滨浴场",
+      "coordinate": [
+        120.46801,
+        36.09168
+      ],
+      "entrance": [
+        120.462975,
+        36.089419
+      ],
+      "url": "https://ditu.amap.com/place/B021406PJ6",
+      "candidates": [
+        {
+          "name": "青岛石老人海水浴场",
+          "poiId": "B021406PJ6",
+          "address": "海口路287号",
+          "type": "体育休闲服务;运动场馆;海滨浴场",
+          "coordinate": [
+            120.46801,
+            36.09168
+          ],
+          "entrance": [
+            120.462975,
+            36.089419
+          ],
+          "url": "https://ditu.amap.com/place/B021406PJ6"
+        },
+        {
+          "name": "青岛石老人海水浴场地面停车场",
+          "poiId": "B0KKBHKMPX",
+          "address": "海口路287号青岛石老人海水浴场",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            120.474144,
+            36.095794
+          ],
+          "entrance": [
+            120.474217,
+            36.096242
+          ],
+          "url": "https://ditu.amap.com/place/B0KKBHKMPX"
+        },
+        {
+          "name": "青岛崂山区石老人海水浴场亚朵酒店",
+          "poiId": "B0IUJMIAKM",
+          "address": "山东头路68号",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.452832,
+            36.099856
+          ],
+          "entrance": [
+            120.453525,
+            36.099647
+          ],
+          "url": "https://ditu.amap.com/place/B0IUJMIAKM"
+        },
+        {
+          "name": "石老人海水浴场售票处",
+          "poiId": "B0FFGAIR6S",
+          "address": "海口路287号青岛石老人海水浴场内",
+          "type": "生活服务;售票处;公园景点售票处",
+          "coordinate": [
+            120.47382,
+            36.093782
+          ],
+          "entrance": [
+            120.473689,
+            36.094058
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGAIR6S"
+        },
+        {
+          "name": "青岛石老人海水浴场地面停车场(出入口)",
+          "poiId": "B0FFHNEMED",
+          "address": "石老人海水浴场地面停车场",
+          "type": "交通设施服务;停车场;停车场出入口",
+          "coordinate": [
+            120.474216,
+            36.096241
+          ],
+          "entrance": [
+            120.474217,
+            36.096242
+          ],
+          "url": "https://ditu.amap.com/place/B0FFHNEMED"
+        },
+        {
+          "name": "青岛石老人海水浴场海尔路亚朵酒店",
+          "poiId": "B0MDAZ2S4J",
+          "address": "海尔路65号招商银行财富大厦",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.457929,
+            36.099254
+          ],
+          "entrance": [
+            120.457782,
+            36.099297
+          ],
+          "url": "https://ditu.amap.com/place/B0MDAZ2S4J"
+        },
+        {
+          "name": "石老人海水浴场第2停车场",
+          "poiId": "B0IAF99F5Z",
+          "address": "海口路277号(石老人浴场地铁站B2口步行150米)",
+          "type": "交通设施服务;停车场;停车场相关",
+          "coordinate": [
+            120.465627,
+            36.092551
+          ],
+          "entrance": [
+            120.465317,
+            36.092404
+          ],
+          "url": "https://ditu.amap.com/place/B0IAF99F5Z"
+        },
+        {
+          "name": "青岛石老人海水浴场极地海洋公园海景美仑酒店",
+          "poiId": "B0KKS5443X",
+          "address": "青大三路10号12号楼A座",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.436413,
+            36.075819
+          ],
+          "entrance": [
+            120.436869,
+            36.075785
+          ],
+          "url": "https://ditu.amap.com/place/B0KKS5443X"
+        },
+        {
+          "name": "桔子青岛石老人海水浴场店海景酒店",
+          "poiId": "B0MUD5J48M",
+          "address": "金家岭街道岩岭路海韵东方",
+          "type": "住宿服务;宾馆酒店;经济型连锁酒店",
+          "coordinate": [
+            120.469964,
+            36.097268
+          ],
+          "entrance": [
+            120.469996,
+            36.097199
+          ],
+          "url": "https://ditu.amap.com/place/B0MUD5J48M"
+        },
+        {
+          "name": "青岛石老人海水浴场国信体育中心桔子水晶酒店",
+          "poiId": "B0FFKYSNEF",
+          "address": "苗岭路52号-2(近金狮广场)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.456442,
+            36.097392
+          ],
+          "entrance": [
+            120.456353,
+            36.097685
+          ],
+          "url": "https://ditu.amap.com/place/B0FFKYSNEF"
+        },
+        {
+          "name": "石老人海水浴场西地面停车场(入口)",
+          "poiId": "B0IG7SQSMN",
+          "address": "海口路与东海东路交叉口东200米",
+          "type": "交通设施服务;停车场;停车场入口",
+          "coordinate": [
+            120.46313,
+            36.08933
+          ],
+          "entrance": [
+            120.46313,
+            36.089331
+          ],
+          "url": "https://ditu.amap.com/place/B0IG7SQSMN"
+        },
+        {
+          "name": "石老人海水浴场8号取餐处",
+          "poiId": "B0LR7HI73H",
+          "address": "海口路291号",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            120.474007,
+            36.093745
+          ],
+          "entrance": [
+            120.473859,
+            36.093737
+          ],
+          "url": "https://ditu.amap.com/place/B0LR7HI73H"
+        }
+      ],
+      "poiName": "青岛石老人海水浴场",
+      "selectionNote": "匹配海口路287号、海滨浴场类别的石老人浴场本体；拒绝不含目标关键词的八大关及周边酒店停车场。",
+      "reviewedAt": "2026-10-13T05:59:49.777Z",
+      "candidateQueries": [
+        {
+          "keyword": "石老人海水浴场",
+          "status": "complete",
+          "info": "OK",
+          "candidateCount": 12
+        }
+      ],
+      "previousSelection": {
+        "name": "八大关风景区",
+        "poiId": "B0214024B4",
+        "coordinate": [
+          120.350903,
+          36.053625
+        ],
+        "address": "武胜关支路10号",
+        "type": "风景名胜;风景名胜;风景名胜"
+      },
+      "rejectedCandidates": [
+        {
+          "name": "青岛石老人海水浴场地面停车场",
+          "poiId": "B0KKBHKMPX",
+          "address": "海口路287号青岛石老人海水浴场",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            120.474144,
+            36.095794
+          ],
+          "entrance": [
+            120.474217,
+            36.096242
+          ],
+          "url": "https://ditu.amap.com/place/B0KKBHKMPX",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "青岛崂山区石老人海水浴场亚朵酒店",
+          "poiId": "B0IUJMIAKM",
+          "address": "山东头路68号",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.452832,
+            36.099856
+          ],
+          "entrance": [
+            120.453525,
+            36.099647
+          ],
+          "url": "https://ditu.amap.com/place/B0IUJMIAKM",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "石老人海水浴场售票处",
+          "poiId": "B0FFGAIR6S",
+          "address": "海口路287号青岛石老人海水浴场内",
+          "type": "生活服务;售票处;公园景点售票处",
+          "coordinate": [
+            120.47382,
+            36.093782
+          ],
+          "entrance": [
+            120.473689,
+            36.094058
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGAIR6S",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "青岛石老人海水浴场地面停车场(出入口)",
+          "poiId": "B0FFHNEMED",
+          "address": "石老人海水浴场地面停车场",
+          "type": "交通设施服务;停车场;停车场出入口",
+          "coordinate": [
+            120.474216,
+            36.096241
+          ],
+          "entrance": [
+            120.474217,
+            36.096242
+          ],
+          "url": "https://ditu.amap.com/place/B0FFHNEMED",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "青岛石老人海水浴场海尔路亚朵酒店",
+          "poiId": "B0MDAZ2S4J",
+          "address": "海尔路65号招商银行财富大厦",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.457929,
+            36.099254
+          ],
+          "entrance": [
+            120.457782,
+            36.099297
+          ],
+          "url": "https://ditu.amap.com/place/B0MDAZ2S4J",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "石老人海水浴场第2停车场",
+          "poiId": "B0IAF99F5Z",
+          "address": "海口路277号(石老人浴场地铁站B2口步行150米)",
+          "type": "交通设施服务;停车场;停车场相关",
+          "coordinate": [
+            120.465627,
+            36.092551
+          ],
+          "entrance": [
+            120.465317,
+            36.092404
+          ],
+          "url": "https://ditu.amap.com/place/B0IAF99F5Z",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "青岛石老人海水浴场极地海洋公园海景美仑酒店",
+          "poiId": "B0KKS5443X",
+          "address": "青大三路10号12号楼A座",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.436413,
+            36.075819
+          ],
+          "entrance": [
+            120.436869,
+            36.075785
+          ],
+          "url": "https://ditu.amap.com/place/B0KKS5443X",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "桔子青岛石老人海水浴场店海景酒店",
+          "poiId": "B0MUD5J48M",
+          "address": "金家岭街道岩岭路海韵东方",
+          "type": "住宿服务;宾馆酒店;经济型连锁酒店",
+          "coordinate": [
+            120.469964,
+            36.097268
+          ],
+          "entrance": [
+            120.469996,
+            36.097199
+          ],
+          "url": "https://ditu.amap.com/place/B0MUD5J48M",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "青岛石老人海水浴场国信体育中心桔子水晶酒店",
+          "poiId": "B0FFKYSNEF",
+          "address": "苗岭路52号-2(近金狮广场)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.456442,
+            36.097392
+          ],
+          "entrance": [
+            120.456353,
+            36.097685
+          ],
+          "url": "https://ditu.amap.com/place/B0FFKYSNEF",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "石老人海水浴场西地面停车场(入口)",
+          "poiId": "B0IG7SQSMN",
+          "address": "海口路与东海东路交叉口东200米",
+          "type": "交通设施服务;停车场;停车场入口",
+          "coordinate": [
+            120.46313,
+            36.08933
+          ],
+          "entrance": [
+            120.46313,
+            36.089331
+          ],
+          "url": "https://ditu.amap.com/place/B0IG7SQSMN",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "石老人海水浴场8号取餐处",
+          "poiId": "B0LR7HI73H",
+          "address": "海口路291号",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            120.474007,
+            36.093745
+          ],
+          "entrance": [
+            120.473859,
+            36.093737
+          ],
+          "url": "https://ditu.amap.com/place/B0LR7HI73H",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "八大关风景区",
+          "poiId": "B0214024B4",
+          "coordinate": [
+            120.350903,
+            36.053625
+          ],
+          "address": "武胜关支路10号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "reason": "旧记录的POI不匹配目标名称；本次不限定类别搜索未将它作为目标本体返回，撤销该到达锚点。"
+        }
+      ],
+      "routeCoordinate": [
+        120.462975,
+        36.089419
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "海之恋公园",
+      "placeKey": "qingdao:haizhilian_park",
+      "experienceKey": "qingdao:haizhilian_park:coastal_boardwalk",
+      "searchKeyword": "海之恋Park",
+      "status": "candidate-selected",
+      "selectionMethod": "manually-reviewed-exact-POI-id-name-type-and-address",
+      "poiId": "B0HGKRJIIT",
+      "address": "东海东路与海兴路交叉口",
+      "type": "风景名胜;公园广场;公园",
+      "coordinate": [
+        120.434592,
+        36.065361
+      ],
+      "entrance": [
+        120.43403,
+        36.065886
+      ],
+      "url": "https://ditu.amap.com/place/B0HGKRJIIT",
+      "candidates": [
+        {
+          "name": "海之恋Park",
+          "poiId": "B0HGKRJIIT",
+          "address": "东海东路与海兴路交叉口",
+          "type": "风景名胜;公园广场;公园",
+          "coordinate": [
+            120.434592,
+            36.065361
+          ],
+          "entrance": [
+            120.43403,
+            36.065886
+          ],
+          "url": "https://ditu.amap.com/place/B0HGKRJIIT"
+        },
+        {
+          "name": "海之恋Park地面停车场(入口)",
+          "poiId": "B0M64CJ23M",
+          "address": "海之恋Park地面停车场",
+          "type": "交通设施服务;停车场;停车场入口",
+          "coordinate": [
+            120.4321,
+            36.06414
+          ],
+          "entrance": [
+            120.4321,
+            36.06414
+          ],
+          "url": "https://ditu.amap.com/place/B0M64CJ23M"
+        },
+        {
+          "name": "海之恋公园-花世界",
+          "poiId": "B0L3X11UOL",
+          "address": "海之恋Park",
+          "type": "风景名胜;公园广场;植物园",
+          "coordinate": [
+            120.434625,
+            36.065325
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0L3X11UOL"
+        },
+        {
+          "name": "海之恋Park地面停车场",
+          "poiId": "B0M64CJPWG",
+          "address": "东海东路与海兴路交叉口西南240米",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            120.432648,
+            36.064325
+          ],
+          "entrance": [
+            120.4321,
+            36.06414
+          ],
+          "url": "https://ditu.amap.com/place/B0M64CJPWG"
+        },
+        {
+          "name": "海之恋Park地面停车场(出口)",
+          "poiId": "B0M64CJ23N",
+          "address": "海之恋Park地面停车场",
+          "type": "交通设施服务;停车场;停车场出口",
+          "coordinate": [
+            120.43291,
+            36.064923
+          ],
+          "entrance": [
+            120.432901,
+            36.064984
+          ],
+          "url": "https://ditu.amap.com/place/B0M64CJ23N"
+        },
+        {
+          "name": "海之恋泳装超市(青岛汇泉商业广场店)",
+          "poiId": "B021406TKW",
+          "address": "八大关街道文登路1号青岛汇泉商业广场F1层",
+          "type": "购物服务;服装鞋帽皮具店;服装鞋帽皮具店",
+          "coordinate": [
+            120.342048,
+            36.058465
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B021406TKW"
+        },
+        {
+          "name": "海之恋东停车场",
+          "poiId": "B0L1BHZ2IV",
+          "address": "东海东路52号海之恋公园东侧(与海游路交叉口西50米)",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            120.435692,
+            36.066905
+          ],
+          "entrance": [
+            120.435719,
+            36.06708
+          ],
+          "url": "https://ditu.amap.com/place/B0L1BHZ2IV"
+        },
+        {
+          "name": "海之恋海景民宿(青岛火车站栈桥店)",
+          "poiId": "B0J0VDLWQE",
+          "address": "中山路10号1117户(青岛站地铁站G口步行260米)",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            120.318463,
+            36.064368
+          ],
+          "entrance": [
+            120.318199,
+            36.064271
+          ],
+          "url": "https://ditu.amap.com/place/B0J0VDLWQE"
+        },
+        {
+          "name": "花神海(海之恋店)COFFEE",
+          "poiId": "B0JUDSTBHR",
+          "address": "东海东路与海兴路交叉口西南240米",
+          "type": "餐饮服务;咖啡厅;咖啡厅",
+          "coordinate": [
+            120.43286,
+            36.06424
+          ],
+          "entrance": [
+            120.432669,
+            36.064401
+          ],
+          "url": "https://ditu.amap.com/place/B0JUDSTBHR"
+        },
+        {
+          "name": "青岛海之恋国际旅行社(五四广场店)",
+          "poiId": "B0FFM6HHZX",
+          "address": "香港中路18号福泰广场B座101号",
+          "type": "生活服务;旅行社;旅行社",
+          "coordinate": [
+            120.385095,
+            36.065673
+          ],
+          "entrance": [
+            120.385199,
+            36.065853
+          ],
+          "url": "https://ditu.amap.com/place/B0FFM6HHZX"
+        },
+        {
+          "name": "青岛海之恋商务酒店(开发区石油大学店)",
+          "poiId": "B0J2L5Z2QC",
+          "address": "太行山路443号",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.17744,
+            35.95991
+          ],
+          "entrance": [
+            120.176867,
+            35.95987
+          ],
+          "url": "https://ditu.amap.com/place/B0J2L5Z2QC"
+        },
+        {
+          "name": "海之恋口腔",
+          "poiId": "B0J35DUKAD",
+          "address": "香港中路10号颐和国际二楼207",
+          "type": "医疗保健服务;专科医院;口腔医院",
+          "coordinate": [
+            120.38204,
+            36.064377
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0J35DUKAD"
+        }
+      ],
+      "poiName": "海之恋Park",
+      "selectionNote": "匹配东海东路与海兴路交叉口的公园本体；原花世界POI属于同园子项，改用公园本体及其真实入口字段。",
+      "reviewedAt": "2026-10-13T05:59:49.778Z",
+      "candidateQueries": [
+        {
+          "keyword": "海之恋Park",
+          "status": "complete",
+          "info": "OK",
+          "candidateCount": 12
+        }
+      ],
+      "previousSelection": {
+        "name": "海之恋公园-花世界",
+        "poiId": "B0L3X11UOL",
+        "coordinate": [
+          120.434625,
+          36.065325
+        ],
+        "address": "海之恋Park",
+        "type": "风景名胜;公园广场;植物园"
+      },
+      "rejectedCandidates": [
+        {
+          "name": "海之恋Park地面停车场(入口)",
+          "poiId": "B0M64CJ23M",
+          "address": "海之恋Park地面停车场",
+          "type": "交通设施服务;停车场;停车场入口",
+          "coordinate": [
+            120.4321,
+            36.06414
+          ],
+          "entrance": [
+            120.4321,
+            36.06414
+          ],
+          "url": "https://ditu.amap.com/place/B0M64CJ23M",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "海之恋公园-花世界",
+          "poiId": "B0L3X11UOL",
+          "coordinate": [
+            120.434625,
+            36.065325
+          ],
+          "address": "海之恋Park",
+          "type": "风景名胜;公园广场;植物园",
+          "reason": "海之恋Park园内子项，已取得公园本体POI，优先使用本体。"
+        },
+        {
+          "name": "海之恋Park地面停车场",
+          "poiId": "B0M64CJPWG",
+          "address": "东海东路与海兴路交叉口西南240米",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            120.432648,
+            36.064325
+          ],
+          "entrance": [
+            120.4321,
+            36.06414
+          ],
+          "url": "https://ditu.amap.com/place/B0M64CJPWG",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "海之恋Park地面停车场(出口)",
+          "poiId": "B0M64CJ23N",
+          "address": "海之恋Park地面停车场",
+          "type": "交通设施服务;停车场;停车场出口",
+          "coordinate": [
+            120.43291,
+            36.064923
+          ],
+          "entrance": [
+            120.432901,
+            36.064984
+          ],
+          "url": "https://ditu.amap.com/place/B0M64CJ23N",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "海之恋泳装超市(青岛汇泉商业广场店)",
+          "poiId": "B021406TKW",
+          "address": "八大关街道文登路1号青岛汇泉商业广场F1层",
+          "type": "购物服务;服装鞋帽皮具店;服装鞋帽皮具店",
+          "coordinate": [
+            120.342048,
+            36.058465
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B021406TKW",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "海之恋东停车场",
+          "poiId": "B0L1BHZ2IV",
+          "address": "东海东路52号海之恋公园东侧(与海游路交叉口西50米)",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            120.435692,
+            36.066905
+          ],
+          "entrance": [
+            120.435719,
+            36.06708
+          ],
+          "url": "https://ditu.amap.com/place/B0L1BHZ2IV",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "海之恋海景民宿(青岛火车站栈桥店)",
+          "poiId": "B0J0VDLWQE",
+          "address": "中山路10号1117户(青岛站地铁站G口步行260米)",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            120.318463,
+            36.064368
+          ],
+          "entrance": [
+            120.318199,
+            36.064271
+          ],
+          "url": "https://ditu.amap.com/place/B0J0VDLWQE",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "花神海(海之恋店)COFFEE",
+          "poiId": "B0JUDSTBHR",
+          "address": "东海东路与海兴路交叉口西南240米",
+          "type": "餐饮服务;咖啡厅;咖啡厅",
+          "coordinate": [
+            120.43286,
+            36.06424
+          ],
+          "entrance": [
+            120.432669,
+            36.064401
+          ],
+          "url": "https://ditu.amap.com/place/B0JUDSTBHR",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "青岛海之恋国际旅行社(五四广场店)",
+          "poiId": "B0FFM6HHZX",
+          "address": "香港中路18号福泰广场B座101号",
+          "type": "生活服务;旅行社;旅行社",
+          "coordinate": [
+            120.385095,
+            36.065673
+          ],
+          "entrance": [
+            120.385199,
+            36.065853
+          ],
+          "url": "https://ditu.amap.com/place/B0FFM6HHZX",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "青岛海之恋商务酒店(开发区石油大学店)",
+          "poiId": "B0J2L5Z2QC",
+          "address": "太行山路443号",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.17744,
+            35.95991
+          ],
+          "entrance": [
+            120.176867,
+            35.95987
+          ],
+          "url": "https://ditu.amap.com/place/B0J2L5Z2QC",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "海之恋口腔",
+          "poiId": "B0J35DUKAD",
+          "address": "香港中路10号颐和国际二楼207",
+          "type": "医疗保健服务;专科医院;口腔医院",
+          "coordinate": [
+            120.38204,
+            36.064377
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0J35DUKAD",
+          "reason": "医疗或诊所POI，不是近日楼本体；名称里的“近日楼馆”不能证明本体身份。"
+        }
+      ],
+      "routeCoordinate": [
+        120.43403,
+        36.065886
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "小麦岛旁侧（未上岛）",
+      "placeKey": "qingdao:xiaomai_island",
+      "experienceKey": "qingdao:xiaomai_island:adjacent_coast_not_on_island",
+      "searchKeyword": "小麦岛旁侧",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0M1451CI3",
+      "address": "麦岛路与麦屿路交叉口东南60米",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "coordinate": [
+        120.429673,
+        36.058451
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0M1451CI3",
+      "candidates": [
+        {
+          "name": "小麦岛沙滩",
+          "poiId": "B0M1451CI3",
+          "address": "麦岛路与麦屿路交叉口东南60米",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.429673,
+            36.058451
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0M1451CI3"
+        },
+        {
+          "name": "小麦岛公园",
+          "poiId": "B0FFK8OQLY",
+          "address": "中韩街道麦岛",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.431045,
+            36.054245
+          ],
+          "entrance": [
+            120.429384,
+            36.058932
+          ],
+          "url": "https://ditu.amap.com/place/B0FFK8OQLY"
+        },
+        {
+          "name": "小麦岛游船码头",
+          "poiId": "B0MAD7J1UK",
+          "address": "香港东路6号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.429645,
+            36.054891
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0MAD7J1UK"
+        },
+        {
+          "name": "小麦岛海鲜烧烤排档",
+          "poiId": "B0MUNO3SXL",
+          "address": "银海三路与东海中路交叉口南160米",
+          "type": "餐饮服务;中餐厅;海鲜酒楼",
+          "coordinate": [
+            120.42621,
+            36.057399
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0MUNO3SXL"
+        },
+        {
+          "name": "青岛小麦岛旅居中心",
+          "poiId": "B0KAF7N668",
+          "address": "宁夏路319号(麦岛地铁站A口步行240米)",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            120.420249,
+            36.067652
+          ],
+          "entrance": [
+            120.420324,
+            36.067568
+          ],
+          "url": "https://ditu.amap.com/place/B0KAF7N668"
+        },
+        {
+          "name": "青岛五四广场小麦岛海景亚朵酒店",
+          "poiId": "B0JGKAT7H8",
+          "address": "东海中路30号(银海大世界院内)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.425393,
+            36.058223
+          ],
+          "entrance": [
+            120.425457,
+            36.058065
+          ],
+          "url": "https://ditu.amap.com/place/B0JGKAT7H8"
+        }
+      ],
+      "poiName": "小麦岛沙滩",
+      "routeCoordinate": [
+        120.429673,
+        36.058451
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "八大关",
+      "placeKey": "qingdao:badaguan",
+      "experienceKey": "qingdao:badaguan:architecture_walk",
+      "searchKeyword": "八大关",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0214024B4",
+      "address": "武胜关支路10号",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "coordinate": [
+        120.350903,
+        36.053625
+      ],
+      "entrance": [
+        120.35624,
+        36.053169
+      ],
+      "url": "https://ditu.amap.com/place/B0214024B4",
+      "candidates": [
+        {
+          "name": "八大关风景区",
+          "poiId": "B0214024B4",
+          "address": "武胜关支路10号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.350903,
+            36.053625
+          ],
+          "entrance": [
+            120.35624,
+            36.053169
+          ],
+          "url": "https://ditu.amap.com/place/B0214024B4"
+        },
+        {
+          "name": "八大关风景区-公主楼",
+          "poiId": "B02140A255",
+          "address": "八大关街道南区居庸关路10号八大关风景区内",
+          "type": "风景名胜;风景名胜;观景点",
+          "coordinate": [
+            120.349532,
+            36.052506
+          ],
+          "entrance": [
+            120.347733,
+            36.050671
+          ],
+          "url": "https://ditu.amap.com/place/B02140A255"
+        },
+        {
+          "name": "八大关风景区-镜湖",
+          "poiId": "B0K047Q8JK",
+          "address": "武胜关支路10号八大关风景区(东南角)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.352489,
+            36.052115
+          ],
+          "entrance": [
+            120.352428,
+            36.052059
+          ],
+          "url": "https://ditu.amap.com/place/B0K047Q8JK"
+        },
+        {
+          "name": "八大关人工湖",
+          "poiId": "B0HR0KKK2D",
+          "address": "武胜关支路10号八大关风景区",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.352617,
+            36.052873
+          ],
+          "entrance": [
+            120.352619,
+            36.052819
+          ],
+          "url": "https://ditu.amap.com/place/B0HR0KKK2D"
+        },
+        {
+          "name": "八大关宾馆",
+          "poiId": "B0214019EF",
+          "address": "山海关路19号",
+          "type": "住宿服务;宾馆酒店;四星级宾馆",
+          "coordinate": [
+            120.346871,
+            36.050617
+          ],
+          "entrance": [
+            120.347613,
+            36.05061
+          ],
+          "url": "https://ditu.amap.com/place/B0214019EF"
+        },
+        {
+          "name": "青岛市八大关景区管理处",
+          "poiId": "B0FFFTCA55",
+          "address": "武胜关支路10号八大关风景区内(北侧)",
+          "type": "政府机构及社会团体;社会团体;社会团体相关",
+          "coordinate": [
+            120.351453,
+            36.056789
+          ],
+          "entrance": [
+            120.35179,
+            36.056624
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFTCA55"
+        }
+      ],
+      "poiName": "八大关风景区",
+      "routeCoordinate": [
+        120.35624,
+        36.053169
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "汇泉路",
+      "placeKey": "qingdao:huiquan_road",
+      "experienceKey": "qingdao:huiquan_road:sunset_cafe_walk",
+      "searchKeyword": "汇泉路",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "BZC1QR00OL",
+      "address": "市南区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        120.345638,
+        36.049787
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/BZC1QR00OL",
+      "candidates": [
+        {
+          "name": "汇泉路",
+          "poiId": "BZC1QR00OL",
+          "address": "市南区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            120.345638,
+            36.049787
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BZC1QR00OL"
+        },
+        {
+          "name": "山海关路与汇泉路交叉口",
+          "poiId": "B0FFGGN4QO",
+          "address": "市南区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            120.345604,
+            36.049644
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGGN4QO"
+        },
+        {
+          "name": "南海路与汇泉路交叉口",
+          "poiId": "B0FFHPFY1H",
+          "address": "市南区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            120.34621,
+            36.053438
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFHPFY1H"
+        },
+        {
+          "name": "汇泉路与正阳关路交叉口",
+          "poiId": "B0M2AKW8A9",
+          "address": "市南区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            120.346808,
+            36.053416
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0M2AKW8A9"
+        },
+        {
+          "name": "正阳关路与汇泉路交叉口",
+          "poiId": "B0FFHPJ3I4",
+          "address": "市南区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            120.34621,
+            36.053438
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFHPJ3I4"
+        },
+        {
+          "name": "正阳关路汇泉路(公交站)",
+          "poiId": "BV11314661",
+          "address": "(停运)旅游1路;(停运)暑期免费公交专线;219路;468路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            120.347076,
+            36.053448
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV11314661"
+        }
+      ],
+      "poiName": "汇泉路",
+      "routeCoordinate": [
+        120.345638,
+        36.049787
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    }
+  ],
+  "segments": [
+    {
+      "from": "石老人海浴场",
+      "to": "海之恋公园",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 3123,
+          "distance": 3904,
+          "steps": [
+            {
+              "road": "海口路",
+              "instruction": "沿海口路向西步行196米向左前方行走",
+              "time": 157,
+              "distance": 196,
+              "nodes": [
+                [
+                  120.462986,
+                  36.089427
+                ],
+                [
+                  120.462938,
+                  36.089475
+                ],
+                [
+                  120.462938,
+                  36.089475
+                ],
+                [
+                  120.461927,
+                  36.089158
+                ],
+                [
+                  120.461927,
+                  36.089158
+                ],
+                [
+                  120.460968,
+                  36.08885
+                ]
+              ]
+            },
+            {
+              "road": "海口路",
+              "instruction": "沿海口路步行35米左转",
+              "time": 28,
+              "distance": 35,
+              "nodes": [
+                [
+                  120.460964,
+                  36.088845
+                ],
+                [
+                  120.460877,
+                  36.088733
+                ],
+                [
+                  120.460877,
+                  36.088733
+                ],
+                [
+                  120.460816,
+                  36.088559
+                ]
+              ]
+            },
+            {
+              "road": "东海东路",
+              "instruction": "沿东海东路向西南步行2594米向左前方行走",
+              "time": 2075,
+              "distance": 2594,
+              "nodes": [
+                [
+                  120.460812,
+                  36.088555
+                ],
+                [
+                  120.460881,
+                  36.088012
+                ],
+                [
+                  120.460881,
+                  36.088012
+                ],
+                [
+                  120.46089,
+                  36.087951
+                ],
+                [
+                  120.46089,
+                  36.087951
+                ],
+                [
+                  120.460929,
+                  36.087682
+                ],
+                [
+                  120.460929,
+                  36.087682
+                ],
+                [
+                  120.460994,
+                  36.087179
+                ],
+                [
+                  120.460994,
+                  36.087179
+                ],
+                [
+                  120.461016,
+                  36.086953
+                ],
+                [
+                  120.461003,
+                  36.086727
+                ],
+                [
+                  120.461003,
+                  36.086727
+                ],
+                [
+                  120.46099,
+                  36.086684
+                ],
+                [
+                  120.46099,
+                  36.086684
+                ],
+                [
+                  120.460968,
+                  36.086554
+                ],
+                [
+                  120.460968,
+                  36.086554
+                ],
+                [
+                  120.46089,
+                  36.086315
+                ],
+                [
+                  120.460816,
+                  36.086168
+                ],
+                [
+                  120.460694,
+                  36.085998
+                ],
+                [
+                  120.460495,
+                  36.085773
+                ],
+                [
+                  120.460495,
+                  36.085773
+                ],
+                [
+                  120.460451,
+                  36.085734
+                ],
+                [
+                  120.460451,
+                  36.085734
+                ],
+                [
+                  120.459141,
+                  36.084635
+                ],
+                [
+                  120.459141,
+                  36.084635
+                ],
+                [
+                  120.458481,
+                  36.08408
+                ],
+                [
+                  120.458481,
+                  36.08408
+                ],
+                [
+                  120.458416,
+                  36.084032
+                ],
+                [
+                  120.458416,
+                  36.084032
+                ],
+                [
+                  120.458368,
+                  36.083989
+                ],
+                [
+                  120.458368,
+                  36.083989
+                ],
+                [
+                  120.457782,
+                  36.083503
+                ],
+                [
+                  120.457782,
+                  36.083503
+                ],
+                [
+                  120.456771,
+                  36.082665
+                ],
+                [
+                  120.456771,
+                  36.082665
+                ],
+                [
+                  120.456576,
+                  36.082509
+                ],
+                [
+                  120.456576,
+                  36.082509
+                ],
+                [
+                  120.456285,
+                  36.08227
+                ],
+                [
+                  120.456285,
+                  36.08227
+                ],
+                [
+                  120.455951,
+                  36.081979
+                ],
+                [
+                  120.455951,
+                  36.081979
+                ],
+                [
+                  120.455382,
+                  36.081497
+                ],
+                [
+                  120.455052,
+                  36.081189
+                ],
+                [
+                  120.454844,
+                  36.080977
+                ],
+                [
+                  120.454575,
+                  36.080668
+                ],
+                [
+                  120.454345,
+                  36.08036
+                ],
+                [
+                  120.454345,
+                  36.08036
+                ],
+                [
+                  120.45428,
+                  36.080278
+                ],
+                [
+                  120.45428,
+                  36.080278
+                ],
+                [
+                  120.454188,
+                  36.080156
+                ],
+                [
+                  120.454188,
+                  36.080156
+                ],
+                [
+                  120.454102,
+                  36.080043
+                ],
+                [
+                  120.453885,
+                  36.079748
+                ],
+                [
+                  120.453885,
+                  36.079748
+                ],
+                [
+                  120.453411,
+                  36.079102
+                ],
+                [
+                  120.453181,
+                  36.078789
+                ],
+                [
+                  120.453181,
+                  36.078789
+                ],
+                [
+                  120.452977,
+                  36.078516
+                ],
+                [
+                  120.452977,
+                  36.078516
+                ],
+                [
+                  120.452656,
+                  36.078069
+                ],
+                [
+                  120.452656,
+                  36.078069
+                ],
+                [
+                  120.452387,
+                  36.077747
+                ],
+                [
+                  120.452118,
+                  36.077457
+                ],
+                [
+                  120.452118,
+                  36.077457
+                ],
+                [
+                  120.451771,
+                  36.07714
+                ],
+                [
+                  120.451771,
+                  36.07714
+                ],
+                [
+                  120.451749,
+                  36.077114
+                ],
+                [
+                  120.451749,
+                  36.077114
+                ],
+                [
+                  120.45135,
+                  36.076814
+                ],
+                [
+                  120.451024,
+                  36.076593
+                ],
+                [
+                  120.450703,
+                  36.076406
+                ],
+                [
+                  120.449644,
+                  36.075846
+                ],
+                [
+                  120.449644,
+                  36.075846
+                ],
+                [
+                  120.449497,
+                  36.075773
+                ],
+                [
+                  120.449497,
+                  36.075773
+                ],
+                [
+                  120.449006,
+                  36.075521
+                ],
+                [
+                  120.449006,
+                  36.075521
+                ],
+                [
+                  120.448381,
+                  36.075182
+                ],
+                [
+                  120.448138,
+                  36.075026
+                ],
+                [
+                  120.447947,
+                  36.074878
+                ],
+                [
+                  120.447747,
+                  36.074688
+                ],
+                [
+                  120.447609,
+                  36.07454
+                ],
+                [
+                  120.447609,
+                  36.07454
+                ],
+                [
+                  120.447457,
+                  36.074345
+                ],
+                [
+                  120.447309,
+                  36.074115
+                ],
+                [
+                  120.447309,
+                  36.074115
+                ],
+                [
+                  120.446997,
+                  36.073598
+                ],
+                [
+                  120.446997,
+                  36.073598
+                ],
+                [
+                  120.446658,
+                  36.07303
+                ],
+                [
+                  120.446658,
+                  36.07303
+                ],
+                [
+                  120.446207,
+                  36.072287
+                ],
+                [
+                  120.446207,
+                  36.072287
+                ],
+                [
+                  120.446168,
+                  36.072227
+                ],
+                [
+                  120.446168,
+                  36.072227
+                ],
+                [
+                  120.445777,
+                  36.071593
+                ],
+                [
+                  120.445777,
+                  36.071593
+                ],
+                [
+                  120.445673,
+                  36.071463
+                ],
+                [
+                  120.445573,
+                  36.071385
+                ],
+                [
+                  120.445573,
+                  36.071385
+                ],
+                [
+                  120.445417,
+                  36.07128
+                ],
+                [
+                  120.445213,
+                  36.071189
+                ],
+                [
+                  120.445213,
+                  36.071189
+                ],
+                [
+                  120.445104,
+                  36.071159
+                ],
+                [
+                  120.445,
+                  36.07115
+                ],
+                [
+                  120.444787,
+                  36.071137
+                ],
+                [
+                  120.444653,
+                  36.071137
+                ],
+                [
+                  120.444431,
+                  36.071185
+                ],
+                [
+                  120.444128,
+                  36.071311
+                ],
+                [
+                  120.444128,
+                  36.071311
+                ],
+                [
+                  120.443819,
+                  36.07148
+                ]
+              ]
+            },
+            {
+              "road": "东海东路",
+              "instruction": "沿东海东路向西南步行1079米到达目的地",
+              "time": 863,
+              "distance": 1079,
+              "nodes": [
+                [
+                  120.443815,
+                  36.07148
+                ],
+                [
+                  120.443403,
+                  36.071476
+                ],
+                [
+                  120.44322,
+                  36.071454
+                ],
+                [
+                  120.443082,
+                  36.071415
+                ],
+                [
+                  120.443082,
+                  36.071415
+                ],
+                [
+                  120.443008,
+                  36.071385
+                ],
+                [
+                  120.443008,
+                  36.071385
+                ],
+                [
+                  120.442856,
+                  36.071298
+                ],
+                [
+                  120.442856,
+                  36.071298
+                ],
+                [
+                  120.442595,
+                  36.071155
+                ],
+                [
+                  120.442595,
+                  36.071155
+                ],
+                [
+                  120.442188,
+                  36.070911
+                ],
+                [
+                  120.442188,
+                  36.070911
+                ],
+                [
+                  120.441975,
+                  36.07079
+                ],
+                [
+                  120.441975,
+                  36.07079
+                ],
+                [
+                  120.44191,
+                  36.070751
+                ],
+                [
+                  120.44191,
+                  36.070751
+                ],
+                [
+                  120.441727,
+                  36.070651
+                ],
+                [
+                  120.441727,
+                  36.070651
+                ],
+                [
+                  120.441636,
+                  36.070595
+                ],
+                [
+                  120.441636,
+                  36.070595
+                ],
+                [
+                  120.441029,
+                  36.070243
+                ],
+                [
+                  120.441029,
+                  36.070243
+                ],
+                [
+                  120.440278,
+                  36.069796
+                ],
+                [
+                  120.440278,
+                  36.069796
+                ],
+                [
+                  120.439175,
+                  36.069162
+                ],
+                [
+                  120.439175,
+                  36.069162
+                ],
+                [
+                  120.439149,
+                  36.069149
+                ],
+                [
+                  120.439149,
+                  36.069149
+                ],
+                [
+                  120.437378,
+                  36.068116
+                ],
+                [
+                  120.436723,
+                  36.067734
+                ],
+                [
+                  120.436723,
+                  36.067734
+                ],
+                [
+                  120.436107,
+                  36.067383
+                ],
+                [
+                  120.436107,
+                  36.067383
+                ],
+                [
+                  120.435694,
+                  36.06714
+                ],
+                [
+                  120.435694,
+                  36.06714
+                ],
+                [
+                  120.435109,
+                  36.066745
+                ],
+                [
+                  120.434766,
+                  36.06648
+                ],
+                [
+                  120.434766,
+                  36.06648
+                ],
+                [
+                  120.434527,
+                  36.066293
+                ],
+                [
+                  120.434527,
+                  36.066293
+                ],
+                [
+                  120.434249,
+                  36.066068
+                ],
+                [
+                  120.434249,
+                  36.066068
+                ],
+                [
+                  120.434197,
+                  36.066024
+                ],
+                [
+                  120.434197,
+                  36.066024
+                ],
+                [
+                  120.434093,
+                  36.065937
+                ],
+                [
+                  120.434093,
+                  36.065937
+                ],
+                [
+                  120.434032,
+                  36.06589
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 1014,
+          "distance": 4223,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1228,
+          "distance": 3954,
+          "cost": 1,
+          "steps": [],
+          "segments": [
+            {
+              "time": 79,
+              "instruction": "步行80米到达海口路东海东路",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 880,
+              "instruction": "乘坐317路(海口路秦岭路--天泰体育场)途径5站到达东海东路海游路",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "317路(海口路秦岭路--天泰体育场)"
+                }
+              ]
+            },
+            {
+              "time": 269,
+              "instruction": "步行231米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "海之恋公园",
+      "to": "小麦岛旁侧（未上岛）",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 905,
+          "distance": 1131,
+          "steps": [
+            {
+              "road": "东海东路",
+              "instruction": "沿东海东路向西南步行685米左转",
+              "time": 548,
+              "distance": 685,
+              "nodes": [
+                [
+                  120.434028,
+                  36.065885
+                ],
+                [
+                  120.433698,
+                  36.065621
+                ],
+                [
+                  120.433698,
+                  36.065621
+                ],
+                [
+                  120.432878,
+                  36.064961
+                ],
+                [
+                  120.432878,
+                  36.064961
+                ],
+                [
+                  120.4326,
+                  36.064744
+                ],
+                [
+                  120.4326,
+                  36.064744
+                ],
+                [
+                  120.432209,
+                  36.064436
+                ],
+                [
+                  120.432131,
+                  36.064366
+                ],
+                [
+                  120.431966,
+                  36.06421
+                ],
+                [
+                  120.431966,
+                  36.06421
+                ],
+                [
+                  120.431836,
+                  36.064089
+                ],
+                [
+                  120.431836,
+                  36.064089
+                ],
+                [
+                  120.431111,
+                  36.06339
+                ],
+                [
+                  120.431111,
+                  36.06339
+                ],
+                [
+                  120.430864,
+                  36.063164
+                ],
+                [
+                  120.430864,
+                  36.063164
+                ],
+                [
+                  120.430751,
+                  36.06306
+                ],
+                [
+                  120.430751,
+                  36.06306
+                ],
+                [
+                  120.430243,
+                  36.062569
+                ],
+                [
+                  120.430026,
+                  36.0624
+                ],
+                [
+                  120.429605,
+                  36.062127
+                ],
+                [
+                  120.428854,
+                  36.061706
+                ],
+                [
+                  120.428854,
+                  36.061706
+                ],
+                [
+                  120.428576,
+                  36.061545
+                ]
+              ]
+            },
+            {
+              "road": "麦岛路",
+              "instruction": "沿麦岛路向南步行359米左转",
+              "time": 287,
+              "distance": 359,
+              "nodes": [
+                [
+                  120.428572,
+                  36.061541
+                ],
+                [
+                  120.428737,
+                  36.061406
+                ],
+                [
+                  120.428737,
+                  36.061406
+                ],
+                [
+                  120.428941,
+                  36.061241
+                ],
+                [
+                  120.428941,
+                  36.061241
+                ],
+                [
+                  120.429249,
+                  36.060959
+                ],
+                [
+                  120.429249,
+                  36.060959
+                ],
+                [
+                  120.429536,
+                  36.060703
+                ],
+                [
+                  120.429701,
+                  36.060538
+                ],
+                [
+                  120.429701,
+                  36.060538
+                ],
+                [
+                  120.429783,
+                  36.060412
+                ],
+                [
+                  120.429839,
+                  36.060286
+                ],
+                [
+                  120.429878,
+                  36.060135
+                ],
+                [
+                  120.4299,
+                  36.059983
+                ],
+                [
+                  120.429896,
+                  36.059822
+                ],
+                [
+                  120.429844,
+                  36.059614
+                ],
+                [
+                  120.429761,
+                  36.059436
+                ],
+                [
+                  120.429761,
+                  36.059436
+                ],
+                [
+                  120.429614,
+                  36.059227
+                ],
+                [
+                  120.429379,
+                  36.058932
+                ],
+                [
+                  120.429297,
+                  36.058876
+                ],
+                [
+                  120.429201,
+                  36.058876
+                ]
+              ]
+            },
+            {
+              "road": "麦岛路",
+              "instruction": "沿麦岛路向南步行21米",
+              "time": 17,
+              "distance": 21,
+              "nodes": [
+                [
+                  120.429197,
+                  36.058872
+                ],
+                [
+                  120.429236,
+                  36.058754
+                ],
+                [
+                  120.429236,
+                  36.058754
+                ],
+                [
+                  120.42924,
+                  36.058676
+                ]
+              ]
+            },
+            {
+              "road": "麦岛路",
+              "instruction": "沿麦岛路向东南步行42米左转",
+              "time": 34,
+              "distance": 42,
+              "nodes": [
+                [
+                  120.42924,
+                  36.058672
+                ],
+                [
+                  120.429284,
+                  36.058563
+                ],
+                [
+                  120.429418,
+                  36.05832
+                ]
+              ]
+            },
+            {
+              "road": "滨海绿道",
+              "instruction": "沿滨海绿道向东北步行24米到达目的地",
+              "time": 19,
+              "distance": 24,
+              "nodes": [
+                [
+                  120.429418,
+                  36.058316
+                ],
+                [
+                  120.429566,
+                  36.058503
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 472,
+          "distance": 1966,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1529,
+          "distance": 1602,
+          "cost": 1,
+          "steps": [],
+          "segments": [
+            {
+              "time": 269,
+              "instruction": "步行231米到达东海东路海游路",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 620,
+              "instruction": "乘坐317路(海口路秦岭路--天泰体育场)途径0站到达东海东路麦岛路",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "317路(海口路秦岭路--天泰体育场)"
+                },
+                {
+                  "name": "304路(流清河--观城路公交停车场)"
+                }
+              ]
+            },
+            {
+              "time": 640,
+              "instruction": "步行583米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "小麦岛旁侧（未上岛）",
+      "to": "八大关",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 6060,
+          "distance": 7575,
+          "steps": [
+            {
+              "road": "滨海绿道",
+              "instruction": "沿滨海绿道向西南步行24米右转",
+              "time": 19,
+              "distance": 24,
+              "nodes": [
+                [
+                  120.429566,
+                  36.058503
+                ],
+                [
+                  120.429423,
+                  36.05832
+                ]
+              ]
+            },
+            {
+              "road": "麦岛路",
+              "instruction": "沿麦岛路向北步行63米向左前方行走",
+              "time": 50,
+              "distance": 63,
+              "nodes": [
+                [
+                  120.429418,
+                  36.058316
+                ],
+                [
+                  120.429288,
+                  36.058559
+                ],
+                [
+                  120.429245,
+                  36.058672
+                ],
+                [
+                  120.429245,
+                  36.058672
+                ],
+                [
+                  120.42924,
+                  36.05875
+                ],
+                [
+                  120.42924,
+                  36.05875
+                ],
+                [
+                  120.429201,
+                  36.058872
+                ]
+              ]
+            },
+            {
+              "road": "麦屿路",
+              "instruction": "沿麦屿路向西北步行247米左转",
+              "time": 198,
+              "distance": 247,
+              "nodes": [
+                [
+                  120.429197,
+                  36.058872
+                ],
+                [
+                  120.42911,
+                  36.058919
+                ],
+                [
+                  120.429041,
+                  36.058976
+                ],
+                [
+                  120.428602,
+                  36.059405
+                ],
+                [
+                  120.428602,
+                  36.059405
+                ],
+                [
+                  120.428468,
+                  36.05954
+                ],
+                [
+                  120.428468,
+                  36.05954
+                ],
+                [
+                  120.428099,
+                  36.059922
+                ],
+                [
+                  120.428099,
+                  36.059922
+                ],
+                [
+                  120.427652,
+                  36.060334
+                ],
+                [
+                  120.427652,
+                  36.060334
+                ],
+                [
+                  120.427383,
+                  36.060564
+                ]
+              ]
+            },
+            {
+              "road": "东海中路",
+              "instruction": "沿东海中路向西步行3347米左转",
+              "time": 2678,
+              "distance": 3347,
+              "nodes": [
+                [
+                  120.427378,
+                  36.060564
+                ],
+                [
+                  120.426667,
+                  36.06
+                ],
+                [
+                  120.426667,
+                  36.06
+                ],
+                [
+                  120.426563,
+                  36.059913
+                ],
+                [
+                  120.426563,
+                  36.059913
+                ],
+                [
+                  120.426341,
+                  36.059744
+                ],
+                [
+                  120.426341,
+                  36.059744
+                ],
+                [
+                  120.426098,
+                  36.059566
+                ],
+                [
+                  120.425751,
+                  36.059379
+                ],
+                [
+                  120.425751,
+                  36.059379
+                ],
+                [
+                  120.425313,
+                  36.059201
+                ],
+                [
+                  120.424874,
+                  36.059084
+                ],
+                [
+                  120.424093,
+                  36.058976
+                ],
+                [
+                  120.424093,
+                  36.058976
+                ],
+                [
+                  120.423576,
+                  36.058911
+                ],
+                [
+                  120.423576,
+                  36.058911
+                ],
+                [
+                  120.422296,
+                  36.058763
+                ],
+                [
+                  120.422296,
+                  36.058763
+                ],
+                [
+                  120.421406,
+                  36.058646
+                ],
+                [
+                  120.421406,
+                  36.058646
+                ],
+                [
+                  120.420534,
+                  36.058537
+                ],
+                [
+                  120.420221,
+                  36.058503
+                ],
+                [
+                  120.419905,
+                  36.058494
+                ],
+                [
+                  120.419596,
+                  36.058498
+                ],
+                [
+                  120.419266,
+                  36.058537
+                ],
+                [
+                  120.418841,
+                  36.058628
+                ],
+                [
+                  120.418841,
+                  36.058628
+                ],
+                [
+                  120.416984,
+                  36.059193
+                ],
+                [
+                  120.416984,
+                  36.059193
+                ],
+                [
+                  120.416688,
+                  36.059284
+                ],
+                [
+                  120.416688,
+                  36.059284
+                ],
+                [
+                  120.415586,
+                  36.059605
+                ],
+                [
+                  120.415122,
+                  36.059679
+                ],
+                [
+                  120.414809,
+                  36.059696
+                ],
+                [
+                  120.414809,
+                  36.059696
+                ],
+                [
+                  120.414692,
+                  36.059701
+                ],
+                [
+                  120.414692,
+                  36.059701
+                ],
+                [
+                  120.414575,
+                  36.059705
+                ],
+                [
+                  120.414575,
+                  36.059705
+                ],
+                [
+                  120.41263,
+                  36.059722
+                ],
+                [
+                  120.41263,
+                  36.059722
+                ],
+                [
+                  120.412096,
+                  36.059718
+                ],
+                [
+                  120.412096,
+                  36.059718
+                ],
+                [
+                  120.411832,
+                  36.059683
+                ],
+                [
+                  120.411554,
+                  36.059614
+                ],
+                [
+                  120.411554,
+                  36.059614
+                ],
+                [
+                  120.41151,
+                  36.059601
+                ],
+                [
+                  120.41151,
+                  36.059601
+                ],
+                [
+                  120.411376,
+                  36.059549
+                ],
+                [
+                  120.411107,
+                  36.059423
+                ],
+                [
+                  120.410981,
+                  36.05934
+                ],
+                [
+                  120.410738,
+                  36.059158
+                ],
+                [
+                  120.410738,
+                  36.059158
+                ],
+                [
+                  120.410156,
+                  36.058676
+                ],
+                [
+                  120.409219,
+                  36.057886
+                ],
+                [
+                  120.40898,
+                  36.057726
+                ],
+                [
+                  120.408854,
+                  36.057656
+                ],
+                [
+                  120.408581,
+                  36.057543
+                ],
+                [
+                  120.408212,
+                  36.057435
+                ],
+                [
+                  120.40681,
+                  36.057131
+                ],
+                [
+                  120.406732,
+                  36.057114
+                ],
+                [
+                  120.406732,
+                  36.057114
+                ],
+                [
+                  120.406332,
+                  36.05704
+                ],
+                [
+                  120.406332,
+                  36.05704
+                ],
+                [
+                  120.406302,
+                  36.057036
+                ],
+                [
+                  120.406302,
+                  36.057036
+                ],
+                [
+                  120.40569,
+                  36.056992
+                ],
+                [
+                  120.405286,
+                  36.056997
+                ],
+                [
+                  120.405286,
+                  36.056997
+                ],
+                [
+                  120.404757,
+                  36.057066
+                ],
+                [
+                  120.404757,
+                  36.057066
+                ],
+                [
+                  120.40451,
+                  36.057118
+                ],
+                [
+                  120.40451,
+                  36.057118
+                ],
+                [
+                  120.40447,
+                  36.057127
+                ],
+                [
+                  120.404457,
+                  36.057131
+                ],
+                [
+                  120.404457,
+                  36.057131
+                ],
+                [
+                  120.404258,
+                  36.057174
+                ],
+                [
+                  120.404258,
+                  36.057174
+                ],
+                [
+                  120.403902,
+                  36.057292
+                ],
+                [
+                  120.403902,
+                  36.057292
+                ],
+                [
+                  120.403641,
+                  36.0574
+                ],
+                [
+                  120.403641,
+                  36.0574
+                ],
+                [
+                  120.403325,
+                  36.057552
+                ],
+                [
+                  120.403099,
+                  36.057678
+                ],
+                [
+                  120.403099,
+                  36.057678
+                ],
+                [
+                  120.40303,
+                  36.057721
+                ],
+                [
+                  120.40303,
+                  36.057721
+                ],
+                [
+                  120.402244,
+                  36.058203
+                ],
+                [
+                  120.402244,
+                  36.058203
+                ],
+                [
+                  120.40204,
+                  36.058329
+                ],
+                [
+                  120.40204,
+                  36.058329
+                ],
+                [
+                  120.401875,
+                  36.058429
+                ],
+                [
+                  120.401875,
+                  36.058429
+                ],
+                [
+                  120.401745,
+                  36.058511
+                ],
+                [
+                  120.401745,
+                  36.058511
+                ],
+                [
+                  120.401302,
+                  36.058785
+                ],
+                [
+                  120.401302,
+                  36.058785
+                ],
+                [
+                  120.400621,
+                  36.059201
+                ],
+                [
+                  120.400621,
+                  36.059201
+                ],
+                [
+                  120.400282,
+                  36.05941
+                ],
+                [
+                  120.400282,
+                  36.05941
+                ],
+                [
+                  120.400056,
+                  36.059553
+                ],
+                [
+                  120.400056,
+                  36.059553
+                ],
+                [
+                  120.399527,
+                  36.059878
+                ],
+                [
+                  120.399527,
+                  36.059878
+                ],
+                [
+                  120.398984,
+                  36.060213
+                ],
+                [
+                  120.398715,
+                  36.060356
+                ],
+                [
+                  120.398715,
+                  36.060356
+                ],
+                [
+                  120.398646,
+                  36.060382
+                ],
+                [
+                  120.398646,
+                  36.060382
+                ],
+                [
+                  120.39806,
+                  36.060612
+                ],
+                [
+                  120.39806,
+                  36.060612
+                ],
+                [
+                  120.397478,
+                  36.060898
+                ],
+                [
+                  120.397478,
+                  36.060898
+                ],
+                [
+                  120.397174,
+                  36.061081
+                ],
+                [
+                  120.396879,
+                  36.061285
+                ],
+                [
+                  120.396879,
+                  36.061285
+                ],
+                [
+                  120.396801,
+                  36.061341
+                ],
+                [
+                  120.396801,
+                  36.061341
+                ],
+                [
+                  120.396615,
+                  36.061489
+                ],
+                [
+                  120.396615,
+                  36.061489
+                ],
+                [
+                  120.396445,
+                  36.061628
+                ],
+                [
+                  120.39615,
+                  36.061918
+                ],
+                [
+                  120.39615,
+                  36.061918
+                ],
+                [
+                  120.395851,
+                  36.062287
+                ],
+                [
+                  120.395851,
+                  36.062287
+                ],
+                [
+                  120.395547,
+                  36.062682
+                ],
+                [
+                  120.395547,
+                  36.062682
+                ],
+                [
+                  120.395165,
+                  36.063216
+                ],
+                [
+                  120.395165,
+                  36.063216
+                ],
+                [
+                  120.395013,
+                  36.063442
+                ]
+              ]
+            },
+            {
+              "road": "东海西路",
+              "instruction": "沿东海西路步行2731米右转",
+              "time": 2185,
+              "distance": 2731,
+              "nodes": [
+                [
+                  120.395009,
+                  36.063442
+                ],
+                [
+                  120.394913,
+                  36.063468
+                ],
+                [
+                  120.394913,
+                  36.063468
+                ],
+                [
+                  120.394505,
+                  36.063472
+                ],
+                [
+                  120.394067,
+                  36.063503
+                ],
+                [
+                  120.393798,
+                  36.063498
+                ],
+                [
+                  120.393798,
+                  36.063498
+                ],
+                [
+                  120.393247,
+                  36.063459
+                ],
+                [
+                  120.393247,
+                  36.063459
+                ],
+                [
+                  120.391602,
+                  36.063355
+                ],
+                [
+                  120.391602,
+                  36.063355
+                ],
+                [
+                  120.39151,
+                  36.063342
+                ],
+                [
+                  120.39151,
+                  36.063342
+                ],
+                [
+                  120.390942,
+                  36.063307
+                ],
+                [
+                  120.390942,
+                  36.063307
+                ],
+                [
+                  120.390534,
+                  36.063277
+                ],
+                [
+                  120.390534,
+                  36.063277
+                ],
+                [
+                  120.390148,
+                  36.063255
+                ],
+                [
+                  120.390148,
+                  36.063255
+                ],
+                [
+                  120.389826,
+                  36.063242
+                ],
+                [
+                  120.389826,
+                  36.063242
+                ],
+                [
+                  120.389549,
+                  36.06322
+                ],
+                [
+                  120.389549,
+                  36.06322
+                ],
+                [
+                  120.388511,
+                  36.063155
+                ],
+                [
+                  120.388511,
+                  36.063155
+                ],
+                [
+                  120.388186,
+                  36.063134
+                ],
+                [
+                  120.387595,
+                  36.063095
+                ],
+                [
+                  120.387595,
+                  36.063095
+                ],
+                [
+                  120.387257,
+                  36.063073
+                ],
+                [
+                  120.387257,
+                  36.063073
+                ],
+                [
+                  120.385026,
+                  36.062908
+                ],
+                [
+                  120.385026,
+                  36.062908
+                ],
+                [
+                  120.384397,
+                  36.062856
+                ],
+                [
+                  120.384162,
+                  36.062817
+                ],
+                [
+                  120.384162,
+                  36.062817
+                ],
+                [
+                  120.383785,
+                  36.062726
+                ],
+                [
+                  120.383498,
+                  36.062626
+                ],
+                [
+                  120.382956,
+                  36.062387
+                ],
+                [
+                  120.38237,
+                  36.062114
+                ],
+                [
+                  120.38237,
+                  36.062114
+                ],
+                [
+                  120.382305,
+                  36.062083
+                ],
+                [
+                  120.382305,
+                  36.062083
+                ],
+                [
+                  120.38161,
+                  36.061771
+                ],
+                [
+                  120.38161,
+                  36.061771
+                ],
+                [
+                  120.381367,
+                  36.061671
+                ],
+                [
+                  120.381367,
+                  36.061671
+                ],
+                [
+                  120.381285,
+                  36.061632
+                ],
+                [
+                  120.381285,
+                  36.061632
+                ],
+                [
+                  120.380755,
+                  36.061398
+                ],
+                [
+                  120.380755,
+                  36.061398
+                ],
+                [
+                  120.380456,
+                  36.061272
+                ],
+                [
+                  120.380456,
+                  36.061272
+                ],
+                [
+                  120.38013,
+                  36.061124
+                ],
+                [
+                  120.38013,
+                  36.061124
+                ],
+                [
+                  120.380039,
+                  36.061081
+                ],
+                [
+                  120.380039,
+                  36.061081
+                ],
+                [
+                  120.379709,
+                  36.060938
+                ],
+                [
+                  120.379709,
+                  36.060938
+                ],
+                [
+                  120.379392,
+                  36.060799
+                ],
+                [
+                  120.379392,
+                  36.060799
+                ],
+                [
+                  120.379175,
+                  36.060694
+                ],
+                [
+                  120.379175,
+                  36.060694
+                ],
+                [
+                  120.378867,
+                  36.060556
+                ],
+                [
+                  120.378867,
+                  36.060556
+                ],
+                [
+                  120.3776,
+                  36.059996
+                ],
+                [
+                  120.3776,
+                  36.059996
+                ],
+                [
+                  120.376458,
+                  36.059479
+                ],
+                [
+                  120.376458,
+                  36.059479
+                ],
+                [
+                  120.375998,
+                  36.059249
+                ],
+                [
+                  120.375998,
+                  36.059249
+                ],
+                [
+                  120.375447,
+                  36.058958
+                ],
+                [
+                  120.375447,
+                  36.058958
+                ],
+                [
+                  120.375369,
+                  36.058919
+                ],
+                [
+                  120.375369,
+                  36.058919
+                ],
+                [
+                  120.375221,
+                  36.058837
+                ],
+                [
+                  120.375221,
+                  36.058837
+                ],
+                [
+                  120.374358,
+                  36.058377
+                ],
+                [
+                  120.374358,
+                  36.058377
+                ],
+                [
+                  120.373611,
+                  36.057973
+                ],
+                [
+                  120.373611,
+                  36.057973
+                ],
+                [
+                  120.372661,
+                  36.057457
+                ],
+                [
+                  120.372661,
+                  36.057457
+                ],
+                [
+                  120.372092,
+                  36.057153
+                ],
+                [
+                  120.372092,
+                  36.057153
+                ],
+                [
+                  120.372062,
+                  36.057131
+                ],
+                [
+                  120.372023,
+                  36.057109
+                ],
+                [
+                  120.372023,
+                  36.057109
+                ],
+                [
+                  120.371866,
+                  36.057031
+                ],
+                [
+                  120.371866,
+                  36.057031
+                ],
+                [
+                  120.371662,
+                  36.056918
+                ],
+                [
+                  120.371662,
+                  36.056918
+                ],
+                [
+                  120.371141,
+                  36.056632
+                ],
+                [
+                  120.371141,
+                  36.056632
+                ],
+                [
+                  120.370712,
+                  36.056398
+                ],
+                [
+                  120.370712,
+                  36.056398
+                ],
+                [
+                  120.370365,
+                  36.056202
+                ],
+                [
+                  120.370365,
+                  36.056202
+                ],
+                [
+                  120.369839,
+                  36.05592
+                ],
+                [
+                  120.369839,
+                  36.05592
+                ],
+                [
+                  120.369687,
+                  36.055838
+                ],
+                [
+                  120.369687,
+                  36.055838
+                ],
+                [
+                  120.367734,
+                  36.054766
+                ],
+                [
+                  120.367734,
+                  36.054766
+                ],
+                [
+                  120.367617,
+                  36.054705
+                ],
+                [
+                  120.367617,
+                  36.054705
+                ],
+                [
+                  120.367422,
+                  36.054588
+                ],
+                [
+                  120.367422,
+                  36.054588
+                ],
+                [
+                  120.367322,
+                  36.054566
+                ]
+              ]
+            },
+            {
+              "road": "太平角六路",
+              "instruction": "沿太平角六路向西北步行160米左转",
+              "time": 128,
+              "distance": 160,
+              "nodes": [
+                [
+                  120.367318,
+                  36.054562
+                ],
+                [
+                  120.366753,
+                  36.055143
+                ],
+                [
+                  120.366753,
+                  36.055143
+                ],
+                [
+                  120.366506,
+                  36.055417
+                ],
+                [
+                  120.366506,
+                  36.055417
+                ],
+                [
+                  120.366233,
+                  36.055716
+                ]
+              ]
+            },
+            {
+              "road": "香港西路",
+              "instruction": "沿香港西路向西步行956米左转",
+              "time": 765,
+              "distance": 956,
+              "nodes": [
+                [
+                  120.366228,
+                  36.055716
+                ],
+                [
+                  120.366211,
+                  36.055707
+                ],
+                [
+                  120.365855,
+                  36.055521
+                ],
+                [
+                  120.36549,
+                  36.055365
+                ],
+                [
+                  120.36549,
+                  36.055365
+                ],
+                [
+                  120.365087,
+                  36.055195
+                ],
+                [
+                  120.365087,
+                  36.055195
+                ],
+                [
+                  120.364813,
+                  36.055087
+                ],
+                [
+                  120.364813,
+                  36.055087
+                ],
+                [
+                  120.364375,
+                  36.054909
+                ],
+                [
+                  120.363993,
+                  36.054792
+                ],
+                [
+                  120.363993,
+                  36.054792
+                ],
+                [
+                  120.363707,
+                  36.054748
+                ],
+                [
+                  120.362973,
+                  36.054744
+                ],
+                [
+                  120.362973,
+                  36.054744
+                ],
+                [
+                  120.361988,
+                  36.054731
+                ],
+                [
+                  120.361988,
+                  36.054731
+                ],
+                [
+                  120.361337,
+                  36.054727
+                ],
+                [
+                  120.361107,
+                  36.054692
+                ],
+                [
+                  120.360868,
+                  36.054605
+                ],
+                [
+                  120.360868,
+                  36.054605
+                ],
+                [
+                  120.360677,
+                  36.054531
+                ],
+                [
+                  120.360677,
+                  36.054531
+                ],
+                [
+                  120.360386,
+                  36.05441
+                ],
+                [
+                  120.360386,
+                  36.05441
+                ],
+                [
+                  120.359679,
+                  36.054132
+                ],
+                [
+                  120.359679,
+                  36.054132
+                ],
+                [
+                  120.359514,
+                  36.054071
+                ],
+                [
+                  120.359514,
+                  36.054071
+                ],
+                [
+                  120.359362,
+                  36.054015
+                ],
+                [
+                  120.359362,
+                  36.054015
+                ],
+                [
+                  120.358368,
+                  36.053655
+                ],
+                [
+                  120.358368,
+                  36.053655
+                ],
+                [
+                  120.357951,
+                  36.053555
+                ],
+                [
+                  120.357795,
+                  36.053533
+                ],
+                [
+                  120.357383,
+                  36.053516
+                ],
+                [
+                  120.357383,
+                  36.053516
+                ],
+                [
+                  120.357057,
+                  36.053511
+                ],
+                [
+                  120.357057,
+                  36.053511
+                ],
+                [
+                  120.356128,
+                  36.053537
+                ]
+              ]
+            },
+            {
+              "road": "太平角一路",
+              "instruction": "沿太平角一路向南步行47米左转到达目的地",
+              "time": 38,
+              "distance": 47,
+              "nodes": [
+                [
+                  120.356124,
+                  36.053537
+                ],
+                [
+                  120.356163,
+                  36.053168
+                ],
+                [
+                  120.356163,
+                  36.053168
+                ],
+                [
+                  120.356237,
+                  36.053168
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 1875,
+          "distance": 7814,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 3162,
+          "distance": 8019,
+          "cost": 3,
+          "steps": [],
+          "segments": [
+            {
+              "time": 1388,
+              "instruction": "步行1323米到达麦岛",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 750,
+              "instruction": "乘坐地铁2号线(李村公园--四川路(轮渡))途径3站到达五四广场",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "地铁2号线(李村公园--四川路(轮渡))"
+                }
+              ]
+            },
+            {
+              "time": 39,
+              "instruction": "步行2米到达五四广场",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 510,
+              "instruction": "乘坐地铁3号线(青岛北站--青岛站)途径1站到达太平角公园",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "地铁3号线(青岛北站--青岛站)"
+                }
+              ]
+            },
+            {
+              "time": 475,
+              "instruction": "步行454米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "八大关",
+      "to": "汇泉路",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 956,
+          "distance": 1195,
+          "steps": [
+            {
+              "road": "太平角一路",
+              "instruction": "沿太平角一路向南步行45米向右前方行走",
+              "time": 36,
+              "distance": 45,
+              "nodes": [
+                [
+                  120.356237,
+                  36.053164
+                ],
+                [
+                  120.356168,
+                  36.053164
+                ],
+                [
+                  120.356168,
+                  36.053164
+                ],
+                [
+                  120.35622,
+                  36.052817
+                ]
+              ]
+            },
+            {
+              "road": "黄海路",
+              "instruction": "沿黄海路步行367米右转",
+              "time": 294,
+              "distance": 367,
+              "nodes": [
+                [
+                  120.35622,
+                  36.052813
+                ],
+                [
+                  120.356172,
+                  36.052674
+                ],
+                [
+                  120.356133,
+                  36.052609
+                ],
+                [
+                  120.356133,
+                  36.052609
+                ],
+                [
+                  120.356072,
+                  36.052556
+                ],
+                [
+                  120.356072,
+                  36.052556
+                ],
+                [
+                  120.355994,
+                  36.052491
+                ],
+                [
+                  120.355994,
+                  36.052491
+                ],
+                [
+                  120.355512,
+                  36.052274
+                ],
+                [
+                  120.355512,
+                  36.052274
+                ],
+                [
+                  120.355269,
+                  36.052153
+                ],
+                [
+                  120.355269,
+                  36.052153
+                ],
+                [
+                  120.355022,
+                  36.051975
+                ],
+                [
+                  120.355022,
+                  36.051975
+                ],
+                [
+                  120.354227,
+                  36.05125
+                ],
+                [
+                  120.354227,
+                  36.05125
+                ],
+                [
+                  120.354132,
+                  36.051168
+                ],
+                [
+                  120.354132,
+                  36.051168
+                ],
+                [
+                  120.353655,
+                  36.050729
+                ],
+                [
+                  120.353655,
+                  36.050729
+                ],
+                [
+                  120.353364,
+                  36.050469
+                ]
+              ]
+            },
+            {
+              "road": "山海关路",
+              "instruction": "沿山海关路向西步行768米右转",
+              "time": 614,
+              "distance": 768,
+              "nodes": [
+                [
+                  120.353359,
+                  36.050464
+                ],
+                [
+                  120.352517,
+                  36.051111
+                ],
+                [
+                  120.35227,
+                  36.051233
+                ],
+                [
+                  120.352031,
+                  36.051289
+                ],
+                [
+                  120.352031,
+                  36.051289
+                ],
+                [
+                  120.351784,
+                  36.051311
+                ],
+                [
+                  120.351576,
+                  36.051293
+                ],
+                [
+                  120.351576,
+                  36.051293
+                ],
+                [
+                  120.350634,
+                  36.051215
+                ],
+                [
+                  120.350634,
+                  36.051215
+                ],
+                [
+                  120.349796,
+                  36.051128
+                ],
+                [
+                  120.349796,
+                  36.051128
+                ],
+                [
+                  120.349714,
+                  36.051124
+                ],
+                [
+                  120.349714,
+                  36.051124
+                ],
+                [
+                  120.348911,
+                  36.051033
+                ],
+                [
+                  120.348911,
+                  36.051033
+                ],
+                [
+                  120.348694,
+                  36.050968
+                ],
+                [
+                  120.348559,
+                  36.050894
+                ],
+                [
+                  120.348151,
+                  36.050625
+                ],
+                [
+                  120.348151,
+                  36.050625
+                ],
+                [
+                  120.347865,
+                  36.050456
+                ],
+                [
+                  120.347865,
+                  36.050456
+                ],
+                [
+                  120.347695,
+                  36.050352
+                ],
+                [
+                  120.347695,
+                  36.050352
+                ],
+                [
+                  120.347483,
+                  36.050174
+                ],
+                [
+                  120.347283,
+                  36.050061
+                ],
+                [
+                  120.346819,
+                  36.049874
+                ],
+                [
+                  120.346819,
+                  36.049874
+                ],
+                [
+                  120.346632,
+                  36.049835
+                ],
+                [
+                  120.346632,
+                  36.049835
+                ],
+                [
+                  120.346372,
+                  36.049787
+                ],
+                [
+                  120.346372,
+                  36.049787
+                ],
+                [
+                  120.346055,
+                  36.049727
+                ],
+                [
+                  120.346055,
+                  36.049727
+                ],
+                [
+                  120.345903,
+                  36.049701
+                ],
+                [
+                  120.345903,
+                  36.049701
+                ],
+                [
+                  120.345608,
+                  36.049653
+                ]
+              ]
+            },
+            {
+              "road": "汇泉路",
+              "instruction": "沿汇泉路向北步行15米到达目的地",
+              "time": 12,
+              "distance": 15,
+              "nodes": [
+                [
+                  120.345603,
+                  36.049648
+                ],
+                [
+                  120.345634,
+                  36.049783
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 661,
+          "distance": 2755,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 2122,
+          "distance": 2866,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 453,
+              "instruction": "步行454米到达香港西路武胜关路",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 654,
+              "instruction": "乘坐317路(海口路秦岭路--天泰体育场)途径0站到达中山公园武昌路",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "317路(海口路秦岭路--天泰体育场)"
+                }
+              ]
+            },
+            {
+              "time": 0,
+              "instruction": "步行1米到达中山公园武昌路",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 527,
+              "instruction": "乘坐219路(南丰路萍乡路站--南丰路萍乡路站)途径1站到达正阳关路汇泉路",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "219路(南丰路萍乡路站--南丰路萍乡路站)"
+                },
+                {
+                  "name": "468路(小西湖--小西湖1)"
+                }
+              ]
+            },
+            {
+              "time": 488,
+              "instruction": "步行449米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "geographyReviewedAt": "2026-10-13T05:59:49.778Z",
+  "geographyReviewSource": "AMap JS API 2.0 untyped PlaceSearch; manually inspected target candidates",
+  "routeQueriedAt": "2026-10-13T06:03:56.717Z"
+}

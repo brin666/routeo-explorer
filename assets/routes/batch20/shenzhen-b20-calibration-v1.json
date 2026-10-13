@@ -1,0 +1,67 @@
+{
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": [
+    1672,
+    941
+  ],
+  "source": "built-in image_gen; visually reviewed native artwork",
+  "image": "./assets/routes/batch20/shenzhen-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "燕晗山郊野公园",
+      "placeKey": "深圳::燕晗山郊野公园",
+      "x": 1371,
+      "y": 213
+    },
+    {
+      "name": "深圳湾万象城A区",
+      "placeKey": "深圳::深圳湾万象城",
+      "x": 468,
+      "y": 728
+    },
+    {
+      "name": "深圳湾文化广场",
+      "placeKey": "深圳::深圳湾文化广场",
+      "x": 219,
+      "y": 683
+    }
+  ],
+  "route": "M 1371 213 L 1400 219 L 1453 245 L 1505 269 L 1535 294 L 1547 328 L 1502 364 L 1449 388 L 1379 407 L 1325 425 L 1283 438 L 1226 452 L 1159 467 L 1087 480 L 1017 495 L 945 512 L 871 524 L 836 591 L 794 643 L 762 673 L 719 700 L 669 703 L 623 697 L 609 729 L 567 754 L 513 753 L 468 728 L 431 743 L 397 746 L 365 735 L 312 726 L 270 725 L 227 735 L 216 714 L 219 683",
+  "segmentPaths": [
+    "M 1371 213 L 1400 219 L 1453 245 L 1505 269 L 1535 294 L 1547 328 L 1502 364 L 1449 388 L 1379 407 L 1325 425 L 1283 438 L 1226 452 L 1159 467 L 1087 480 L 1017 495 L 945 512 L 871 524 L 836 591 L 794 643 L 762 673 L 719 700 L 669 703 L 623 697 L 609 729 L 567 754 L 513 753 L 468 728",
+    "M 468 728 L 431 743 L 397 746 L 365 735 L 312 726 L 270 725 L 227 735 L 216 714 L 219 683"
+  ],
+  "layoutAnchors": [
+    {
+      "name": "燕晗山郊野公园",
+      "placeKey": "深圳::燕晗山郊野公园",
+      "poiId": "B02F37TRLI",
+      "x": 1010,
+      "y": 120,
+      "landmark": "Yanhanshan woodland park: wooded low hill with footpaths, small reflecting lake and circular tree opening in architecture"
+    },
+    {
+      "name": "深圳湾万象城A区",
+      "placeKey": "深圳::深圳湾万象城",
+      "poiId": "B02F38ZQUM",
+      "x": 160,
+      "y": 506,
+      "landmark": "Shenzhen Bay MixC: contemporary low-rise retail complex with pale architectural atrium"
+    },
+    {
+      "name": "深圳湾文化广场",
+      "placeKey": "深圳::深圳湾文化广场",
+      "poiId": "B0HBKSP9FS",
+      "x": 113,
+      "y": 535,
+      "landmark": "Shenzhen Bay Culture Square: distinctive smooth curving pale sculptural cultural buildings and plazas",
+      "visualSeparation": "nearby features enlarged for readability, not a new geographic coordinate"
+    }
+  ],
+  "calibrationStatus": "manually-reviewed-illustration-roads",
+  "notes": [
+    "公园锚点在湖畔步道，万象城和文化广场在前方公众空间；两处南部建筑按成品实际位置分开。",
+    "跨城片区连接沿插画可见城市道路，属于画面动画路径，不能替代真实交通规划。"
+  ]
+}

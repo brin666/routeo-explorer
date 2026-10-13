@@ -1,0 +1,79 @@
+{
+  "city": "上海",
+  "slug": "shanghai",
+  "routeId": "shanghai-b20-city-day",
+  "collectionFolder": "10_上海",
+  "originalRouteKind": "original_author_one_day_route",
+  "generatedAt": "2026-10-13T06:50:08.093Z",
+  "landmarkPhotoCount": 3,
+  "stops": [
+    {
+      "name": "船舶大厦",
+      "photos": 0
+    },
+    {
+      "name": "东方明珠",
+      "photos": 1
+    },
+    {
+      "name": "浦东美术馆外观",
+      "photos": 1
+    },
+    {
+      "name": "落日长廊",
+      "photos": 1
+    }
+  ],
+  "routeWarnings": [
+    "陆家嘴地铁站是交通锚点，从景点stops剔除，不算独立体验。",
+    "作者所说全程2公里与15分钟只是来源说法，未核道路或入口，不作导航承诺。",
+    "落日长廊是作者称呼，照片可见带顶江边步道，正式名称和入口仍待定位。",
+    "东方明珠与浦东美术馆均只安排外观，登塔、看展和票务须另核。"
+  ],
+  "legacyOverlap": {
+    "status": "not_applicable",
+    "places": [],
+    "experienceCount": 0,
+    "reason": "本批仅对用户确认已有的真实路线作查重；其他旧mock路线不计现有。"
+  },
+  "sourceNoteIds": [
+    "69d5ec4400000000230054e8"
+  ],
+  "missing": [
+    {
+      "stop": "船舶大厦",
+      "photos": 0,
+      "items": [
+        "可逐站明确定位的独立实景照片1–3张",
+        "当日入口、通行与开放安排"
+      ],
+      "access": "本计划以公共区域外部游览为主；当日通行、店铺或单独项目开放与消费待核。"
+    },
+    {
+      "stop": "东方明珠",
+      "photos": 1,
+      "items": [
+        "当日入口、通行与开放安排"
+      ],
+      "access": "本次只看外观；登塔或入馆看展的现行门票、预约和开放另核。"
+    },
+    {
+      "stop": "浦东美术馆外观",
+      "photos": 1,
+      "items": [
+        "当日入口、通行与开放安排"
+      ],
+      "access": "本次只看外观；登塔或入馆看展的现行门票、预约和开放另核。"
+    },
+    {
+      "stop": "落日长廊",
+      "photos": 1,
+      "items": [
+        "当日入口、通行与开放安排",
+        "正式地点名称、精确入口与通行范围"
+      ],
+      "access": "本计划以公共区域外部游览为主；当日通行、店铺或单独项目开放与消费待核。"
+    }
+  ],
+  "illustrationReady": true
+}

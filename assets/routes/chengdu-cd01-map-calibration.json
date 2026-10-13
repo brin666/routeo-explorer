@@ -1,0 +1,56 @@
+{
+  "canvas": {
+    "width": 1672,
+    "height": 941
+  },
+  "markers": [
+    {
+      "name": "武侯祠",
+      "poiId": "B001C07VJ2",
+      "x": 285,
+      "y": 835,
+      "color": "#de845b",
+      "labelPlacement": "above-right"
+    },
+    {
+      "name": "人民公园",
+      "poiId": "B001C7X8QA",
+      "x": 592,
+      "y": 312,
+      "color": "#5ba98c",
+      "labelPlacement": "above-left"
+    },
+    {
+      "name": "春熙路",
+      "poiId": "B001C8RQLM",
+      "x": 1210,
+      "y": 345,
+      "color": "#6aa1c0",
+      "labelPlacement": "above-left"
+    },
+    {
+      "name": "IFS 熊猫",
+      "poiId": "B0L2RCN7OZ",
+      "x": 1370,
+      "y": 375,
+      "color": "#e0a34f",
+      "labelPlacement": "above-right"
+    },
+    {
+      "name": "太古里",
+      "poiId": "B0FFF6X49V",
+      "x": 1460,
+      "y": 518,
+      "color": "#889ab0",
+      "labelPlacement": "below-right"
+    }
+  ],
+  "paths": [
+    "M 285 835 L 289 856 C 350 877 411 875 472 849 C 507 817 533 777 558 733 L 612 653 C 651 589 684 540 715 487 C 743 443 760 406 768 369 L 775 280 C 749 251 727 233 694 224 L 656 251 C 636 273 615 299 592 312",
+    "M 592 312 C 612 306 638 281 656 251 L 694 224 C 795 211 897 209 1002 218 C 1076 232 1135 267 1173 304 L 1210 345",
+    "M 1210 345 L 1224 380 C 1243 397 1283 397 1305 383 L 1340 366 L 1370 375",
+    "M 1370 375 L 1371 411 C 1372 439 1376 457 1396 474 L 1441 490 L 1460 518"
+  ],
+  "status": "visual-draft",
+  "notes": "Markers calibrated to generated landmark entrances. The hand-painted connectors summarize the AMap corridor; they are not a metric projection of navigation nodes. Detailed restaurant branches and remaining photos await user materials."
+}

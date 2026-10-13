@@ -1,0 +1,90 @@
+{
+  "city": "长沙",
+  "slug": "changsha",
+  "image": "./assets/routes/batch20/changsha-b20-artwork-v1.webp",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "rasterSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "markers": [
+    {
+      "name": "坡子街",
+      "placeKey": "changsha_pozi_street",
+      "x": 355,
+      "y": 670
+    },
+    {
+      "name": "苏家巷",
+      "placeKey": "changsha_sujia_lane",
+      "x": 1091,
+      "y": 718
+    },
+    {
+      "name": "东茅街",
+      "placeKey": "changsha_dongmao_street",
+      "x": 1420,
+      "y": 666
+    },
+    {
+      "name": "黄兴路步行街",
+      "placeKey": "changsha_huangxing_road_pedestrian_street",
+      "x": 823,
+      "y": 743
+    },
+    {
+      "name": "轩辕殿巷",
+      "placeKey": "changsha_xuanyuandian_lane",
+      "x": 672,
+      "y": 484
+    },
+    {
+      "name": "西长街",
+      "placeKey": "changsha_xichang_street",
+      "x": 352,
+      "y": 363
+    },
+    {
+      "name": "潮宗街",
+      "placeKey": "changsha_chaozong_street",
+      "x": 653,
+      "y": 209
+    },
+    {
+      "name": "北正街",
+      "placeKey": "changsha_beizheng_street",
+      "x": 750,
+      "y": 264
+    },
+    {
+      "name": "中山亭",
+      "placeKey": "changsha_zhongshan_pavilion",
+      "x": 980,
+      "y": 343
+    }
+  ],
+  "route": "M 355 670 L 410 693 L 632 756 L 839 767 L 1058 760 L 1091 718 M 1091 718 L 1110 752 L 1184 750 L 1310 715 L 1390 690 L 1420 666 M 1420 666 L 1380 709 L 1252 746 L 1138 764 L 974 773 L 842 776 L 823 743 M 823 743 L 812 669 L 815 577 L 789 552 L 715 516 L 672 484 M 672 484 L 621 482 L 520 452 L 424 420 L 380 396 L 352 363 M 352 363 L 374 403 L 494 355 L 549 312 L 553 272 L 551 215 L 592 203 L 653 209 M 653 209 L 700 232 L 750 264 M 750 264 L 815 291 L 864 323 L 940 353 L 980 343",
+  "segmentPaths": [
+    "M 355 670 L 410 693 L 632 756 L 839 767 L 1058 760 L 1091 718",
+    "M 1091 718 L 1110 752 L 1184 750 L 1310 715 L 1390 690 L 1420 666",
+    "M 1420 666 L 1380 709 L 1252 746 L 1138 764 L 974 773 L 842 776 L 823 743",
+    "M 823 743 L 812 669 L 815 577 L 789 552 L 715 516 L 672 484",
+    "M 672 484 L 621 482 L 520 452 L 424 420 L 380 396 L 352 363",
+    "M 352 363 L 374 403 L 494 355 L 549 312 L 553 272 L 551 215 L 592 203 L 653 209",
+    "M 653 209 L 700 232 L 750 264",
+    "M 750 264 L 815 291 L 864 323 L 940 353 L 980 343"
+  ],
+  "calibrationMethod": "manual visual inspection of generated artwork; marker entrances and visible roads adjusted after generation",
+  "routeStatus": "沿成品可见道路的插画示意；非实际导航或路网查询",
+  "generatedWith": "built-in image_gen",
+  "notes": [
+    "九个选站与湘江西侧边界已目视；CMYK未绘为选站。",
+    "中山亭按原照片局部修正为低矮方形钟楼，未采用初图穹顶高塔。",
+    "街巷在插画中压缩展示，点位落于街道与入口；非实际导航。"
+  ]
+}

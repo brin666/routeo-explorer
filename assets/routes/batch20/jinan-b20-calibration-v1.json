@@ -1,0 +1,69 @@
+{
+  "city": "济南",
+  "slug": "jinan",
+  "image": "./assets/routes/batch20/jinan-b20-artwork-v1.webp",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "rasterSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "markers": [
+    {
+      "name": "五龙潭",
+      "placeKey": "jinan:wulongtan",
+      "x": 330,
+      "y": 532
+    },
+    {
+      "name": "趵突泉",
+      "placeKey": "jinan:baotu_spring",
+      "x": 371,
+      "y": 854
+    },
+    {
+      "name": "黑虎泉",
+      "placeKey": "jinan:heihu_spring",
+      "x": 1430,
+      "y": 660
+    },
+    {
+      "name": "曲水亭街",
+      "placeKey": "jinan:qushuiting_street",
+      "x": 853,
+      "y": 433
+    },
+    {
+      "name": "大明湖",
+      "placeKey": "jinan:daming_lake",
+      "x": 810,
+      "y": 290
+    },
+    {
+      "name": "超然楼外观（不含登楼）",
+      "placeKey": "jinan:chaoran_tower",
+      "x": 1377,
+      "y": 238
+    }
+  ],
+  "route": "M 330 532 L 387 551 L 420 595 L 431 638 L 428 686 L 405 749 L 405 800 L 385 838 L 371 854 M 371 854 L 424 872 L 503 802 L 542 737 L 661 758 L 779 793 L 832 812 L 887 775 L 903 735 L 924 689 L 929 650 L 926 611 L 942 575 L 992 570 L 1035 586 L 1115 622 L 1221 630 L 1350 655 L 1430 660 M 1430 660 L 1350 655 L 1221 630 L 1115 622 L 1035 586 L 992 570 L 980 552 L 970 525 L 922 510 L 884 479 L 858 452 L 853 433 M 853 433 L 829 395 L 782 366 L 769 329 L 762 283 L 810 290 M 810 290 L 931 313 L 1030 325 L 1136 322 L 1244 307 L 1320 278 L 1377 238",
+  "segmentPaths": [
+    "M 330 532 L 387 551 L 420 595 L 431 638 L 428 686 L 405 749 L 405 800 L 385 838 L 371 854",
+    "M 371 854 L 424 872 L 503 802 L 542 737 L 661 758 L 779 793 L 832 812 L 887 775 L 903 735 L 924 689 L 929 650 L 926 611 L 942 575 L 992 570 L 1035 586 L 1115 622 L 1221 630 L 1350 655 L 1430 660",
+    "M 1430 660 L 1350 655 L 1221 630 L 1115 622 L 1035 586 L 992 570 L 980 552 L 970 525 L 922 510 L 884 479 L 858 452 L 853 433",
+    "M 853 433 L 829 395 L 782 366 L 769 329 L 762 283 L 810 290",
+    "M 810 290 L 931 313 L 1030 325 L 1136 322 L 1244 307 L 1320 278 L 1377 238"
+  ],
+  "calibrationMethod": "manual visual inspection of generated artwork; marker entrances and visible roads adjusted after generation",
+  "routeStatus": "沿成品可见道路的插画示意；非实际导航或路网查询",
+  "generatedWith": "built-in image_gen",
+  "notes": [
+    "大明湖为北部大湖，五龙潭与趵突泉为西南小泉池，黑虎泉三石虎出水口在东侧护城河，曲水亭街在中部细水巷。",
+    "锚点落于泉边步道与入园入口，超然楼仅标外观入口，不暗示登楼。",
+    "湖与泉池未被路线直接穿过，护城河在可见桥接处过路；非实际导航。"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-13",
+  "city": "北京",
+  "slug": "beijing",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "coordinateSystem": "illustration-pixels",
+  "status": "visual-road-calibration",
+  "artwork": "beijing-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "天安门",
+      "placeKey": "beijing.tiananmen",
+      "x": 814,
+      "y": 716,
+      "labelPlacement": "below-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "景山公园",
+      "placeKey": "beijing.jingshan_park",
+      "x": 819,
+      "y": 334,
+      "labelPlacement": "above-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "什刹海",
+      "placeKey": "beijing.shichahai_area",
+      "x": 457,
+      "y": 347,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "雍和宫",
+      "placeKey": "beijing.yonghe_temple",
+      "x": 1434,
+      "y": 279,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    }
+  ],
+  "route": "M 814 716 L 735 716 L 624 711 L 624 627 L 630 542 L 638 441 L 650 337 L 744 333 L 819 334 M 819 334 L 744 333 L 650 337 L 625 367 L 566 365 L 504 355 L 457 347 M 457 347 L 504 355 L 566 365 L 625 367 L 650 337 L 665 257 L 684 173 L 698 122 L 800 116 L 924 106 L 956 128 L 999 189 L 1060 260 L 1120 298 L 1223 295 L 1339 286 L 1434 279",
+  "segmentPaths": [
+    "M 814 716 L 735 716 L 624 711 L 624 627 L 630 542 L 638 441 L 650 337 L 744 333 L 819 334",
+    "M 819 334 L 744 333 L 650 337 L 625 367 L 566 365 L 504 355 L 457 347",
+    "M 457 347 L 504 355 L 566 365 L 625 367 L 650 337 L 665 257 L 684 173 L 698 122 L 800 116 L 924 106 L 956 128 L 999 189 L 1060 260 L 1120 298 L 1223 295 L 1339 286 L 1434 279"
+  ],
+  "layoutAnchors": {
+    "width": 1200,
+    "height": 675,
+    "anchors": [
+      {
+        "name": "天安门",
+        "placeKey": "beijing.tiananmen",
+        "poiId": "B000A60DA1",
+        "x": 486,
+        "y": 560,
+        "landmark": "Tiananmen: red gate on south edge of Forbidden City, public square south, exterior itinerary only"
+      },
+      {
+        "name": "景山公园",
+        "placeKey": "beijing.jingshan_park",
+        "poiId": "B000A7I1OL",
+        "x": 462,
+        "y": 367,
+        "landmark": "Jingshan Park: tree-covered hill with five pavilions and central elevated pavilion immediately north of Forbidden City"
+      },
+      {
+        "name": "什刹海",
+        "placeKey": "beijing.shichahai_area",
+        "poiId": "B000A7O5PK",
+        "x": 160,
+        "y": 182,
+        "landmark": "Shichahai: irregular connected lakes and adjoining hutongs north-west, lakeside rest district"
+      },
+      {
+        "name": "雍和宫",
+        "placeKey": "beijing.yonghe_temple",
+        "poiId": "B000A7BGMG",
+        "x": 1010,
+        "y": 120,
+        "landmark": "Yonghe Temple: traditional Buddhist courtyard axis of gold and red roofs north-east"
+      }
+    ]
+  },
+  "generation": {
+    "tool": "built-in image_gen",
+    "generatedOriginal": "C:\\Users\\BL\\.codex\\generated_images\\01a1334a-17ee-7c80-968b-0fecd9e8a713\\exec-cc4103bb-35bc-4462-b387-94d7079a86a3.png",
+    "references": [
+      "beijing-b20-structure-v1.png",
+      "../guangzhou-map-illustrated-v2.png"
+    ],
+    "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 北京, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Tiananmen: red gate on south edge of Forbidden City, public square south, exterior itinerary only, at 41% from left and 83% from top; 2: Jingshan Park: tree-covered hill with five pavilions and central elevated pavilion immediately north of Forbidden City, at 39% from left and 54% from top; 3: Shichahai: irregular connected lakes and adjoining hutongs north-west, lakeside rest district, at 13% from left and 27% from top; 4: Yonghe Temple: traditional Buddhist courtyard axis of gold and red roofs north-east, at 84% from left and 18% from top.\nGeographic context: Forbidden City is a supporting central landmark between Tiananmen and Jingshan, with long narrow walled rectangular footprint and moat. Surrounding hutongs have varied irregular subdivided courtyards, not identical square repeated blocks.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.\nOutput a richly rendered landscape bitmap in exact 16:9 aspect ratio. Reference 1 controls geography; reference 2 controls rendering richness only. Treat pale draft connector strokes only as approximate geographic relationships, replace them with a believable secondary road network, and remove all route-like highlighted lines. Do not introduce water into Nanjing's mountain-forest route or add an island and river strip copied from Guangzhou. Preserve north-up orientation and each landmark's actual relative side."
+  },
+  "notes": [
+    "故宫仅作天安门与景山之间的环境地标，路线从其西侧外围道路绕行。",
+    "什刹海锚点在南岸陆地街道，路径绕湖而行；不穿水面或故宫付费场馆。"
+  ]
+}

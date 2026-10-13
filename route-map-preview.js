@@ -4,7 +4,14 @@ function escapeMapText(value) {
   })[char]);
 }
 
+export function routeCardArtwork(route) {
+  return route.storyArtwork?.image || route.map.storyImage || route.image;
+}
+
 export function RouteMapPreview(route, { story = false } = {}) {
+  if (!story) {
+    return `<img class="route-map-preview route-map-preview--card" src="${escapeMapText(routeCardArtwork(route))}" alt="${escapeMapText(route.place)}插画地图底图" loading="lazy" decoding="async" draggable="false"/>`;
+  }
   const map = route.map;
   const geometry = story ? (map.storyMap || map) : map;
   const viewId = `map-${route.id}-${story ? "story" : "card"}`;
@@ -26,7 +33,7 @@ export function RouteMapPreview(route, { story = false } = {}) {
       point.role === "start" ? "route-map__point-label-group--start" : "",
       point.role === "end" ? "route-map__point-label-group--end" : ""
     ].filter(Boolean).join(" ");
-    const labelMarkup = story ? "" : `<g class="${labelClasses}"${point.mobileHide ? ' data-mobile-hide="true"' : ""}>
+    const labelMarkup = story || point.hideCardLabel ? "" : `<g class="${labelClasses}"${point.mobileHide ? ' data-mobile-hide="true"' : ""}>
         <rect class="route-map__point-label-bg" x="${labelX}" y="${labelY}" width="${labelWidth}" height="31" rx="15.5"/>
         <text class="route-map__point-label" x="${labelX + labelWidth / 2}" y="${labelY + 20.5}" text-anchor="middle">${label}</text>
       </g>`;

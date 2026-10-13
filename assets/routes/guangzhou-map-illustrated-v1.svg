@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" fill="none">
+  <defs>
+    <linearGradient id="paper" x1="100" y1="0" x2="1450" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eee9db"/><stop offset="1" stop-color="#d9d9c9"/>
+    </linearGradient>
+    <linearGradient id="river" x1="230" y1="628" x2="1200" y2="990" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9ab4aa"/><stop offset=".5" stop-color="#7f9f98"/><stop offset="1" stop-color="#718e89"/>
+    </linearGradient>
+    <pattern id="paper-grain" width="44" height="44" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="8" r=".8" fill="#8e8c79" opacity=".2"/><circle cx="29" cy="30" r=".7" fill="#fff" opacity=".7"/>
+      <path d="M16 4h3M38 16h2M7 37h2" stroke="#a5a08e" stroke-width=".7" opacity=".13"/>
+    </pattern>
+    <pattern id="water-lines" width="118" height="74" patternUnits="userSpaceOnUse">
+      <path d="M8 16c17-5 28-5 44 0m31 28c13-4 20-4 32 0M-13 63c20-5 31-5 48 0" stroke="#e6e6d8" stroke-width="2" stroke-linecap="round" opacity=".3"/>
+      <path d="M59 4c10-3 17-3 27 0m-92 35c11-3 19-3 30 0" stroke="#557d78" stroke-width="1" stroke-linecap="round" opacity=".22"/>
+    </pattern>
+    <pattern id="roof-tile" width="64" height="48" patternUnits="userSpaceOnUse">
+      <path d="M2 4 25 2l4 4-2 14H4L1 14z" fill="#c5b18c" stroke="#a29175" stroke-width="1"/>
+      <path d="M34 3 59 5l2 17-5 5H33l-2-16z" fill="#d1c09f" stroke="#a29175" stroke-width="1"/>
+      <path d="m7 27 18-2 4 4-2 15H8L5 37z" fill="#bca883" stroke="#a29175" stroke-width="1"/>
+      <path d="m35 31 24-3 2 13-4 5H33l-2-9z" fill="#c9b58f" stroke="#a29175" stroke-width="1"/>
+      <path d="M29 26h3v5h-3z" fill="#9aa18b" stroke="#a29175" stroke-width=".8"/>
+    </pattern>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#515d52" flood-opacity=".2"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1000" fill="url(#paper)"/>
+  <rect width="1600" height="1000" fill="url(#paper-grain)"/>
+
+  <!-- Pearl River and Shamian Island are the main geographic anchors. -->
+  <path d="M-40 672c147-74 266-74 389-43 84 21 148 28 240 7 112-27 179-35 263 2 102 45 181 44 277 7 103-40 194-40 291-6 87 30 160 17 223-20v423H-40V672Z" fill="url(#river)"/>
+  <path d="M-40 672c147-74 266-74 389-43 84 21 148 28 240 7 112-27 179-35 263 2 102 45 181 44 277 7 103-40 194-40 291-6 87 30 160 17 223-20v423H-40V672Z" fill="url(#water-lines)"/>
+  <path d="M494 600c65-38 133-47 211-25 47 13 84 15 128 3l58-14c54 41 78 85 65 124-15 43-54 61-100 55-74-10-135-2-196 18-56 18-116 7-154-25-45-38-54-93-12-136Z" fill="#d8d5bd" stroke="#f4efdf" stroke-width="10" filter="url(#soft-shadow)"/>
+  <path d="M510 610c55-29 119-37 186-20 54 14 97 12 153-1l36-9c39 34 56 66 46 96-11 34-45 49-85 43-75-10-140 0-205 19-47 14-93 5-126-21-37-29-42-77-5-107Z" fill="#d1dfd0"/>
+  <path d="M530 619c48-25 106-31 161-17 57 15 108 12 167-1m-327 115c59 28 100 23 145 9 75-23 151-32 231-19" stroke="#b8c0a6" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+  <text x="1130" y="820" fill="#e8e9db" font-family="serif" font-size="24" letter-spacing=".18em" opacity=".74">珠 江</text>
+  <text x="608" y="678" fill="#718375" font-family="serif" font-size="19" letter-spacing=".12em">沙 面 岛</text>
+
+  <!-- Old Liwan's irregular blocks, alleys, and courtyards. -->
+  <g fill="#d9d1bc" stroke="#f5f0e2" stroke-width="9" stroke-linejoin="round">
+    <path d="M-42 55 175 42l29 73-22 62-222 5z"/><path d="m218 31 169 14 15 51-42 64-124-3-42-47z"/>
+    <path d="m429 48 161-32 48 48-12 75-167 21-42-43z"/><path d="m676 30 164 19 23 69-36 61-159-22-35-56z"/>
+    <path d="m908 39 144-30 56 56-21 79-153 20-41-52z"/><path d="m1150 26 176 16 25 62-27 70-164-20-32-59z"/>
+    <path d="m1378 38 266 2v127l-184 34-65-38-34-59z"/>
+    <path d="M-36 218 143 193l48 55-26 79-211 19z"/><path d="m211 190 119 9 53 51-23 74-147 5-37-54z"/>
+    <path d="m409 184 145-27 49 48-11 79-154 32-48-58z"/><path d="m632 190 150 5 40 51-30 88-154-17-39-57z"/>
+    <path d="m861 195 155-19 48 56-30 72-144 27-50-58z"/><path d="m1091 193 143-11 62 52-18 76-147 24-53-57z"/>
+    <path d="m1323 191 156-7 67 52-25 83-176 23-43-72z"/>
+    <path d="M-26 392 140 359l54 56-32 75-196 29z"/><path d="m222 365 134-9 51 58-12 78-147 39-47-64z"/>
+    <path d="m424 358 162-25 35 60-25 84-156 34-42-67z"/><path d="m656 369 145-18 51 59-30 84-150 9-37-61z"/>
+    <path d="m875 359 133-31 55 56-20 82-158 36-35-71z"/><path d="m1083 359 161-19 44 63-28 81-159 12-45-61z"/>
+    <path d="m1312 363 189-22 54 61-26 94-169 2-52-60z"/>
+    <path d="M-27 548 144 518l39 58-24 62-178 39z"/><path d="m218 529 130-16 54 49-19 61-146 45-47-54z"/>
+    <path d="m425 519 154-23 48 45-25 61-148 40-43-55z"/><path d="m654 515 145-8 47 54-35 62-148 6-43-56z"/>
+    <path d="m869 523 161-15 48 59-37 60-149 1-43-55z"/><path d="m1097 514 146-2 48 56-29 63-154 12-44-55z"/>
+    <path d="m1320 522 189-12 54 59-42 65-177 8-47-57z"/>
+  </g>
+
+  <!-- Courtyard roofs and low-rise building details vary by block. -->
+  <g stroke="#a99575" stroke-width="2" opacity=".88">
+    <path d="m22 77 102-12 17 24-15 42-99 7-21-27z" fill="url(#roof-tile)"/><path d="m244 57 97 8 16 29-25 30-79-1-22-28z" fill="#c6b58f"/>
+    <path d="m461 64 89-22 37 31-10 40-87 13-40-24z" fill="url(#roof-tile)"/><path d="m705 51 94 15 18 30-19 38-81-12-28-29z" fill="#c2b18e"/>
+    <path d="m941 57 84-19 32 30-15 44-81 8-28-29z" fill="url(#roof-tile)"/><path d="m1182 46 103 12 14 33-24 33-84-12-29-33z" fill="#c6b58f"/>
+    <path d="m-1 247 102-21 27 30-18 36-87 20-32-27z" fill="#c5b28c"/><path d="m231 218 68 3 30 24-11 42-82 18-24-41z" fill="url(#roof-tile)"/>
+    <path d="m446 211 94-21 27 22-11 44-82 22-31-29z" fill="#c7b68f"/><path d="m674 216 83 4 20 31-21 42-79-5-22-34z" fill="url(#roof-tile)"/>
+    <path d="m902 218 83-20 31 27-11 39-83 23-29-32z" fill="#c7b68f"/><path d="m1122 215 77-7 34 28-14 38-79 16-28-37z" fill="url(#roof-tile)"/>
+    <path d="m19 421 96-23 31 28-14 39-86 22-35-28z" fill="url(#roof-tile)"/><path d="m249 392 84-5 28 30-12 38-78 20-29-39z" fill="#c8b58d"/>
+    <path d="m455 389 103-21 24 32-22 44-79 16-34-32z" fill="url(#roof-tile)"/><path d="m683 396 86-7 26 32-19 44-73 1-31-35z" fill="#c7b58e"/>
+    <path d="m903 390 72-20 38 25-13 45-78 17-29-35z" fill="url(#roof-tile)"/><path d="m1120 389 104-10 23 34-19 45-83 4-35-34z" fill="#c8b58d"/>
+    <path d="m-4 575 103-22 23 28-11 34-84 17-39-25z" fill="#c8b58d"/><path d="m239 557 81-16 32 22-17 38-73 22-33-32z" fill="url(#roof-tile)"/>
+    <path d="m445 548 98-18 29 21-20 37-80 23-33-29z" fill="#c9b791"/><path d="m680 546 87-5 25 28-23 36-70 4-30-32z" fill="url(#roof-tile)"/>
+    <path d="m901 548 105-12 21 34-26 38-78-3-28-31z" fill="#c8b58d"/><path d="m1124 545 87 1 29 30-18 33-73 9-32-33z" fill="url(#roof-tile)"/>
+  </g>
+
+  <!-- Green courtyards, banyan canopies, and small pocket gardens. -->
+  <g fill="#819879" stroke="#a9b194" stroke-width="4">
+    <path d="M63 154c32-21 74-19 102 2 19 15 20 38 4 52-31 21-79 17-105-3-16-13-16-34-1-51Z"/>
+    <path d="M539 152c24-23 68-27 97-10 27 15 34 39 18 58-28 25-75 29-104 10-26-16-30-39-11-58Z"/>
+    <path d="M1009 154c36-26 92-25 121-1 16 14 16 36-2 51-31 20-83 19-111 0-22-14-26-34-8-50Z"/>
+    <path d="M351 465c30-21 74-19 96 0 20 17 16 37-6 50-28 17-71 16-94-1-19-14-18-33 4-49Z"/>
+    <path d="M782 447c30-21 73-17 96 2 19 17 13 39-10 50-29 14-72 11-94-7-17-14-14-32 8-45Z"/>
+    <path d="M1215 455c27-21 70-21 94-3 23 17 19 39-5 54-29 16-74 12-94-6-16-15-14-32 5-45Z"/>
+  </g>
+  <g fill="#526f5b" opacity=".88">
+    <circle cx="76" cy="178" r="14"/><circle cx="106" cy="167" r="18"/><circle cx="139" cy="182" r="16"/><circle cx="566" cy="173" r="14"/><circle cx="597" cy="165" r="18"/><circle cx="625" cy="185" r="15"/>
+    <circle cx="1042" cy="174" r="18"/><circle cx="1080" cy="163" r="15"/><circle cx="1113" cy="179" r="19"/><circle cx="377" cy="484" r="16"/><circle cx="411" cy="476" r="14"/><circle cx="805" cy="466" r="16"/><circle cx="840" cy="460" r="15"/>
+    <circle cx="1241" cy="476" r="16"/><circle cx="1278" cy="465" r="18"/>
+  </g>
+
+  <!-- Streets are drawn over blocks so the linework reads as an illustrated map. -->
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-40 118c174 13 286-11 403 29 95 32 169 17 248-13 120-44 226-16 330 7 112 25 217-10 292-35 139-47 266-21 405 7" stroke="#bcae91" stroke-width="28"/>
+    <path d="M-40 118c174 13 286-11 403 29 95 32 169 17 248-13 120-44 226-16 330 7 112 25 217-10 292-35 139-47 266-21 405 7" stroke="#f8f3e5" stroke-width="22"/>
+    <path d="M-30 306c173-26 279 8 395-7 130-17 205-48 320-25 111 22 210 47 312 34 104-13 179-53 290-46 104 7 200 42 357 16" stroke="#bcae91" stroke-width="28"/>
+    <path d="M-30 306c173-26 279 8 395-7 130-17 205-48 320-25 111 22 210 47 312 34 104-13 179-53 290-46 104 7 200 42 357 16" stroke="#fbf6e9" stroke-width="22"/>
+    <path d="M-30 482c124-36 246-39 350-21 112 19 191 27 281 0 106-31 206-19 295 6 97 27 190 7 275-7 157-26 260 4 452-26" stroke="#bcae91" stroke-width="27"/>
+    <path d="M-30 482c124-36 246-39 350-21 112 19 191 27 281 0 106-31 206-19 295 6 97 27 190 7 275-7 157-26 260 4 452-26" stroke="#fbf6e9" stroke-width="21"/>
+    <path d="M145 8c15 108-5 170 16 257 18 75 18 143-18 229-28 67-39 128-15 198" stroke="#bdaf92" stroke-width="24"/><path d="M145 8c15 108-5 170 16 257 18 75 18 143-18 229-28 67-39 128-15 198" stroke="#fbf6e9" stroke-width="18"/>
+    <path d="M374 0c-23 83-18 142 21 218 36 71 37 129-2 204-32 64-35 116-10 188" stroke="#c4b698" stroke-width="19"/><path d="M374 0c-23 83-18 142 21 218 36 71 37 129-2 204-32 64-35 116-10 188" stroke="#fbf6e9" stroke-width="14"/>
+    <path d="M631 -10c-22 91-13 153 24 221 40 74 43 145 8 217-34 70-40 127-13 196" stroke="#c4b698" stroke-width="23"/><path d="M631 -10c-22 91-13 153 24 221 40 74 43 145 8 217-34 70-40 127-13 196" stroke="#fbf6e9" stroke-width="17"/>
+    <path d="M873 0c-7 91 8 149 47 220 41 74 41 139 0 214-35 64-38 119-10 185" stroke="#c4b698" stroke-width="20"/><path d="M873 0c-7 91 8 149 47 220 41 74 41 139 0 214-35 64-38 119-10 185" stroke="#fbf6e9" stroke-width="14"/>
+    <path d="M1110-5c-4 96 15 157 55 226 41 71 44 140 5 208-34 60-43 119-15 183" stroke="#c4b698" stroke-width="24"/><path d="M1110-5c-4 96 15 157 55 226 41 71 44 140 5 208-34 60-43 119-15 183" stroke="#fbf6e9" stroke-width="18"/>
+    <path d="M1381-2c-15 80-1 143 35 211 37 69 39 140 2 211-35 68-34 125-9 190" stroke="#c4b698" stroke-width="20"/><path d="M1381-2c-15 80-1 143 35 211 37 69 39 140 2 211-35 68-34 125-9 190" stroke="#fbf6e9" stroke-width="14"/>
+    <path d="M-30 596c143-28 242-41 352-24 85 13 151 15 224-5" stroke="#bdaf92" stroke-width="24"/><path d="M-30 596c143-28 242-41 352-24 85 13 151 15 224-5" stroke="#fbf6e9" stroke-width="18"/>
+    <path d="M917 571c108-21 206-4 300 15 116 23 238 14 418-29" stroke="#bdaf92" stroke-width="25"/><path d="M917 571c108-21 206-4 300 15 116 23 238 14 418-29" stroke="#fbf6e9" stroke-width="19"/>
+    <path d="M-28 203c123 20 202 58 307 102 89 37 174 50 271 23 104-30 189-66 294-55 125 13 226 80 339 79 138-1 270-78 465-43" stroke="#c1b293" stroke-width="21"/>
+    <path d="M-28 203c123 20 202 58 307 102 89 37 174 50 271 23 104-30 189-66 294-55 125 13 226 80 339 79 138-1 270-78 465-43" stroke="#fbf6e9" stroke-width="15"/>
+    <path d="M-34 386c121 33 229 27 328-16 111-48 217-82 326-37 107 44 154 127 282 138 121 10 225-67 341-91 142-29 259 28 407 68" stroke="#c1b293" stroke-width="20"/>
+    <path d="M-34 386c121 33 229 27 328-16 111-48 217-82 326-37 107 44 154 127 282 138 121 10 225-67 341-91 142-29 259 28 407 68" stroke="#fbf6e9" stroke-width="14"/>
+    <path d="M260-20c21 91 16 158 57 227 37 62 100 114 114 188 13 70-17 132-57 222" stroke="#c2b394" stroke-width="18"/><path d="M260-20c21 91 16 158 57 227 37 62 100 114 114 188 13 70-17 132-57 222" stroke="#fbf6e9" stroke-width="12"/>
+    <path d="M764-18c23 94 4 162 43 232 38 68 97 111 98 185 1 73-31 135-69 221" stroke="#c2b394" stroke-width="18"/><path d="M764-18c23 94 4 162 43 232 38 68 97 111 98 185 1 73-31 135-69 221" stroke="#fbf6e9" stroke-width="12"/>
+  </g>
+
+  <!-- Historic district and destination illustrations. -->
+  <g transform="translate(271 266)" stroke="#6b6252" stroke-width="3" stroke-linejoin="round" filter="url(#soft-shadow)">
+    <path d="M0 43 45 8l43 35v59H0Z" fill="#b67b57"/><path d="m-10 44 55-47 55 47-7 9-48-38-47 38z" fill="#8d6249"/><path d="M13 59h20v43H13zm40 0h19v18H53z" fill="#e8d1a8"/><path d="M37 84h22v18H37z" fill="#efdfbd"/>
+  </g>
+  <g transform="translate(1228 245)" stroke="#686355" stroke-width="4" stroke-linejoin="round" filter="url(#soft-shadow)">
+    <path d="M0 36 34 2l34 34v67H0Z" fill="#d7d0c0"/><path d="m-8 37 42-43 42 43-6 8L34 16 0 45z" fill="#878b82"/><path d="M14 50h13v16H14zm28 0h13v16H42z" fill="#8aa19c"/><path d="M26 75h17v28H26z" fill="#eee7d5"/>
+  </g>
+  <g transform="translate(678 566)" stroke="#8c795d" stroke-width="3" stroke-linejoin="round" filter="url(#soft-shadow)">
+    <path d="M2 20h86v38H2z" fill="#d5c29c"/><path d="m-5 21 49-31 51 31-8 6-43-25L2 28z" fill="#9f6d4a"/><path d="M17 36h14v22H17zm34 0h16v10H51zm20 0h11v12H71z" fill="#829a90"/>
+  </g>
+  <g transform="translate(678 273)" stroke="#8d7759" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M0 28h59v41H0z" fill="#c5b18e"/><path d="m-5 28 35-24 35 24-6 6L30 13 1 34z" fill="#a87551"/><path d="M12 42h13v17H12zm24 0h13v17H36z" fill="#78948c"/>
+  </g>
+
+  <!-- Small bridge links the island to the north bank. -->
+  <path d="M899 614c33-18 55-17 78-3m-77 13c29-14 49-14 72-2" stroke="#e6d8bd" stroke-width="10" stroke-linecap="round"/>
+  <path d="M900 615c33-18 55-17 78-3" stroke="#8b8b79" stroke-width="2.5" stroke-dasharray="5 6" stroke-linecap="round"/>
+  <g fill="#6b705e" font-family="serif" font-size="15" opacity=".82">
+    <text x="1047" y="536">一德路</text><text x="383" y="293">恩宁路</text><text x="743" y="365">第十甫路</text><text x="963" y="694">六二三路</text>
+  </g>
+
+  <rect x="26" y="26" width="1548" height="948" rx="26" stroke="#f8f4e8" stroke-width="3" opacity=".72"/>
+  <g fill="#536a5c" opacity=".6" font-family="Georgia,serif" letter-spacing=".18em">
+    <text x="52" y="931" font-size="12">LIWAN · GUANGZHOU</text><text x="1455" y="931" font-size="12">23°N</text>
+  </g>
+</svg>

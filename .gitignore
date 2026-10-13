@@ -20,6 +20,15 @@ coverage/
 .routeo-*/
 .uizze/
 *.log
+assets/routes/cd01-reference-photos/
+assets/routes/dining-reference-photos/
+assets/routes/nj01-reference-photos/
+assets/routes/xa01-reference-photos/
+assets/routes/b20-reference-photos/
+assets/routes/batch01-reference-photos/
+assets/routes/batch01-dining-reference-photos/
+assets/routes/chengdu-cd01-amap-overview.png
+assets/routes/chengdu-cd01-draft-data.json
 
 # Superseded or unrelated artwork not used by the five-city demo
 assets/routes/great-ocean-road.webp

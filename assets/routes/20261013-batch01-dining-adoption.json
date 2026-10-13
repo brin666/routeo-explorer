@@ -1,0 +1,577 @@
+{
+  "updatedAt": "2026-10-13T11:37:08.291Z",
+  "restaurants": [
+    {
+      "city": "南京",
+      "routeId": "nanjing-b20-city-day",
+      "name": "麦当劳(南京中山陵店)",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 35
+    },
+    {
+      "city": "成都",
+      "routeId": "chengdu-b20-city-day",
+      "name": "骆老妈蹄花·正宗川菜（太古里香槟店）",
+      "photos": 0,
+      "menus": 0,
+      "perPerson": null
+    },
+    {
+      "city": "西安",
+      "routeId": "xian-b20-city-day",
+      "name": "醉长安(南门总店)",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 83
+    },
+    {
+      "city": "北京",
+      "routeId": "beijing-b20-city-day",
+      "name": "烤肉季饭庄",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 107
+    },
+    {
+      "city": "重庆",
+      "routeId": "chongqing-b20-city-day",
+      "name": "一品香江湖菜·始于1989年(大礼堂店)",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 66
+    },
+    {
+      "city": "洛阳",
+      "routeId": "luoyang-b20-city-day",
+      "name": "管记水席老店(仙果市街店)",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 47
+    },
+    {
+      "city": "武汉",
+      "routeId": "wuhan-b20-city-day",
+      "name": "汉小城·湖北菜·老铫子藕汤(吉庆街店)",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": null
+    },
+    {
+      "city": "广州",
+      "routeId": "guangzhou-b20-city-day",
+      "name": "大河上下烤鸭·新京菜 (getmall云汇天地)",
+      "photos": 9,
+      "menus": 2,
+      "perPerson": null
+    },
+    {
+      "city": "长沙",
+      "routeId": "changsha-b20-city-day",
+      "name": "东茅街茶馆",
+      "photos": 2,
+      "menus": 1,
+      "perPerson": null
+    },
+    {
+      "city": "上海",
+      "routeId": "shanghai-b20-city-day",
+      "name": "临家闽南宴(正大广场店)",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 198
+    },
+    {
+      "city": "苏州",
+      "routeId": "suzhou-b20-city-day",
+      "name": "李百蟹·蟹黄面·平江河畔（平江路总店）",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": null
+    },
+    {
+      "city": "杭州",
+      "routeId": "hangzhou-b20-city-day",
+      "name": "楼外楼（西湖景区孤山路店）",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 147
+    },
+    {
+      "city": "济南",
+      "routeId": "jinan-b20-city-day",
+      "name": "草包包子铺1937（普利街店）",
+      "photos": 4,
+      "menus": 1,
+      "perPerson": 21
+    },
+    {
+      "city": "厦门",
+      "routeId": "xiamen-b20-city-day",
+      "name": "阿吉仔（大元路店）",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 35
+    },
+    {
+      "city": "深圳",
+      "routeId": "shenzhen-b20-city-day",
+      "name": "米仓食堂（深圳湾万象城店）",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 64
+    },
+    {
+      "city": "福州",
+      "routeId": "fuzhou-b20-city-day",
+      "name": "福州西湖大酒店（近三坊七巷店）·闽悦轩",
+      "photos": 3,
+      "menus": 0,
+      "perPerson": 198
+    },
+    {
+      "city": "贵阳",
+      "routeId": "guiyang-b20-city-day",
+      "name": "亮欢寨贵州寨子（甲秀楼店）",
+      "photos": 2,
+      "menus": 0,
+      "perPerson": null
+    }
+  ],
+  "pending": [
+    {
+      "city": "青岛",
+      "name": "花神海咖啡（海之恋公园店，分店称谓仅检索线索）",
+      "reason": "唯一分店／门牌或可信人均尚未取得",
+      "missing": [
+        "verified_full_branch_name",
+        "verified_door_number_floor",
+        "verified_route_adjacency",
+        "per_capita_amount_and_verbatim_source",
+        "clear_menu_priceboard",
+        "2_to_3_same_branch_food_environment_photos",
+        "photo_capture_date",
+        "publication_year",
+        "recommended_dishes_portion_taste",
+        "promotion_identity_unknown"
+      ]
+    },
+    {
+      "city": "天津",
+      "name": "慕民美食家（完整分店称谓未取得）",
+      "reason": "唯一分店／门牌或可信人均尚未取得",
+      "missing": [
+        "verified_full_branch_name",
+        "verified_door_number_floor",
+        "verified_route_adjacency",
+        "per_capita_amount_and_verbatim_source",
+        "clear_menu_priceboard",
+        "2_to_3_same_branch_food_environment_photos",
+        "photo_capture_date",
+        "publication_year",
+        "promotion_identity_unknown"
+      ]
+    },
+    {
+      "city": "昆明",
+      "name": "Tree Tomato Kitchen&Coffee（巡津街店）",
+      "reason": "唯一分店／门牌或可信人均尚未取得",
+      "missing": [
+        "verified_door_number_floor",
+        "verified_route_adjacency",
+        "reliable_non_AI_per_capita_evidence",
+        "clear_menu_priceboard",
+        "2_to_3_independently_branch_confirmed_photos",
+        "photo_capture_date",
+        "publication_year",
+        "portion_evidence",
+        "promotional_identity_unknown_and_AI_generated_content_flag"
+      ]
+    }
+  ],
+  "legacy": {
+    "guangzhou-xiguan-walk": [
+      {
+        "name": "侨美食家(沙面总店)",
+        "id": "gz-qiaomei",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "僑美食家(沙面總店) (廣州 永慶坊/上下九步行街)－餐牌、食評及資訊｜Trip.com",
+            "url": "https://hk.trip.com/restaurant/china/guangzhou/detail/jm-chef-11474020"
+          }
+        ],
+        "materialNotes": [
+          "2019-12-12大胖在路上点评写荔枝木烟熏乳鸽38元，单位未明确；不是非遗红烧乳鸽现价。"
+        ],
+        "missingMaterials": [
+          "沙面总店现行菜单及生效/拍摄日期",
+          "非遗红烧乳鸽等现行菜价与计价单位"
+        ]
+      },
+      {
+        "name": "阿婆牛杂·广府非遗地标美食(永庆坊店)",
+        "id": "gz-aponiuza",
+        "photos": [
+          {
+            "image": "./assets/routes/batch01-dining-reference-photos/guangzhou-legacy/7bee914f696ea011.jpg",
+            "originalSha256": "7bee914f696ea011693e0d60ac550259fbd564f4090bb4b061f43c73a09bb570",
+            "materialFile": "Routeo补齐_20261013_批次01/餐饮C_旧13店/图证据_采用/阿婆永庆食集_菜单_2594995.jpg",
+            "title": "门店菜单／价牌参考（版本日期待确认）",
+            "kind": "menu",
+            "source": "OpenRice对应门店",
+            "url": "https://www.openrice.com.cn/zh-cn/guangzhou/r-%E9%98%BF%E5%A9%86%E7%89%9B%E6%9D%82-%E4%B8%8A%E4%B8%8B%E4%B9%9D-r8147558",
+            "credit": "对应门店公开图库",
+            "recordNote": "来源中的菜单／价牌参考；拍摄与生效日期未确认，以当日店内为准。",
+            "publishedAt": null,
+            "captureDate": null,
+            "identityEvidence": "OpenRice r8147558 永庆食集门店 public SSR menuPhotos",
+            "usage": "保留原图与出处；使用状态随原记录保留"
+          }
+        ],
+        "sourceLinks": [
+          {
+            "label": "阿婆牛杂 (永庆食集) (上下九)",
+            "url": "https://www.openrice.com.cn/zh-cn/guangzhou/r-%E9%98%BF%E5%A9%86%E7%89%9B%E6%9D%82-%E4%B8%8A%E4%B8%8B%E4%B9%9D-r8147558"
+          },
+          {
+            "label": "携程",
+            "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/118725522.html"
+          }
+        ],
+        "materialNotes": [
+          "OpenRice永庆食集门店已取得一张无日期菜单。可读招牌净牛杂33元（单位未明）、手打牛筋丸7粒15元。",
+          "OpenRice列恩宁路73号-75号永庆食集1层02号铺；与旧75号总门牌关联，未当作商家现时确认。",
+          "携程10:30–21:00；OpenRice10:30–22:30，保留冲突。"
+        ],
+        "missingMaterials": [
+          "现行菜单及拍摄/生效日期",
+          "单品按份/碗计价的明确单位与份量克重",
+          "营业时段冲突的商家确认（如采用）"
+        ]
+      },
+      {
+        "name": "南信牛奶甜品专家",
+        "id": "gz-nanxin",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "Meet Guangzhou（携程图片）",
+            "url": "https://meetguangzhou.com/cn/food/nanxinniunaitianpin"
+          }
+        ],
+        "materialNotes": [
+          "已有菜单已旋转成正向副本，店名南信牛奶甜品专家、底部第十甫路47号可见；没有照片拍摄年或版本日期。"
+        ],
+        "missingMaterials": [
+          "既有菜单照片拍摄日期/年份和版本",
+          "现价确认"
+        ]
+      },
+      {
+        "name": "陶陶居酒家(第十甫路总店)",
+        "id": "gz-taotaoju",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "陶陶居总店重开历史菜单",
+            "url": "https://www.sohu.com/a/448788270_100195567"
+          }
+        ],
+        "materialNotes": [
+          "2021-02-04报道第十甫总店小点13元/份、茗点58元/份；仅历史分类价，不能填2026现价。"
+        ],
+        "missingMaterials": [
+          "第十甫路总店现行完整菜单及日期",
+          "现行推荐点心价格",
+          "茶位/服务费现行条件（无证据不填）"
+        ]
+      }
+    ],
+    "chengdu-cd01-city-day": [
+      {
+        "name": "鹤鸣茶社",
+        "id": "cd01-heming",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "小红书价牌记录",
+            "url": "https://www.xiaohongshu.com/explore/6ac3d103000000001a025759"
+          },
+          {
+            "label": "小红书",
+            "url": "https://www.xiaohongshu.com/explore/6ab5e73200000000180060cb"
+          }
+        ],
+        "materialNotes": [
+          "既有20元价牌、20元手卡、25元价牌均为鹤鸣有机红茶/杯。25元图注摄于9.25涨价后但无年；适用茶座、生效日期、现价未知。不使用普通红茶vs有机解释。"
+        ],
+        "missingMaterials": [
+          "20/25元同名有机红茶两版本拍摄年份",
+          "各版生效时间",
+          "各版适用茶座/区域",
+          "当前价"
+        ]
+      },
+      {
+        "name": "华兴街自力面店",
+        "id": "cd01-zili",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "小红书价牌记录",
+            "url": "https://www.xiaohongshu.com/explore/6ab8cc38000000001402f83b"
+          },
+          {
+            "label": "小红书",
+            "url": "https://www.xiaohongshu.com/explore/678b72f6000000001901a388"
+          }
+        ],
+        "materialNotes": [
+          "两版菜单可读红烧牛肉面一/二/三两12/15/17元，素椒杂酱面一/二/三两10/13/15元。旧笔记发表2025-01-18，新笔记仅09-27四川；两图实际拍摄日未知，不补2026。"
+        ],
+        "missingMaterials": [
+          "旧菜单实际拍摄日期（2025-01-18只为发帖日）",
+          "补充菜单拍摄年份及实际日期",
+          "当前适用版本/现价"
+        ]
+      },
+      {
+        "name": "嘉州叶婆婆钵钵鸡（太古里店）",
+        "id": "cd01-yepopo",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "成都葉婆婆缽缽雞食記|紅油藤椒冷串串、臊子蛋炒飯必吃 - 比爾的世界迷路指南",
+            "url": "https://www.tzjtzjtzj.com/food/chengdu-ye-popo-bobo-chicken"
+          },
+          {
+            "label": "叶婆婆油篓街68历史签价规则",
+            "url": "https://gs.ctrip.com/html5/you/comment/104/22404248-food.html"
+          }
+        ],
+        "materialNotes": [
+          "2026-10-11博客写油篓街68号，按人头汤底、按签数结账；3元/人、0.7元/串作者明说是查到资料、以现场为准，不认现行菜单。",
+          "2021-04-15点评虽在太古里店页，却写油篓街48号附1号，相关3元/0.7元不能填68号现行规则。"
+        ],
+        "missingMaterials": [
+          "油篓街68号分店现行菜单与日期",
+          "当前按签/按份及多签规则"
+        ]
+      },
+      {
+        "name": "烤匠麻辣烤鱼（春熙路店）",
+        "id": "cd01-kaojiang",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "成都旅游攻略，闺蜜生日选这里，直接被夸会选店！！  --穷游网",
+            "url": "https://biu.qyer.com/p/Sd7hLIuwqlOd6ZOBywKYvQ.html"
+          }
+        ],
+        "materialNotes": [
+          "穷游正文明确东大街97号香槟广场1幢3层317–318号；无菜单价，推广体验只作身份旁证。群光广场结果排除。"
+        ],
+        "missingMaterials": [
+          "香槟广场317–318号店现行菜单及日期"
+        ]
+      }
+    ],
+    "nanjing-nj01-qinhuai-day": [
+      {
+        "name": "鸡鸣汤包（老门东店）",
+        "id": "legacy-09",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "鸡鸣汤包营业",
+            "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/9/15477719.html"
+          },
+          {
+            "label": "小红书 · 鸡鸣汤包探店",
+            "url": "https://www.xiaohongshu.com/explore/69e18ce7000000002301796d"
+          }
+        ],
+        "materialNotes": [
+          "携程对应老门东门店页列06:00–22:00，来源未标适用日期，仅平台营业参考。",
+          "两张既有菜单板未见拍摄/生效日期；原笔记仅04-17，年份未知。"
+        ],
+        "missingMaterials": [
+          "两版菜单实际拍摄日期/年份",
+          "现价或当前版本",
+          "当日营业/商家最新营业确认"
+        ]
+      },
+      {
+        "name": "清真蒋有记（老门东店）",
+        "id": "legacy-10",
+        "photos": [
+          {
+            "image": "./assets/routes/batch01-dining-reference-photos/nanjing-legacy/6ec5e22796508ee6.jpg",
+            "originalSha256": "6ec5e22796508ee6a46f4b9d94ac5bb5cce24dd8fbaa4473b628504271d19597",
+            "materialFile": "Routeo补齐_20261013_批次01/餐饮C_旧13店/图证据_采用/S25_0106m120009fxydryC17C.jpg",
+            "title": "独立锅贴实拍",
+            "kind": "dish",
+            "source": "携程门店资料",
+            "url": "https://you.ctrip.com/food/nanjing9/12501082.html",
+            "credit": "amydog",
+            "recordNote": "对应分店的平台或作者图片；拍摄日期未确认。",
+            "publishedAt": "2022-05-02",
+            "captureDate": null,
+            "identityEvidence": "老门东门店该作者点评；正文自述2021-2-13，2022-05-02发布",
+            "usage": "保留原图与出处；使用状态随原记录保留"
+          }
+        ],
+        "sourceLinks": [
+          {
+            "label": "蒋有记营业时间",
+            "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/9/12501082.html"
+          },
+          {
+            "label": "蒋有记老门东",
+            "url": "https://you.ctrip.com/food/nanjing9/12501082.html"
+          },
+          {
+            "label": "小红书 · 作者记录",
+            "url": "https://www.xiaohongshu.com/explore/6abf8b3c0000000015009fdc"
+          }
+        ],
+        "materialNotes": [
+          "携程列08:30–22:00，仅平台营业参考。",
+          "2021-08-27点评写三条营49-3号，当前门店页面只列三条营49号；不升级历史铺号。",
+          "既有小红书门头图02可读牛肉锅贴16元/5只，部分外墙价牌不是完整菜单，原笔记10-02江苏年未知；不认现价。"
+        ],
+        "missingMaterials": [
+          "当前精确铺号（49-3仅历史/搜索线索）",
+          "独立且可确认牛肉汤实拍",
+          "现行完整菜单及日期",
+          "当前商家营业确认"
+        ]
+      },
+      {
+        "name": "陆氏梅花糕",
+        "id": "legacy-11",
+        "photos": [
+          {
+            "image": "./assets/routes/batch01-dining-reference-photos/nanjing-legacy/d03a75b3ab1f1689.jpg",
+            "originalSha256": "d03a75b3ab1f16898f818226b86954f73d9c3f87ade31dd610ce97f3fd3a966f",
+            "materialFile": "Routeo补齐_20261013_批次01/餐饮C_旧13店/图证据_采用/S27_01030120008h1w2udB571.jpg",
+            "title": "门店菜单／价牌参考（版本日期待确认）",
+            "kind": "menu",
+            "source": "携程门店资料",
+            "url": "https://you.ctrip.com/food/nanjing9/15486745.html",
+            "credit": "sunshine518",
+            "recordNote": "来源中的菜单／价牌参考；拍摄与生效日期未确认，以当日店内为准。",
+            "publishedAt": "2021-03-10",
+            "captureDate": null,
+            "identityEvidence": "对应老门东分店页面该作者点评配图，未以文件名推地点",
+            "usage": "保留原图与出处；使用状态随原记录保留"
+          },
+          {
+            "image": "./assets/routes/batch01-dining-reference-photos/nanjing-legacy/e449ca815169bc7a.jpg",
+            "originalSha256": "e449ca815169bc7a991f3bd835e6eaa33f349925c0e69e9d3cb6ac185a8197a9",
+            "materialFile": "Routeo补齐_20261013_批次01/餐饮C_旧13店/图证据_采用/S27_01044120008h1ug181CB7.jpg",
+            "title": "独立梅花糕实拍",
+            "kind": "dish",
+            "source": "携程门店资料",
+            "url": "https://you.ctrip.com/food/nanjing9/15486745.html",
+            "credit": "sunshine518",
+            "recordNote": "对应分店的平台或作者图片；拍摄日期未确认。",
+            "publishedAt": "2021-03-10",
+            "captureDate": null,
+            "identityEvidence": "对应老门东分店页面该作者点评配图，未以文件名推地点",
+            "usage": "保留原图与出处；使用状态随原记录保留"
+          }
+        ],
+        "sourceLinks": [
+          {
+            "label": "陆氏梅花糕老门东",
+            "url": "https://you.ctrip.com/food/nanjing9/15486745.html"
+          },
+          {
+            "label": "小红书 · 作者记录",
+            "url": "https://www.xiaohongshu.com/explore/69402fd7000000001e00c401"
+          }
+        ],
+        "materialNotes": [
+          "取得对应老门东点评的独立糕点图及陆氏价牌。价牌豆沙馅、水果馅均8元/份；关联2021-03-10发表点评，不是照片拍摄日期或现价。",
+          "另保留2025-12-15旧笔记10–12元/个作者记录；不与8元/份合并成现价。"
+        ],
+        "missingMaterials": [
+          "当前精确铺号",
+          "清晰现价牌及生效/拍摄日期"
+        ]
+      }
+    ],
+    "xian-xa01-qujiang-day": [
+      {
+        "name": "八百里秦川·陕菜小馆（大悦城店）",
+        "id": "legacy-12",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "八百里大悦城平台条目校验",
+            "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/7/149293125.html"
+          },
+          {
+            "label": "八百里秦川·陝菜小館（大悦城店） (西安 大雁塔/大唐不夜城)－餐牌、食評及資訊｜Trip.com",
+            "url": "https://hk.trip.com/restaurant/china/xi-an/detail/restaurant-149293125"
+          },
+          {
+            "label": "小红书 · 作者记录",
+            "url": "https://www.xiaohongshu.com/explore/69bbb52c000000001d018f10"
+          },
+          {
+            "label": "2026 西安正宗陕菜必吃榜：本地人收藏市井味的烟火气，每一口都是千年秦风唐韵的沉淀 - 资讯焦点 - 企业博客",
+            "url": "https://www.cnblogs.com/newjpz/p/19599541"
+          }
+        ],
+        "materialNotes": [
+          "携程八百里秦川·陕菜小馆大悦城店条目149293125显示人均81元。金额来自分店平台，不从双人餐计算。",
+          "携程/Trip对应分店列10:30–22:00；旧作者03-19无年记10:30–22:30，商家现时营业未核。",
+          "企业博客标可能商业推广软文，写慈恩路777号L4-22；不把广告单源升级为已核唯一铺号。广告品牌80–120人均不填本店。"
+        ],
+        "missingMaterials": [
+          "分店完整街道门牌及唯一铺号的可靠旁证",
+          "现行菜单及日期",
+          "当前商家营业确认（22:00/旧作者22:30差异）"
+        ],
+        "perPerson": {
+          "value": 81,
+          "currency": "CNY",
+          "unit": "人",
+          "status": "platform-average",
+          "source": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/7/149293125.html",
+          "checkedAt": "2026-10-13"
+        }
+      },
+      {
+        "name": "悦得闲广式点心茶楼（大悦城店）",
+        "id": "legacy-13",
+        "photos": [],
+        "sourceLinks": [
+          {
+            "label": "悦得闲西安首店开业历史",
+            "url": "https://www.sohu.com/a/740265194_100185418"
+          },
+          {
+            "label": "「西安悦得闲餐饮有限公司招聘」-BOSS直聘",
+            "url": "https://m.zhipin.com/companys/ed6fd2391a864aee03Z72dy7EFo~.html"
+          }
+        ],
+        "materialNotes": [
+          "2023-11-30搜狐城市陕西正文明确悦得闲西安首店位于西安大悦城3楼；历史开业不代表目前营业。",
+          "BOSS搜索摘要称公司注册地址慈恩路777号L3-39A，正文加载空壳；公司注册地址也不自动等于当前餐厅地址，未填正式门牌。",
+          "深圳京基百纳/上影影城/宝能等人均及菜单全部排除；西安该分店人均仍未知。"
+        ],
+        "missingMaterials": [
+          "唯一分店详细门牌/铺号的正文旁证",
+          "现行菜单及日期",
+          "本分店平台人均或有金额实际消费出处",
+          "当前营业"
+        ]
+      }
+    ]
+  }
+}

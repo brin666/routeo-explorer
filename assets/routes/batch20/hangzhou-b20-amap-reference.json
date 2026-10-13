@@ -1,0 +1,1982 @@
+{
+  "city": "杭州",
+  "slug": "hangzhou",
+  "queriedAt": "2026-10-13T05:42:59.259Z",
+  "source": "AMap JS API 2.0 PlaceSearch",
+  "coordinateSystem": "GCJ-02",
+  "points": [
+    {
+      "name": "断桥残雪",
+      "placeKey": "hangzhou:broken_bridge",
+      "experienceKey": "hangzhou:broken_bridge:lake_landmark",
+      "searchKeyword": "断桥残雪",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B023B01EE6",
+      "address": "龙井路1号杭州西湖风景名胜区内(东北角)",
+      "type": "风景名胜;风景名胜;国家级景点",
+      "coordinate": [
+        120.151347,
+        30.258151
+      ],
+      "entrance": [
+        120.152264,
+        30.259343
+      ],
+      "url": "https://ditu.amap.com/place/B023B01EE6",
+      "candidates": [
+        {
+          "name": "杭州西湖风景名胜区-断桥残雪",
+          "poiId": "B023B01EE6",
+          "address": "龙井路1号杭州西湖风景名胜区内(东北角)",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            120.151347,
+            30.258151
+          ],
+          "entrance": [
+            120.152264,
+            30.259343
+          ],
+          "url": "https://ditu.amap.com/place/B023B01EE6"
+        },
+        {
+          "name": "断桥残雪碑亭",
+          "poiId": "B0MRMLW5RC",
+          "address": "宝石山下一弄与保俶路交叉口西南220米",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.152144,
+            30.259153
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0MRMLW5RC"
+        },
+        {
+          "name": "杭州断桥残雪品牌管理有限公司",
+          "poiId": "B0K075E0TP",
+          "address": "秋涛北路306号",
+          "type": "公司企业;公司;公司",
+          "coordinate": [
+            120.199542,
+            30.288189
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0K075E0TP"
+        },
+        {
+          "name": "杭州西湖风景名胜区-云水光中亭",
+          "poiId": "B023B17WZA",
+          "address": "北山街杭州西湖风景名胜区断桥残雪旁",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.152073,
+            30.259226
+          ],
+          "entrance": [
+            120.152223,
+            30.259371
+          ],
+          "url": "https://ditu.amap.com/place/B023B17WZA"
+        },
+        {
+          "name": "杭州西湖湖滨断桥残雪亚朵酒店",
+          "poiId": "B0FFIWVY91",
+          "address": "凤起路503号(凤起路地铁站E口步行150米)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            120.160796,
+            30.263346
+          ],
+          "entrance": [
+            120.16078,
+            30.263418
+          ],
+          "url": "https://ditu.amap.com/place/B0FFIWVY91"
+        },
+        {
+          "name": "全季酒店(杭州西湖断桥店)",
+          "poiId": "B0FFFLVWJ0",
+          "address": "保俶路74号2幢",
+          "type": "住宿服务;宾馆酒店;经济型连锁酒店",
+          "coordinate": [
+            120.150141,
+            30.264401
+          ],
+          "entrance": [
+            120.149917,
+            30.264386
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFLVWJ0"
+        }
+      ],
+      "poiName": "杭州西湖风景名胜区-断桥残雪",
+      "routeCoordinate": [
+        120.152264,
+        30.259343
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "白堤",
+      "placeKey": "hangzhou:bai_causeway",
+      "experienceKey": "hangzhou:bai_causeway:lake_walk",
+      "searchKeyword": "白堤",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFFTYEG4",
+      "address": "西湖街道龙井路1号杭州西湖风景名胜区内(东北角)",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "coordinate": [
+        120.149189,
+        30.255701
+      ],
+      "entrance": [
+        120.152286,
+        30.259326
+      ],
+      "url": "https://ditu.amap.com/place/B0FFFTYEG4",
+      "candidates": [
+        {
+          "name": "杭州西湖风景名胜区-白堤",
+          "poiId": "B0FFFTYEG4",
+          "address": "西湖街道龙井路1号杭州西湖风景名胜区内(东北角)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.149189,
+            30.255701
+          ],
+          "entrance": [
+            120.152286,
+            30.259326
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFTYEG4"
+        },
+        {
+          "name": "白堤①",
+          "poiId": "B0L0SGIJ45",
+          "address": "孤山路与孤山后山路交叉口西南300米",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.143465,
+            30.25052
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0L0SGIJ45"
+        },
+        {
+          "name": "杭州西湖风景名胜区-月波亭(白堤)",
+          "poiId": "B023B17XBK",
+          "address": "杭州西湖风景名胜区内白堤",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.145777,
+            30.252015
+          ],
+          "entrance": [
+            120.145766,
+            30.252126
+          ],
+          "url": "https://ditu.amap.com/place/B023B17XBK"
+        },
+        {
+          "name": "北山白堤",
+          "poiId": "B0M2LOQDCS",
+          "address": "北山街历史文化街区",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.152375,
+            30.259225
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0M2LOQDCS"
+        },
+        {
+          "name": "杭州西湖风景名胜区",
+          "poiId": "B023B13L9M",
+          "address": "西湖街道龙井路1号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            120.121358,
+            30.222692
+          ],
+          "entrance": [
+            120.153345,
+            30.224729
+          ],
+          "url": "https://ditu.amap.com/place/B023B13L9M"
+        },
+        {
+          "name": "杭州西湖风景名胜区-岳湖",
+          "poiId": "B023B1AWMA",
+          "address": "杭州西湖风景名胜区杨公堤38号杭州西湖风景名胜区-曲院风荷(东北角)",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.134892,
+            30.250224
+          ],
+          "entrance": [
+            120.135688,
+            30.251277
+          ],
+          "url": "https://ditu.amap.com/place/B023B1AWMA"
+        },
+        {
+          "name": "杭州西湖风景名胜区-三潭印月",
+          "poiId": "B023B0283D",
+          "address": "龙井路1号杭州西湖风景名胜区内(东北角)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.145369,
+            30.238845
+          ],
+          "entrance": [
+            120.145034,
+            30.228919
+          ],
+          "url": "https://ditu.amap.com/place/B023B0283D"
+        },
+        {
+          "name": "杭州西湖风景名胜区-抱朴道院",
+          "poiId": "B023B09M08",
+          "address": "杭州西湖风景名胜区宝石山内(东侧)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.142999,
+            30.259974
+          ],
+          "entrance": [
+            120.145229,
+            30.257585
+          ],
+          "url": "https://ditu.amap.com/place/B023B09M08"
+        },
+        {
+          "name": "杭州西湖风景名胜区-花港观鱼",
+          "poiId": "B023B023B2",
+          "address": "西湖街道西山路5-1号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.139095,
+            30.230233
+          ],
+          "entrance": [
+            120.13703,
+            30.230056
+          ],
+          "url": "https://ditu.amap.com/place/B023B023B2"
+        },
+        {
+          "name": "杭州西湖风景名胜区-西泠桥",
+          "poiId": "B023B0A6IY",
+          "address": "北山街与孤山路交叉口",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.138493,
+            30.251888
+          ],
+          "entrance": [
+            120.138486,
+            30.251927
+          ],
+          "url": "https://ditu.amap.com/place/B023B0A6IY"
+        },
+        {
+          "name": "杭州西湖风景名胜区-西湖龙井茶文化景区",
+          "poiId": "B0FFF9THZE",
+          "address": "龙井路龙井八景景区振鹭亭",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.11862,
+            30.22523
+          ],
+          "entrance": [
+            120.119305,
+            30.228187
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF9THZE"
+        },
+        {
+          "name": "杭州西湖风景名胜区锦带桥",
+          "poiId": "B023B0A6F0",
+          "address": "白堤(锦带桥)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.148974,
+            30.255294
+          ],
+          "entrance": [
+            120.152279,
+            30.25933
+          ],
+          "url": "https://ditu.amap.com/place/B023B0A6F0"
+        },
+        {
+          "name": "静逸别墅",
+          "poiId": "B023B1D2QS",
+          "address": "葛岭路5号(近省庐)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.146395,
+            30.258368
+          ],
+          "entrance": [
+            120.146404,
+            30.258237
+          ],
+          "url": "https://ditu.amap.com/place/B023B1D2QS"
+        },
+        {
+          "name": "小西湖-俞曲园纪念馆",
+          "poiId": "B023B17X8Y",
+          "address": "白堤孤山路32号",
+          "type": "风景名胜;风景名胜;纪念馆",
+          "coordinate": [
+            120.139324,
+            30.250493
+          ],
+          "entrance": [
+            120.139124,
+            30.250276
+          ],
+          "url": "https://ditu.amap.com/place/B023B17X8Y"
+        },
+        {
+          "name": "中山公园",
+          "poiId": "B0FFKQNUS4",
+          "address": "西湖街道孤山北路3号",
+          "type": "风景名胜;公园广场;公园",
+          "coordinate": [
+            120.142481,
+            30.251654
+          ],
+          "entrance": [
+            120.138811,
+            30.251673
+          ],
+          "url": "https://ditu.amap.com/place/B0FFKQNUS4"
+        },
+        {
+          "name": "北山街历史文化街区",
+          "poiId": "B0FFHU2BPX",
+          "address": "西湖街道白堤西湖风景区",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.152264,
+            30.259216
+          ],
+          "entrance": [
+            120.152308,
+            30.259313
+          ],
+          "url": "https://ditu.amap.com/place/B0FFHU2BPX"
+        },
+        {
+          "name": "杭州西湖风景名胜区-逸云寄庐",
+          "poiId": "B0FFHO23J7",
+          "address": "孤山北路3号(杜月笙旧居)孤山公园内",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.145949,
+            30.252494
+          ],
+          "entrance": [
+            120.143763,
+            30.250418
+          ],
+          "url": "https://ditu.amap.com/place/B0FFHO23J7"
+        },
+        {
+          "name": "杭州西湖风景名胜区-浙江省城图",
+          "poiId": "B023B1D5SS",
+          "address": "龙井路1号杭州西湖风景名胜区内(东北角)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.162795,
+            30.251376
+          ],
+          "entrance": [
+            120.163012,
+            30.251449
+          ],
+          "url": "https://ditu.amap.com/place/B023B1D5SS"
+        },
+        {
+          "name": "杭州西湖风景名胜区-断桥残雪",
+          "poiId": "B023B01EE6",
+          "address": "龙井路1号杭州西湖风景名胜区内(东北角)",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            120.151347,
+            30.258151
+          ],
+          "entrance": [
+            120.152264,
+            30.259343
+          ],
+          "url": "https://ditu.amap.com/place/B023B01EE6"
+        }
+      ],
+      "poiName": "杭州西湖风景名胜区-白堤",
+      "routeCoordinate": [
+        120.152286,
+        30.259326
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "平湖秋月",
+      "placeKey": "hangzhou:pinghu_qiuyue",
+      "experienceKey": "hangzhou:pinghu_qiuyue:lake_platform",
+      "searchKeyword": "平湖秋月",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0HU44IKRD",
+      "address": "北山街道西湖景区孤山路1号",
+      "type": "风景名胜;风景名胜相关;旅游景点",
+      "coordinate": [
+        120.146142,
+        30.252244
+      ],
+      "entrance": [
+        120.145479,
+        30.251845
+      ],
+      "url": "https://ditu.amap.com/place/B0HU44IKRD",
+      "candidates": [
+        {
+          "name": "平湖秋月碑亭",
+          "poiId": "B0HU44IKRD",
+          "address": "北山街道西湖景区孤山路1号",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.146142,
+            30.252244
+          ],
+          "entrance": [
+            120.145479,
+            30.251845
+          ],
+          "url": "https://ditu.amap.com/place/B0HU44IKRD"
+        },
+        {
+          "name": "平湖秋月店",
+          "poiId": "B0HRAZLQAZ",
+          "address": "杭州西湖风景名胜区-平湖秋月",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.146136,
+            30.252178
+          ],
+          "entrance": [
+            120.145441,
+            30.251852
+          ],
+          "url": "https://ditu.amap.com/place/B0HRAZLQAZ"
+        },
+        {
+          "name": "平湖秋月茶楼",
+          "poiId": "B0FFFDQXVH",
+          "address": "孤山路25-1",
+          "type": "餐饮服务;茶艺馆;茶艺馆",
+          "coordinate": [
+            120.146086,
+            30.252122
+          ],
+          "entrance": [
+            120.146048,
+            30.252147
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFDQXVH"
+        },
+        {
+          "name": "平湖秋月停车场",
+          "poiId": "B0FFG8VHVC",
+          "address": "龙井路1号杭州西湖风景名胜区内(东北角)",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            120.145184,
+            30.251881
+          ],
+          "entrance": [
+            120.145414,
+            30.251864
+          ],
+          "url": "https://ditu.amap.com/place/B0FFG8VHVC"
+        },
+        {
+          "name": "平湖秋月地面停车场(入口)",
+          "poiId": "B0IA5RDF2H",
+          "address": "北山街与葛岭路交叉口东南480米",
+          "type": "交通设施服务;停车场;停车场入口",
+          "coordinate": [
+            120.145402,
+            30.251865
+          ],
+          "entrance": [
+            120.145402,
+            30.251865
+          ],
+          "url": "https://ditu.amap.com/place/B0IA5RDF2H"
+        },
+        {
+          "name": "平湖秋月地面停车场",
+          "poiId": "B0IA5RCDRT",
+          "address": "北山街与葛岭路交叉口东南480米",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            120.145402,
+            30.251865
+          ],
+          "entrance": [
+            120.145402,
+            30.251865
+          ],
+          "url": "https://ditu.amap.com/place/B0IA5RCDRT"
+        }
+      ],
+      "poiName": "平湖秋月碑亭",
+      "routeCoordinate": [
+        120.145479,
+        30.251845
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "孤山路",
+      "placeKey": "hangzhou:gushan_road",
+      "experienceKey": "hangzhou:gushan_road:museum_seal_society",
+      "searchKeyword": "孤山路",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "BZA4QQ02EY",
+      "address": "西湖区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        120.145858,
+        30.252207
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/BZA4QQ02EY",
+      "candidates": [
+        {
+          "name": "孤山路",
+          "poiId": "BZA4QQ02EY",
+          "address": "西湖区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            120.145858,
+            30.252207
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BZA4QQ02EY"
+        },
+        {
+          "name": "孤山后山路与孤山路交叉口",
+          "poiId": "B0M2MLNMM3",
+          "address": "西湖区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            120.145946,
+            30.252286
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0M2MLNMM3"
+        },
+        {
+          "name": "中山公园-西泠印社社址",
+          "poiId": "B023B09LU0",
+          "address": "孤山路31号(中山公园西面)",
+          "type": "购物服务;专卖店;礼品饰品店|风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.139948,
+            30.250279
+          ],
+          "entrance": [
+            120.140332,
+            30.250094
+          ],
+          "url": "https://ditu.amap.com/place/B023B09LU0"
+        },
+        {
+          "name": "孤山后山路",
+          "poiId": "BZA4QQ01NQ",
+          "address": "西湖区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            120.142921,
+            30.253517
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BZA4QQ01NQ"
+        },
+        {
+          "name": "楼外楼(杭州西湖风景名胜区店)",
+          "poiId": "B023B09325",
+          "address": "西湖街道孤山路30号(近平湖秋月)",
+          "type": "餐饮服务;中餐厅;综合酒楼",
+          "coordinate": [
+            120.140723,
+            30.250209
+          ],
+          "entrance": [
+            120.140726,
+            30.250115
+          ],
+          "url": "https://ditu.amap.com/place/B023B09325"
+        },
+        {
+          "name": "孤山路-路侧停车位",
+          "poiId": "B0HKXCRC1M",
+          "address": "孤山路",
+          "type": "交通设施服务;停车场;停车场相关",
+          "coordinate": [
+            120.141881,
+            30.250129
+          ],
+          "entrance": [
+            120.141597,
+            30.25005
+          ],
+          "url": "https://ditu.amap.com/place/B0HKXCRC1M"
+        }
+      ],
+      "poiName": "孤山路",
+      "routeCoordinate": [
+        120.145858,
+        30.252207
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "西泠桥",
+      "placeKey": "hangzhou:xiling_bridge",
+      "experienceKey": "hangzhou:xiling_bridge:lake_tree_view",
+      "searchKeyword": "西泠桥",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B023B0A6IY",
+      "address": "北山街与孤山路交叉口",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "coordinate": [
+        120.138493,
+        30.251888
+      ],
+      "entrance": [
+        120.138486,
+        30.251927
+      ],
+      "url": "https://ditu.amap.com/place/B023B0A6IY",
+      "candidates": [
+        {
+          "name": "杭州西湖风景名胜区-西泠桥",
+          "poiId": "B023B0A6IY",
+          "address": "北山街与孤山路交叉口",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.138493,
+            30.251888
+          ],
+          "entrance": [
+            120.138486,
+            30.251927
+          ],
+          "url": "https://ditu.amap.com/place/B023B0A6IY"
+        },
+        {
+          "name": "杭州西湖风景名胜区",
+          "poiId": "B023B13L9M",
+          "address": "西湖街道龙井路1号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            120.121358,
+            30.222692
+          ],
+          "entrance": [
+            120.153345,
+            30.224729
+          ],
+          "url": "https://ditu.amap.com/place/B023B13L9M"
+        },
+        {
+          "name": "云栖竹径",
+          "poiId": "B023B02796",
+          "address": "梅灵南路8号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.091816,
+            30.191297
+          ],
+          "entrance": [
+            120.087156,
+            30.18924
+          ],
+          "url": "https://ditu.amap.com/place/B023B02796"
+        },
+        {
+          "name": "杭州西湖风景名胜区-郭庄",
+          "poiId": "B023B0A6HW",
+          "address": "杨公堤28号(卧龙桥旁)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.132267,
+            30.243918
+          ],
+          "entrance": [
+            120.1322,
+            30.242676
+          ],
+          "url": "https://ditu.amap.com/place/B023B0A6HW"
+        },
+        {
+          "name": "河坊街景区",
+          "poiId": "B0FFF3DPR8",
+          "address": "河坊街",
+          "type": "风景名胜;风景名胜;风景名胜|购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            120.169895,
+            30.240584
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFF3DPR8"
+        },
+        {
+          "name": "中山公园-秋瑾墓",
+          "poiId": "B023B18RE1",
+          "address": "孤山北路西泠桥旁",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.139174,
+            30.251154
+          ],
+          "entrance": [
+            120.138835,
+            30.251253
+          ],
+          "url": "https://ditu.amap.com/place/B023B18RE1"
+        },
+        {
+          "name": "杭州西湖风景名胜区-岳王庙",
+          "poiId": "B0FFFDIGWR",
+          "address": "北山街80号",
+          "type": "风景名胜;风景名胜;寺庙道观",
+          "coordinate": [
+            120.13459,
+            30.252443
+          ],
+          "entrance": [
+            120.134897,
+            30.251818
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFDIGWR"
+        },
+        {
+          "name": "杭州西湖风景名胜区-钱塘苏小小之墓",
+          "poiId": "B023B0AAJF",
+          "address": "西湖孤山路西泠桥头",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.138374,
+            30.251837
+          ],
+          "entrance": [
+            120.138459,
+            30.251893
+          ],
+          "url": "https://ditu.amap.com/place/B023B0AAJF"
+        },
+        {
+          "name": "平湖秋月碑亭",
+          "poiId": "B0HU44IKRD",
+          "address": "北山街道西湖景区孤山路1号",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.146142,
+            30.252244
+          ],
+          "entrance": [
+            120.145479,
+            30.251845
+          ],
+          "url": "https://ditu.amap.com/place/B0HU44IKRD"
+        },
+        {
+          "name": "中山公园",
+          "poiId": "B0FFKQNUS4",
+          "address": "西湖街道孤山北路3号",
+          "type": "风景名胜;公园广场;公园",
+          "coordinate": [
+            120.142481,
+            30.251654
+          ],
+          "entrance": [
+            120.138811,
+            30.251673
+          ],
+          "url": "https://ditu.amap.com/place/B0FFKQNUS4"
+        },
+        {
+          "name": "中山公园-西泠印社社址",
+          "poiId": "B023B09LU0",
+          "address": "孤山路31号(中山公园西面)",
+          "type": "购物服务;专卖店;礼品饰品店|风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.139948,
+            30.250279
+          ],
+          "entrance": [
+            120.140332,
+            30.250094
+          ],
+          "url": "https://ditu.amap.com/place/B023B09LU0"
+        }
+      ],
+      "poiName": "杭州西湖风景名胜区-西泠桥",
+      "routeCoordinate": [
+        120.138486,
+        30.251927
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "曲院风荷",
+      "placeKey": "hangzhou:quyuan_fenghe",
+      "experienceKey": "hangzhou:quyuan_fenghe:waterside_park",
+      "searchKeyword": "曲院风荷",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B023B0253E",
+      "address": "杭州西湖风景名胜区杨公堤38号",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "coordinate": [
+        120.133333,
+        30.249287
+      ],
+      "entrance": [
+        120.131052,
+        30.24869
+      ],
+      "url": "https://ditu.amap.com/place/B023B0253E",
+      "candidates": [
+        {
+          "name": "杭州西湖风景名胜区-曲院风荷",
+          "poiId": "B023B0253E",
+          "address": "杭州西湖风景名胜区杨公堤38号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            120.133333,
+            30.249287
+          ],
+          "entrance": [
+            120.131052,
+            30.24869
+          ],
+          "url": "https://ditu.amap.com/place/B023B0253E"
+        },
+        {
+          "name": "曲院风荷碑廊",
+          "poiId": "B0FFHYMAXA",
+          "address": "杭州西湖风景名胜区杨公堤38号杭州西湖风景名胜区-曲院风荷(东北角)",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.134429,
+            30.25165
+          ],
+          "entrance": [
+            120.134507,
+            30.251845
+          ],
+          "url": "https://ditu.amap.com/place/B0FFHYMAXA"
+        },
+        {
+          "name": "杭州西湖风景名胜区-曲院风荷碑",
+          "poiId": "B023B1C0WC",
+          "address": "杭州西湖风景名胜区杨公堤38号杭州西湖风景名胜区-曲院风荷(东南角)",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.133848,
+            30.24824
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B023B1C0WC"
+        },
+        {
+          "name": "曲院风荷-绉云峰",
+          "poiId": "B023B17WV4",
+          "address": "北山街87-3号江南名石苑内",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.13332,
+            30.251495
+          ],
+          "entrance": [
+            120.133023,
+            30.252073
+          ],
+          "url": "https://ditu.amap.com/place/B023B17WV4"
+        },
+        {
+          "name": "曲院风荷-诸学香处",
+          "poiId": "B0FFFDL7J1",
+          "address": "北山路87-3号江南名石苑内",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            120.13288,
+            30.251781
+          ],
+          "entrance": [
+            120.132973,
+            30.251973
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFDL7J1"
+        },
+        {
+          "name": "曲院风荷三号门停车点",
+          "poiId": "B0FFG3TWCG",
+          "address": "杨公堤38号曲院风荷3号门旁",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            120.13109,
+            30.248802
+          ],
+          "entrance": [
+            120.131018,
+            30.248692
+          ],
+          "url": "https://ditu.amap.com/place/B0FFG3TWCG"
+        }
+      ],
+      "poiName": "杭州西湖风景名胜区-曲院风荷",
+      "routeCoordinate": [
+        120.131052,
+        30.24869
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    }
+  ],
+  "segments": [
+    {
+      "from": "断桥残雪",
+      "to": "白堤",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 2,
+          "distance": 2,
+          "steps": [
+            {
+              "road": "北山街",
+              "instruction": "沿北山街向东步行2米到达目的地",
+              "time": 2,
+              "distance": 2,
+              "nodes": [
+                [
+                  120.152261,
+                  30.25934
+                ],
+                [
+                  120.152287,
+                  30.259332
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 0,
+          "distance": 2,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    },
+    {
+      "from": "白堤",
+      "to": "平湖秋月",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 838,
+          "distance": 1048,
+          "steps": [
+            {
+              "road": "北山街",
+              "instruction": "沿北山街向东南步行2米右转",
+              "time": 2,
+              "distance": 2,
+              "nodes": [
+                [
+                  120.152287,
+                  30.259327
+                ],
+                [
+                  120.152309,
+                  30.259314
+                ]
+              ]
+            },
+            {
+              "road": "西湖景区环湖绿道",
+              "instruction": "沿西湖景区环湖绿道向西南步行1046米到达目的地",
+              "time": 837,
+              "distance": 1046,
+              "nodes": [
+                [
+                  120.152309,
+                  30.25931
+                ],
+                [
+                  120.152248,
+                  30.259188
+                ],
+                [
+                  120.152248,
+                  30.259188
+                ],
+                [
+                  120.151337,
+                  30.25819
+                ],
+                [
+                  120.151337,
+                  30.25819
+                ],
+                [
+                  120.150773,
+                  30.257578
+                ],
+                [
+                  120.150773,
+                  30.257578
+                ],
+                [
+                  120.150482,
+                  30.257253
+                ],
+                [
+                  120.150482,
+                  30.257253
+                ],
+                [
+                  120.150269,
+                  30.25701
+                ],
+                [
+                  120.150269,
+                  30.25701
+                ],
+                [
+                  120.150143,
+                  30.256871
+                ],
+                [
+                  120.150143,
+                  30.256871
+                ],
+                [
+                  120.150048,
+                  30.256758
+                ],
+                [
+                  120.150048,
+                  30.256758
+                ],
+                [
+                  120.14987,
+                  30.256554
+                ],
+                [
+                  120.14987,
+                  30.256554
+                ],
+                [
+                  120.149701,
+                  30.25635
+                ],
+                [
+                  120.149592,
+                  30.25622
+                ],
+                [
+                  120.149592,
+                  30.25622
+                ],
+                [
+                  120.149266,
+                  30.255825
+                ],
+                [
+                  120.149266,
+                  30.255825
+                ],
+                [
+                  120.149167,
+                  30.255707
+                ],
+                [
+                  120.149167,
+                  30.255707
+                ],
+                [
+                  120.149049,
+                  30.255569
+                ],
+                [
+                  120.149049,
+                  30.255569
+                ],
+                [
+                  120.148711,
+                  30.255139
+                ],
+                [
+                  120.148711,
+                  30.255139
+                ],
+                [
+                  120.147938,
+                  30.254236
+                ],
+                [
+                  120.147938,
+                  30.254236
+                ],
+                [
+                  120.147773,
+                  30.254036
+                ],
+                [
+                  120.147773,
+                  30.254036
+                ],
+                [
+                  120.147682,
+                  30.253924
+                ],
+                [
+                  120.147682,
+                  30.253924
+                ],
+                [
+                  120.147339,
+                  30.253507
+                ],
+                [
+                  120.147339,
+                  30.253507
+                ],
+                [
+                  120.147257,
+                  30.253411
+                ],
+                [
+                  120.147257,
+                  30.253411
+                ],
+                [
+                  120.147049,
+                  30.253164
+                ],
+                [
+                  120.147049,
+                  30.253164
+                ],
+                [
+                  120.14684,
+                  30.252995
+                ],
+                [
+                  120.14684,
+                  30.252995
+                ],
+                [
+                  120.146675,
+                  30.252856
+                ],
+                [
+                  120.146675,
+                  30.252856
+                ],
+                [
+                  120.146484,
+                  30.252713
+                ],
+                [
+                  120.146415,
+                  30.252652
+                ],
+                [
+                  120.146415,
+                  30.252652
+                ],
+                [
+                  120.145951,
+                  30.252287
+                ],
+                [
+                  120.145951,
+                  30.252287
+                ],
+                [
+                  120.145773,
+                  30.252127
+                ],
+                [
+                  120.145773,
+                  30.252127
+                ],
+                [
+                  120.145608,
+                  30.25197
+                ],
+                [
+                  120.145608,
+                  30.25197
+                ],
+                [
+                  120.145486,
+                  30.251845
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 621,
+          "distance": 2588,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 2019,
+          "distance": 3454,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 440,
+              "instruction": "步行402米到达少年宫",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 1316,
+              "instruction": "乘坐WE1314路(吴山广场总站--白堤1)途径3站到达白堤1",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "WE1314路(吴山广场总站--白堤1)"
+                }
+              ]
+            },
+            {
+              "time": 263,
+              "instruction": "步行250米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "平湖秋月",
+      "to": "孤山路",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 42,
+          "distance": 53,
+          "steps": [
+            {
+              "road": "孤山路",
+              "instruction": "沿孤山路向东北步行53米到达目的地",
+              "time": 42,
+              "distance": 53,
+              "nodes": [
+                [
+                  120.145482,
+                  30.25184
+                ],
+                [
+                  120.145603,
+                  30.251966
+                ],
+                [
+                  120.145603,
+                  30.251966
+                ],
+                [
+                  120.145768,
+                  30.252122
+                ],
+                [
+                  120.145768,
+                  30.252122
+                ],
+                [
+                  120.145855,
+                  30.252205
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 13,
+          "distance": 53,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    },
+    {
+      "from": "孤山路",
+      "to": "西泠桥",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 754,
+          "distance": 942,
+          "steps": [
+            {
+              "road": "孤山路",
+              "instruction": "沿孤山路向西步行900米向左前方行走",
+              "time": 720,
+              "distance": 900,
+              "nodes": [
+                [
+                  120.145855,
+                  30.252205
+                ],
+                [
+                  120.145773,
+                  30.252127
+                ],
+                [
+                  120.145773,
+                  30.252127
+                ],
+                [
+                  120.145608,
+                  30.25197
+                ],
+                [
+                  120.145608,
+                  30.25197
+                ],
+                [
+                  120.145477,
+                  30.25184
+                ],
+                [
+                  120.145477,
+                  30.25184
+                ],
+                [
+                  120.145434,
+                  30.25178
+                ],
+                [
+                  120.145434,
+                  30.25178
+                ],
+                [
+                  120.14533,
+                  30.251662
+                ],
+                [
+                  120.14533,
+                  30.251662
+                ],
+                [
+                  120.145143,
+                  30.251489
+                ],
+                [
+                  120.145143,
+                  30.251489
+                ],
+                [
+                  120.144983,
+                  30.251345
+                ],
+                [
+                  120.144983,
+                  30.251345
+                ],
+                [
+                  120.144831,
+                  30.251194
+                ],
+                [
+                  120.144831,
+                  30.251194
+                ],
+                [
+                  120.144475,
+                  30.250842
+                ],
+                [
+                  120.144475,
+                  30.250842
+                ],
+                [
+                  120.144253,
+                  30.250642
+                ],
+                [
+                  120.144253,
+                  30.250642
+                ],
+                [
+                  120.144115,
+                  30.250547
+                ],
+                [
+                  120.143767,
+                  30.250421
+                ],
+                [
+                  120.143767,
+                  30.250421
+                ],
+                [
+                  120.143316,
+                  30.25033
+                ],
+                [
+                  120.143316,
+                  30.25033
+                ],
+                [
+                  120.142843,
+                  30.250265
+                ],
+                [
+                  120.142843,
+                  30.250265
+                ],
+                [
+                  120.142457,
+                  30.250187
+                ],
+                [
+                  120.142457,
+                  30.250187
+                ],
+                [
+                  120.141771,
+                  30.250056
+                ],
+                [
+                  120.141597,
+                  30.250052
+                ],
+                [
+                  120.141597,
+                  30.250052
+                ],
+                [
+                  120.141376,
+                  30.2501
+                ],
+                [
+                  120.141224,
+                  30.250117
+                ],
+                [
+                  120.141224,
+                  30.250117
+                ],
+                [
+                  120.140278,
+                  30.250095
+                ],
+                [
+                  120.140278,
+                  30.250095
+                ],
+                [
+                  120.139857,
+                  30.250082
+                ],
+                [
+                  120.139857,
+                  30.250082
+                ],
+                [
+                  120.13964,
+                  30.2501
+                ],
+                [
+                  120.139466,
+                  30.250143
+                ],
+                [
+                  120.139362,
+                  30.250182
+                ],
+                [
+                  120.139362,
+                  30.250182
+                ],
+                [
+                  120.139058,
+                  30.250304
+                ],
+                [
+                  120.138932,
+                  30.250386
+                ],
+                [
+                  120.138867,
+                  30.250477
+                ],
+                [
+                  120.138832,
+                  30.250625
+                ],
+                [
+                  120.138832,
+                  30.251328
+                ],
+                [
+                  120.138832,
+                  30.251328
+                ],
+                [
+                  120.138832,
+                  30.251602
+                ],
+                [
+                  120.138811,
+                  30.251667
+                ]
+              ]
+            },
+            {
+              "road": "孤山路",
+              "instruction": "沿孤山路向西北步行42米到达目的地",
+              "time": 34,
+              "distance": 42,
+              "nodes": [
+                [
+                  120.138806,
+                  30.251667
+                ],
+                [
+                  120.13849,
+                  30.251927
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 226,
+          "distance": 942,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 715,
+          "distance": 950,
+          "cost": 5,
+          "steps": [],
+          "segments": [
+            {
+              "time": 126,
+              "instruction": "步行137米到达白堤",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 554,
+              "instruction": "乘坐白堤至雷峰塔专线(白堤--净寺)途径0站到达西泠桥",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "白堤至雷峰塔专线(白堤--净寺)"
+                }
+              ]
+            },
+            {
+              "time": 35,
+              "instruction": "步行29米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "西泠桥",
+      "to": "曲院风荷",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 906,
+          "distance": 1133,
+          "steps": [
+            {
+              "road": "孤山路",
+              "instruction": "沿孤山路向西北步行42米左转",
+              "time": 34,
+              "distance": 42,
+              "nodes": [
+                [
+                  120.138485,
+                  30.251927
+                ],
+                [
+                  120.138468,
+                  30.251944
+                ],
+                [
+                  120.138468,
+                  30.251944
+                ],
+                [
+                  120.138398,
+                  30.252005
+                ],
+                [
+                  120.138398,
+                  30.252005
+                ],
+                [
+                  120.138199,
+                  30.252214
+                ]
+              ]
+            },
+            {
+              "road": "北山街",
+              "instruction": "沿北山街向西步行190米",
+              "time": 152,
+              "distance": 190,
+              "nodes": [
+                [
+                  120.138194,
+                  30.252214
+                ],
+                [
+                  120.138003,
+                  30.252161
+                ],
+                [
+                  120.137522,
+                  30.252053
+                ],
+                [
+                  120.137522,
+                  30.252053
+                ],
+                [
+                  120.137066,
+                  30.251966
+                ],
+                [
+                  120.137066,
+                  30.251966
+                ],
+                [
+                  120.136571,
+                  30.251888
+                ],
+                [
+                  120.136571,
+                  30.251888
+                ],
+                [
+                  120.136246,
+                  30.25184
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行54米向右前方行走",
+              "time": 43,
+              "distance": 54,
+              "nodes": [
+                [
+                  120.136241,
+                  30.251836
+                ],
+                [
+                  120.136133,
+                  30.251753
+                ],
+                [
+                  120.135907,
+                  30.251714
+                ],
+                [
+                  120.13572,
+                  30.25174
+                ]
+              ]
+            },
+            {
+              "road": "北山街",
+              "instruction": "沿北山街向西步行415米向右前方行走",
+              "time": 332,
+              "distance": 415,
+              "nodes": [
+                [
+                  120.135716,
+                  30.25174
+                ],
+                [
+                  120.135616,
+                  30.251758
+                ],
+                [
+                  120.135339,
+                  30.251736
+                ],
+                [
+                  120.135339,
+                  30.251736
+                ],
+                [
+                  120.135208,
+                  30.251736
+                ],
+                [
+                  120.134883,
+                  30.251819
+                ],
+                [
+                  120.134883,
+                  30.251819
+                ],
+                [
+                  120.134319,
+                  30.251966
+                ],
+                [
+                  120.13418,
+                  30.251984
+                ],
+                [
+                  120.134002,
+                  30.251984
+                ],
+                [
+                  120.134002,
+                  30.251984
+                ],
+                [
+                  120.133728,
+                  30.25197
+                ],
+                [
+                  120.133728,
+                  30.25197
+                ],
+                [
+                  120.133559,
+                  30.251923
+                ],
+                [
+                  120.133559,
+                  30.251923
+                ],
+                [
+                  120.133403,
+                  30.251892
+                ],
+                [
+                  120.133329,
+                  30.251905
+                ],
+                [
+                  120.133329,
+                  30.251905
+                ],
+                [
+                  120.132821,
+                  30.252001
+                ],
+                [
+                  120.132821,
+                  30.252001
+                ],
+                [
+                  120.1325,
+                  30.25204
+                ],
+                [
+                  120.132344,
+                  30.252044
+                ],
+                [
+                  120.132344,
+                  30.252044
+                ],
+                [
+                  120.131944,
+                  30.252027
+                ],
+                [
+                  120.131836,
+                  30.252027
+                ],
+                [
+                  120.131649,
+                  30.252075
+                ],
+                [
+                  120.131493,
+                  30.252161
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西北步行17米左转",
+              "time": 14,
+              "distance": 17,
+              "nodes": [
+                [
+                  120.131489,
+                  30.252161
+                ],
+                [
+                  120.131406,
+                  30.2523
+                ]
+              ]
+            },
+            {
+              "road": "杨公堤",
+              "instruction": "沿杨公堤向西南步行84米向左前方行走",
+              "time": 67,
+              "distance": 84,
+              "nodes": [
+                [
+                  120.131402,
+                  30.2523
+                ],
+                [
+                  120.131172,
+                  30.251992
+                ],
+                [
+                  120.131172,
+                  30.251992
+                ],
+                [
+                  120.130924,
+                  30.251662
+                ]
+              ]
+            },
+            {
+              "road": "杨公堤",
+              "instruction": "沿杨公堤向南步行331米左转到达目的地",
+              "time": 265,
+              "distance": 331,
+              "nodes": [
+                [
+                  120.13092,
+                  30.251658
+                ],
+                [
+                  120.130903,
+                  30.250964
+                ],
+                [
+                  120.130903,
+                  30.250625
+                ],
+                [
+                  120.130981,
+                  30.249023
+                ],
+                [
+                  120.130981,
+                  30.249023
+                ],
+                [
+                  120.131011,
+                  30.248689
+                ],
+                [
+                  120.131011,
+                  30.248689
+                ],
+                [
+                  120.13105,
+                  30.248689
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 465,
+          "distance": 1937,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1622,
+          "distance": 2553,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 406,
+              "instruction": "步行437米到达新新饭店",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 875,
+              "instruction": "乘坐西湖外环线(工作日)(六公园--六公园)途径1站到达杭州花圃",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "西湖外环线(工作日)(六公园--六公园)"
+                }
+              ]
+            },
+            {
+              "time": 341,
+              "instruction": "步行354米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "routeQueriedAt": "2026-10-13T05:59:29.858Z"
+}

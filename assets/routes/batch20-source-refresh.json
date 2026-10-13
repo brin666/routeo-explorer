@@ -1,0 +1,155 @@
+{
+  "initialScan": "2026-10-13T05:40:02.141Z",
+  "finalScan": "2026-10-13T06:45:08.157Z",
+  "changedFiles": 96,
+  "removedFiles": 0,
+  "changedOriginalNotesOrImages": [],
+  "coreRouteComparisons": [
+    {
+      "city": "南京",
+      "plannedStops": 5,
+      "currentStops": 5,
+      "sameSequence": true,
+      "routeKind": "author_original"
+    },
+    {
+      "city": "成都",
+      "plannedStops": 4,
+      "currentStops": 4,
+      "sameSequence": true,
+      "routeKind": "researcher_subset"
+    },
+    {
+      "city": "西安",
+      "plannedStops": 4,
+      "currentStops": 4,
+      "sameSequence": true,
+      "routeKind": "author_original"
+    },
+    {
+      "city": "北京",
+      "plannedStops": 4,
+      "currentStops": 4,
+      "sameSequence": true,
+      "routeKind": "author_day_segment"
+    },
+    {
+      "city": "重庆",
+      "plannedStops": 4,
+      "currentStops": 4,
+      "sameSequence": true,
+      "routeKind": "researcher_subset"
+    },
+    {
+      "city": "洛阳",
+      "plannedStops": 4,
+      "currentStops": 4,
+      "sameSequence": true,
+      "routeKind": "researcher_subset"
+    },
+    {
+      "city": "武汉",
+      "plannedStops": 3,
+      "currentStops": 3,
+      "sameSequence": true,
+      "routeKind": "original_author_citywalk_same_day_schedule"
+    },
+    {
+      "city": "广州",
+      "plannedStops": 5,
+      "currentStops": 5,
+      "sameSequence": true,
+      "routeKind": "author_original"
+    },
+    {
+      "city": "长沙",
+      "plannedStops": 9,
+      "currentStops": 9,
+      "sameSequence": true,
+      "routeKind": "original_author_one_day_narrative"
+    },
+    {
+      "city": "上海",
+      "plannedStops": 4,
+      "currentStops": 4,
+      "sameSequence": true,
+      "routeKind": "original_author_one_day_route"
+    },
+    {
+      "city": "苏州",
+      "plannedStops": 5,
+      "currentStops": 5,
+      "sameSequence": true,
+      "routeKind": "researcher_subset"
+    },
+    {
+      "city": "杭州",
+      "plannedStops": 6,
+      "currentStops": 6,
+      "sameSequence": true,
+      "routeKind": "researcher_subset"
+    },
+    {
+      "city": "青岛",
+      "plannedStops": 5,
+      "currentStops": 5,
+      "sameSequence": true,
+      "routeKind": "author_original"
+    },
+    {
+      "city": "济南",
+      "plannedStops": 6,
+      "currentStops": 6,
+      "sameSequence": true,
+      "routeKind": "researcher_subset"
+    },
+    {
+      "city": "厦门",
+      "plannedStops": 6,
+      "currentStops": 6,
+      "sameSequence": true,
+      "routeKind": "author_original"
+    },
+    {
+      "city": "深圳",
+      "plannedStops": 3,
+      "currentStops": 3,
+      "sameSequence": true,
+      "routeKind": "author_original"
+    },
+    {
+      "city": "天津",
+      "plannedStops": 5,
+      "currentStops": 5,
+      "sameSequence": true,
+      "routeKind": "author_original"
+    },
+    {
+      "city": "福州",
+      "plannedStops": 3,
+      "currentStops": 3,
+      "sameSequence": true,
+      "routeKind": "author_original"
+    },
+    {
+      "city": "昆明",
+      "plannedStops": 5,
+      "currentStops": 5,
+      "sameSequence": true,
+      "routeKind": "author_original"
+    },
+    {
+      "city": "贵阳",
+      "plannedStops": 6,
+      "currentStops": 6,
+      "sameSequence": true,
+      "routeKind": "researcher_subset"
+    }
+  ],
+  "providerReported": {
+    "archivedNoteRecords": 82,
+    "completeGraphicNotes": 79,
+    "webImageFiles": 1012
+  },
+  "decision": "本轮变化为路线父级核验、索引、总览与参考副本；没有新增或改写原始笔记/网页原图。已按最新路线分类重新导入。"
+}

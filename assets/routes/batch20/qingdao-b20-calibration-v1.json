@@ -1,0 +1,62 @@
+{
+  "city": "青岛",
+  "slug": "qingdao",
+  "image": "./assets/routes/batch20/qingdao-b20-artwork-v1.webp",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "rasterSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "markers": [
+    {
+      "name": "石老人海浴场",
+      "placeKey": "qingdao:shilaoren_beach",
+      "x": 1388,
+      "y": 263
+    },
+    {
+      "name": "海之恋公园",
+      "placeKey": "qingdao:haizhilian_park",
+      "x": 1148,
+      "y": 470
+    },
+    {
+      "name": "小麦岛旁侧（未上岛）",
+      "placeKey": "qingdao:xiaomai_island",
+      "x": 962,
+      "y": 509
+    },
+    {
+      "name": "八大关",
+      "placeKey": "qingdao:badaguan",
+      "x": 356,
+      "y": 633
+    },
+    {
+      "name": "汇泉路",
+      "placeKey": "qingdao:huiquan_road",
+      "x": 145,
+      "y": 644
+    }
+  ],
+  "route": "M 1388 263 L 1340 281 L 1314 303 L 1292 344 L 1272 386 L 1313 424 L 1260 449 L 1199 451 L 1148 470 M 1148 470 L 1080 489 L 1008 496 L 962 509 M 962 509 L 882 533 L 817 555 L 730 565 L 660 587 L 576 617 L 520 655 L 473 678 L 425 685 L 397 679 L 370 660 L 356 633 M 356 633 L 352 678 L 326 699 L 278 711 L 252 713 L 231 687 L 204 673 L 180 655 L 145 644",
+  "segmentPaths": [
+    "M 1388 263 L 1340 281 L 1314 303 L 1292 344 L 1272 386 L 1313 424 L 1260 449 L 1199 451 L 1148 470",
+    "M 1148 470 L 1080 489 L 1008 496 L 962 509",
+    "M 962 509 L 882 533 L 817 555 L 730 565 L 660 587 L 576 617 L 520 655 L 473 678 L 425 685 L 397 679 L 370 660 L 356 633",
+    "M 356 633 L 352 678 L 326 699 L 278 711 L 252 713 L 231 687 L 204 673 L 180 655 L 145 644"
+  ],
+  "calibrationMethod": "manual visual inspection of generated artwork; marker entrances and visible roads adjusted after generation",
+  "routeStatus": "沿成品可见道路的插画示意；非实际导航或路网查询",
+  "generatedWith": "built-in image_gen",
+  "notes": [
+    "东侧石老人宽阔沙滩、中段海之恋草地公园、西侧八大关别墅街与汇泉路岩岸已目视。",
+    "小麦岛旁侧点位留在大陆海滨步道，线路不登岛、不穿海；离岸小岛的无依据小塔已局部移除。",
+    "跨城区距离压缩为可读插画，路线沿大陆岸上道路，非实际导航。"
+  ]
+}

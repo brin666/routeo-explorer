@@ -1,0 +1,53 @@
+{
+  "city": "南京",
+  "slug": "nanjing",
+  "width": 1200,
+  "height": 675,
+  "anchors": [
+    {
+      "name": "灵谷景区",
+      "placeKey": "nanjing.linggu_scenic",
+      "poiId": "B0FFHDXY5Z",
+      "x": 1010,
+      "y": 120,
+      "landmark": "Linggu temple and tall ochre multi-storey Linggu pagoda in dense forest"
+    },
+    {
+      "name": "音乐台",
+      "placeKey": "nanjing.music_stage",
+      "poiId": "B001909G6V",
+      "x": 649,
+      "y": 168,
+      "landmark": "sunken semi-circular Music Stage amphitheater with pale stone seating and pigeons"
+    },
+    {
+      "name": "中山陵",
+      "placeKey": "nanjing.sun_yatsen_mausoleum",
+      "poiId": "B0FFHVEECG",
+      "x": 547,
+      "y": 167,
+      "landmark": "Sun Yat-sen Mausoleum with long straight pale stone stairs rising north to a blue-roof memorial hall",
+      "visualSeparation": "nearby features enlarged for readability, not a new geographic coordinate"
+    },
+    {
+      "name": "美龄宫",
+      "placeKey": "nanjing.meiling_palace",
+      "poiId": "B0FFF0AJVN",
+      "x": 360,
+      "y": 560,
+      "landmark": "Meiling Palace: small yellow-walled mansion with green-glazed roof inside a ring of trees"
+    },
+    {
+      "name": "明孝陵",
+      "placeKey": "nanjing.ming_xiaoling",
+      "poiId": "B0FFFFKG55",
+      "x": 160,
+      "y": 297,
+      "landmark": "Ming Xiaoling red gate, curved stone animal avenue and forest-covered mausoleum"
+    }
+  ],
+  "terrain": "woodland",
+  "context": "Zhongshan wooded hills, winding park roads between separate monuments, no city grid in forest. Main axis of Sun Yat-sen Mausoleum points north.",
+  "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 南京, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Linggu temple and tall ochre multi-storey Linggu pagoda in dense forest, at 84% from left and 18% from top; 2: sunken semi-circular Music Stage amphitheater with pale stone seating and pigeons, at 54% from left and 25% from top; 3: Sun Yat-sen Mausoleum with long straight pale stone stairs rising north to a blue-roof memorial hall, at 46% from left and 25% from top; 4: Meiling Palace: small yellow-walled mansion with green-glazed roof inside a ring of trees, at 30% from left and 83% from top; 5: Ming Xiaoling red gate, curved stone animal avenue and forest-covered mausoleum, at 13% from left and 44% from top.\nGeographic context: Zhongshan wooded hills, winding park roads between separate monuments, no city grid in forest. Main axis of Sun Yat-sen Mausoleum points north.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.",
+  "geographicStatus": "AMap POI locations checked; draft artwork enlargement is a visual convention, not geographic coordinates"
+}

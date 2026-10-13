@@ -3,7 +3,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build:motion": "vite build --config vite.motion.config.js"
+    "build:pages": "node scripts/build-pages.mjs",
+    "stage:pages-assets": "node scripts/stage-pages-assets.mjs",
+    "build:motion": "vite build --config vite.motion.config.js",
+    "build:photos": "vite build --config vite.photos.config.js"
   },
   "dependencies": {
     "@remotion/player": "4.0.533",

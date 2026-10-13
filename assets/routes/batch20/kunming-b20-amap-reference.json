@@ -1,0 +1,1004 @@
+{
+  "city": "昆明",
+  "slug": "kunming",
+  "queriedAt": "2026-10-13T05:43:11.377Z",
+  "source": "AMap JS API 2.0 PlaceSearch",
+  "coordinateSystem": "GCJ-02",
+  "points": [
+    {
+      "name": "西寺塔",
+      "placeKey": "kunming.western_pagoda",
+      "experienceKey": "kunming.western_pagoda.street_photo_walk",
+      "searchKeyword": "西寺塔",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFGA3Q0C",
+      "address": "东寺街102号",
+      "type": "风景名胜;公园广场;城市广场",
+      "coordinate": [
+        102.708814,
+        25.028902
+      ],
+      "entrance": [
+        102.709132,
+        25.028926
+      ],
+      "url": "https://ditu.amap.com/place/B0FFGA3Q0C",
+      "candidates": [
+        {
+          "name": "西寺塔广场",
+          "poiId": "B0FFGA3Q0C",
+          "address": "东寺街102号",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            102.708814,
+            25.028902
+          ],
+          "entrance": [
+            102.709132,
+            25.028926
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGA3Q0C"
+        },
+        {
+          "name": "常乐寺塔",
+          "poiId": "B036707O6B",
+          "address": "书林街139号",
+          "type": "风景名胜;风景名胜;寺庙道观",
+          "coordinate": [
+            102.711988,
+            25.028926
+          ],
+          "entrance": [
+            102.711813,
+            25.028847
+          ],
+          "url": "https://ditu.amap.com/place/B036707O6B"
+        }
+      ],
+      "poiName": "西寺塔广场",
+      "routeCoordinate": [
+        102.709132,
+        25.028926
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "近日楼",
+      "placeKey": "kunming.jinri_building",
+      "experienceKey": "kunming.jinri_building.street_photo_walk",
+      "searchKeyword": "近日楼",
+      "status": "pending",
+      "selectionMethod": "no-confirmed-target-POI",
+      "poiId": null,
+      "address": null,
+      "type": null,
+      "coordinate": null,
+      "entrance": null,
+      "url": null,
+      "candidates": [
+        {
+          "name": "思善堂中医馆(近日楼馆)",
+          "poiId": "B0FFJQ5COX",
+          "address": "敬德巷阿诗玛翡翠城1栋101号",
+          "type": "医疗保健服务;诊所;诊所",
+          "coordinate": [
+            102.710578,
+            25.027799
+          ],
+          "entrance": [
+            102.71045,
+            25.027998
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJQ5COX"
+        },
+        {
+          "name": "龚禧里·遇见酒店(昆明金马碧鸡坊老街店)",
+          "poiId": "B0FFK65FD7",
+          "address": "书林街石桥铺56号(近日楼旁边)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            102.710621,
+            25.028433
+          ],
+          "entrance": [
+            102.710328,
+            25.028009
+          ],
+          "url": "https://ditu.amap.com/place/B0FFK65FD7"
+        },
+        {
+          "name": "近日隧道",
+          "poiId": "B0FFGFAXIG",
+          "address": "五华区",
+          "type": "地名地址信息;交通地名;隧道",
+          "coordinate": [
+            102.711141,
+            25.036791
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGFAXIG"
+        },
+        {
+          "name": "昆明职工之家",
+          "poiId": "B0367074LM",
+          "address": "书林街139号",
+          "type": "住宿服务;宾馆酒店;三星级宾馆",
+          "coordinate": [
+            102.711492,
+            25.028394
+          ],
+          "entrance": [
+            102.71183,
+            25.028
+          ],
+          "url": "https://ditu.amap.com/place/B0367074LM"
+        },
+        {
+          "name": "吉尚酒店(金马碧鸡坊昆华医院店)",
+          "poiId": "B0JRYHD644",
+          "address": "近日楼北门东北50米",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            102.710807,
+            25.029054
+          ],
+          "entrance": [
+            102.710677,
+            25.029054
+          ],
+          "url": "https://ditu.amap.com/place/B0JRYHD644"
+        },
+        {
+          "name": "麒麟大口茶(昆明南屏街店)",
+          "poiId": "B0H1VDQMZS",
+          "address": "南屏广场近日公园地下人员隐藏工程口部03号",
+          "type": "餐饮服务;休闲餐饮场所;休闲餐饮场所",
+          "coordinate": [
+            102.71006,
+            25.036801
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0H1VDQMZS"
+        },
+        {
+          "name": "happymiss花满楼(南屏茂店)",
+          "poiId": "B0LDR5D6JX",
+          "address": "护国街道办事处南屏广场近日公园地下人员隐蔽工程口部DM-02号铺面",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            102.709769,
+            25.036229
+          ],
+          "entrance": [
+            102.709984,
+            25.036241
+          ],
+          "url": "https://ditu.amap.com/place/B0LDR5D6JX"
+        },
+        {
+          "name": "意尔康(近日隧道店)",
+          "poiId": "B0367074OT",
+          "address": "南屏街72号(五一路地铁站B口步行450米)",
+          "type": "购物服务;服装鞋帽皮具店;品牌鞋店",
+          "coordinate": [
+            102.711332,
+            25.037115
+          ],
+          "entrance": [
+            102.711317,
+            25.036898
+          ],
+          "url": "https://ditu.amap.com/place/B0367074OT"
+        },
+        {
+          "name": "但家香酥鸭(昆明但家香酥鸭南屏街店)",
+          "poiId": "B0IU27O5WK",
+          "address": "护国街道办事处南屏广场近日公园地下人员隐蔽工程口部02号",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            102.710042,
+            25.037029
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IU27O5WK"
+        },
+        {
+          "name": "东风东路",
+          "poiId": "B0IATO35UC",
+          "address": "五华区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            102.716128,
+            25.038003
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IATO35UC"
+        },
+        {
+          "name": "东风东路",
+          "poiId": "B0JGNX3OBO",
+          "address": "盘龙区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            102.731784,
+            25.038371
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0JGNX3OBO"
+        }
+      ],
+      "poiName": null,
+      "candidateQueries": [
+        {
+          "keyword": "近日楼",
+          "status": "complete",
+          "info": "OK",
+          "candidateCount": 5
+        },
+        {
+          "keyword": "近日公园",
+          "status": "complete",
+          "info": "OK",
+          "candidateCount": 10
+        }
+      ],
+      "previousSelection": {
+        "name": "思善堂中医馆(近日楼馆)",
+        "poiId": "B0FFJQ5COX",
+        "coordinate": [
+          102.710578,
+          25.027799
+        ],
+        "address": "敬德巷阿诗玛翡翠城1栋101号",
+        "type": "医疗保健服务;诊所;诊所"
+      },
+      "rejectedCandidates": [
+        {
+          "name": "思善堂中医馆(近日楼馆)",
+          "poiId": "B0FFJQ5COX",
+          "coordinate": [
+            102.710578,
+            25.027799
+          ],
+          "address": "敬德巷阿诗玛翡翠城1栋101号",
+          "type": "医疗保健服务;诊所;诊所",
+          "reason": "医疗或诊所POI，不是近日楼本体；名称里的“近日楼馆”不能证明本体身份。"
+        },
+        {
+          "name": "龚禧里·遇见酒店(昆明金马碧鸡坊老街店)",
+          "poiId": "B0FFK65FD7",
+          "address": "书林街石桥铺56号(近日楼旁边)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            102.710621,
+            25.028433
+          ],
+          "entrance": [
+            102.710328,
+            25.028009
+          ],
+          "url": "https://ditu.amap.com/place/B0FFK65FD7",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "近日隧道",
+          "poiId": "B0FFGFAXIG",
+          "address": "五华区",
+          "type": "地名地址信息;交通地名;隧道",
+          "coordinate": [
+            102.711141,
+            25.036791
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGFAXIG",
+          "reason": "隧道是不同交通地点，不是近日楼本体。"
+        },
+        {
+          "name": "昆明职工之家",
+          "poiId": "B0367074LM",
+          "address": "书林街139号",
+          "type": "住宿服务;宾馆酒店;三星级宾馆",
+          "coordinate": [
+            102.711492,
+            25.028394
+          ],
+          "entrance": [
+            102.71183,
+            25.028
+          ],
+          "url": "https://ditu.amap.com/place/B0367074LM",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "吉尚酒店(金马碧鸡坊昆华医院店)",
+          "poiId": "B0JRYHD644",
+          "address": "近日楼北门东北50米",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            102.710807,
+            25.029054
+          ],
+          "entrance": [
+            102.710677,
+            25.029054
+          ],
+          "url": "https://ditu.amap.com/place/B0JRYHD644",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "麒麟大口茶(昆明南屏街店)",
+          "poiId": "B0H1VDQMZS",
+          "address": "南屏广场近日公园地下人员隐藏工程口部03号",
+          "type": "餐饮服务;休闲餐饮场所;休闲餐饮场所",
+          "coordinate": [
+            102.71006,
+            25.036801
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0H1VDQMZS",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "happymiss花满楼(南屏茂店)",
+          "poiId": "B0LDR5D6JX",
+          "address": "护国街道办事处南屏广场近日公园地下人员隐蔽工程口部DM-02号铺面",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            102.709769,
+            25.036229
+          ],
+          "entrance": [
+            102.709984,
+            25.036241
+          ],
+          "url": "https://ditu.amap.com/place/B0LDR5D6JX",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "意尔康(近日隧道店)",
+          "poiId": "B0367074OT",
+          "address": "南屏街72号(五一路地铁站B口步行450米)",
+          "type": "购物服务;服装鞋帽皮具店;品牌鞋店",
+          "coordinate": [
+            102.711332,
+            25.037115
+          ],
+          "entrance": [
+            102.711317,
+            25.036898
+          ],
+          "url": "https://ditu.amap.com/place/B0367074OT",
+          "reason": "隧道是不同交通地点，不是近日楼本体。"
+        },
+        {
+          "name": "但家香酥鸭(昆明但家香酥鸭南屏街店)",
+          "poiId": "B0IU27O5WK",
+          "address": "护国街道办事处南屏广场近日公园地下人员隐蔽工程口部02号",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            102.710042,
+            25.037029
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IU27O5WK",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "东风东路",
+          "poiId": "B0IATO35UC",
+          "address": "五华区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            102.716128,
+            25.038003
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IATO35UC",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "东风东路",
+          "poiId": "B0JGNX3OBO",
+          "address": "盘龙区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            102.731784,
+            25.038371
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0JGNX3OBO",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        }
+      ],
+      "reviewedAt": "2026-10-13T05:59:49.781Z",
+      "selectionNote": "近日楼和近日公园两个检索词均未返回可确认的楼体POI；中医馆、酒店、近日隧道和南屏广场关联商户不能替代。保留待核并清空错误坐标，需补近日楼本体官方位置或可验证高德POI。",
+      "routeCoordinate": null,
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "敬德巷",
+      "placeKey": "kunming.jingde_lane",
+      "experienceKey": "kunming.jingde_lane.street_photo_walk",
+      "searchKeyword": "敬德巷",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "BZ8DMU019W",
+      "address": "西山区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        102.711749,
+        25.028004
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/BZ8DMU019W",
+      "candidates": [
+        {
+          "name": "敬德巷",
+          "poiId": "BZ8DMU019W",
+          "address": "西山区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            102.711749,
+            25.028004
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BZ8DMU019W"
+        },
+        {
+          "name": "书林街与敬德巷交叉口",
+          "poiId": "B0FFGG9RHZ",
+          "address": "西山区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            102.71185,
+            25.02837
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGG9RHZ"
+        },
+        {
+          "name": "东寺街与敬德巷交叉口",
+          "poiId": "B0FFGGY9CR",
+          "address": "西山区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            102.709173,
+            25.028
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGGY9CR"
+        },
+        {
+          "name": "敬德巷与书林街交叉口",
+          "poiId": "B0M2MHGA7W",
+          "address": "西山区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            102.71183,
+            25.028003
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0M2MHGA7W"
+        },
+        {
+          "name": "书林街",
+          "poiId": "B036707F9K",
+          "address": "西山区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            102.711855,
+            25.02826
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B036707F9K"
+        },
+        {
+          "name": "敬德巷南侧停车场",
+          "poiId": "B0MUA51ES7",
+          "address": "敬德巷与东寺街交叉口东100米",
+          "type": "交通设施服务;停车场;路边停车场",
+          "coordinate": [
+            102.710282,
+            25.027929
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0MUA51ES7"
+        }
+      ],
+      "poiName": "敬德巷",
+      "routeCoordinate": [
+        102.711749,
+        25.028004
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "巡津新村",
+      "placeKey": "kunming.xunjin_new_village",
+      "experienceKey": "kunming.xunjin_new_village.street_photo_walk",
+      "searchKeyword": "巡津新村",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B03670W7TM",
+      "address": "巡津街",
+      "type": "商务住宅;住宅区;住宅区",
+      "coordinate": [
+        102.713403,
+        25.028056
+      ],
+      "entrance": [
+        102.713429,
+        25.028073
+      ],
+      "url": "https://ditu.amap.com/place/B03670W7TM",
+      "candidates": [
+        {
+          "name": "巡津新村",
+          "poiId": "B03670W7TM",
+          "address": "巡津街",
+          "type": "商务住宅;住宅区;住宅区",
+          "coordinate": [
+            102.713403,
+            25.028056
+          ],
+          "entrance": [
+            102.713429,
+            25.028073
+          ],
+          "url": "https://ditu.amap.com/place/B03670W7TM"
+        },
+        {
+          "name": "巡津新村21号院",
+          "poiId": "B0FFF7AC3Y",
+          "address": "巡津新村环路巡津新村",
+          "type": "商务住宅;住宅区;住宅小区",
+          "coordinate": [
+            102.71384,
+            25.028649
+          ],
+          "entrance": [
+            102.713993,
+            25.028602
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF7AC3Y"
+        },
+        {
+          "name": "巡津新村5号院",
+          "poiId": "B0FFF88CRY",
+          "address": "巡津新村环路巡津新村",
+          "type": "商务住宅;住宅区;住宅小区",
+          "coordinate": [
+            102.713723,
+            25.027783
+          ],
+          "entrance": [
+            102.713611,
+            25.027821
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF88CRY"
+        },
+        {
+          "name": "巡津新村19号院",
+          "poiId": "B0FFF7AC1I",
+          "address": "巡津新村环路巡津新村",
+          "type": "商务住宅;住宅区;住宅小区",
+          "coordinate": [
+            102.713636,
+            25.028345
+          ],
+          "entrance": [
+            102.713824,
+            25.02826
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF7AC1I"
+        },
+        {
+          "name": "巡津新村3号院",
+          "poiId": "B0FFF7AC3E",
+          "address": "巡津新村环路巡津新村",
+          "type": "商务住宅;住宅区;住宅小区",
+          "coordinate": [
+            102.714186,
+            25.028536
+          ],
+          "entrance": [
+            102.714041,
+            25.028493
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF7AC3E"
+        },
+        {
+          "name": "巡津新村14号院",
+          "poiId": "B0FFF88CRV",
+          "address": "巡津新村环路巡津新村",
+          "type": "商务住宅;住宅区;住宅小区",
+          "coordinate": [
+            102.712788,
+            25.028185
+          ],
+          "entrance": [
+            102.712982,
+            25.02803
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF88CRV"
+        }
+      ],
+      "poiName": "巡津新村",
+      "routeCoordinate": [
+        102.713429,
+        25.028073
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "铁皮巷",
+      "placeKey": "kunming.tiepi_lane",
+      "experienceKey": "kunming.tiepi_lane.street_photo_walk",
+      "searchKeyword": "铁皮巷",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "BZ8DMU01PK",
+      "address": "西山区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        102.712613,
+        25.02686
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/BZ8DMU01PK",
+      "candidates": [
+        {
+          "name": "铁皮巷",
+          "poiId": "BZ8DMU01PK",
+          "address": "西山区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            102.712613,
+            25.02686
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BZ8DMU01PK"
+        },
+        {
+          "name": "巡津街与铁皮巷交叉口",
+          "poiId": "B0FFHVIIJY",
+          "address": "西山区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            102.71379,
+            25.02668
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFHVIIJY"
+        },
+        {
+          "name": "书林街与铁皮巷交叉口",
+          "poiId": "B0FFGGM9LL",
+          "address": "西山区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            102.711598,
+            25.027371
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGGM9LL"
+        },
+        {
+          "name": "DDou's cafe(铁皮巷店)",
+          "poiId": "B0JKLC6UYA",
+          "address": "铁皮巷",
+          "type": "餐饮服务;咖啡厅;咖啡厅",
+          "coordinate": [
+            102.712452,
+            25.02694
+          ],
+          "entrance": [
+            102.712131,
+            25.026944
+          ],
+          "url": "https://ditu.amap.com/place/B0JKLC6UYA"
+        },
+        {
+          "name": "A little is(有点意思)",
+          "poiId": "B0K23ZSK5X",
+          "address": "铁皮巷",
+          "type": "餐饮服务;冷饮店;冷饮店",
+          "coordinate": [
+            102.712205,
+            25.027194
+          ],
+          "entrance": [
+            102.712184,
+            25.027155
+          ],
+          "url": "https://ditu.amap.com/place/B0K23ZSK5X"
+        },
+        {
+          "name": "铁皮巷-道路停车位",
+          "poiId": "B0FFGI9MMN",
+          "address": "铁皮巷与书林街交叉口东南20米",
+          "type": "交通设施服务;停车场;路边停车场",
+          "coordinate": [
+            102.71181,
+            25.027267
+          ],
+          "entrance": [
+            102.712262,
+            25.027117
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGI9MMN"
+        }
+      ],
+      "poiName": "铁皮巷",
+      "routeCoordinate": [
+        102.712613,
+        25.02686
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    }
+  ],
+  "segments": [
+    {
+      "from": "西寺塔",
+      "to": "近日楼",
+      "options": {},
+      "status": "pending"
+    },
+    {
+      "from": "近日楼",
+      "to": "敬德巷",
+      "options": {},
+      "status": "pending"
+    },
+    {
+      "from": "敬德巷",
+      "to": "巡津新村",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 169,
+          "distance": 211,
+          "steps": [
+            {
+              "road": "敬德巷",
+              "instruction": "沿敬德巷向北步行48米右转",
+              "time": 38,
+              "distance": 48,
+              "nodes": [
+                [
+                  102.711745,
+                  25.028003
+                ],
+                [
+                  102.711827,
+                  25.028003
+                ],
+                [
+                  102.711827,
+                  25.028003
+                ],
+                [
+                  102.711853,
+                  25.028255
+                ],
+                [
+                  102.711853,
+                  25.028368
+                ]
+              ]
+            },
+            {
+              "road": "敬德巷",
+              "instruction": "沿敬德巷向东步行163米到达目的地",
+              "time": 130,
+              "distance": 163,
+              "nodes": [
+                [
+                  102.711849,
+                  25.028368
+                ],
+                [
+                  102.712422,
+                  25.028351
+                ],
+                [
+                  102.71273,
+                  25.028312
+                ],
+                [
+                  102.713064,
+                  25.028242
+                ],
+                [
+                  102.713064,
+                  25.028242
+                ],
+                [
+                  102.713351,
+                  25.028129
+                ],
+                [
+                  102.713351,
+                  25.028129
+                ],
+                [
+                  102.713411,
+                  25.028103
+                ],
+                [
+                  102.713411,
+                  25.028103
+                ],
+                [
+                  102.713433,
+                  25.028095
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 51,
+          "distance": 211,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    },
+    {
+      "from": "巡津新村",
+      "to": "铁皮巷",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 314,
+          "distance": 393,
+          "steps": [
+            {
+              "road": "敬德巷",
+              "instruction": "沿敬德巷向西步行163米左转",
+              "time": 130,
+              "distance": 163,
+              "nodes": [
+                [
+                  102.713433,
+                  25.02809
+                ],
+                [
+                  102.713416,
+                  25.028099
+                ],
+                [
+                  102.713416,
+                  25.028099
+                ],
+                [
+                  102.713355,
+                  25.028125
+                ],
+                [
+                  102.713355,
+                  25.028125
+                ],
+                [
+                  102.713069,
+                  25.028238
+                ],
+                [
+                  102.713069,
+                  25.028238
+                ],
+                [
+                  102.712734,
+                  25.028307
+                ],
+                [
+                  102.712426,
+                  25.028346
+                ],
+                [
+                  102.711853,
+                  25.028368
+                ]
+              ]
+            },
+            {
+              "road": "书林街",
+              "instruction": "沿书林街向南步行113米左转",
+              "time": 90,
+              "distance": 113,
+              "nodes": [
+                [
+                  102.711849,
+                  25.028368
+                ],
+                [
+                  102.711853,
+                  25.02826
+                ],
+                [
+                  102.711832,
+                  25.028003
+                ],
+                [
+                  102.711832,
+                  25.028003
+                ],
+                [
+                  102.711753,
+                  25.027765
+                ],
+                [
+                  102.711753,
+                  25.027765
+                ],
+                [
+                  102.711602,
+                  25.027374
+                ]
+              ]
+            },
+            {
+              "road": "铁皮巷",
+              "instruction": "沿铁皮巷向东南步行117米到达目的地",
+              "time": 94,
+              "distance": 117,
+              "nodes": [
+                [
+                  102.711597,
+                  25.02737
+                ],
+                [
+                  102.711736,
+                  25.027335
+                ],
+                [
+                  102.712205,
+                  25.027148
+                ],
+                [
+                  102.712205,
+                  25.027148
+                ],
+                [
+                  102.712274,
+                  25.027109
+                ],
+                [
+                  102.712591,
+                  25.026875
+                ],
+                [
+                  102.712609,
+                  25.026862
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 156,
+          "distance": 648,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    }
+  ],
+  "geographyReviewedAt": "2026-10-13T05:59:49.781Z",
+  "geographyReviewSource": "AMap JS API 2.0 untyped PlaceSearch; manually inspected target candidates",
+  "routeQueriedAt": "2026-10-13T06:04:05.872Z"
+}

@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-13",
+  "city": "洛阳",
+  "slug": "luoyang",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "coordinateSystem": "illustration-pixels",
+  "status": "visual-road-calibration",
+  "artwork": "luoyang-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "丽景门",
+      "placeKey": "luoyang.lijinmen",
+      "x": 326,
+      "y": 520,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "东西大街",
+      "placeKey": "luoyang.east_west_streets",
+      "x": 1458,
+      "y": 130,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "鼓楼",
+      "placeKey": "luoyang.drum_tower",
+      "x": 1102,
+      "y": 322,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "洛邑古城",
+      "placeKey": "luoyang.luoyi_ancient_city",
+      "x": 1093,
+      "y": 671,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    }
+  ],
+  "route": "M 326 520 L 353 514 L 423 487 L 517 454 L 632 420 L 703 397 L 772 376 L 855 350 L 935 324 L 1002 304 L 1102 322 L 1221 257 L 1338 189 L 1458 130 M 1458 130 L 1338 189 L 1221 257 L 1102 322 M 1102 322 L 1155 334 L 1206 432 L 1264 483 L 1235 518 L 1161 560 L 1097 586 L 1013 622 L 967 658 L 1039 677 L 1093 671",
+  "segmentPaths": [
+    "M 326 520 L 353 514 L 423 487 L 517 454 L 632 420 L 703 397 L 772 376 L 855 350 L 935 324 L 1002 304 L 1102 322 L 1221 257 L 1338 189 L 1458 130",
+    "M 1458 130 L 1338 189 L 1221 257 L 1102 322",
+    "M 1102 322 L 1155 334 L 1206 432 L 1264 483 L 1235 518 L 1161 560 L 1097 586 L 1013 622 L 967 658 L 1039 677 L 1093 671"
+  ],
+  "layoutAnchors": {
+    "width": 1200,
+    "height": 675,
+    "anchors": [
+      {
+        "name": "丽景门",
+        "placeKey": "luoyang.lijinmen",
+        "poiId": "B017B02MM7",
+        "x": 160,
+        "y": 505,
+        "landmark": "Lijing Gate: tall fortified gate tower with grey masonry and traditional roof"
+      },
+      {
+        "name": "东西大街",
+        "placeKey": "luoyang.east_west_streets",
+        "poiId": "BZBLP000SG",
+        "x": 1010,
+        "y": 120,
+        "landmark": "East and West old streets: long narrow commercial street with grey tiles and small shop fronts"
+      },
+      {
+        "name": "鼓楼",
+        "placeKey": "luoyang.drum_tower",
+        "poiId": "B017B01ZFG",
+        "x": 794,
+        "y": 221,
+        "landmark": "Drum Tower: compact multi-storey traditional roof tower over an old street"
+      },
+      {
+        "name": "洛邑古城",
+        "placeKey": "luoyang.luoyi_ancient_city",
+        "poiId": "B0FFHUC3GQ",
+        "x": 896,
+        "y": 560,
+        "landmark": "Luoyi Ancient City: compact traditional pavilions, curving small ponds and old masonry pagoda"
+      }
+    ]
+  },
+  "generation": {
+    "tool": "built-in image_gen",
+    "generatedOriginal": "C:\\Users\\BL\\.codex\\generated_images\\01a1334a-17ee-7c80-968b-0fecd9e8a713\\exec-03f750a2-6d5f-4a7c-8845-b3216dfcf27e.png",
+    "references": [
+      "luoyang-b20-structure-v1.png",
+      "../guangzhou-map-illustrated-v2.png"
+    ],
+    "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 洛阳, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Lijing Gate: tall fortified gate tower with grey masonry and traditional roof, at 13% from left and 75% from top; 2: East and West old streets: long narrow commercial street with grey tiles and small shop fronts, at 84% from left and 18% from top; 3: Drum Tower: compact multi-storey traditional roof tower over an old street, at 66% from left and 33% from top; 4: Luoyi Ancient City: compact traditional pavilions, curving small ponds and old masonry pagoda, at 75% from left and 83% from top.\nGeographic context: Old city has an east-west historic street with irregular fine-grained courtyards around it and modern outskirts. Short visual connections must follow streets, not cross roofs.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.\nCritical geographic correction: this central Luoyang historic street district has NO large river, canal, moat, water border or bridges around Lijingmen. Render LAND continuously along the left and bottom borders. Water is allowed ONLY as a few small enclosed ornamental ponds inside Luoyi Ancient City in the lower-right; these ponds must remain small and fully enclosed by land. The route from Lijingmen to East-West Streets and Drum Tower follows land-based old streets. Do not copy Guangzhou's island, river, boats, bridges or church. Strictly no textual marks, numbered points or itinerary lines."
+  },
+  "notes": [
+    "第一版错误大河已弃用；采用的成图只有洛邑古城内小池塘。",
+    "丽景门锚点采用城内塔旁可见街道；东西大街→鼓楼沿同一商业街回行；洛邑锚点取池塘外的入口路径。"
+  ]
+}

@@ -120,13 +120,15 @@ function escapeText(value) {
 }
 
 export class RouteMap {
-  constructor(host, route, points, onPointHover, onPointSelect, onJourneyStep = () => {}) {
+  constructor(host, route, points, onPointHover, onPointSelect, onJourneyStep = () => {}, story = {}) {
     this.host = host;
     this.route = route;
     this.points = points;
     this.onPointHover = onPointHover;
     this.onPointSelect = onPointSelect;
     this.onJourneyStep = onJourneyStep;
+    this.story = story;
+    this.selectedModes = (story.legs || []).map((leg) => leg.recommendedMode || "walk");
     this.markerContent = [];
     this.markers = this.markerContent;
     this.revealedPoints = new Set();
@@ -161,7 +163,7 @@ export class RouteMap {
     this.host.classList.add(this.isArtwork ? "route-map-stage__map--bitmap" : "route-map-stage__map--schematic");
     this.host.classList.add("route-map-stage__map--interactive");
     this.host.tabIndex = 0;
-    this.host.setAttribute("aria-label", "路线插画地图，可滚轮或双指缩放、拖动平移；键盘可用加减键和方向键操作，按 Home 回到全图");
+    this.host.setAttribute("aria-label", "路线插画地图，可滚轮或双指缩放、拖动平移；键盘可用加减键和方向键操作，按 Home 回到初始视野");
     this.host.setAttribute("aria-keyshortcuts", "Equal Shift+Equal - Home ArrowLeft ArrowRight ArrowUp ArrowDown");
 
     const frame = document.createElement("div");
@@ -202,11 +204,29 @@ export class RouteMap {
       if (this.destroyed) return null;
     }
 
-    this.layoutObserver = new ResizeObserver(() => this.updateLayout());
+    this.layoutObserver = new ResizeObserver(() => {
+      if (this.story.mobileStartAtFirst && !this.userTookControl && this.zoomLevel <= this.minZoom + 0.01) {
+        const overview = this.getOverviewPan();
+        this.panX = overview.x;
+        this.panY = overview.y;
+      }
+      this.updateLayout();
+    });
     this.layoutObserver.observe(this.host);
+    const overview = this.getOverviewPan();
+    this.panX = overview.x;
+    this.panY = overview.y;
     this.updateLayout();
     this.motionReady = this.mountRouteMotion().catch(() => null);
     return null;
+  }
+
+  routePathForSelectedModes() {
+    const legs = this.story?.legs || [];
+    if (legs.length === this.points.length - 1 && legs.every((leg) => leg.options?.["walk"]?.path)) {
+      return legs.map((leg, index) => leg.options?.[this.selectedModes[index]]?.path || leg.options.walk.path).join(" ");
+    }
+    return this.route.storyArtwork?.route || "";
   }
 
   async mountRouteMotion() {
@@ -217,7 +237,7 @@ export class RouteMap {
     if (this.isArtwork) {
       const artwork = this.route.storyArtwork;
       const anchors = artwork?.markers || [];
-      const pathData = artwork?.route || curveThroughPoints(anchors);
+      const pathData = this.routePathForSelectedModes() || curveThroughPoints(anchors);
       if (!pathData) return null;
 
       temporarySource = document.createElementNS(SVG_NS, "svg");
@@ -265,6 +285,33 @@ export class RouteMap {
     if (this.destroyed) return null;
     this.frame.classList.add("has-remotion-route");
     return routeMotion;
+  }
+
+  setLegMode(index, mode) {
+    const leg = this.story?.legs?.[index];
+    if (!leg?.options?.[mode] || this.selectedModes[index] === mode) return;
+    this.selectedModes[index] = mode;
+    if (!this.motionLayer || this.destroyed) return;
+
+    const animateRoute = this.host.classList.contains("is-route-motion-visible");
+    this.routeMotion?.destroy();
+    this.routeMotion = null;
+    this.motionReady = this.mountRouteMotion().then((motion) => {
+      if (!motion || !animateRoute || this.destroyed) return motion;
+      this.frame.classList.add("is-route-motion-visible");
+      this.host.classList.add("is-route-motion-visible");
+      motion.seekTo(0);
+      const started = performance.now();
+      const duration = 760;
+      const animate = (now) => {
+        if (this.destroyed || this.routeMotion !== motion) return;
+        const progress = Math.min(1, (now - started) / duration);
+        motion.seekTo(Math.round(progress * (motion.durationInFrames - 1)));
+        if (progress < 1) requestAnimationFrame(animate);
+      };
+      requestAnimationFrame(animate);
+      return motion;
+    }).catch(() => null);
   }
 
   takeManualControl() {
@@ -542,16 +589,33 @@ export class RouteMap {
 
   resetView() {
     this.zoomLevel = 1;
-    this.panX = 0;
-    this.panY = 0;
+    const overview = this.getOverviewPan();
+    this.panX = overview.x;
+    this.panY = overview.y;
     this.updateLayout({ animate: true, duration: 420 });
+  }
+
+  getOverviewPan() {
+    const first = this.getGeometryPoints()[0];
+    if (!this.story.mobileStartAtFirst || window.innerWidth > 760 || !first) return { x: 0, y: 0 };
+    const layout = this.getLayout();
+    const point = this.getCanvasPosition(first);
+    const renderedWidth = layout.frameWidth * layout.baseScale;
+    const renderedHeight = layout.frameHeight * layout.baseScale;
+    const originX = Math.max(layout.width - renderedWidth, Math.min(0, layout.width / 2 - point.x * layout.baseScale));
+    const originY = Math.max(layout.height - renderedHeight, Math.min(0, layout.height / 2 - point.y * layout.baseScale));
+    return { x: originX - layout.left, y: originY - layout.top };
   }
 
   updateMapAffordances() {
     if (!this.fitButton) return;
+    const overview = this.getOverviewPan();
+    const mobileStart = this.story.mobileStartAtFirst && window.innerWidth <= 760;
+    this.fitButton.querySelector("span").textContent = mobileStart ? "回到起点" : "看全程";
+    this.fitButton.setAttribute("aria-label", mobileStart ? "回到路线起点视野" : "回到全图视野");
     const atOverview = this.zoomLevel <= this.minZoom + 0.01
-      && Math.abs(this.panX) < 3
-      && Math.abs(this.panY) < 3;
+      && Math.abs(this.panX - overview.x) < 3
+      && Math.abs(this.panY - overview.y) < 3;
     this.fitButton.hidden = atOverview;
   }
 

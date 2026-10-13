@@ -1,0 +1,2925 @@
+{
+  "city": "长沙",
+  "slug": "changsha",
+  "queriedAt": "2026-10-13T05:42:53.238Z",
+  "source": "AMap JS API 2.0 PlaceSearch",
+  "coordinateSystem": "GCJ-02",
+  "points": [
+    {
+      "name": "坡子街",
+      "placeKey": "changsha_pozi_street",
+      "experienceKey": "changsha_pozi_street_streetfront_glance",
+      "searchKeyword": "坡子街",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFGQ570S",
+      "address": "天心区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        112.97258,
+        28.190339
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0FFGQ570S",
+      "candidates": [
+        {
+          "name": "坡子街",
+          "poiId": "B0FFGQ570S",
+          "address": "天心区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            112.97258,
+            28.190339
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGQ570S"
+        },
+        {
+          "name": "坡子街",
+          "poiId": "B0FFFA7LMX",
+          "address": "天心区",
+          "type": "地名地址信息;交通地名;道路名|购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            112.974033,
+            28.189867
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFFA7LMX"
+        },
+        {
+          "name": "坡子街(公交站)",
+          "poiId": "BV10231188",
+          "address": "123路;143路;156路;1路;222路;308路;358路;69路夜班;804路;901路;908路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            112.968783,
+            28.19074
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV10231188"
+        },
+        {
+          "name": "坡子街美食城",
+          "poiId": "B0FFK5A4QK",
+          "address": "坡子街115号(青和上座店)",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            112.972787,
+            28.190556
+          ],
+          "entrance": [
+            112.972824,
+            28.190288
+          ],
+          "url": "https://ditu.amap.com/place/B0FFK5A4QK"
+        },
+        {
+          "name": "坡子街派出所",
+          "poiId": "B02DB04LXO",
+          "address": "火后街14号(五一广场地铁站国金街8号口步行410米)",
+          "type": "政府机构及社会团体;公检法机构;公安警察",
+          "coordinate": [
+            112.972733,
+            28.190747
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B02DB04LXO"
+        },
+        {
+          "name": "坡子街夜市",
+          "poiId": "B0MD4RJRB0",
+          "address": "坡子街65号华远·云玺",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            112.971525,
+            28.190825
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0MD4RJRB0"
+        }
+      ],
+      "poiName": "坡子街",
+      "routeCoordinate": [
+        112.97258,
+        28.190339
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "苏家巷",
+      "placeKey": "changsha_sujia_lane",
+      "experienceKey": "changsha_sujia_lane_renewed_shops_walk",
+      "searchKeyword": "苏家巷",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0IA3AQ99R",
+      "address": "芙蓉区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        112.977131,
+        28.189405
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0IA3AQ99R",
+      "candidates": [
+        {
+          "name": "苏家巷",
+          "poiId": "B0IA3AQ99R",
+          "address": "芙蓉区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            112.977131,
+            28.189405
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IA3AQ99R"
+        },
+        {
+          "name": "苏家巷47号",
+          "poiId": "B0L2KHGQ1S",
+          "address": "定王台街道苏家巷45号",
+          "type": "地名地址信息;门牌信息;门牌信息",
+          "coordinate": [
+            112.977383,
+            28.18923
+          ],
+          "entrance": [
+            112.977181,
+            28.189209
+          ],
+          "url": "https://ditu.amap.com/place/B0L2KHGQ1S"
+        },
+        {
+          "name": "白果园巷与苏家巷交叉口",
+          "poiId": "B0FFGGSA9W",
+          "address": "芙蓉区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.977921,
+            28.189395
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGGSA9W"
+        },
+        {
+          "name": "登隆街与苏家巷交叉口",
+          "poiId": "B0FFGGSZ6N",
+          "address": "芙蓉区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.977921,
+            28.189395
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGGSZ6N"
+        },
+        {
+          "name": "6500·苏家巷(IFS国金中心店)",
+          "poiId": "B0IK9HX7NO",
+          "address": "苏家巷37号(黄兴广场地铁站1号口步行200米)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            112.977767,
+            28.189263
+          ],
+          "entrance": [
+            112.977663,
+            28.189399
+          ],
+          "url": "https://ditu.amap.com/place/B0IK9HX7NO"
+        },
+        {
+          "name": "苏家巷古法酱板鸭店",
+          "poiId": "B0FFGFHXGX",
+          "address": "苏家巷30号(黄兴广场地铁站1号口步行220米)",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            112.977899,
+            28.189461
+          ],
+          "entrance": [
+            112.977939,
+            28.189449
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGFHXGX"
+        }
+      ],
+      "poiName": "苏家巷",
+      "routeCoordinate": [
+        112.977131,
+        28.189405
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "东茅街",
+      "placeKey": "changsha_dongmao_street",
+      "experienceKey": "changsha_dongmao_street_street_food",
+      "searchKeyword": "东茅街",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFH6IK44",
+      "address": "芙蓉区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        112.979388,
+        28.190172
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0FFH6IK44",
+      "candidates": [
+        {
+          "name": "东茅街",
+          "poiId": "B0FFH6IK44",
+          "address": "芙蓉区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            112.979388,
+            28.190172
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFH6IK44"
+        },
+        {
+          "name": "长沙市芙蓉区东茅街学校",
+          "poiId": "B02DB0461F",
+          "address": "东茅街84号(黄兴广场地铁站1号口步行360米)",
+          "type": "科教文化服务;学校;小学",
+          "coordinate": [
+            112.979373,
+            28.190624
+          ],
+          "entrance": [
+            112.979357,
+            28.190232
+          ],
+          "url": "https://ditu.amap.com/place/B02DB0461F"
+        },
+        {
+          "name": "东茅街与登隆街交叉口",
+          "poiId": "B0FFGQC4AA",
+          "address": "芙蓉区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.978223,
+            28.190389
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGQC4AA"
+        },
+        {
+          "name": "东茅街与都正街交叉口",
+          "poiId": "B0FFGGQ7FG",
+          "address": "芙蓉区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.982359,
+            28.189682
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGGQ7FG"
+        },
+        {
+          "name": "东茅街茶馆",
+          "poiId": "B0KA573CDG",
+          "address": "东茅街附023号",
+          "type": "餐饮服务;茶艺馆;茶艺馆",
+          "coordinate": [
+            112.979765,
+            28.1902
+          ],
+          "entrance": [
+            112.979766,
+            28.190107
+          ],
+          "url": "https://ditu.amap.com/place/B0KA573CDG"
+        },
+        {
+          "name": "东茅街小区",
+          "poiId": "B02DB07RLF",
+          "address": "东茅街29号",
+          "type": "商务住宅;住宅区;住宅小区",
+          "coordinate": [
+            112.981828,
+            28.189528
+          ],
+          "entrance": [
+            112.981631,
+            28.189721
+          ],
+          "url": "https://ditu.amap.com/place/B02DB07RLF"
+        }
+      ],
+      "poiName": "东茅街",
+      "routeCoordinate": [
+        112.979388,
+        28.190172
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "黄兴路步行街",
+      "placeKey": "changsha_huangxing_road_pedestrian_street",
+      "experienceKey": "changsha_huangxing_road_busy_street_view",
+      "searchKeyword": "黄兴路步行街",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0KUBZUUAY",
+      "address": "天心区",
+      "type": "地名地址信息;热点地名;热点地名",
+      "coordinate": [
+        112.975913,
+        28.188015
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0KUBZUUAY",
+      "candidates": [
+        {
+          "name": "黄兴路步行街",
+          "poiId": "B0KUBZUUAY",
+          "address": "天心区",
+          "type": "地名地址信息;热点地名;热点地名",
+          "coordinate": [
+            112.975913,
+            28.188015
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0KUBZUUAY"
+        },
+        {
+          "name": "天心黄兴路步行街-许愿洞",
+          "poiId": "B0MBFS4D72",
+          "address": "东牌楼街与走马楼巷交叉口南100米",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            112.977675,
+            28.192525
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0MBFS4D72"
+        },
+        {
+          "name": "黄兴路步行街中心广场",
+          "poiId": "B0FFHJ43SA",
+          "address": "黄兴中路与人民西路交汇处90米(黄兴广场地铁站2号口旁)",
+          "type": "购物服务;商场;购物中心",
+          "coordinate": [
+            112.976424,
+            28.188459
+          ],
+          "entrance": [
+            112.976924,
+            28.188481
+          ],
+          "url": "https://ditu.amap.com/place/B0FFHJ43SA"
+        },
+        {
+          "name": "安踏黄兴路步行街旗舰店",
+          "poiId": "B0MA9UB6LK",
+          "address": "黄兴南路294号(黄兴广场地铁站2号口步行210米)一楼二楼",
+          "type": "购物服务;体育用品店;体育用品店",
+          "coordinate": [
+            112.976475,
+            28.186625
+          ],
+          "entrance": [
+            112.976262,
+            28.186275
+          ],
+          "url": "https://ditu.amap.com/place/B0MA9UB6LK"
+        },
+        {
+          "name": "黄兴南路步行商业街",
+          "poiId": "B0G1DSFNG9",
+          "address": "黄兴南路383号(南门口地铁站1号口步行50米)",
+          "type": "购物服务;特色商业街;步行街",
+          "coordinate": [
+            112.975908,
+            28.184013
+          ],
+          "entrance": [
+            112.976303,
+            28.19138
+          ],
+          "url": "https://ditu.amap.com/place/B0G1DSFNG9"
+        },
+        {
+          "name": "长沙五一广场黄兴路步行街亚朵酒店",
+          "poiId": "B0IRKSV4EJ",
+          "address": "白沙路207号",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            112.982535,
+            28.181682
+          ],
+          "entrance": [
+            112.982535,
+            28.181591
+          ],
+          "url": "https://ditu.amap.com/place/B0IRKSV4EJ"
+        }
+      ],
+      "poiName": "黄兴路步行街",
+      "routeCoordinate": [
+        112.975913,
+        28.188015
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "轩辕殿巷",
+      "placeKey": "changsha_xuanyuandian_lane",
+      "experienceKey": "changsha_xuanyuandian_lane_analog_vintage_shops",
+      "searchKeyword": "轩辕殿巷",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "BZ9FP4003U",
+      "address": "开福区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        112.974578,
+        28.196246
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/BZ9FP4003U",
+      "candidates": [
+        {
+          "name": "轩辕殿巷",
+          "poiId": "BZ9FP4003U",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            112.974578,
+            28.196246
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BZ9FP4003U"
+        },
+        {
+          "name": "五一大道与轩辕殿巷交叉口",
+          "poiId": "B0FFGQA96A",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.974498,
+            28.1954
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGQA96A"
+        },
+        {
+          "name": "春风街与轩辕殿巷交叉口",
+          "poiId": "B0FFGGKPD6",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.974732,
+            28.197218
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGGKPD6"
+        },
+        {
+          "name": "和轩aaa民宿(轩辕殿巷分店)",
+          "poiId": "B0JAOUUCLJ",
+          "address": "轩辕殿巷31号(五一广场地铁站8号口步行130米)",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            112.97453,
+            28.196252
+          ],
+          "entrance": [
+            112.974576,
+            28.196239
+          ],
+          "url": "https://ditu.amap.com/place/B0JAOUUCLJ"
+        },
+        {
+          "name": "轩辕殿小区",
+          "poiId": "B02DB04UJD",
+          "address": "仓后街73号(五一广场地铁站6A口步行190米)",
+          "type": "商务住宅;住宅区;住宅小区",
+          "coordinate": [
+            112.975095,
+            28.196888
+          ],
+          "entrance": [
+            112.975281,
+            28.196925
+          ],
+          "url": "https://ditu.amap.com/place/B02DB04UJD"
+        },
+        {
+          "name": "国王剧场(轩辕殿居民楼店)",
+          "poiId": "B0G0O7VRPF",
+          "address": "轩辕殿巷95号(五一广场地铁站8号口步行250米)",
+          "type": "购物服务;服装鞋帽皮具店;服装鞋帽皮具店",
+          "coordinate": [
+            112.974497,
+            28.196772
+          ],
+          "entrance": [
+            112.97447,
+            28.196823
+          ],
+          "url": "https://ditu.amap.com/place/B0G0O7VRPF"
+        }
+      ],
+      "poiName": "轩辕殿巷",
+      "routeCoordinate": [
+        112.974578,
+        28.196246
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "西长街",
+      "placeKey": "changsha_xichang_street",
+      "experienceKey": "changsha_xichang_street_cafe_streetscape",
+      "searchKeyword": "西长街",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0HGTS9KAG",
+      "address": "开福区",
+      "type": "地名地址信息;热点地名;热点地名",
+      "coordinate": [
+        112.971979,
+        28.198177
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0HGTS9KAG",
+      "candidates": [
+        {
+          "name": "西长街",
+          "poiId": "B0HGTS9KAG",
+          "address": "开福区",
+          "type": "地名地址信息;热点地名;热点地名",
+          "coordinate": [
+            112.971979,
+            28.198177
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0HGTS9KAG"
+        },
+        {
+          "name": "西长街",
+          "poiId": "BZ9FP401KR",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            112.971976,
+            28.197538
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BZ9FP401KR"
+        },
+        {
+          "name": "五一大道与西长街交叉口",
+          "poiId": "B0FFLL5PFD",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.971802,
+            28.195492
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFLL5PFD"
+        },
+        {
+          "name": "西长街与中山路交叉口",
+          "poiId": "B0FFGGTKLK",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.972269,
+            28.200653
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGGTKLK"
+        },
+        {
+          "name": "如意街与西长街交叉口",
+          "poiId": "B0FFH4R15J",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.972136,
+            28.199156
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFH4R15J"
+        },
+        {
+          "name": "永兴街与西长街交叉口",
+          "poiId": "B0FFH4QWWV",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            112.972107,
+            28.198272
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFH4QWWV"
+        }
+      ],
+      "poiName": "西长街",
+      "routeCoordinate": [
+        112.971979,
+        28.198177
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "潮宗街",
+      "placeKey": "changsha_chaozong_street",
+      "experienceKey": "changsha_chaozong_street_renewal_exterior",
+      "searchKeyword": "潮宗街",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0L07U2LED",
+      "address": "开福区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        112.974806,
+        28.203007
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0L07U2LED",
+      "candidates": [
+        {
+          "name": "潮宗街",
+          "poiId": "B0L07U2LED",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            112.974806,
+            28.203007
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0L07U2LED"
+        },
+        {
+          "name": "潮宗街(公交站)",
+          "poiId": "BV10231168",
+          "address": "11路;123路;222路;804路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            112.970983,
+            28.203921
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV10231168"
+        },
+        {
+          "name": "潮宗街区",
+          "poiId": "B0G0PUFVAN",
+          "address": "通泰街街道潮宗街22号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            112.974319,
+            28.202487
+          ],
+          "entrance": [
+            112.975463,
+            28.20283
+          ],
+          "url": "https://ditu.amap.com/place/B0G0PUFVAN"
+        },
+        {
+          "name": "潮宗街小学",
+          "poiId": "B0FFHUX24S",
+          "address": "潮宗街梓园巷13号",
+          "type": "科教文化服务;学校;小学",
+          "coordinate": [
+            112.973098,
+            28.202822
+          ],
+          "entrance": [
+            112.973318,
+            28.203172
+          ],
+          "url": "https://ditu.amap.com/place/B0FFHUX24S"
+        },
+        {
+          "name": "潮宗街教堂",
+          "poiId": "B0FFKMQJND",
+          "address": "潮宗街187号",
+          "type": "风景名胜;风景名胜;教堂",
+          "coordinate": [
+            112.972557,
+            28.203154
+          ],
+          "entrance": [
+            112.97267,
+            28.203251
+          ],
+          "url": "https://ditu.amap.com/place/B0FFKMQJND"
+        },
+        {
+          "name": "BIPOLAR(潮宗街店)",
+          "poiId": "B0JKOUHK3E",
+          "address": "通泰街街道潮宗街水道巷29号潮宗街区(东南角)",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            112.975027,
+            28.201872
+          ],
+          "entrance": [
+            112.975034,
+            28.201912
+          ],
+          "url": "https://ditu.amap.com/place/B0JKOUHK3E"
+        }
+      ],
+      "poiName": "潮宗街",
+      "routeCoordinate": [
+        112.974806,
+        28.203007
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "北正街",
+      "placeKey": "changsha_beizheng_street",
+      "experienceKey": "changsha_beizheng_street_terminal_walk",
+      "searchKeyword": "北正街",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0IATXA3S0",
+      "address": "开福区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        112.975188,
+        28.201256
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0IATXA3S0",
+      "candidates": [
+        {
+          "name": "北正街",
+          "poiId": "B0IATXA3S0",
+          "address": "开福区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            112.975188,
+            28.201256
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IATXA3S0"
+        },
+        {
+          "name": "北正街",
+          "poiId": "B0KUBZTAHQ",
+          "address": "开福区",
+          "type": "地名地址信息;热点地名;热点地名",
+          "coordinate": [
+            112.976731,
+            28.204658
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0KUBZTAHQ"
+        },
+        {
+          "name": "北正街(潮宗街历史文化街区店)",
+          "poiId": "B0G231G3YG",
+          "address": "北正街与中山路交叉口东北20米",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            112.975212,
+            28.20079
+          ],
+          "entrance": [
+            112.975048,
+            28.200634
+          ],
+          "url": "https://ditu.amap.com/place/B0G231G3YG"
+        },
+        {
+          "name": "长沙市北正街教堂",
+          "poiId": "B02DB00D25",
+          "address": "黄兴北路76号",
+          "type": "风景名胜;风景名胜;教堂",
+          "coordinate": [
+            112.976325,
+            28.203532
+          ],
+          "entrance": [
+            112.975706,
+            28.203536
+          ],
+          "url": "https://ditu.amap.com/place/B02DB00D25"
+        },
+        {
+          "name": "北正街粉店(凯乐国际城店)",
+          "poiId": "B0I1HMQ9BH",
+          "address": "湘江中路一段52号凯乐国际城一期",
+          "type": "餐饮服务;快餐厅;快餐厅",
+          "coordinate": [
+            112.977184,
+            28.218608
+          ],
+          "entrance": [
+            112.977247,
+            28.218442
+          ],
+          "url": "https://ditu.amap.com/place/B0I1HMQ9BH"
+        },
+        {
+          "name": "北正街粉店(天心区政府店)",
+          "poiId": "B0I17GM2OD",
+          "address": "星城荣域B座西门旁(省政府·清风地铁站3号口旁)",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            112.988225,
+            28.110209
+          ],
+          "entrance": [
+            112.988198,
+            28.110271
+          ],
+          "url": "https://ditu.amap.com/place/B0I17GM2OD"
+        }
+      ],
+      "poiName": "北正街",
+      "routeCoordinate": [
+        112.975188,
+        28.201256
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "中山亭",
+      "placeKey": "changsha_zhongshan_pavilion",
+      "experienceKey": "changsha_zhongshan_pavilion_terminal_view",
+      "searchKeyword": "中山亭",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B02DB045MO",
+      "address": "通泰街街道通泰街街道黄兴中路245号",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "coordinate": [
+        112.976014,
+        28.200444
+      ],
+      "entrance": [
+        112.976153,
+        28.200834
+      ],
+      "url": "https://ditu.amap.com/place/B02DB045MO",
+      "candidates": [
+        {
+          "name": "中山亭(暂停开放)",
+          "poiId": "B02DB045MO",
+          "address": "通泰街街道通泰街街道黄兴中路245号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            112.976014,
+            28.200444
+          ],
+          "entrance": [
+            112.976153,
+            28.200834
+          ],
+          "url": "https://ditu.amap.com/place/B02DB045MO"
+        },
+        {
+          "name": "中山亭(公交站)",
+          "poiId": "BV10231264",
+          "address": "112路;123路;143路;167路;228路;2路;501路;69路;808路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            112.975902,
+            28.201609
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV10231264"
+        },
+        {
+          "name": "中山亭/中山路",
+          "poiId": "B0HGTZ78N9",
+          "address": "开福区",
+          "type": "地名地址信息;热点地名;热点地名",
+          "coordinate": [
+            112.976812,
+            28.200723
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0HGTZ78N9"
+        },
+        {
+          "name": "中山亭网咖",
+          "poiId": "B02DB04KVN",
+          "address": "中山西路245号(五一广场地铁站6A口步行470米)",
+          "type": "体育休闲服务;娱乐场所;网吧",
+          "coordinate": [
+            112.975439,
+            28.200183
+          ],
+          "entrance": [
+            112.975882,
+            28.200117
+          ],
+          "url": "https://ditu.amap.com/place/B02DB04KVN"
+        },
+        {
+          "name": "开福交管大队中山亭中队",
+          "poiId": "B0J30HFFUK",
+          "address": "湘江路中山路西北角",
+          "type": "政府机构及社会团体;交通车辆管理;交通管理机构",
+          "coordinate": [
+            112.97017,
+            28.201361
+          ],
+          "entrance": [
+            112.970286,
+            28.201341
+          ],
+          "url": "https://ditu.amap.com/place/B0J30HFFUK"
+        },
+        {
+          "name": "中影翰海数字影城(中山亭店)",
+          "poiId": "B0GUKUE0ZB",
+          "address": "中山路272号",
+          "type": "体育休闲服务;影剧院;电影院",
+          "coordinate": [
+            112.976707,
+            28.200733
+          ],
+          "entrance": [
+            112.976071,
+            28.200967
+          ],
+          "url": "https://ditu.amap.com/place/B0GUKUE0ZB"
+        }
+      ],
+      "poiName": "中山亭(暂停开放)",
+      "routeCoordinate": [
+        112.976153,
+        28.200834
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    }
+  ],
+  "segments": [
+    {
+      "from": "坡子街",
+      "to": "苏家巷",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 399,
+          "distance": 499,
+          "steps": [
+            {
+              "road": "坡子街",
+              "instruction": "沿坡子街向东步行369米右转",
+              "time": 295,
+              "distance": 369,
+              "nodes": [
+                [
+                  112.972578,
+                  28.190339
+                ],
+                [
+                  112.972791,
+                  28.190299
+                ],
+                [
+                  112.972791,
+                  28.190299
+                ],
+                [
+                  112.973242,
+                  28.1902
+                ],
+                [
+                  112.973242,
+                  28.1902
+                ],
+                [
+                  112.973563,
+                  28.19013
+                ],
+                [
+                  112.973563,
+                  28.19013
+                ],
+                [
+                  112.973767,
+                  28.190082
+                ],
+                [
+                  112.973767,
+                  28.190082
+                ],
+                [
+                  112.973911,
+                  28.190056
+                ],
+                [
+                  112.973911,
+                  28.190056
+                ],
+                [
+                  112.974193,
+                  28.190009
+                ],
+                [
+                  112.974592,
+                  28.189983
+                ],
+                [
+                  112.974592,
+                  28.189983
+                ],
+                [
+                  112.974922,
+                  28.189961
+                ],
+                [
+                  112.974922,
+                  28.189961
+                ],
+                [
+                  112.975751,
+                  28.1899
+                ],
+                [
+                  112.975751,
+                  28.1899
+                ],
+                [
+                  112.976337,
+                  28.189918
+                ]
+              ]
+            },
+            {
+              "road": "步行商业街",
+              "instruction": "沿步行商业街向南步行55米左转",
+              "time": 44,
+              "distance": 55,
+              "nodes": [
+                [
+                  112.976337,
+                  28.189918
+                ],
+                [
+                  112.976337,
+                  28.189418
+                ]
+              ]
+            },
+            {
+              "road": "苏家巷",
+              "instruction": "沿苏家巷向东步行75米到达目的地",
+              "time": 60,
+              "distance": 75,
+              "nodes": [
+                [
+                  112.976337,
+                  28.189414
+                ],
+                [
+                  112.976558,
+                  28.189414
+                ],
+                [
+                  112.976558,
+                  28.189414
+                ],
+                [
+                  112.976745,
+                  28.189414
+                ],
+                [
+                  112.976745,
+                  28.189414
+                ],
+                [
+                  112.977027,
+                  28.189405
+                ],
+                [
+                  112.977027,
+                  28.189405
+                ],
+                [
+                  112.977127,
+                  28.189405
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 240,
+          "distance": 999,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    },
+    {
+      "from": "苏家巷",
+      "to": "东茅街",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 242,
+          "distance": 302,
+          "steps": [
+            {
+              "road": "苏家巷",
+              "instruction": "沿苏家巷向东步行76米左转",
+              "time": 61,
+              "distance": 76,
+              "nodes": [
+                [
+                  112.977127,
+                  28.189401
+                ],
+                [
+                  112.977444,
+                  28.189401
+                ],
+                [
+                  112.977444,
+                  28.189401
+                ],
+                [
+                  112.977652,
+                  28.189401
+                ],
+                [
+                  112.977652,
+                  28.189401
+                ],
+                [
+                  112.977921,
+                  28.189397
+                ]
+              ]
+            },
+            {
+              "road": "登隆街",
+              "instruction": "沿登隆街向北步行111米右转",
+              "time": 89,
+              "distance": 111,
+              "nodes": [
+                [
+                  112.977921,
+                  28.189392
+                ],
+                [
+                  112.977995,
+                  28.189627
+                ],
+                [
+                  112.977995,
+                  28.189627
+                ],
+                [
+                  112.978047,
+                  28.189805
+                ],
+                [
+                  112.978047,
+                  28.189805
+                ],
+                [
+                  112.978129,
+                  28.190052
+                ],
+                [
+                  112.978129,
+                  28.190052
+                ],
+                [
+                  112.978203,
+                  28.190308
+                ],
+                [
+                  112.978203,
+                  28.190308
+                ],
+                [
+                  112.97822,
+                  28.190391
+                ]
+              ]
+            },
+            {
+              "road": "东茅街",
+              "instruction": "沿东茅街向东步行115米到达目的地",
+              "time": 92,
+              "distance": 115,
+              "nodes": [
+                [
+                  112.97822,
+                  28.190391
+                ],
+                [
+                  112.978841,
+                  28.190299
+                ],
+                [
+                  112.978841,
+                  28.190299
+                ],
+                [
+                  112.979132,
+                  28.190239
+                ],
+                [
+                  112.979132,
+                  28.190239
+                ],
+                [
+                  112.979245,
+                  28.190213
+                ],
+                [
+                  112.979245,
+                  28.190213
+                ],
+                [
+                  112.97934,
+                  28.190187
+                ],
+                [
+                  112.979388,
+                  28.190178
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 72,
+          "distance": 302,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    },
+    {
+      "from": "东茅街",
+      "to": "黄兴路步行街",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 463,
+          "distance": 579,
+          "steps": [
+            {
+              "road": "东茅街",
+              "instruction": "沿东茅街向西步行123米向左前方行走",
+              "time": 98,
+              "distance": 123,
+              "nodes": [
+                [
+                  112.979388,
+                  28.190174
+                ],
+                [
+                  112.979345,
+                  28.190182
+                ],
+                [
+                  112.979249,
+                  28.190208
+                ],
+                [
+                  112.979249,
+                  28.190208
+                ],
+                [
+                  112.979136,
+                  28.190234
+                ],
+                [
+                  112.979136,
+                  28.190234
+                ],
+                [
+                  112.978845,
+                  28.190295
+                ],
+                [
+                  112.978845,
+                  28.190295
+                ],
+                [
+                  112.978225,
+                  28.190391
+                ],
+                [
+                  112.978225,
+                  28.190391
+                ],
+                [
+                  112.978207,
+                  28.190313
+                ]
+              ]
+            },
+            {
+              "road": "育英街",
+              "instruction": "沿育英街向西步行183米左转",
+              "time": 146,
+              "distance": 183,
+              "nodes": [
+                [
+                  112.978203,
+                  28.190308
+                ],
+                [
+                  112.977747,
+                  28.19043
+                ],
+                [
+                  112.977747,
+                  28.19043
+                ],
+                [
+                  112.977543,
+                  28.190464
+                ],
+                [
+                  112.977344,
+                  28.190447
+                ],
+                [
+                  112.977344,
+                  28.190447
+                ],
+                [
+                  112.977253,
+                  28.190425
+                ],
+                [
+                  112.976949,
+                  28.190404
+                ],
+                [
+                  112.976949,
+                  28.190404
+                ],
+                [
+                  112.976567,
+                  28.190391
+                ],
+                [
+                  112.976567,
+                  28.190391
+                ],
+                [
+                  112.976359,
+                  28.190382
+                ]
+              ]
+            },
+            {
+              "road": "步行商业街",
+              "instruction": "沿步行商业街向南步行233米右转",
+              "time": 186,
+              "distance": 233,
+              "nodes": [
+                [
+                  112.976354,
+                  28.190378
+                ],
+                [
+                  112.976341,
+                  28.190004
+                ],
+                [
+                  112.976341,
+                  28.190004
+                ],
+                [
+                  112.976341,
+                  28.189922
+                ],
+                [
+                  112.976341,
+                  28.189922
+                ],
+                [
+                  112.976341,
+                  28.189418
+                ],
+                [
+                  112.976341,
+                  28.189418
+                ],
+                [
+                  112.976324,
+                  28.188698
+                ],
+                [
+                  112.976324,
+                  28.188698
+                ],
+                [
+                  112.976324,
+                  28.188555
+                ],
+                [
+                  112.976324,
+                  28.188555
+                ],
+                [
+                  112.976319,
+                  28.188516
+                ],
+                [
+                  112.976319,
+                  28.188516
+                ],
+                [
+                  112.976319,
+                  28.188437
+                ],
+                [
+                  112.976319,
+                  28.188437
+                ],
+                [
+                  112.976315,
+                  28.188238
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行17米向左前方行走",
+              "time": 14,
+              "distance": 17,
+              "nodes": [
+                [
+                  112.976311,
+                  28.188234
+                ],
+                [
+                  112.976137,
+                  28.188238
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行23米到达目的地",
+              "time": 18,
+              "distance": 23,
+              "nodes": [
+                [
+                  112.976133,
+                  28.188238
+                ],
+                [
+                  112.976037,
+                  28.188168
+                ],
+                [
+                  112.975955,
+                  28.188164
+                ],
+                [
+                  112.97592,
+                  28.188164
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 361,
+          "distance": 1504,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1717,
+          "distance": 2303,
+          "cost": 4,
+          "steps": [],
+          "segments": [
+            {
+              "time": 132,
+              "instruction": "步行140米到达柑子园西",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 899,
+              "instruction": "乘坐358路(世界之窗--丰顺路黄鹤路口)途径1站到达长郡中学",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "358路(世界之窗--丰顺路黄鹤路口)"
+                }
+              ]
+            },
+            {
+              "time": 197,
+              "instruction": "步行140米到达南门口",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 270,
+              "instruction": "乘坐地铁1号线(尚双塘--金盆丘(铜官窑巴士站))途径0站到达黄兴广场",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "地铁1号线(尚双塘--金盆丘(铜官窑巴士站))"
+                }
+              ]
+            },
+            {
+              "time": 219,
+              "instruction": "步行176米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "黄兴路步行街",
+      "to": "轩辕殿巷",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 859,
+          "distance": 1074,
+          "steps": [
+            {
+              "road": "",
+              "instruction": "向东步行23米向右前方行走",
+              "time": 18,
+              "distance": 23,
+              "nodes": [
+                [
+                  112.975916,
+                  28.18816
+                ],
+                [
+                  112.975951,
+                  28.18816
+                ],
+                [
+                  112.976033,
+                  28.188164
+                ],
+                [
+                  112.976133,
+                  28.188238
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东步行17米左转",
+              "time": 14,
+              "distance": 17,
+              "nodes": [
+                [
+                  112.976133,
+                  28.188238
+                ],
+                [
+                  112.976311,
+                  28.188238
+                ]
+              ]
+            },
+            {
+              "road": "步行商业街",
+              "instruction": "沿步行商业街向北步行790米左转",
+              "time": 632,
+              "distance": 790,
+              "nodes": [
+                [
+                  112.976311,
+                  28.188234
+                ],
+                [
+                  112.976315,
+                  28.188433
+                ],
+                [
+                  112.976315,
+                  28.188433
+                ],
+                [
+                  112.976315,
+                  28.188511
+                ],
+                [
+                  112.976315,
+                  28.188511
+                ],
+                [
+                  112.976319,
+                  28.18855
+                ],
+                [
+                  112.976319,
+                  28.18855
+                ],
+                [
+                  112.976319,
+                  28.188694
+                ],
+                [
+                  112.976319,
+                  28.188694
+                ],
+                [
+                  112.976337,
+                  28.189414
+                ],
+                [
+                  112.976337,
+                  28.189414
+                ],
+                [
+                  112.976337,
+                  28.189918
+                ],
+                [
+                  112.976337,
+                  28.189918
+                ],
+                [
+                  112.976337,
+                  28.19
+                ],
+                [
+                  112.976337,
+                  28.19
+                ],
+                [
+                  112.976354,
+                  28.190378
+                ],
+                [
+                  112.976354,
+                  28.190378
+                ],
+                [
+                  112.97635,
+                  28.190916
+                ],
+                [
+                  112.97635,
+                  28.190985
+                ],
+                [
+                  112.976328,
+                  28.191181
+                ],
+                [
+                  112.976328,
+                  28.191181
+                ],
+                [
+                  112.976302,
+                  28.191419
+                ],
+                [
+                  112.976302,
+                  28.191419
+                ],
+                [
+                  112.976254,
+                  28.191532
+                ],
+                [
+                  112.976254,
+                  28.192122
+                ],
+                [
+                  112.976254,
+                  28.192122
+                ],
+                [
+                  112.976263,
+                  28.192348
+                ],
+                [
+                  112.976263,
+                  28.192348
+                ],
+                [
+                  112.976267,
+                  28.192669
+                ],
+                [
+                  112.976267,
+                  28.192669
+                ],
+                [
+                  112.976267,
+                  28.19273
+                ],
+                [
+                  112.976267,
+                  28.19273
+                ],
+                [
+                  112.976285,
+                  28.193151
+                ],
+                [
+                  112.976285,
+                  28.193151
+                ],
+                [
+                  112.976293,
+                  28.193364
+                ],
+                [
+                  112.976293,
+                  28.193364
+                ],
+                [
+                  112.976293,
+                  28.193646
+                ],
+                [
+                  112.976293,
+                  28.193646
+                ],
+                [
+                  112.976293,
+                  28.193867
+                ],
+                [
+                  112.976293,
+                  28.193867
+                ],
+                [
+                  112.976293,
+                  28.194457
+                ],
+                [
+                  112.976293,
+                  28.194457
+                ],
+                [
+                  112.97628,
+                  28.194848
+                ],
+                [
+                  112.97628,
+                  28.194848
+                ],
+                [
+                  112.976276,
+                  28.195039
+                ],
+                [
+                  112.976276,
+                  28.195039
+                ],
+                [
+                  112.976272,
+                  28.195148
+                ],
+                [
+                  112.976272,
+                  28.195148
+                ],
+                [
+                  112.976272,
+                  28.195304
+                ],
+                [
+                  112.976272,
+                  28.195304
+                ],
+                [
+                  112.976272,
+                  28.195456
+                ]
+              ]
+            },
+            {
+              "road": "五一大道辅路",
+              "instruction": "沿五一大道辅路向西步行170米右转",
+              "time": 136,
+              "distance": 170,
+              "nodes": [
+                [
+                  112.976267,
+                  28.195456
+                ],
+                [
+                  112.975942,
+                  28.19546
+                ],
+                [
+                  112.975942,
+                  28.19546
+                ],
+                [
+                  112.975425,
+                  28.195477
+                ],
+                [
+                  112.975425,
+                  28.195477
+                ],
+                [
+                  112.975386,
+                  28.195477
+                ],
+                [
+                  112.975386,
+                  28.195477
+                ],
+                [
+                  112.975182,
+                  28.195486
+                ],
+                [
+                  112.975182,
+                  28.195486
+                ],
+                [
+                  112.974952,
+                  28.195503
+                ],
+                [
+                  112.974952,
+                  28.195503
+                ],
+                [
+                  112.974523,
+                  28.195556
+                ]
+              ]
+            },
+            {
+              "road": "轩辕殿巷",
+              "instruction": "沿轩辕殿巷向北步行74米到达目的地",
+              "time": 59,
+              "distance": 74,
+              "nodes": [
+                [
+                  112.974518,
+                  28.195556
+                ],
+                [
+                  112.974527,
+                  28.195625
+                ],
+                [
+                  112.974527,
+                  28.195625
+                ],
+                [
+                  112.974536,
+                  28.195829
+                ],
+                [
+                  112.974536,
+                  28.195829
+                ],
+                [
+                  112.97454,
+                  28.196094
+                ],
+                [
+                  112.97457,
+                  28.19622
+                ],
+                [
+                  112.97457,
+                  28.19622
+                ],
+                [
+                  112.974579,
+                  28.196241
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 465,
+          "distance": 1939,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 958,
+          "distance": 1118,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 219,
+              "instruction": "步行176米到达黄兴广场",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 330,
+              "instruction": "乘坐地铁1号线(尚双塘--金盆丘(铜官窑巴士站))途径0站到达五一广场",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "地铁1号线(尚双塘--金盆丘(铜官窑巴士站))"
+                }
+              ]
+            },
+            {
+              "time": 409,
+              "instruction": "步行352米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "轩辕殿巷",
+      "to": "西长街",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 501,
+          "distance": 626,
+          "steps": [
+            {
+              "road": "轩辕殿巷",
+              "instruction": "沿轩辕殿巷向南步行74米右转",
+              "time": 59,
+              "distance": 74,
+              "nodes": [
+                [
+                  112.974579,
+                  28.196241
+                ],
+                [
+                  112.974575,
+                  28.196224
+                ],
+                [
+                  112.974575,
+                  28.196224
+                ],
+                [
+                  112.974544,
+                  28.196098
+                ],
+                [
+                  112.97454,
+                  28.195833
+                ],
+                [
+                  112.97454,
+                  28.195833
+                ],
+                [
+                  112.974531,
+                  28.195629
+                ],
+                [
+                  112.974531,
+                  28.195629
+                ],
+                [
+                  112.974523,
+                  28.19556
+                ]
+              ]
+            },
+            {
+              "road": "五一大道辅路",
+              "instruction": "沿五一大道辅路向西步行264米右转",
+              "time": 211,
+              "distance": 264,
+              "nodes": [
+                [
+                  112.974518,
+                  28.195556
+                ],
+                [
+                  112.973746,
+                  28.195573
+                ],
+                [
+                  112.973746,
+                  28.195573
+                ],
+                [
+                  112.972956,
+                  28.195577
+                ],
+                [
+                  112.972956,
+                  28.195577
+                ],
+                [
+                  112.972747,
+                  28.195573
+                ],
+                [
+                  112.971819,
+                  28.195599
+                ]
+              ]
+            },
+            {
+              "road": "西长街",
+              "instruction": "沿西长街向北步行254米左转",
+              "time": 203,
+              "distance": 254,
+              "nodes": [
+                [
+                  112.971814,
+                  28.195599
+                ],
+                [
+                  112.971819,
+                  28.195729
+                ],
+                [
+                  112.971819,
+                  28.195729
+                ],
+                [
+                  112.971858,
+                  28.19625
+                ],
+                [
+                  112.971858,
+                  28.19625
+                ],
+                [
+                  112.971866,
+                  28.196619
+                ],
+                [
+                  112.971866,
+                  28.196619
+                ],
+                [
+                  112.971888,
+                  28.196866
+                ],
+                [
+                  112.971888,
+                  28.196866
+                ],
+                [
+                  112.971914,
+                  28.197205
+                ],
+                [
+                  112.971914,
+                  28.197205
+                ],
+                [
+                  112.971927,
+                  28.19724
+                ],
+                [
+                  112.971927,
+                  28.19724
+                ],
+                [
+                  112.971957,
+                  28.197444
+                ],
+                [
+                  112.971957,
+                  28.197444
+                ],
+                [
+                  112.971988,
+                  28.197595
+                ],
+                [
+                  112.971988,
+                  28.197595
+                ],
+                [
+                  112.972001,
+                  28.197708
+                ],
+                [
+                  112.972001,
+                  28.197708
+                ],
+                [
+                  112.972044,
+                  28.197925
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行11米右转",
+              "time": 9,
+              "distance": 11,
+              "nodes": [
+                [
+                  112.972044,
+                  28.197925
+                ],
+                [
+                  112.971936,
+                  28.19796
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向北步行23米到达目的地",
+              "time": 18,
+              "distance": 23,
+              "nodes": [
+                [
+                  112.971931,
+                  28.19796
+                ],
+                [
+                  112.971944,
+                  28.198073
+                ],
+                [
+                  112.971944,
+                  28.198073
+                ],
+                [
+                  112.971953,
+                  28.198177
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 221,
+          "distance": 921,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    },
+    {
+      "from": "西长街",
+      "to": "潮宗街",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 645,
+          "distance": 806,
+          "steps": [
+            {
+              "road": "",
+              "instruction": "向北步行5米右转",
+              "time": 4,
+              "distance": 5,
+              "nodes": [
+                [
+                  112.971953,
+                  28.198177
+                ],
+                [
+                  112.971957,
+                  28.198229
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东步行13米左转",
+              "time": 10,
+              "distance": 13,
+              "nodes": [
+                [
+                  112.971957,
+                  28.198229
+                ],
+                [
+                  112.972096,
+                  28.198216
+                ]
+              ]
+            },
+            {
+              "road": "西长街",
+              "instruction": "沿西长街向北步行383米右转",
+              "time": 306,
+              "distance": 383,
+              "nodes": [
+                [
+                  112.972101,
+                  28.198212
+                ],
+                [
+                  112.972105,
+                  28.198268
+                ],
+                [
+                  112.972105,
+                  28.198268
+                ],
+                [
+                  112.972109,
+                  28.19839
+                ],
+                [
+                  112.972109,
+                  28.19839
+                ],
+                [
+                  112.972109,
+                  28.198689
+                ],
+                [
+                  112.972109,
+                  28.198689
+                ],
+                [
+                  112.972135,
+                  28.199154
+                ],
+                [
+                  112.972135,
+                  28.199154
+                ],
+                [
+                  112.972179,
+                  28.199622
+                ],
+                [
+                  112.972179,
+                  28.199622
+                ],
+                [
+                  112.972192,
+                  28.199722
+                ],
+                [
+                  112.972192,
+                  28.199722
+                ],
+                [
+                  112.972222,
+                  28.200039
+                ],
+                [
+                  112.972222,
+                  28.200039
+                ],
+                [
+                  112.972266,
+                  28.200651
+                ],
+                [
+                  112.972266,
+                  28.200651
+                ],
+                [
+                  112.972292,
+                  28.20079
+                ],
+                [
+                  112.972292,
+                  28.20079
+                ],
+                [
+                  112.972296,
+                  28.200833
+                ],
+                [
+                  112.972296,
+                  28.200833
+                ],
+                [
+                  112.972357,
+                  28.20112
+                ],
+                [
+                  112.972357,
+                  28.20112
+                ],
+                [
+                  112.972361,
+                  28.201354
+                ],
+                [
+                  112.972361,
+                  28.201354
+                ],
+                [
+                  112.972344,
+                  28.201489
+                ],
+                [
+                  112.972344,
+                  28.201489
+                ],
+                [
+                  112.972279,
+                  28.201719
+                ]
+              ]
+            },
+            {
+              "road": "连升街",
+              "instruction": "沿连升街向东步行100米左转",
+              "time": 80,
+              "distance": 100,
+              "nodes": [
+                [
+                  112.972274,
+                  28.201719
+                ],
+                [
+                  112.972517,
+                  28.201806
+                ],
+                [
+                  112.972669,
+                  28.201832
+                ],
+                [
+                  112.972669,
+                  28.201832
+                ],
+                [
+                  112.973151,
+                  28.201801
+                ],
+                [
+                  112.973151,
+                  28.201801
+                ],
+                [
+                  112.973286,
+                  28.201784
+                ]
+              ]
+            },
+            {
+              "road": "楠木厅巷",
+              "instruction": "沿楠木厅巷向北步行22米右转",
+              "time": 18,
+              "distance": 22,
+              "nodes": [
+                [
+                  112.973286,
+                  28.20178
+                ],
+                [
+                  112.973299,
+                  28.201901
+                ],
+                [
+                  112.973312,
+                  28.201979
+                ]
+              ]
+            },
+            {
+              "road": "楠木厅巷",
+              "instruction": "沿楠木厅巷向东步行91米左转",
+              "time": 73,
+              "distance": 91,
+              "nodes": [
+                [
+                  112.973312,
+                  28.201979
+                ],
+                [
+                  112.973351,
+                  28.201997
+                ],
+                [
+                  112.973733,
+                  28.201966
+                ],
+                [
+                  112.973733,
+                  28.201966
+                ],
+                [
+                  112.974232,
+                  28.20191
+                ]
+              ]
+            },
+            {
+              "road": "永清巷",
+              "instruction": "沿永清巷向北步行119米右转",
+              "time": 95,
+              "distance": 119,
+              "nodes": [
+                [
+                  112.974232,
+                  28.201905
+                ],
+                [
+                  112.97424,
+                  28.202027
+                ],
+                [
+                  112.97424,
+                  28.202027
+                ],
+                [
+                  112.974275,
+                  28.202344
+                ],
+                [
+                  112.974275,
+                  28.202344
+                ],
+                [
+                  112.974271,
+                  28.202457
+                ],
+                [
+                  112.974271,
+                  28.202457
+                ],
+                [
+                  112.974219,
+                  28.202986
+                ]
+              ]
+            },
+            {
+              "road": "潮宗古街",
+              "instruction": "沿潮宗古街向东步行73米左转到达目的地",
+              "time": 58,
+              "distance": 73,
+              "nodes": [
+                [
+                  112.974214,
+                  28.202986
+                ],
+                [
+                  112.974323,
+                  28.202973
+                ],
+                [
+                  112.974323,
+                  28.202973
+                ],
+                [
+                  112.974865,
+                  28.202908
+                ],
+                [
+                  112.974865,
+                  28.202908
+                ],
+                [
+                  112.974887,
+                  28.20299
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 324,
+          "distance": 1351,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1526,
+          "distance": 1989,
+          "cost": 4,
+          "steps": [],
+          "segments": [
+            {
+              "time": 388,
+              "instruction": "步行388米到达长沙轮渡",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 349,
+              "instruction": "乘坐901路(南二环首末站--星联线首末站)途径0站到达营盘路西口",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "901路(南二环首末站--星联线首末站)"
+                },
+                {
+                  "name": "123路(汽车南站--营盘路西口)"
+                },
+                {
+                  "name": "222路(长沙简牍博物馆--世界之窗)"
+                }
+              ]
+            },
+            {
+              "time": 0,
+              "instruction": "步行1米到达营盘路西口",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 596,
+              "instruction": "乘坐501路(雷公岭公交首末站--中山亭)途径1站到达中山亭",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "501路(雷公岭公交首末站--中山亭)"
+                }
+              ]
+            },
+            {
+              "time": 193,
+              "instruction": "步行187米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "潮宗街",
+      "to": "北正街",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 220,
+          "distance": 275,
+          "steps": [
+            {
+              "road": "潮宗古街",
+              "instruction": "沿潮宗古街向东步行80米右转",
+              "time": 64,
+              "distance": 80,
+              "nodes": [
+                [
+                  112.974887,
+                  28.20299
+                ],
+                [
+                  112.97487,
+                  28.202908
+                ],
+                [
+                  112.97487,
+                  28.202908
+                ],
+                [
+                  112.975004,
+                  28.202886
+                ],
+                [
+                  112.975004,
+                  28.202886
+                ],
+                [
+                  112.975586,
+                  28.202817
+                ]
+              ]
+            },
+            {
+              "road": "黄兴北路",
+              "instruction": "沿黄兴北路向南步行80米向右前方行走",
+              "time": 64,
+              "distance": 80,
+              "nodes": [
+                [
+                  112.975586,
+                  28.202813
+                ],
+                [
+                  112.975603,
+                  28.202674
+                ],
+                [
+                  112.975603,
+                  28.202674
+                ],
+                [
+                  112.975651,
+                  28.202409
+                ],
+                [
+                  112.975651,
+                  28.202409
+                ],
+                [
+                  112.975703,
+                  28.202088
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西北步行3米向左前方行走",
+              "time": 2,
+              "distance": 3,
+              "nodes": [
+                [
+                  112.975703,
+                  28.202083
+                ],
+                [
+                  112.975668,
+                  28.202096
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行25米向左前方行走",
+              "time": 20,
+              "distance": 25,
+              "nodes": [
+                [
+                  112.975668,
+                  28.202096
+                ],
+                [
+                  112.975477,
+                  28.202044
+                ],
+                [
+                  112.97543,
+                  28.202023
+                ]
+              ]
+            },
+            {
+              "road": "北正街",
+              "instruction": "沿北正街向南步行87米到达目的地",
+              "time": 70,
+              "distance": 87,
+              "nodes": [
+                [
+                  112.975425,
+                  28.202018
+                ],
+                [
+                  112.975373,
+                  28.201979
+                ],
+                [
+                  112.975339,
+                  28.201905
+                ],
+                [
+                  112.975326,
+                  28.201875
+                ],
+                [
+                  112.975326,
+                  28.201875
+                ],
+                [
+                  112.975269,
+                  28.20161
+                ],
+                [
+                  112.975269,
+                  28.20161
+                ],
+                [
+                  112.975226,
+                  28.201406
+                ],
+                [
+                  112.975226,
+                  28.201406
+                ],
+                [
+                  112.975191,
+                  28.201259
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 110,
+          "distance": 460,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    },
+    {
+      "from": "北正街",
+      "to": "中山亭",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 178,
+          "distance": 223,
+          "steps": [
+            {
+              "road": "北正街",
+              "instruction": "沿北正街向南步行68米左转",
+              "time": 54,
+              "distance": 68,
+              "nodes": [
+                [
+                  112.975187,
+                  28.201254
+                ],
+                [
+                  112.975143,
+                  28.201059
+                ],
+                [
+                  112.975143,
+                  28.201059
+                ],
+                [
+                  112.975069,
+                  28.200734
+                ],
+                [
+                  112.975069,
+                  28.200734
+                ],
+                [
+                  112.975052,
+                  28.200647
+                ]
+              ]
+            },
+            {
+              "road": "中山路",
+              "instruction": "沿中山路向东步行23米左转",
+              "time": 18,
+              "distance": 23,
+              "nodes": [
+                [
+                  112.975048,
+                  28.200642
+                ],
+                [
+                  112.975278,
+                  28.200612
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东北步行62米右转",
+              "time": 50,
+              "distance": 62,
+              "nodes": [
+                [
+                  112.975278,
+                  28.200608
+                ],
+                [
+                  112.975308,
+                  28.200734
+                ],
+                [
+                  112.97533,
+                  28.20076
+                ],
+                [
+                  112.975404,
+                  28.200781
+                ],
+                [
+                  112.975404,
+                  28.200781
+                ],
+                [
+                  112.975456,
+                  28.200807
+                ],
+                [
+                  112.975512,
+                  28.200859
+                ],
+                [
+                  112.975608,
+                  28.201059
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东南步行70米到达目的地",
+              "time": 56,
+              "distance": 70,
+              "nodes": [
+                [
+                  112.975608,
+                  28.201059
+                ],
+                [
+                  112.975859,
+                  28.201037
+                ],
+                [
+                  112.975859,
+                  28.201037
+                ],
+                [
+                  112.975855,
+                  28.201033
+                ],
+                [
+                  112.976033,
+                  28.201033
+                ],
+                [
+                  112.976033,
+                  28.201033
+                ],
+                [
+                  112.976115,
+                  28.201033
+                ],
+                [
+                  112.976115,
+                  28.201033
+                ],
+                [
+                  112.976176,
+                  28.200851
+                ],
+                [
+                  112.976176,
+                  28.200851
+                ],
+                [
+                  112.976176,
+                  28.200842
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 58,
+          "distance": 241,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    }
+  ],
+  "routeQueriedAt": "2026-10-13T05:59:20.136Z"
+}

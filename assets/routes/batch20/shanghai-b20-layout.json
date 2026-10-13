@@ -1,0 +1,44 @@
+{
+  "city": "上海",
+  "slug": "shanghai",
+  "width": 1200,
+  "height": 675,
+  "anchors": [
+    {
+      "name": "船舶大厦",
+      "placeKey": "shanghai_chuanbo_building",
+      "poiId": "B00155L3WZ",
+      "x": 1010,
+      "y": 276,
+      "landmark": "China Shipbuilding Tower: modern rectilinear office tower beside park, NOT a boat"
+    },
+    {
+      "name": "东方明珠",
+      "placeKey": "shanghai_oriental_pearl_tower",
+      "poiId": "B00150F6D6",
+      "x": 372,
+      "y": 120,
+      "landmark": "Oriental Pearl Tower: recognizable two large pink spheres on tall slender supports and antenna"
+    },
+    {
+      "name": "浦东美术馆",
+      "placeKey": "shanghai_museum_of_art_pudong",
+      "poiId": "B0FFLCKUTU",
+      "x": 180,
+      "y": 353,
+      "landmark": "Museum of Art Pudong: pale cubic modern museum immediately east of riverside"
+    },
+    {
+      "name": "落日长廊",
+      "placeKey": "shanghai_luori_changlang_source37",
+      "poiId": "B001533722",
+      "x": 160,
+      "y": 560,
+      "landmark": "Lujiazui sunset promenade: long raised pedestrian riverfront terrace and railing south of museum"
+    }
+  ],
+  "terrain": "river",
+  "context": "Huangpu River curves along western edge of Pudong. Lujiazui skyscrapers (Shanghai Tower, World Financial Center) can be secondary city context to east, not new route points. Retain street network and green park. Landmarks are distinct from transit station.",
+  "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 上海, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: China Shipbuilding Tower: modern rectilinear office tower beside park, NOT a boat, at 84% from left and 41% from top; 2: Oriental Pearl Tower: recognizable two large pink spheres on tall slender supports and antenna, at 31% from left and 18% from top; 3: Museum of Art Pudong: pale cubic modern museum immediately east of riverside, at 15% from left and 52% from top; 4: Lujiazui sunset promenade: long raised pedestrian riverfront terrace and railing south of museum, at 13% from left and 83% from top.\nGeographic context: Huangpu River curves along western edge of Pudong. Lujiazui skyscrapers (Shanghai Tower, World Financial Center) can be secondary city context to east, not new route points. Retain street network and green park. Landmarks are distinct from transit station.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.",
+  "geographicStatus": "AMap POI locations checked; draft artwork enlargement is a visual convention, not geographic coordinates"
+}

@@ -1,4 +1,15 @@
-export const ROUTES = [
+import { GUANGZHOU_PHOTO_CANDIDATES } from "./assets/routes/guangzhou-photo-candidates.js";
+import { CD01_ROUTE, CD01_JOURNEY } from "./assets/routes/chengdu-cd01-data.js";
+import { NJ01_ROUTE, NJ01_JOURNEY } from "./assets/routes/nanjing-nj01-data.js";
+import { XA01_ROUTE, XA01_JOURNEY } from "./assets/routes/xian-xa01-data.js";
+import { DINING_BY_ROUTE } from "./assets/routes/dining-data.js";
+import { PHOTO_REFERENCES_BY_ROUTE, PHOTO_SUPPLEMENTS_BY_ROUTE } from "./assets/routes/photo-notes-data.js";
+import { BATCH20_ROUTES, BATCH20_JOURNEYS } from "./assets/routes/batch20-data.js";
+import { applyBatch01Updates } from "./assets/routes/batch01-updates.js";
+
+const ACTIVE_ROUTE_IDS = new Set(["guangzhou-xiguan-walk", "chengdu-cd01-city-day", "nanjing-nj01-qinhuai-day", "xian-xa01-qujiang-day", ...BATCH20_ROUTES.map((route) => route.id)]);
+
+const ROUTE_CATALOG = [
   {
     id: "suzhou-garden-walk", city: "苏州", region: "中国", place: "中国 · 苏州", flag: "cn",
     title: "园林水巷慢行", days: 1, tags: ["园林", "水巷", "城市", "自然"], theme: "suzhou",
@@ -233,10 +244,83 @@ export const ROUTES = [
       { day: 1, time: "15:30", title: "景山公园 · 登高回望宫城", body: "从故宫北侧前往景山，沿园路上行到万春亭一带俯瞰中轴。公园分季节调整开放时间，出发前核对公告。" },
       { day: 1, time: "17:00", title: "北海公园 · 在湖边结束一天", body: "最后转到北海一带散步，看白塔与湖面渐入傍晚。园内路线、门票和开放时间以官方当日信息为准。" }
     ]
+  },
+  {
+    id: "guangzhou-xiguan-walk", city: "广州", region: "中国", place: "中国 · 广州", flag: "cn",
+    title: "石室圣心到西关烟火", days: 1, tags: ["骑楼", "珠江", "美食", "Citywalk"], theme: "guangzhou",
+    image: "./assets/routes/guangzhou-map-illustrated-v2.png", accent: "#d88958",
+    intro: "从石室圣心大教堂出发，过珠江到沙面，再穿进永庆坊与上下九的西关街巷。",
+    quote: "从石室的尖顶走向珠江，再沿着骑楼和旧巷，把一整天留给广州的街头烟火。",
+    map: {
+      kind: "city-garden", maxZoom: 2.2,
+      route: "M 1000 205 C 970 260 925 276 875 306 C 820 340 784 395 754 448 C 713 516 664 540 620 560 C 560 527 531 476 495 432 C 458 385 405 354 355 321 C 408 300 460 291 517 302 C 580 314 623 340 681 330",
+      roads: [
+        "M 30 110 C 200 120 310 96 420 130 S 630 162 770 124 S 980 86 1170 123",
+        "M 20 300 C 185 270 285 302 402 283 S 603 244 725 277 S 930 320 1175 272",
+        "M 30 486 C 190 450 298 477 414 454 S 610 424 750 455 S 960 487 1175 440",
+        "M 172 5 C 160 100 184 155 164 249 S 145 416 171 535",
+        "M 390 0 C 362 96 385 152 405 243 S 416 407 390 550",
+        "M 630 0 C 602 91 624 160 650 242 S 656 400 628 548",
+        "M 870 0 C 858 90 878 166 901 245 S 906 407 882 550",
+        "M 1090 0 C 1080 104 1108 163 1124 245 S 1120 416 1094 546"
+      ],
+      contours: [
+        "M 72 175 C 132 131 208 145 225 187 S 190 245 127 237 S 72 278 100 311",
+        "M 466 180 C 529 139 601 157 613 198 S 576 251 523 246 S 464 276 487 312",
+        "M 919 142 C 984 116 1054 142 1064 184 S 1021 239 968 230 S 907 265 937 299"
+      ],
+      points: [
+        { name: "石室圣心大教堂", x: 990, y: 205, role: "start", labelSide: "left", labelY: "above", color: "#d85c50" },
+        { name: "沙面岛", x: 585, y: 414, labelSide: "left", labelY: "below", color: "#69aa91" },
+        { name: "永庆坊", x: 310, y: 198, labelSide: "right", labelY: "above", color: "#e9a251" },
+        { name: "上下九步行街", x: 535, y: 211, role: "end", labelSide: "right", labelY: "below", color: "#6c9fbd" }
+      ]
+    },
+    storyArtwork: {
+      image: "./assets/routes/guangzhou-map-illustrated-v2.png", width: 1672, height: 941,
+      reference: {
+        source: "AMap JSAPI POI coordinates; GCJ-02",
+        verifiedAt: "2026-10-07",
+        routeGeometry: "Illustrated street paths anchored to the verified POI coordinates; use the linked route planner for turn-by-turn navigation.",
+        markers: [
+          { name: "石室圣心大教堂", poiId: "B00140UHIZ", lng: 113.260262, lat: 23.114589, x: 1360, y: 280, url: "https://ditu.amap.com/place/B00140UHIZ" },
+          { name: "沙面岛", poiId: "B00140CG67", lng: 113.247702, lat: 23.107332, x: 855, y: 720, url: "https://ditu.amap.com/place/B00140CG67" },
+          { name: "永庆坊", poiId: "B0IUPDSJHU", lng: 113.237495, lat: 23.114821, x: 395, y: 330, url: "https://ditu.amap.com/place/B0IUPDSJHU" },
+          { name: "上下九步行街", poiId: "B00140TXAL", lng: 113.247072, lat: 23.114287, x: 805, y: 340, url: "https://ditu.amap.com/place/B00140TXAL" }
+        ]
+      },
+      markers: [
+        { name: "石室圣心大教堂", poiId: "B00140UHIZ", x: 1360, y: 280, color: "#d85c50", labelPlacement: "below-left" },
+        { name: "沙面岛", poiId: "B00140CG67", x: 855, y: 720, color: "#69aa91", labelPlacement: "above-left" },
+        { name: "永庆坊", poiId: "B0IUPDSJHU", x: 395, y: 330, color: "#e9a251", labelPlacement: "below-right" },
+        { name: "上下九步行街", poiId: "B00140TXAL", x: 805, y: 340, color: "#6c9fbd", labelPlacement: "below-right" }
+      ]
+    },
+    snapshots: ["river", "street"],
+    story: [
+      { day: 1, time: "09:00", title: "石室圣心大教堂 · 从城市尖顶出发", body: "先在一德路周边看石室的双尖塔与花岗岩立面。以外观和周边街区为主；若想进堂内，先确认当日礼拜安排与访客规则。" },
+      { day: 1, time: "11:00", title: "沙面岛 · 沿树荫走到珠江边", body: "过桥进入沙面，在百年古树与近代建筑之间慢慢走。街区适合步行；骑行和停放请留意重点区域管理提示。" },
+      { day: 1, time: "13:30", title: "永庆坊 · 走进西关旧巷", body: "从恩宁路一带看骑楼、趟栊门和旧街巷。午餐可在这里安排；想进粤剧艺术博物馆，另核对闭馆日与现场活动。" },
+      { day: 1, time: "16:00", title: "上下九步行街 · 用老字号收尾", body: "沿第十甫路看骑楼街景，选一家茶楼或糖水铺歇脚。热门门店可能排队，晚餐和返程时间留出弹性。" }
+    ],
+    guideSources: [
+      { label: "广州市政府 · 西关 Citywalk 指引（沙面、永庆坊全天开放信息）", url: "https://www.gz.gov.cn/zt/jrshts/2026n/nwzgz/nwgz/content/post_10686807.html" },
+      { label: "荔湾区政府 · 粤剧艺术博物馆开放时间", url: "https://www.lw.gov.cn/ywb/fw/ly/whss/content/post_9105819.html" },
+      { label: "越秀区政府 · 圣心大教堂介绍与地址", url: "https://www.yuexiu.gov.cn/zjyx/yxjd/zjwh/content/post_8665100.html" },
+      { label: "荔湾区政府 · 沙面重点区域非机动车管理提示", url: "https://www.lw.gov.cn/gzlwsmj/gkmlpt/content/10/10079/post_10079405.html" }
+    ]
   }
 ];
 
-export const JOURNEYS = {
+ROUTE_CATALOG.push(CD01_ROUTE, NJ01_ROUTE, XA01_ROUTE, ...BATCH20_ROUTES);
+
+export const ROUTES = ROUTE_CATALOG.filter((route) => ACTIVE_ROUTE_IDS.has(route.id));
+
+const JOURNEY_CATALOG = {
+  ...BATCH20_JOURNEYS,
+  "chengdu-cd01-city-day": CD01_JOURNEY,
+  "nanjing-nj01-qinhuai-day": NJ01_JOURNEY,
+  "xian-xa01-qujiang-day": XA01_JOURNEY,
   "suzhou-garden-walk": {
     eyebrow: "SUZHOU · GARDEN WALK", duration: "1 日", distance: "约 5 km",
     labelPlacements: ["above-right", "below-left", "below-right", "above-right"],
@@ -282,5 +366,112 @@ export const JOURNEYS = {
     legs: [{ mode: "步行", duration: "约 15 分钟", distance: "约 1 km" }, { mode: "步行", duration: "约 20 分钟", distance: "约 1.4 km" }, { mode: "步行", duration: "约 25 分钟", distance: "约 1.7 km" }],
     practical: [["适合季节", "春秋适合长距离步行；夏季防晒，冬季留意风寒"], ["建议节奏", "故宫预留半天以上，之后再去景山与北海，不必赶行程"], ["出发前", "故宫需实名预约；核对天安门广场与公园的当日入场安排"]],
     sources: [{ label: "天安门广场预约服务", url: "https://yuyue2026.tamgw.beijing.gov.cn/web/index.html#/index" }, { label: "故宫博物院参观指南", url: "https://www.dpm.org.cn/Visit.html" }, { label: "北京市景山公园指南", url: "https://english.beijing.gov.cn/specials/parktours/guidevisitors/jingshanpark/" }]
+  },
+  "guangzhou-xiguan-walk": {
+    eyebrow: "GUANGZHOU · XIGUAN CITYWALK", duration: "1 日", distance: "约 4.8 km（步行参考）",
+    stopTimes: ["09:00", "11:00", "13:30", "16:00"],
+    stopTags: [["哥特式建筑", "一德路", "城市地标"], ["珠江", "百年古树", "近代建筑"], ["骑楼", "西关大屋", "粤剧"], ["第十甫路", "老字号", "糖水"]],
+    previewImages: [
+      GUANGZHOU_PHOTO_CANDIDATES["圣心大教堂"][0].image,
+      GUANGZHOU_PHOTO_CANDIDATES["沙面岛"][0].image,
+      GUANGZHOU_PHOTO_CANDIDATES["永庆坊"][0].image,
+      GUANGZHOU_PHOTO_CANDIDATES["上下九"][0].image
+    ],
+    stopAccess: [
+      { heading: "门票与预约", value: "路线默认看建筑外观。内堂游客参观时段、个人预约和普通拍照规定暂未确认，请以“石室圣心大教堂”公众号或现场当日须知为准。弥撒、团体活动与游客参观分别安排；已结束的国庆广场时段不能当作日常内堂开放时间。" },
+      { heading: "门票与预约", value: "沙面公共街区开放时间为全天；当前官方介绍未列街区统一购票或预约要求。岛内场馆、商业设施按各自公告执行。" },
+      { heading: "门票与预约", value: "永庆坊街区开放时间为全天；当前官方介绍未列街区统一购票或预约要求。若参观粤剧艺术博物馆：9:00–21:00，20:30停止入场，周一闭馆（节假日除外）；票务和预约以馆方当日通知为准。" },
+      { heading: "门票与预约", value: "以上下九公共步行街为主，当前路线不包含需购票入场的景点。街区活动、店铺与临时展览安排以现场公告为准。" }
+    ],
+    legs: [
+      {
+        from: "石室圣心大教堂", to: "沙面岛", recommendedMode: "walk", recommendation: "沿珠江步行入岛，体验更连贯",
+        options: {
+          walk: { label: "步行", duration: "约 26 分钟", distance: "约 1.97 km", path: "M 1360 280 C 1305 344 1240 392 1198 442 C 1150 496 1114 530 1077 570 C 1030 620 970 658 918 687 C 899 700 877 714 855 720" },
+          transit: { label: "公交 / 地铁", duration: "约 29 分钟", distance: "约 2.07 km", detail: "含站点接驳步行，按班次调整", path: "M 1360 280 C 1352 351 1306 405 1264 451 C 1221 497 1200 545 1165 590 C 1125 640 1068 682 1016 704 C 954 730 908 719 855 720" },
+          cycle: { label: "骑行", duration: "约 10 分钟", distance: "约 2.53 km", detail: "沙面重点区域按现场管理推行/停放", path: "M 1360 280 C 1380 345 1330 397 1285 430 C 1220 478 1162 507 1122 556 C 1080 609 1076 662 1015 694 C 956 723 902 727 855 720" }
+        }
+      },
+      {
+        from: "沙面岛", to: "永庆坊", recommendedMode: "walk", recommendation: "步行穿过西关街巷更顺路",
+        options: {
+          walk: { label: "步行", duration: "约 23 分钟", distance: "约 1.76 km", path: "M 855 720 C 818 675 790 635 783 589 C 778 553 742 518 704 493 C 661 460 630 425 594 397 C 547 365 485 339 395 330" },
+          transit: { label: "公交 / 地铁", duration: "约 37 分钟", distance: "约 3.72 km", detail: "含进出站与步行接驳，按班次调整", path: "M 855 720 C 824 679 793 637 773 591 C 744 526 720 479 681 432 C 642 385 602 357 546 343 C 489 328 441 323 395 330" },
+          cycle: { label: "骑行", duration: "约 12 分钟", distance: "约 3.05 km", detail: "沙面重点区域请按管理要求推行", path: "M 855 720 C 800 673 777 631 735 602 C 690 571 665 522 628 475 C 587 423 535 384 484 362 C 448 347 416 338 395 330" }
+        }
+      },
+      {
+        from: "永庆坊", to: "上下九步行街", recommendedMode: "walk", recommendation: "一公里左右，步行最省心",
+        options: {
+          walk: { label: "步行", duration: "约 14 分钟", distance: "约 1.06 km", path: "M 395 330 C 440 299 492 300 548 326 C 600 350 650 365 695 350 C 730 338 766 331 805 340" },
+          transit: { label: "公交 / 地铁", duration: "约 28 分钟", distance: "约 1.58 km", detail: "含候车与站点接驳步行", path: "M 395 330 C 452 292 511 296 566 320 C 616 341 654 357 700 358 C 742 358 776 347 805 340" },
+          cycle: { label: "骑行", duration: "约 7 分钟", distance: "约 1.75 km", path: "M 395 330 C 445 331 478 355 529 355 C 583 355 619 321 668 320 C 718 319 761 337 805 340" }
+        }
+      }
+    ],
+    practical: [
+      ["路线节奏", "四个站点由珠江两岸向西关街区串联；建议把进馆参观和用餐作为可伸缩的停留时间。"],
+      ["交通参考", "步行是这条 Citywalk 的默认推荐；另可切换公交 / 地铁与骑行。时间和距离为路线查询参考，不含排队、等车和实时路况。"],
+      ["骑行提示", "沙面重点区域有非机动车管理要求；进岛后遵守禁行、推行与指定停放提示。"],
+      ["地图说明", "点位坐标按 AMap GCJ-02 POI 核对；插画路线用于讲解街区关系，不替代实时导航。"],
+      ["照片来源", "每个地点提供 10 张 Wikimedia Commons 候选图，图片详情可查看作者和原始文件页，许可记录保留在资料中。"]
+    ],
+    dining: [
+      { name: "侨美食家（沙面总店）", area: "沙面南街 52 号", cuisine: "粤菜正餐", dishes: "非遗红烧乳鸽、老式菜远炒牛河", price: "参考人均 ¥121", note: "适合把午餐安排在沙面；热门时段可能等位。", source: "携程美食 · 侨美食家（沙面总店）", url: "https://gs.ctrip.com/html5/you/foods/guangzhou152/5323731.html" },
+      { name: "阿婆牛杂（永庆坊店）", area: "恩宁路 75 号 · 永庆食集", cuisine: "广府小吃", dishes: "萝卜面筋牛杂、广式牛腩饭", price: "参考人均 ¥30", note: "适合边逛边吃的小份补给；店铺营业时间以门店当天为准。", source: "携程美食 · 阿婆牛杂永庆坊店", url: "https://gs.ctrip.com/html5/you/foods/fooddetail/152/118725522.html" },
+      { name: "南信牛奶甜品专家", area: "第十甫路 47 号", cuisine: "广式糖水", dishes: "双皮奶、姜撞奶", price: "参考人均 ¥30", note: "适合作为上下九一带的甜品休息；参考价不是固定套餐价。", source: "Meet Guangzhou · 南信牛奶甜品专家", url: "https://meetguangzhou.com/cn/food/nanxinniunaitianpin" },
+      { name: "陶陶居酒家（第十甫路总店）", area: "第十甫路 20 号", cuisine: "粤菜 / 早茶", dishes: "大虾饺、百年烧鹅、虾皇烧卖", price: "参考人均 ¥103", note: "老字号热门门店，建议给排队和用餐预留时间。", source: "携程美食 · 陶陶居第十甫路总店", url: "https://gs.ctrip.com/html5/you/foods/fooddetail/554/444058.html" }
+    ],
+    photoCandidates: {
+      ...GUANGZHOU_PHOTO_CANDIDATES,
+      "石室圣心大教堂": GUANGZHOU_PHOTO_CANDIDATES["圣心大教堂"],
+      "上下九步行街": GUANGZHOU_PHOTO_CANDIDATES["上下九"]
+    },
+    sources: [
+      { label: "广州市政府 · 西关 Citywalk 指引", url: "https://www.gz.gov.cn/zt/jrshts/2026n/nwzgz/nwgz/content/post_10686807.html" },
+      { label: "荔湾区政府 · 粤剧艺术博物馆开放时间", url: "https://www.lw.gov.cn/ywb/fw/ly/whss/content/post_9105819.html" },
+      { label: "越秀区政府 · 圣心大教堂介绍与地址", url: "https://www.yuexiu.gov.cn/zjyx/yxjd/zjwh/content/post_8665100.html" },
+      { label: "本地宝游客须知转述（待堂区确认）", url: "https://news.qq.com/rain/a/20260902A06TQM00" },
+      { label: "荔湾区政府 · 沙面重点区域非机动车管理提示", url: "https://www.lw.gov.cn/gzlwsmj/gkmlpt/content/10/10079/post_10079405.html" },
+      { label: "携程美食 · 侨美食家（沙面总店）", url: "https://gs.ctrip.com/html5/you/foods/guangzhou152/5323731.html" },
+      { label: "携程美食 · 阿婆牛杂永庆坊店", url: "https://gs.ctrip.com/html5/you/foods/fooddetail/152/118725522.html" },
+      { label: "Meet Guangzhou · 南信牛奶甜品专家", url: "https://meetguangzhou.com/cn/food/nanxinniunaitianpin" },
+      { label: "携程美食 · 陶陶居第十甫路总店", url: "https://gs.ctrip.com/html5/you/foods/fooddetail/554/444058.html" }
+    ]
   }
 };
+
+export const JOURNEYS = Object.fromEntries(
+  Object.entries(JOURNEY_CATALOG).filter(([routeId]) => ACTIVE_ROUTE_IDS.has(routeId))
+);
+
+for (const [routeId, restaurants] of Object.entries(DINING_BY_ROUTE)) {
+  if (!JOURNEYS[routeId]) continue;
+  JOURNEYS[routeId].dining = restaurants;
+  const sources = JOURNEYS[routeId].sources || [];
+  for (const restaurant of restaurants) {
+    const url = restaurant.perPerson.url;
+    if (url && !sources.some((source) => source.url === url)) sources.push({ label: `${restaurant.name} · ${restaurant.perPerson.source}消费参考`, url });
+  }
+  JOURNEYS[routeId].sources = sources;
+}
+
+for (const [routeId, references] of Object.entries(PHOTO_REFERENCES_BY_ROUTE)) {
+  if (JOURNEYS[routeId]) JOURNEYS[routeId].photoReferences = references;
+}
+for (const [routeId, places] of Object.entries(PHOTO_SUPPLEMENTS_BY_ROUTE)) {
+  const journey = JOURNEYS[routeId];
+  if (!journey) continue;
+  for (const [name, additions] of Object.entries(places)) {
+    const candidates = journey.photoCandidates[name] || [];
+    journey.photoCandidates[name] = [...candidates, ...additions.filter((photo) => !candidates.some((candidate) => candidate.image === photo.image))];
+  }
+  if (journey.dataSupplement) {
+    journey.dataSupplement.landmarkPhotoCount = Object.values(journey.photoCandidates).reduce((sum, photos) => sum + photos.length, 0);
+    journey.dataSupplement.selectedPhotoCount = journey.dataSupplement.landmarkPhotoCount + journey.dataSupplement.diningPhotoCount;
+    journey.dataSupplement.sourceNoteIds = [...new Set([...(journey.dataSupplement.sourceNoteIds || []), ...Object.values(journey.photoReferences || {}).flat().map((note) => note.noteId).filter(Boolean)])];
+    journey.dataSupplement.sourceNotes = journey.dataSupplement.sourceNoteIds.length;
+  }
+}
+
+applyBatch01Updates(ROUTES, JOURNEYS);

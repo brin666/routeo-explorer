@@ -1,0 +1,61 @@
+{
+  "city": "苏州",
+  "slug": "suzhou",
+  "image": "./assets/routes/batch20/suzhou-b20-artwork-v1.webp",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "rasterSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "markers": [
+    {
+      "name": "苏州博物馆",
+      "placeKey": "suzhou:museum",
+      "x": 1080,
+      "y": 297
+    },
+    {
+      "name": "拙政园",
+      "placeKey": "suzhou:humble_administrators_garden",
+      "x": 1235,
+      "y": 325
+    },
+    {
+      "name": "平江路",
+      "placeKey": "suzhou:pingjiang_road",
+      "x": 1476,
+      "y": 492
+    },
+    {
+      "name": "双塔市集",
+      "placeKey": "suzhou:shuangta_market",
+      "x": 1303,
+      "y": 802
+    },
+    {
+      "name": "七里山塘",
+      "placeKey": "suzhou:shantang_street",
+      "x": 322,
+      "y": 392
+    }
+  ],
+  "route": "M 1080 297 L 1091 310 L 1157 331 L 1235 325 M 1235 325 L 1275 359 L 1325 367 L 1435 384 L 1470 440 L 1476 492 M 1476 492 L 1460 551 L 1439 599 L 1376 623 L 1365 670 L 1355 698 L 1315 734 L 1260 774 L 1303 802 M 1303 802 L 1260 824 L 1189 860 L 1100 878 L 1030 806 L 984 769 L 960 745 L 911 691 L 902 654 L 835 591 L 761 542 L 721 527 L 649 501 L 610 482 L 571 449 L 502 440 L 445 404 L 390 375 L 352 353 L 310 333 L 273 308 L 264 327 L 250 341 L 223 359 L 261 377 L 322 392",
+  "segmentPaths": [
+    "M 1080 297 L 1091 310 L 1157 331 L 1235 325",
+    "M 1235 325 L 1275 359 L 1325 367 L 1435 384 L 1470 440 L 1476 492",
+    "M 1476 492 L 1460 551 L 1439 599 L 1376 623 L 1365 670 L 1355 698 L 1315 734 L 1260 774 L 1303 802",
+    "M 1303 802 L 1260 824 L 1189 860 L 1100 878 L 1030 806 L 984 769 L 960 745 L 911 691 L 902 654 L 835 591 L 761 542 L 721 527 L 649 501 L 610 482 L 571 449 L 502 440 L 445 404 L 390 375 L 352 353 L 310 333 L 273 308 L 264 327 L 250 341 L 223 359 L 261 377 L 322 392"
+  ],
+  "calibrationMethod": "manual visual inspection of generated artwork; marker entrances and visible roads adjusted after generation",
+  "routeStatus": "沿成品可见道路的插画示意；非实际导航或路网查询",
+  "generatedWith": "built-in image_gen",
+  "notes": [
+    "博物馆与拙政园相邻位于东北，平江路在东侧运河岸，双塔市集在东南，七里山塘在西侧。",
+    "选站按可见入口与街巷校准，河道过路仅用画面可见桥接处，非实际导航。"
+  ]
+}

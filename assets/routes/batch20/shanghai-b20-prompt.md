@@ -1,0 +1,12 @@
+# 上海 地图底图生成提示词
+
+内置 image_gen；结构图决定空间关系，广州图仅决定风格。
+
+```text
+Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 上海, not a scenic postcard.
+Reference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.
+Place these landmarks at these normalized image positions: 1: China Shipbuilding Tower: modern rectilinear office tower beside park, NOT a boat, at 84% from left and 41% from top; 2: Oriental Pearl Tower: recognizable two large pink spheres on tall slender supports and antenna, at 31% from left and 18% from top; 3: Museum of Art Pudong: pale cubic modern museum immediately east of riverside, at 15% from left and 52% from top; 4: Lujiazui sunset promenade: long raised pedestrian riverfront terrace and railing south of museum, at 13% from left and 83% from top.
+Geographic context: Huangpu River curves along western edge of Pudong. Lujiazui skyscrapers (Shanghai Tower, World Financial Center) can be secondary city context to east, not new route points. Retain street network and green park. Landmarks are distinct from transit station.
+Use clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.
+No text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.
+```

@@ -1,0 +1,69 @@
+{
+  "city": "杭州",
+  "slug": "hangzhou",
+  "image": "./assets/routes/batch20/hangzhou-b20-artwork-v1.webp",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "rasterSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "markers": [
+    {
+      "name": "断桥残雪",
+      "placeKey": "hangzhou:broken_bridge",
+      "x": 1447,
+      "y": 190
+    },
+    {
+      "name": "白堤",
+      "placeKey": "hangzhou:bai_causeway",
+      "x": 1270,
+      "y": 369
+    },
+    {
+      "name": "平湖秋月",
+      "placeKey": "hangzhou:pinghu_qiuyue",
+      "x": 1492,
+      "y": 607
+    },
+    {
+      "name": "孤山路",
+      "placeKey": "hangzhou:gushan_road",
+      "x": 1200,
+      "y": 665
+    },
+    {
+      "name": "西泠桥",
+      "placeKey": "hangzhou:xiling_bridge",
+      "x": 437,
+      "y": 531
+    },
+    {
+      "name": "曲院风荷",
+      "placeKey": "hangzhou:quyuan_fenghe",
+      "x": 243,
+      "y": 730
+    }
+  ],
+  "route": "M 1447 190 L 1418 216 L 1381 259 L 1325 318 L 1270 369 M 1270 369 L 1209 420 L 1152 465 L 1100 501 L 1160 535 L 1224 541 L 1280 534 L 1320 555 L 1400 567 L 1450 590 L 1492 607 M 1492 607 L 1445 594 L 1402 621 L 1360 650 L 1274 670 L 1200 665 M 1200 665 L 1110 627 L 1010 605 L 887 574 L 825 549 L 742 524 L 691 529 L 626 557 L 578 556 L 530 550 L 490 539 L 437 531 M 437 531 L 379 524 L 337 513 L 291 519 L 278 566 L 265 589 L 230 622 L 263 652 L 251 696 L 243 730",
+  "segmentPaths": [
+    "M 1447 190 L 1418 216 L 1381 259 L 1325 318 L 1270 369",
+    "M 1270 369 L 1209 420 L 1152 465 L 1100 501 L 1160 535 L 1224 541 L 1280 534 L 1320 555 L 1400 567 L 1450 590 L 1492 607",
+    "M 1492 607 L 1445 594 L 1402 621 L 1360 650 L 1274 670 L 1200 665",
+    "M 1200 665 L 1110 627 L 1010 605 L 887 574 L 825 549 L 742 524 L 691 529 L 626 557 L 578 556 L 530 550 L 490 539 L 437 531",
+    "M 437 531 L 379 524 L 337 513 L 291 519 L 278 566 L 265 589 L 230 622 L 263 652 L 251 696 L 243 730"
+  ],
+  "calibrationMethod": "manual visual inspection of generated artwork; marker entrances and visible roads adjusted after generation",
+  "routeStatus": "沿成品可见道路的插画示意；非实际导航或路网查询",
+  "generatedWith": "built-in image_gen",
+  "notes": [
+    "目视保留西湖北岸、孤山岛、东北白堤与断桥、西端西泠桥及西侧曲院荷池；未加入雷峰塔或苏堤站。",
+    "生成图中平湖秋月被展开到孤山东南端，锚点按成品亭台入口校准；孤山路单独落在岛南侧可见步道。",
+    "路线仅通过白堤、西泠桥及园内画面可见桥路，未直接跨越湖面；非实际导航。"
+  ]
+}

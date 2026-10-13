@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-13",
+  "artwork": "./assets/routes/xian-xa01-map-illustrated-v1.webp",
+  "canvas": {
+    "width": 1672,
+    "height": 941
+  },
+  "coordinateSystem": "illustration-pixels",
+  "sourceCoordinateSystem": "GCJ-02",
+  "status": "visual-road-calibration",
+  "markers": [
+    {
+      "name": "大唐芙蓉园（可选）",
+      "poiId": "B001D092BB",
+      "x": 930,
+      "y": 445,
+      "color": "#b76649",
+      "labelPlacement": "above-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "大雁塔南广场",
+      "poiId": "B001D12PCJ",
+      "x": 555,
+      "y": 317,
+      "color": "#d0a456",
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "大唐不夜城 · 开元广场",
+      "poiId": "B001D0VVLI",
+      "x": 545,
+      "y": 846,
+      "color": "#648f86",
+      "labelPlacement": "above-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    }
+  ],
+  "segments": [
+    {
+      "from": "大唐芙蓉园（可选）",
+      "to": "大雁塔南广场",
+      "path": "M 930 445 C 900 444 862 434 834 414 C 808 394 787 368 755 354 C 700 330 628 326 555 317"
+    },
+    {
+      "from": "大雁塔南广场",
+      "to": "大唐不夜城 · 开元广场",
+      "path": "M 555 317 C 554 425 550 546 548 655 C 547 726 546 791 545 846"
+    }
+  ],
+  "note": "图像模型会移动地标；这些锚点按生成底图重新落位，高德点与路径在独立文件保存。"
+}

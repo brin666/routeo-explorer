@@ -1,0 +1,61 @@
+{
+  "city": "杭州",
+  "slug": "hangzhou",
+  "width": 1200,
+  "height": 675,
+  "anchors": [
+    {
+      "name": "断桥残雪",
+      "placeKey": "hangzhou:broken_bridge",
+      "poiId": "B023B01EE6",
+      "x": 1010,
+      "y": 120,
+      "landmark": "Broken Bridge: low stone bridge near north-east West Lake edge"
+    },
+    {
+      "name": "白堤",
+      "placeKey": "hangzhou:bai_causeway",
+      "poiId": "B0FFFTYEG4",
+      "x": 908,
+      "y": 242,
+      "landmark": "Bai Causeway: long thin straight tree-lined path across the lake"
+    },
+    {
+      "name": "平湖秋月",
+      "placeKey": "hangzhou:pinghu_qiuyue",
+      "poiId": "B0HU44IKRD",
+      "x": 764,
+      "y": 413,
+      "landmark": "Pinghu Qiuyue: waterside pavilion and small platform at east end of Gushan island"
+    },
+    {
+      "name": "孤山路",
+      "placeKey": "hangzhou:gushan_road",
+      "poiId": "BZA4QQ02EY",
+      "x": 811,
+      "y": 440,
+      "landmark": "Gushan Road: narrow tree-shaded road on Gushan island, spatially near Pinghu but visually separate street access",
+      "visualSeparation": "nearby features enlarged for readability, not a new geographic coordinate"
+    },
+    {
+      "name": "西泠桥",
+      "placeKey": "hangzhou:xiling_bridge",
+      "poiId": "B023B0A6IY",
+      "x": 403,
+      "y": 431,
+      "landmark": "Xiling Bridge: short stone crossing at western end of Gushan"
+    },
+    {
+      "name": "曲院风荷",
+      "placeKey": "hangzhou:quyuan_fenghe",
+      "poiId": "B023B0253E",
+      "x": 160,
+      "y": 560,
+      "landmark": "Quyuan Fenghe: western lakeshore lotus ponds with meandering footbridges and pavilions"
+    }
+  ],
+  "terrain": "lake",
+  "context": "Only northern West Lake shore and Gushan island. Open lake south, north lakeside city/green hills; Bai Causeway connects Broken Bridge to Gushan. No horizon, no south-lake Leifeng tower or Su Causeway inserted as route points.",
+  "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 杭州, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Broken Bridge: low stone bridge near north-east West Lake edge, at 84% from left and 18% from top; 2: Bai Causeway: long thin straight tree-lined path across the lake, at 76% from left and 36% from top; 3: Pinghu Qiuyue: waterside pavilion and small platform at east end of Gushan island, at 64% from left and 61% from top; 4: Gushan Road: narrow tree-shaded road on Gushan island, spatially near Pinghu but visually separate street access, at 68% from left and 65% from top; 5: Xiling Bridge: short stone crossing at western end of Gushan, at 34% from left and 64% from top; 6: Quyuan Fenghe: western lakeshore lotus ponds with meandering footbridges and pavilions, at 13% from left and 83% from top.\nGeographic context: Only northern West Lake shore and Gushan island. Open lake south, north lakeside city/green hills; Bai Causeway connects Broken Bridge to Gushan. No horizon, no south-lake Leifeng tower or Su Causeway inserted as route points.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.",
+  "geographicStatus": "AMap POI locations checked; draft artwork enlargement is a visual convention, not geographic coordinates"
+}

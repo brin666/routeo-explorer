@@ -1,0 +1,100 @@
+{
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": [
+    1672,
+    941
+  ],
+  "source": "built-in image_gen; visually reviewed native artwork",
+  "image": "./assets/routes/batch20/kunming-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "西寺塔",
+      "placeKey": "kunming.western_pagoda",
+      "x": 216,
+      "y": 263
+    },
+    {
+      "name": "近日楼",
+      "placeKey": "kunming.jinri_building",
+      "x": 624,
+      "y": 357,
+      "geographicStatus": "pending",
+      "calibrationNote": "临时插画锚点，真实经纬度及相邻交通保持待核。"
+    },
+    {
+      "name": "敬德巷",
+      "placeKey": "kunming.jingde_lane",
+      "x": 989,
+      "y": 443
+    },
+    {
+      "name": "巡津新村",
+      "placeKey": "kunming.xunjin_new_village",
+      "x": 1363,
+      "y": 457
+    },
+    {
+      "name": "铁皮巷",
+      "placeKey": "kunming.tiepi_lane",
+      "x": 1244,
+      "y": 800
+    }
+  ],
+  "route": "M 216 263 L 222 284 L 249 309 L 287 304 L 337 284 L 396 257 L 447 227 L 467 259 L 478 282 L 509 298 L 545 326 L 589 349 L 624 357 L 659 374 L 694 361 L 736 349 L 764 350 L 818 368 L 878 388 L 936 410 L 989 443 L 1035 467 L 1084 489 L 1138 509 L 1195 524 L 1261 548 L 1324 559 L 1359 533 L 1359 496 L 1363 457 L 1367 509 L 1364 548 L 1331 586 L 1294 626 L 1279 680 L 1260 735 L 1244 800",
+  "segmentPaths": [
+    "M 216 263 L 222 284 L 249 309 L 287 304 L 337 284 L 396 257 L 447 227 L 467 259 L 478 282 L 509 298 L 545 326 L 589 349 L 624 357",
+    "M 624 357 L 659 374 L 694 361 L 736 349 L 764 350 L 818 368 L 878 388 L 936 410 L 989 443",
+    "M 989 443 L 1035 467 L 1084 489 L 1138 509 L 1195 524 L 1261 548 L 1324 559 L 1359 533 L 1359 496 L 1363 457",
+    "M 1363 457 L 1367 509 L 1364 548 L 1331 586 L 1294 626 L 1279 680 L 1260 735 L 1244 800"
+  ],
+  "layoutAnchors": [
+    {
+      "name": "西寺塔",
+      "placeKey": "kunming.western_pagoda",
+      "poiId": "B0FFGA3Q0C",
+      "x": 160,
+      "y": 120,
+      "landmark": "Western Pagoda: slender multi-storey square ochre brick pagoda in small street plaza"
+    },
+    {
+      "name": "近日楼",
+      "placeKey": "kunming.jinri_building",
+      "poiId": null,
+      "x": 432,
+      "y": 217,
+      "landmark": "Jinri Building: small traditional gatehouse tower above an old street",
+      "geographicStatus": "pending",
+      "visualSeparation": "草图临时展示锚点，真实经纬度未确认；不用于计算距离或交通"
+    },
+    {
+      "name": "敬德巷",
+      "placeKey": "kunming.jingde_lane",
+      "poiId": "BZ8DMU019W",
+      "x": 704,
+      "y": 313,
+      "landmark": "Jingde Lane: narrow historic shop-lined alley"
+    },
+    {
+      "name": "巡津新村",
+      "placeKey": "kunming.xunjin_new_village",
+      "poiId": "B03670W7TM",
+      "x": 1010,
+      "y": 302,
+      "landmark": "Xunjin New Village: modest historic residential alley with textured low-rise roofs"
+    },
+    {
+      "name": "铁皮巷",
+      "placeKey": "kunming.tiepi_lane",
+      "poiId": "BZ8DMU01PK",
+      "x": 864,
+      "y": 560,
+      "landmark": "Tiepi Lane: narrow textured old-city alley with small craft/store fronts"
+    }
+  ],
+  "calibrationStatus": "manually-reviewed-illustration-roads",
+  "notes": [
+    "近日楼仅为草图临时门楼表现，真实地理仍pending；相邻两段只做插画道路动画，不生成真实经纬度、距离或交通结果。",
+    "敬德巷、巡津新村、铁皮巷是插画中对应街巷锚点，不把通用商铺或私宅画面当作精确到店导航。"
+  ]
+}

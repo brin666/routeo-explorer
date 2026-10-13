@@ -1,0 +1,55 @@
+{
+  "city": "上海",
+  "slug": "shanghai",
+  "image": "./assets/routes/batch20/shanghai-b20-artwork-v1.webp",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "rasterSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "markers": [
+    {
+      "name": "船舶大厦",
+      "placeKey": "shanghai_chuanbo_building",
+      "x": 1404,
+      "y": 516
+    },
+    {
+      "name": "东方明珠",
+      "placeKey": "shanghai_oriental_pearl_tower",
+      "x": 531,
+      "y": 336
+    },
+    {
+      "name": "浦东美术馆",
+      "placeKey": "shanghai_museum_of_art_pudong",
+      "x": 350,
+      "y": 542
+    },
+    {
+      "name": "落日长廊",
+      "placeKey": "shanghai_luori_changlang_source37",
+      "x": 311,
+      "y": 653
+    }
+  ],
+  "route": "M 1404 516 L 1375 542 L 1261 584 L 1143 548 L 1044 516 L 934 502 L 855 485 L 755 472 L 704 466 L 664 428 L 600 405 L 564 349 L 531 336 M 531 336 L 486 341 L 406 332 L 355 374 L 300 400 L 276 450 L 275 508 L 290 540 L 350 542 M 350 542 L 285 568 L 254 588 L 276 620 L 311 653",
+  "segmentPaths": [
+    "M 1404 516 L 1375 542 L 1261 584 L 1143 548 L 1044 516 L 934 502 L 855 485 L 755 472 L 704 466 L 664 428 L 600 405 L 564 349 L 531 336",
+    "M 531 336 L 486 341 L 406 332 L 355 374 L 300 400 L 276 450 L 275 508 L 290 540 L 350 542",
+    "M 350 542 L 285 568 L 254 588 L 276 620 L 311 653"
+  ],
+  "calibrationMethod": "manual visual inspection of generated artwork; marker entrances and visible roads adjusted after generation",
+  "routeStatus": "沿成品可见道路的插画示意；非实际导航或路网查询",
+  "generatedWith": "built-in image_gen",
+  "notes": [
+    "四个选站位于黄浦江东岸，船舶大厦为办公楼，东方明珠为双球塔，浦东美术馆为浅色立方建筑。",
+    "陆家嘴地铁交通锚点未纳入站点；落日长廊点位留在美术馆南侧滨江步道。",
+    "道路沿可见街道与滨江岸线，未跨黄浦江；非实际导航。"
+  ]
+}

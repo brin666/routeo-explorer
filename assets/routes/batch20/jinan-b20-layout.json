@@ -1,0 +1,60 @@
+{
+  "city": "济南",
+  "slug": "jinan",
+  "width": 1200,
+  "height": 675,
+  "anchors": [
+    {
+      "name": "五龙潭",
+      "placeKey": "jinan:wulongtan",
+      "poiId": "B021301972",
+      "x": 160,
+      "y": 403,
+      "landmark": "Wulongtan Park: small park with irregular spring-fed pools and shaded pavilions"
+    },
+    {
+      "name": "趵突泉",
+      "placeKey": "jinan:baotu_spring",
+      "poiId": "B0LRFH675Y",
+      "x": 188,
+      "y": 560,
+      "landmark": "Baotu Spring: stone-bordered spring pool and traditional roof halls, NOT waterfall"
+    },
+    {
+      "name": "黑虎泉",
+      "placeKey": "jinan:heihu_spring",
+      "poiId": "B021302AA7",
+      "x": 1010,
+      "y": 512,
+      "landmark": "Black Tiger Spring: three stone tiger-head spouts near city moat"
+    },
+    {
+      "name": "曲水亭街",
+      "placeKey": "jinan:qushuiting_street",
+      "poiId": "B0FFGS8UZH",
+      "x": 596,
+      "y": 263,
+      "landmark": "Qushuiting Street: narrow old lane along spring-fed canal with whitewashed houses"
+    },
+    {
+      "name": "大明湖",
+      "placeKey": "jinan:daming_lake",
+      "poiId": "B0KUBZMOI6",
+      "x": 561,
+      "y": 126,
+      "landmark": "Daming Lake: large irregular lake with lotus, willow-lined shore and pavilions"
+    },
+    {
+      "name": "超然楼外观（不含登楼）",
+      "placeKey": "jinan:chaoran_tower",
+      "poiId": "B0HK6S3TEO",
+      "x": 968,
+      "y": 120,
+      "landmark": "Chaoran Tower: tall multi-storey golden traditional roof pavilion near lake eastern shore"
+    }
+  ],
+  "terrain": "lake",
+  "context": "Spring-city center, large Daming Lake north, tiny pools south-west and old canals through east. Keep scale distinction between big lake and small spring pools, varied old/new streets.",
+  "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 济南, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Wulongtan Park: small park with irregular spring-fed pools and shaded pavilions, at 13% from left and 60% from top; 2: Baotu Spring: stone-bordered spring pool and traditional roof halls, NOT waterfall, at 16% from left and 83% from top; 3: Black Tiger Spring: three stone tiger-head spouts near city moat, at 84% from left and 76% from top; 4: Qushuiting Street: narrow old lane along spring-fed canal with whitewashed houses, at 50% from left and 39% from top; 5: Daming Lake: large irregular lake with lotus, willow-lined shore and pavilions, at 47% from left and 19% from top; 6: Chaoran Tower: tall multi-storey golden traditional roof pavilion near lake eastern shore, at 81% from left and 18% from top.\nGeographic context: Spring-city center, large Daming Lake north, tiny pools south-west and old canals through east. Keep scale distinction between big lake and small spring pools, varied old/new streets.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.",
+  "geographicStatus": "AMap POI locations checked; draft artwork enlargement is a visual convention, not geographic coordinates"
+}

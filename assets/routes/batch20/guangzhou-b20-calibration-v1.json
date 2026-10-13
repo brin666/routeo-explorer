@@ -1,0 +1,61 @@
+{
+  "city": "广州",
+  "slug": "guangzhou",
+  "image": "./assets/routes/batch20/guangzhou-b20-artwork-v1.webp",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "rasterSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "markers": [
+    {
+      "name": "愈欣书店",
+      "placeKey": "guangzhou.science_city.yuxin_bookstore",
+      "x": 1394,
+      "y": 501
+    },
+    {
+      "name": "玉树公园",
+      "placeKey": "guangzhou.science_city.yushu_park",
+      "x": 232,
+      "y": 856
+    },
+    {
+      "name": "科学城体育公园·尖塔山",
+      "placeKey": "guangzhou.science_city.science_city_sports_park_jianta",
+      "x": 677,
+      "y": 552
+    },
+    {
+      "name": "尖峰岭公园",
+      "placeKey": "guangzhou.science_city.jianfengling_park",
+      "x": 1420,
+      "y": 270
+    },
+    {
+      "name": "牛角岭公园",
+      "placeKey": "guangzhou.science_city.niujiaoling_park",
+      "x": 989,
+      "y": 732
+    }
+  ],
+  "route": "M 1394 501 L 1401 513 L 1240 504 L 1100 481 L 890 475 L 888 527 L 887 601 L 885 640 L 854 669 L 683 732 L 515 787 L 390 832 L 273 874 L 232 856 M 232 856 L 295 856 L 431 815 L 490 769 L 480 720 L 449 645 L 437 607 L 508 592 L 590 583 L 690 575 L 677 552 M 677 552 L 705 574 L 799 546 L 841 490 L 869 371 L 866 270 L 849 203 L 989 178 L 1120 158 L 1138 209 L 1250 266 L 1340 281 L 1420 270 M 1420 270 L 1315 287 L 1225 310 L 1190 385 L 1174 476 L 1110 490 L 900 480 L 891 584 L 904 654 L 992 728 L 989 732",
+  "segmentPaths": [
+    "M 1394 501 L 1401 513 L 1240 504 L 1100 481 L 890 475 L 888 527 L 887 601 L 885 640 L 854 669 L 683 732 L 515 787 L 390 832 L 273 874 L 232 856",
+    "M 232 856 L 295 856 L 431 815 L 490 769 L 480 720 L 449 645 L 437 607 L 508 592 L 590 583 L 690 575 L 677 552",
+    "M 677 552 L 705 574 L 799 546 L 841 490 L 869 371 L 866 270 L 849 203 L 989 178 L 1120 158 L 1138 209 L 1250 266 L 1340 281 L 1420 270",
+    "M 1420 270 L 1315 287 L 1225 310 L 1190 385 L 1174 476 L 1110 490 L 900 480 L 891 584 L 904 654 L 992 728 L 989 732"
+  ],
+  "calibrationMethod": "manual visual inspection of generated artwork; marker entrances and visible roads adjusted after generation",
+  "routeStatus": "沿成品可见道路的插画示意；非实际导航或路网查询",
+  "generatedWith": "built-in image_gen",
+  "notes": [
+    "科学城现代园区与四处绿地已目视；书店采用云汇店环形阅读空间。",
+    "锚点放在可见入口或园路，道路是画面示意，不是地理导航。"
+  ]
+}

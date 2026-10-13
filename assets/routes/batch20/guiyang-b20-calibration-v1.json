@@ -1,0 +1,111 @@
+{
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": [
+    1672,
+    941
+  ],
+  "source": "built-in image_gen; visually reviewed native artwork",
+  "image": "./assets/routes/batch20/guiyang-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "北天主教堂",
+      "placeKey": "贵阳::北天主教堂",
+      "x": 791,
+      "y": 198
+    },
+    {
+      "name": "东山寺",
+      "placeKey": "贵阳::东山寺",
+      "x": 1200,
+      "y": 347
+    },
+    {
+      "name": "仙人洞",
+      "placeKey": "贵阳::仙人洞",
+      "x": 1558,
+      "y": 555
+    },
+    {
+      "name": "甲秀楼",
+      "placeKey": "贵阳::甲秀楼",
+      "x": 1084,
+      "y": 592
+    },
+    {
+      "name": "青云市集",
+      "placeKey": "贵阳::青云市集",
+      "x": 780,
+      "y": 789
+    },
+    {
+      "name": "花果园白宫",
+      "placeKey": "贵阳::花果园白宫",
+      "x": 249,
+      "y": 679
+    }
+  ],
+  "route": "M 791 198 L 784 213 L 794 233 L 840 238 L 903 222 L 957 187 L 1003 160 L 1017 197 L 1023 245 L 1030 286 L 1051 337 L 1073 360 L 1105 375 L 1145 388 L 1190 376 L 1200 347 L 1190 376 L 1193 386 L 1219 408 L 1260 434 L 1285 467 L 1308 500 L 1321 533 L 1354 572 L 1398 605 L 1442 619 L 1492 629 L 1520 627 L 1534 613 L 1555 592 L 1561 586 L 1558 555 L 1561 586 L 1555 592 L 1534 613 L 1520 627 L 1492 629 L 1442 619 L 1398 605 L 1354 572 L 1321 538 L 1292 551 L 1257 562 L 1225 569 L 1194 565 L 1161 580 L 1120 587 L 1084 592 L 1081 609 L 1063 619 L 1044 622 L 1023 613 L 1005 597 L 985 590 L 950 581 L 917 574 L 879 573 L 842 587 L 842 638 L 839 661 L 825 687 L 808 718 L 789 753 L 780 789 L 762 807 L 720 799 L 665 776 L 616 754 L 570 733 L 532 710 L 509 678 L 483 648 L 463 629 L 454 606 L 435 583 L 397 587 L 372 622 L 371 654 L 358 668 L 320 675 L 290 686 L 249 679",
+  "segmentPaths": [
+    "M 791 198 L 784 213 L 794 233 L 840 238 L 903 222 L 957 187 L 1003 160 L 1017 197 L 1023 245 L 1030 286 L 1051 337 L 1073 360 L 1105 375 L 1145 388 L 1190 376 L 1200 347",
+    "M 1200 347 L 1190 376 L 1193 386 L 1219 408 L 1260 434 L 1285 467 L 1308 500 L 1321 533 L 1354 572 L 1398 605 L 1442 619 L 1492 629 L 1520 627 L 1534 613 L 1555 592 L 1561 586 L 1558 555",
+    "M 1558 555 L 1561 586 L 1555 592 L 1534 613 L 1520 627 L 1492 629 L 1442 619 L 1398 605 L 1354 572 L 1321 538 L 1292 551 L 1257 562 L 1225 569 L 1194 565 L 1161 580 L 1120 587 L 1084 592",
+    "M 1084 592 L 1081 609 L 1063 619 L 1044 622 L 1023 613 L 1005 597 L 985 590 L 950 581 L 917 574 L 879 573 L 842 587 L 842 638 L 839 661 L 825 687 L 808 718 L 789 753 L 780 789",
+    "M 780 789 L 762 807 L 720 799 L 665 776 L 616 754 L 570 733 L 532 710 L 509 678 L 483 648 L 463 629 L 454 606 L 435 583 L 397 587 L 372 622 L 371 654 L 358 668 L 320 675 L 290 686 L 249 679"
+  ],
+  "layoutAnchors": [
+    {
+      "name": "北天主教堂",
+      "placeKey": "贵阳::北天主教堂",
+      "poiId": "B0FFH2NKAD",
+      "x": 615,
+      "y": 120,
+      "landmark": "Northern Catholic Church: distinctive pale-white Christian facade with local traditional roof elements"
+    },
+    {
+      "name": "东山寺",
+      "placeKey": "贵阳::东山寺",
+      "poiId": "B0FFH6UNUE",
+      "x": 869,
+      "y": 323,
+      "landmark": "Dongshan Temple: hilltop traditional temple amid dense trees"
+    },
+    {
+      "name": "仙人洞",
+      "placeKey": "贵阳::仙人洞",
+      "poiId": "B0353005A2",
+      "x": 1010,
+      "y": 361,
+      "landmark": "Xianrendong: cliff-side Daoist temple with tiled roofs nested against limestone hill"
+    },
+    {
+      "name": "甲秀楼",
+      "placeKey": "贵阳::甲秀楼",
+      "poiId": "B035301NFU",
+      "x": 721,
+      "y": 438,
+      "landmark": "Jiaxiu Pavilion: traditional three-storey pavilion on small rock island in Nanming River, stone bridge access"
+    },
+    {
+      "name": "青云市集",
+      "placeKey": "贵阳::青云市集",
+      "poiId": "B0HKPZ8N27",
+      "x": 634,
+      "y": 560,
+      "landmark": "Qingyun Market: renovated old-factory low-rise dining/arts neighborhood"
+    },
+    {
+      "name": "花果园白宫",
+      "placeKey": "贵阳::花果园白宫",
+      "poiId": "B0FFLHO2NV",
+      "x": 160,
+      "y": 544,
+      "landmark": "Huaguoyuan White Palace: grand ornate European-style pale exterior beside small urban lake"
+    }
+  ],
+  "calibrationStatus": "manually-reviewed-illustration-roads",
+  "notes": [
+    "北天主教堂已参照归档实景局部修正为银白三开间、圆窗和中式檐口，未保留通用哥特双尖塔。",
+    "东山寺阶梯、仙人洞崖侧步道及甲秀楼实体桥梁是成品校准依据；路线只供插画展示，登山和实际公共通行另核。"
+  ]
+}

@@ -1,6 +1,7 @@
 import { createRouteStoryController } from "./route-story.js";
 import { RouteMapPreview } from "./route-map-preview.js";
-import { ROUTES } from "./routes-data.js";
+import { FeedTimelinePreview, routeTimelineStops } from "./feed-timeline.js";
+import { ROUTES, JOURNEYS } from "./routes-data.js";
 
 const routeFeed = document.querySelector("#route-feed");
 const storyView = document.querySelector("#story-view");
@@ -12,6 +13,7 @@ const emptyState = document.querySelector("#empty-state");
 const toast = document.querySelector("#toast");
 const settingsPopover = document.querySelector("#settings-popover");
 const reduceMotionToggle = document.querySelector("#reduce-motion");
+const feedTimelinePreview = new FeedTimelinePreview(routeFeed, ROUTES, JOURNEYS);
 
 const SAVED_KEY = "routeo:saved-routes:v1";
 const MOTION_KEY = "routeo:reduce-motion:v1";
@@ -63,25 +65,23 @@ function arrowLeftIcon() {
   return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>';
 }
 
-function snapshotStrip(route) {
-  return `<div class="route-card__snapshots" aria-hidden="true">${route.snapshots.map((scene, index) => `<div class="route-snapshot route-snapshot--${scene}" style="--snapshot-image:url('${escapeHtml(route.image)}');--snapshot-position:${index === 0 ? "22%" : "78%"}"></div>`).join("")}</div>`;
-}
-
 function routeCard(route) {
   const isSaved = savedRoutes.has(route.id);
+  const timelineDescription = routeTimelineStops(route, JOURNEYS[route.id]).map((stop) => `${stop.time} ${stop.name}`).join("，");
   return `<article class="route-card route-card--${route.theme}" data-route-card="${route.id}">
     <div class="route-card__map" aria-hidden="true">${RouteMapPreview(route)}</div>
     <div class="route-card__scrim" aria-hidden="true"></div>
-    <a class="route-card__link" href="#/route/${route.id}" aria-label="打开路线故事：${escapeHtml(route.place)}，${escapeHtml(route.title)}，${route.days}日行程">
+    <a class="route-card__link" href="#/route/${route.id}" aria-label="打开路线故事：${escapeHtml(route.place)}，${escapeHtml(route.title)}，${route.days}日行程" aria-describedby="route-itinerary-${route.id}">
       <span class="sr-only">查看${escapeHtml(route.title)}路线故事</span>
     </a>
+    <span class="sr-only" id="route-itinerary-${route.id}">${escapeHtml(timelineDescription)}</span>
+    <div class="route-card__timeline" data-feed-timeline aria-hidden="true"></div>
     <div class="route-card__meta">
       <span class="place-badge">${flagMark(route.flag)}<span>${escapeHtml(route.place)}</span></span>
       <h2 class="route-title">${escapeHtml(route.title)}</h2>
       <p class="trip-length">${clockIcon()}<span>${route.days}日行程</span></p>
       <div class="tag-list" aria-label="体验标签">${route.tags.map((tag) => `<span class="route-tag">${escapeHtml(tag)}</span>`).join("")}</div>
     </div>
-    ${snapshotStrip(route)}
     <button class="favorite-button${isSaved ? " is-saved" : ""}" type="button" data-save="${route.id}" aria-label="${isSaved ? "取消收藏" : "收藏"}${escapeHtml(route.title)}" aria-pressed="${isSaved}">${heartIcon()}</button>
   </article>`;
 }
@@ -122,10 +122,33 @@ function updateNavigation() {
 
 function updateFilterButtons() {
   document.querySelectorAll(".filter-chip").forEach((button) => {
+    if (button.dataset.filter === "tag") {
+      button.hidden = !ROUTES.some((route) => route.tags.includes(button.dataset.value));
+    }
     const matches = activeFilter.type === button.dataset.filter && activeFilter.value === button.dataset.value;
     button.classList.toggle("is-active", matches);
     button.setAttribute("aria-pressed", String(matches));
   });
+}
+
+function populateCityFilters() {
+  const bar = document.querySelector("#filter-bar");
+  const anchor = bar.querySelector("[data-filter='city']");
+  if (!anchor) return;
+  const incumbentButtons = [...bar.querySelectorAll("[data-filter='city']")];
+  const fragment = document.createDocumentFragment();
+  for (const city of new Set(ROUTES.map((route) => route.city))) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "filter-chip";
+    button.dataset.filter = "city";
+    button.dataset.value = city;
+    button.setAttribute("aria-pressed", "false");
+    button.textContent = city;
+    fragment.append(button);
+  }
+  bar.insertBefore(fragment, anchor);
+  incumbentButtons.forEach((button) => button.remove());
 }
 
 function renderFeed() {
@@ -136,6 +159,7 @@ function renderFeed() {
   else title.textContent = "旅行路线探索";
 
   feedCount.textContent = `${String(matches.length).padStart(2, "0")} 条路线`;
+  feedTimelinePreview.reset();
   routeFeed.innerHTML = matches.map(routeCard).join("");
   routeFeed.hidden = matches.length === 0;
   emptyState.hidden = matches.length !== 0;
@@ -194,6 +218,7 @@ function syncMotionPreference() {
 function renderApp({ restoreFeed = false } = {}) {
   const routeMatch = location.hash.match(/^#\/route\/([^/]+)$/);
   if (routeMatch) {
+    feedTimelinePreview.suspend();
     const requestedId = decodeURIComponent(routeMatch[1]);
     const routeId = requestedId === "kyoto-autumn-walk" ? "suzhou-garden-walk" : requestedId;
     if (routeId !== requestedId) history.replaceState(null, "", `#/route/${routeId}`);
@@ -282,5 +307,6 @@ window.addEventListener("keydown", (event) => {
 
 window.addEventListener("hashchange", () => renderApp({ restoreFeed: true }));
 
+populateCityFilters();
 syncMotionPreference();
 renderApp();

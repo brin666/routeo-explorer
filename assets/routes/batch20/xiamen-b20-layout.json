@@ -1,0 +1,60 @@
+{
+  "city": "厦门",
+  "slug": "xiamen",
+  "width": 1200,
+  "height": 675,
+  "anchors": [
+    {
+      "name": "第八市场（八市）",
+      "placeKey": "xiamen:bashi_market",
+      "poiId": "B0JG9C6ZWG",
+      "x": 160,
+      "y": 120,
+      "landmark": "Bashi eighth market: compact bustling old market lanes with awnings in old quarter"
+    },
+    {
+      "name": "中山路步行街",
+      "placeKey": "xiamen:zhongshan_road",
+      "poiId": "B025003IUP",
+      "x": 323,
+      "y": 164,
+      "landmark": "Zhongshan Road: wide Nanyang-style arcaded shophouses in pedestrian street"
+    },
+    {
+      "name": "南普陀寺",
+      "placeKey": "xiamen:nanputuo_temple",
+      "poiId": "B025003QZU",
+      "x": 1010,
+      "y": 393,
+      "landmark": "Nanputuo Temple: large traditional roof Buddhist temple at foot of green wooded hill"
+    },
+    {
+      "name": "顶澳仔猫街",
+      "placeKey": "xiamen:dingaozai_cat_street",
+      "poiId": "B0FFHF0QFQ",
+      "x": 799,
+      "y": 437,
+      "landmark": "Dingaozai Cat Street: small urban street with cat wall art motifs, not giant cats"
+    },
+    {
+      "name": "沙坡尾",
+      "placeKey": "xiamen:shapowei",
+      "poiId": "B0FFGQNO60",
+      "x": 653,
+      "y": 476,
+      "landmark": "Shapowei: compact historic fishing harbor with colored small houses and modern shops"
+    },
+    {
+      "name": "演武大桥观景平台",
+      "placeKey": "xiamen:yanwu_observation_platform",
+      "poiId": "B0FFH1VLKT",
+      "x": 746,
+      "y": 560,
+      "landmark": "Yanwu Bridge observation platform: low modern coastal walkway by sea near twin glass Sail towers"
+    }
+  ],
+  "terrain": "coast",
+  "context": "Xiamen Island south-west coastal city, sea on west/south, old market north-west and temple south-east. Modern Yanwu sea bridge is supporting coastal structure. No route to Gulangyu; island may appear distantly only if spatially appropriate.",
+  "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 厦门, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Bashi eighth market: compact bustling old market lanes with awnings in old quarter, at 13% from left and 18% from top; 2: Zhongshan Road: wide Nanyang-style arcaded shophouses in pedestrian street, at 27% from left and 24% from top; 3: Nanputuo Temple: large traditional roof Buddhist temple at foot of green wooded hill, at 84% from left and 58% from top; 4: Dingaozai Cat Street: small urban street with cat wall art motifs, not giant cats, at 67% from left and 65% from top; 5: Shapowei: compact historic fishing harbor with colored small houses and modern shops, at 54% from left and 71% from top; 6: Yanwu Bridge observation platform: low modern coastal walkway by sea near twin glass Sail towers, at 62% from left and 83% from top.\nGeographic context: Xiamen Island south-west coastal city, sea on west/south, old market north-west and temple south-east. Modern Yanwu sea bridge is supporting coastal structure. No route to Gulangyu; island may appear distantly only if spatially appropriate.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.",
+  "geographicStatus": "AMap POI locations checked; draft artwork enlargement is a visual convention, not geographic coordinates"
+}

@@ -1,0 +1,2778 @@
+{
+  "city": "厦门",
+  "slug": "xiamen",
+  "queriedAt": "2026-10-13T05:43:05.503Z",
+  "source": "AMap JS API 2.0 PlaceSearch",
+  "coordinateSystem": "GCJ-02",
+  "points": [
+    {
+      "name": "第八市场（八市）",
+      "placeKey": "xiamen:bashi_market",
+      "experienceKey": "xiamen:bashi_market:local_food_market",
+      "searchKeyword": "第八市场",
+      "status": "candidate-selected",
+      "selectionMethod": "manually-reviewed-exact-POI-id-name-type-and-address",
+      "poiId": "B0JG9C6ZWG",
+      "address": "开禾路44号",
+      "type": "购物服务;综合市场;综合市场",
+      "coordinate": [
+        118.075017,
+        24.457902
+      ],
+      "entrance": [
+        118.074971,
+        24.457867
+      ],
+      "url": "https://ditu.amap.com/place/B0JG9C6ZWG",
+      "candidates": [
+        {
+          "name": "第八市场(八市)",
+          "poiId": "B0JG9C6ZWG",
+          "address": "开禾路44号",
+          "type": "购物服务;综合市场;综合市场",
+          "coordinate": [
+            118.075017,
+            24.457902
+          ],
+          "entrance": [
+            118.074971,
+            24.457867
+          ],
+          "url": "https://ditu.amap.com/place/B0JG9C6ZWG"
+        },
+        {
+          "name": "开禾马路市场(装修中)",
+          "poiId": "B0I1UUYGG8",
+          "address": "开禾路",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            118.075326,
+            24.457259
+          ],
+          "entrance": [
+            118.075265,
+            24.45724
+          ],
+          "url": "https://ditu.amap.com/place/B0I1UUYGG8"
+        },
+        {
+          "name": "万寿北农副产品综合市场",
+          "poiId": "B025001I8G",
+          "address": "万寿路6-8号(将军祠地铁站4号口步行270米)",
+          "type": "购物服务;综合市场;农副产品市场",
+          "coordinate": [
+            118.101369,
+            24.460229
+          ],
+          "entrance": [
+            118.101358,
+            24.460358
+          ],
+          "url": "https://ditu.amap.com/place/B025001I8G"
+        },
+        {
+          "name": "肥茂满煎糕",
+          "poiId": "B0L69ZNT42",
+          "address": "八市菜市场开禾路52号",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            118.075021,
+            24.458008
+          ],
+          "entrance": [
+            118.074923,
+            24.457922
+          ],
+          "url": "https://ditu.amap.com/place/B0L69ZNT42"
+        },
+        {
+          "name": "厦门网红度假民宿(开禾路分店)",
+          "poiId": "B0I1Z4LGLC",
+          "address": "开禾路厦门第八菜市场开元路216号",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            118.074745,
+            24.458785
+          ],
+          "entrance": [
+            118.0745,
+            24.45886
+          ],
+          "url": "https://ditu.amap.com/place/B0I1Z4LGLC"
+        },
+        {
+          "name": "常青鲜花店批发部",
+          "poiId": "B0FFINHIQO",
+          "address": "碑头路57-8号(碑头菜市场旁)",
+          "type": "购物服务;花鸟鱼虫市场;花卉市场",
+          "coordinate": [
+            118.030029,
+            24.567173
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFINHIQO"
+        },
+        {
+          "name": "祝强大药房(阳翟分店)",
+          "poiId": "B0FFGIK8PU",
+          "address": "阳翟菜市场对面",
+          "type": "医疗保健服务;医药保健销售店;药房",
+          "coordinate": [
+            118.15335,
+            24.710855
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGIK8PU"
+        },
+        {
+          "name": "红龙水族馆(开禾路店)",
+          "poiId": "B0FFLMJUF8",
+          "address": "第八市场开禾路3号",
+          "type": "购物服务;花鸟鱼虫市场;宠物市场",
+          "coordinate": [
+            118.075297,
+            24.457042
+          ],
+          "entrance": [
+            118.075324,
+            24.456927
+          ],
+          "url": "https://ditu.amap.com/place/B0FFLMJUF8"
+        },
+        {
+          "name": "福禄源海鲜·厦门老字号(八市店)",
+          "poiId": "B0IRS699CR",
+          "address": "开禾路107号(第八菜市场)",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            118.07451,
+            24.45906
+          ],
+          "entrance": [
+            118.074553,
+            24.459152
+          ],
+          "url": "https://ditu.amap.com/place/B0IRS699CR"
+        },
+        {
+          "name": "洪本部食杂店",
+          "poiId": "B0FFKSP8GA",
+          "address": "第八市场开禾路",
+          "type": "购物服务;便民商店/便利店;便民商店/便利店",
+          "coordinate": [
+            118.074125,
+            24.457725
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFKSP8GA"
+        },
+        {
+          "name": "八婆婆烧仙草(厦门湖里SM城市广场店)",
+          "poiId": "B0FFGXYKL9",
+          "address": "嘉禾路468号B127室(乌石浦地铁站4B口步行350米)",
+          "type": "餐饮服务;冷饮店;冷饮店",
+          "coordinate": [
+            118.127104,
+            24.50176
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGXYKL9"
+        },
+        {
+          "name": "八市大鼓深海大鱼",
+          "poiId": "B0GK3YQI85",
+          "address": "夏商营平市场-古营路一号",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            118.076173,
+            24.457496
+          ],
+          "entrance": [
+            118.076416,
+            24.457346
+          ],
+          "url": "https://ditu.amap.com/place/B0GK3YQI85"
+        },
+        {
+          "name": "杏林旧货市场",
+          "poiId": "B0KD3AUOBM",
+          "address": "杏滨街道马銮路8号(碑头地铁站2C口步行380米)",
+          "type": "购物服务;综合市场;旧货市场",
+          "coordinate": [
+            118.027975,
+            24.562675
+          ],
+          "entrance": [
+            118.028134,
+            24.562652
+          ],
+          "url": "https://ditu.amap.com/place/B0KD3AUOBM"
+        },
+        {
+          "name": "醉壹号海鲜大排档·老厦门特色菜(厦门美食地标店)",
+          "poiId": "B0FFF4K6DO",
+          "address": "思明北路厦门美食地标第四市场1-3号店面",
+          "type": "餐饮服务;中餐厅;海鲜酒楼",
+          "coordinate": [
+            118.078927,
+            24.459189
+          ],
+          "entrance": [
+            118.078743,
+            24.459189
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF4K6DO"
+        },
+        {
+          "name": "八市张记美食",
+          "poiId": "B0LDF5QQWG",
+          "address": "营平路48号",
+          "type": "购物服务;综合市场;农副产品市场",
+          "coordinate": [
+            118.075935,
+            24.458025
+          ],
+          "entrance": [
+            118.075789,
+            24.457912
+          ],
+          "url": "https://ditu.amap.com/place/B0LDF5QQWG"
+        },
+        {
+          "name": "倪二娃川菜(长青路店)",
+          "poiId": "B0K25SN7O8",
+          "address": "长青路266号(劳动力市场斜对面)",
+          "type": "餐饮服务;中餐厅;四川菜(川菜)",
+          "coordinate": [
+            118.123485,
+            24.48664
+          ],
+          "entrance": [
+            118.123323,
+            24.486719
+          ],
+          "url": "https://ditu.amap.com/place/B0K25SN7O8"
+        },
+        {
+          "name": "八市阿杰五香",
+          "poiId": "B0J6DAEFBG",
+          "address": "开禾路111号",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            118.074541,
+            24.459096
+          ],
+          "entrance": [
+            118.074565,
+            24.459148
+          ],
+          "url": "https://ditu.amap.com/place/B0J6DAEFBG"
+        }
+      ],
+      "poiName": "第八市场(八市)",
+      "selectionNote": "第八市场及第八菜市场两个检索词均返回开禾路44号的同一综合市场POI；不以海上游、住宿或相邻餐厅代替八市。",
+      "reviewedAt": "2026-10-13T05:59:49.779Z",
+      "candidateQueries": [
+        {
+          "keyword": "第八菜市场",
+          "status": "complete",
+          "info": "OK",
+          "candidateCount": 7
+        },
+        {
+          "keyword": "第八市场",
+          "status": "complete",
+          "info": "OK",
+          "candidateCount": 12
+        }
+      ],
+      "previousSelection": {
+        "name": "屿见厦门海上游(鹭江夜游)",
+        "poiId": "B02500USLM",
+        "coordinate": [
+          118.07733,
+          24.450051
+        ],
+        "address": "鹭江道3-116号和平码头海上旅游集散中心",
+        "type": "风景名胜;风景名胜相关;旅游景点"
+      },
+      "rejectedCandidates": [
+        {
+          "name": "开禾马路市场(装修中)",
+          "poiId": "B0I1UUYGG8",
+          "address": "开禾路",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            118.075326,
+            24.457259
+          ],
+          "entrance": [
+            118.075265,
+            24.45724
+          ],
+          "url": "https://ditu.amap.com/place/B0I1UUYGG8",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "万寿北农副产品综合市场",
+          "poiId": "B025001I8G",
+          "address": "万寿路6-8号(将军祠地铁站4号口步行270米)",
+          "type": "购物服务;综合市场;农副产品市场",
+          "coordinate": [
+            118.101369,
+            24.460229
+          ],
+          "entrance": [
+            118.101358,
+            24.460358
+          ],
+          "url": "https://ditu.amap.com/place/B025001I8G",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "肥茂满煎糕",
+          "poiId": "B0L69ZNT42",
+          "address": "八市菜市场开禾路52号",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            118.075021,
+            24.458008
+          ],
+          "entrance": [
+            118.074923,
+            24.457922
+          ],
+          "url": "https://ditu.amap.com/place/B0L69ZNT42",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "厦门网红度假民宿(开禾路分店)",
+          "poiId": "B0I1Z4LGLC",
+          "address": "开禾路厦门第八菜市场开元路216号",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            118.074745,
+            24.458785
+          ],
+          "entrance": [
+            118.0745,
+            24.45886
+          ],
+          "url": "https://ditu.amap.com/place/B0I1Z4LGLC",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "常青鲜花店批发部",
+          "poiId": "B0FFINHIQO",
+          "address": "碑头路57-8号(碑头菜市场旁)",
+          "type": "购物服务;花鸟鱼虫市场;花卉市场",
+          "coordinate": [
+            118.030029,
+            24.567173
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFINHIQO",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "祝强大药房(阳翟分店)",
+          "poiId": "B0FFGIK8PU",
+          "address": "阳翟菜市场对面",
+          "type": "医疗保健服务;医药保健销售店;药房",
+          "coordinate": [
+            118.15335,
+            24.710855
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGIK8PU",
+          "reason": "医疗或诊所POI，不是近日楼本体；名称里的“近日楼馆”不能证明本体身份。"
+        },
+        {
+          "name": "红龙水族馆(开禾路店)",
+          "poiId": "B0FFLMJUF8",
+          "address": "第八市场开禾路3号",
+          "type": "购物服务;花鸟鱼虫市场;宠物市场",
+          "coordinate": [
+            118.075297,
+            24.457042
+          ],
+          "entrance": [
+            118.075324,
+            24.456927
+          ],
+          "url": "https://ditu.amap.com/place/B0FFLMJUF8",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "福禄源海鲜·厦门老字号(八市店)",
+          "poiId": "B0IRS699CR",
+          "address": "开禾路107号(第八菜市场)",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            118.07451,
+            24.45906
+          ],
+          "entrance": [
+            118.074553,
+            24.459152
+          ],
+          "url": "https://ditu.amap.com/place/B0IRS699CR",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "洪本部食杂店",
+          "poiId": "B0FFKSP8GA",
+          "address": "第八市场开禾路",
+          "type": "购物服务;便民商店/便利店;便民商店/便利店",
+          "coordinate": [
+            118.074125,
+            24.457725
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFKSP8GA",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "八婆婆烧仙草(厦门湖里SM城市广场店)",
+          "poiId": "B0FFGXYKL9",
+          "address": "嘉禾路468号B127室(乌石浦地铁站4B口步行350米)",
+          "type": "餐饮服务;冷饮店;冷饮店",
+          "coordinate": [
+            118.127104,
+            24.50176
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGXYKL9",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "八市大鼓深海大鱼",
+          "poiId": "B0GK3YQI85",
+          "address": "夏商营平市场-古营路一号",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            118.076173,
+            24.457496
+          ],
+          "entrance": [
+            118.076416,
+            24.457346
+          ],
+          "url": "https://ditu.amap.com/place/B0GK3YQI85",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "杏林旧货市场",
+          "poiId": "B0KD3AUOBM",
+          "address": "杏滨街道马銮路8号(碑头地铁站2C口步行380米)",
+          "type": "购物服务;综合市场;旧货市场",
+          "coordinate": [
+            118.027975,
+            24.562675
+          ],
+          "entrance": [
+            118.028134,
+            24.562652
+          ],
+          "url": "https://ditu.amap.com/place/B0KD3AUOBM",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "醉壹号海鲜大排档·老厦门特色菜(厦门美食地标店)",
+          "poiId": "B0FFF4K6DO",
+          "address": "思明北路厦门美食地标第四市场1-3号店面",
+          "type": "餐饮服务;中餐厅;海鲜酒楼",
+          "coordinate": [
+            118.078927,
+            24.459189
+          ],
+          "entrance": [
+            118.078743,
+            24.459189
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF4K6DO",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "八市张记美食",
+          "poiId": "B0LDF5QQWG",
+          "address": "营平路48号",
+          "type": "购物服务;综合市场;农副产品市场",
+          "coordinate": [
+            118.075935,
+            24.458025
+          ],
+          "entrance": [
+            118.075789,
+            24.457912
+          ],
+          "url": "https://ditu.amap.com/place/B0LDF5QQWG",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "倪二娃川菜(长青路店)",
+          "poiId": "B0K25SN7O8",
+          "address": "长青路266号(劳动力市场斜对面)",
+          "type": "餐饮服务;中餐厅;四川菜(川菜)",
+          "coordinate": [
+            118.123485,
+            24.48664
+          ],
+          "entrance": [
+            118.123323,
+            24.486719
+          ],
+          "url": "https://ditu.amap.com/place/B0K25SN7O8",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "八市阿杰五香",
+          "poiId": "B0J6DAEFBG",
+          "address": "开禾路111号",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            118.074541,
+            24.459096
+          ],
+          "entrance": [
+            118.074565,
+            24.459148
+          ],
+          "url": "https://ditu.amap.com/place/B0J6DAEFBG",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "屿见厦门海上游(鹭江夜游)",
+          "poiId": "B02500USLM",
+          "coordinate": [
+            118.07733,
+            24.450051
+          ],
+          "address": "鹭江道3-116号和平码头海上旅游集散中心",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "reason": "旧记录的POI不匹配目标名称；本次不限定类别搜索未将它作为目标本体返回，撤销该到达锚点。"
+        }
+      ],
+      "routeCoordinate": [
+        118.074971,
+        24.457867
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "中山路步行街",
+      "placeKey": "xiamen:zhongshan_road",
+      "experienceKey": "xiamen:zhongshan_road:arcade_street",
+      "searchKeyword": "中山路步行街",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B025003IUP",
+      "address": "中山路56号",
+      "type": "购物服务;特色商业街;特色商业街",
+      "coordinate": [
+        118.079259,
+        24.455453
+      ],
+      "entrance": [
+        118.0748,
+        24.453182
+      ],
+      "url": "https://ditu.amap.com/place/B025003IUP",
+      "candidates": [
+        {
+          "name": "中山路步行街",
+          "poiId": "B025003IUP",
+          "address": "中山路56号",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            118.079259,
+            24.455453
+          ],
+          "entrance": [
+            118.0748,
+            24.453182
+          ],
+          "url": "https://ditu.amap.com/place/B025003IUP"
+        },
+        {
+          "name": "TOP TOY(中山路步行街店)",
+          "poiId": "B0L6R74BT4",
+          "address": "中山路步行街127号",
+          "type": "购物服务;服装鞋帽皮具店;服装鞋帽皮具店",
+          "coordinate": [
+            118.079234,
+            24.453893
+          ],
+          "entrance": [
+            118.079238,
+            24.453855
+          ],
+          "url": "https://ditu.amap.com/place/B0L6R74BT4"
+        },
+        {
+          "name": "特步(中山路步行街店)",
+          "poiId": "B0KB3C2HSF",
+          "address": "厦门市思明区中山路119-121特步店",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            118.078892,
+            24.453873
+          ],
+          "entrance": [
+            118.079051,
+            24.453838
+          ],
+          "url": "https://ditu.amap.com/place/B0KB3C2HSF"
+        },
+        {
+          "name": "中山路小吃街",
+          "poiId": "B0IBFU2PQE",
+          "address": "中山路步行街62号",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            118.076362,
+            24.453405
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IBFU2PQE"
+        },
+        {
+          "name": "厦门中山路步行街亚朵酒店",
+          "poiId": "B0MDCY2A2S",
+          "address": "局口西三街南中广场135号",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            118.079075,
+            24.454975
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0MDCY2A2S"
+        },
+        {
+          "name": "中山路步行街站(公交站)",
+          "poiId": "BV11442438",
+          "address": "鹭岛观光旅游1线",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            118.081088,
+            24.454875
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV11442438"
+        }
+      ],
+      "poiName": "中山路步行街",
+      "routeCoordinate": [
+        118.0748,
+        24.453182
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "南普陀寺",
+      "placeKey": "xiamen:nanputuo_temple",
+      "experienceKey": "xiamen:nanputuo_temple:temple_vegetarian_meal",
+      "searchKeyword": "南普陀寺",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B025003QZU",
+      "address": "思明南路515号",
+      "type": "风景名胜;风景名胜;寺庙道观",
+      "coordinate": [
+        118.097143,
+        24.442641
+      ],
+      "entrance": [
+        118.09432,
+        24.439791
+      ],
+      "url": "https://ditu.amap.com/place/B025003QZU",
+      "candidates": [
+        {
+          "name": "南普陀寺",
+          "poiId": "B025003QZU",
+          "address": "思明南路515号",
+          "type": "风景名胜;风景名胜;寺庙道观",
+          "coordinate": [
+            118.097143,
+            24.442641
+          ],
+          "entrance": [
+            118.09432,
+            24.439791
+          ],
+          "url": "https://ditu.amap.com/place/B025003QZU"
+        },
+        {
+          "name": "南普陀寺·随缘",
+          "poiId": "B0MGYZ5T2I",
+          "address": "思明南路515号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            118.096981,
+            24.441418
+          ],
+          "entrance": [
+            118.094821,
+            24.440165
+          ],
+          "url": "https://ditu.amap.com/place/B0MGYZ5T2I"
+        },
+        {
+          "name": "南普陀寺-佛塔",
+          "poiId": "B0FFG236ZK",
+          "address": "思明南路515号(近厦门大学)南普陀寺内(南侧)",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            118.096906,
+            24.440921
+          ],
+          "entrance": [
+            118.096785,
+            24.440982
+          ],
+          "url": "https://ditu.amap.com/place/B0FFG236ZK"
+        },
+        {
+          "name": "南普陀寺-主殿",
+          "poiId": "B0L11HKXV5",
+          "address": "思明南路515南普陀寺内(南侧)",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            118.097094,
+            24.440755
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0L11HKXV5"
+        },
+        {
+          "name": "南普陀邮局",
+          "poiId": "B0I1TREN7K",
+          "address": "思明南路515号南普陀寺(西南角)",
+          "type": "生活服务;邮局;邮局",
+          "coordinate": [
+            118.096127,
+            24.440913
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0I1TREN7K"
+        },
+        {
+          "name": "南普陀寺停车点",
+          "poiId": "B0K1YZDJ0U",
+          "address": "思明南路515号南普陀寺",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            118.094797,
+            24.439888
+          ],
+          "entrance": [
+            118.094278,
+            24.439808
+          ],
+          "url": "https://ditu.amap.com/place/B0K1YZDJ0U"
+        }
+      ],
+      "poiName": "南普陀寺",
+      "routeCoordinate": [
+        118.09432,
+        24.439791
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "顶澳仔猫街",
+      "placeKey": "xiamen:dingaozai_cat_street",
+      "experienceKey": "xiamen:dingaozai_cat_street:murals_culturalshopping",
+      "searchKeyword": "顶澳仔猫街",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFHF0QFQ",
+      "address": "思明南路398号B15",
+      "type": "购物服务;特色商业街;特色商业街",
+      "coordinate": [
+        118.091662,
+        24.440171
+      ],
+      "entrance": [
+        118.09176,
+        24.440222
+      ],
+      "url": "https://ditu.amap.com/place/B0FFHF0QFQ",
+      "candidates": [
+        {
+          "name": "顶澳仔猫街",
+          "poiId": "B0FFHF0QFQ",
+          "address": "思明南路398号B15",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            118.091662,
+            24.440171
+          ],
+          "entrance": [
+            118.09176,
+            24.440222
+          ],
+          "url": "https://ditu.amap.com/place/B0FFHF0QFQ"
+        },
+        {
+          "name": "顶奥仔猫咪小广场(顶澳仔猫街店)",
+          "poiId": "B0HRVCU2Z7",
+          "address": "思明南路398号B15顶澳仔猫街",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            118.091431,
+            24.439804
+          ],
+          "entrance": [
+            118.091415,
+            24.439715
+          ],
+          "url": "https://ditu.amap.com/place/B0HRVCU2Z7"
+        },
+        {
+          "name": "猫街饭团(顶澳仔猫街店)",
+          "poiId": "B0FFJHG1IP",
+          "address": "顶澳仔15-01-101",
+          "type": "餐饮服务;快餐厅;快餐厅",
+          "coordinate": [
+            118.091488,
+            24.439526
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFJHG1IP"
+        },
+        {
+          "name": "顶澳仔猫街39-9号",
+          "poiId": "B0LDLOTCC2",
+          "address": "顶澳仔与西村路交叉口西北120米",
+          "type": "生活服务;生活服务场所;生活服务场所",
+          "coordinate": [
+            118.091684,
+            24.439832
+          ],
+          "entrance": [
+            118.091607,
+            24.439752
+          ],
+          "url": "https://ditu.amap.com/place/B0LDLOTCC2"
+        },
+        {
+          "name": "猫街肉片(顶澳仔猫街店)",
+          "poiId": "B0FFGB9EZ5",
+          "address": "顶澳仔与西村路交叉口西100米",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            118.09173,
+            24.439428
+          ],
+          "entrance": [
+            118.091576,
+            24.439463
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGB9EZ5"
+        },
+        {
+          "name": "沙坡尾猫街站(公交站)",
+          "poiId": "BV09202487",
+          "address": "鹭岛观光旅游1线",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            118.089989,
+            24.441612
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV09202487"
+        }
+      ],
+      "poiName": "顶澳仔猫街",
+      "routeCoordinate": [
+        118.09176,
+        24.440222
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "沙坡尾",
+      "placeKey": "xiamen:shapowei",
+      "experienceKey": "xiamen:shapowei:harbour_shops_cafe",
+      "searchKeyword": "沙坡尾",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFGQNO60",
+      "address": "思明区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        118.087854,
+        24.43799
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0FFGQNO60",
+      "candidates": [
+        {
+          "name": "沙坡尾",
+          "poiId": "B0FFGQNO60",
+          "address": "思明区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            118.087854,
+            24.43799
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGQNO60"
+        },
+        {
+          "name": "沙坡尾",
+          "poiId": "B0HK94XSHB",
+          "address": "厦港街道大学路与民族路交叉口东南120米",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            118.088167,
+            24.439087
+          ],
+          "entrance": [
+            118.088644,
+            24.437932
+          ],
+          "url": "https://ditu.amap.com/place/B0HK94XSHB"
+        },
+        {
+          "name": "沙坡尾(公交站)",
+          "poiId": "BV10956555",
+          "address": "1路(敬老线路);20路;21路;2路;71路(敬老线路);86路;B1路;B3路;B5路;J101路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            118.088876,
+            24.437215
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV10956555"
+        },
+        {
+          "name": "沙坡尾(地铁站)",
+          "poiId": "BV11452450",
+          "address": "(在建)3号线南延段",
+          "type": "交通设施服务;地铁站;地铁站",
+          "coordinate": [
+            118.085345,
+            24.442165
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV11452450"
+        },
+        {
+          "name": "沙坡尾艺术西区",
+          "poiId": "B0FFF6YYVV",
+          "address": "沙坡尾60号",
+          "type": "商务住宅;产业园区;产业园区|购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            118.087587,
+            24.437609
+          ],
+          "entrance": [
+            118.08807,
+            24.437669
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF6YYVV"
+        },
+        {
+          "name": "沙坡尾艺术西区停车场",
+          "poiId": "B0FFGJXWN1",
+          "address": "沙坡尾58号",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            118.086706,
+            24.437727
+          ],
+          "entrance": [
+            118.087329,
+            24.438472
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGJXWN1"
+        }
+      ],
+      "poiName": "沙坡尾",
+      "routeCoordinate": [
+        118.087854,
+        24.43799
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "演武大桥观景平台",
+      "placeKey": "xiamen:yanwu_observation_platform",
+      "experienceKey": "xiamen:yanwu_observation_platform:sea_towers_sunset",
+      "searchKeyword": "演武大桥观景平台",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFH1VLKT",
+      "address": "演武大桥与演武路交叉口西南150米",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "coordinate": [
+        118.090262,
+        24.433305
+      ],
+      "entrance": [
+        118.089007,
+        24.434785
+      ],
+      "url": "https://ditu.amap.com/place/B0FFH1VLKT",
+      "candidates": [
+        {
+          "name": "演武大桥观景平台",
+          "poiId": "B0FFH1VLKT",
+          "address": "演武大桥与演武路交叉口西南150米",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            118.090262,
+            24.433305
+          ],
+          "entrance": [
+            118.089007,
+            24.434785
+          ],
+          "url": "https://ditu.amap.com/place/B0FFH1VLKT"
+        },
+        {
+          "name": "演武公园/演武大桥观景平台寄存点",
+          "poiId": "B0M6BRI32Y",
+          "address": "演武公园",
+          "type": "生活服务;生活服务场所;生活服务场所",
+          "coordinate": [
+            118.092425,
+            24.436725
+          ],
+          "entrance": [
+            118.092313,
+            24.436747
+          ],
+          "url": "https://ditu.amap.com/place/B0M6BRI32Y"
+        },
+        {
+          "name": "演武大桥",
+          "poiId": "B0FFFAEOXO",
+          "address": "思明区",
+          "type": "地名地址信息;交通地名;桥",
+          "coordinate": [
+            118.089166,
+            24.434014
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFFAEOXO"
+        },
+        {
+          "name": "演武大桥",
+          "poiId": "BY000047FU",
+          "address": "思明区",
+          "type": "地名地址信息;交通地名;立交桥",
+          "coordinate": [
+            118.090931,
+            24.433693
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BY000047FU"
+        }
+      ],
+      "poiName": "演武大桥观景平台",
+      "routeCoordinate": [
+        118.089007,
+        24.434785
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    }
+  ],
+  "segments": [
+    {
+      "from": "第八市场（八市）",
+      "to": "中山路步行街",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 566,
+          "distance": 707,
+          "steps": [
+            {
+              "road": "开禾路",
+              "instruction": "沿开禾路向东南步行225米右转",
+              "time": 180,
+              "distance": 225,
+              "nodes": [
+                [
+                  118.07497,
+                  24.457865
+                ],
+                [
+                  118.075039,
+                  24.457778
+                ],
+                [
+                  118.075104,
+                  24.457665
+                ],
+                [
+                  118.075174,
+                  24.4575
+                ],
+                [
+                  118.075174,
+                  24.4575
+                ],
+                [
+                  118.075204,
+                  24.457405
+                ],
+                [
+                  118.075204,
+                  24.457405
+                ],
+                [
+                  118.075382,
+                  24.45694
+                ],
+                [
+                  118.075382,
+                  24.45694
+                ],
+                [
+                  118.075634,
+                  24.456528
+                ],
+                [
+                  118.075634,
+                  24.456528
+                ],
+                [
+                  118.075812,
+                  24.456224
+                ],
+                [
+                  118.075907,
+                  24.456016
+                ]
+              ]
+            },
+            {
+              "road": "大同路",
+              "instruction": "沿大同路向西南步行216米向左前方行走",
+              "time": 173,
+              "distance": 216,
+              "nodes": [
+                [
+                  118.075907,
+                  24.456011
+                ],
+                [
+                  118.075677,
+                  24.455907
+                ],
+                [
+                  118.075408,
+                  24.45576
+                ],
+                [
+                  118.075408,
+                  24.45576
+                ],
+                [
+                  118.075091,
+                  24.45559
+                ],
+                [
+                  118.075091,
+                  24.45559
+                ],
+                [
+                  118.075052,
+                  24.455569
+                ],
+                [
+                  118.074549,
+                  24.455256
+                ],
+                [
+                  118.074549,
+                  24.455256
+                ],
+                [
+                  118.074093,
+                  24.454983
+                ]
+              ]
+            },
+            {
+              "road": "大同路",
+              "instruction": "沿大同路向西南步行44米向左前方行走",
+              "time": 35,
+              "distance": 44,
+              "nodes": [
+                [
+                  118.074089,
+                  24.454978
+                ],
+                [
+                  118.073993,
+                  24.45487
+                ],
+                [
+                  118.073945,
+                  24.454779
+                ],
+                [
+                  118.073945,
+                  24.454779
+                ],
+                [
+                  118.073859,
+                  24.45464
+                ]
+              ]
+            },
+            {
+              "road": "鹭江道",
+              "instruction": "沿鹭江道向东南步行202米左转",
+              "time": 162,
+              "distance": 202,
+              "nodes": [
+                [
+                  118.073854,
+                  24.454635
+                ],
+                [
+                  118.073906,
+                  24.454501
+                ],
+                [
+                  118.073906,
+                  24.454501
+                ],
+                [
+                  118.073963,
+                  24.454345
+                ],
+                [
+                  118.073963,
+                  24.454345
+                ],
+                [
+                  118.074062,
+                  24.454041
+                ],
+                [
+                  118.074062,
+                  24.454041
+                ],
+                [
+                  118.07424,
+                  24.453655
+                ],
+                [
+                  118.07451,
+                  24.45329
+                ],
+                [
+                  118.07451,
+                  24.45329
+                ],
+                [
+                  118.074744,
+                  24.453016
+                ]
+              ]
+            },
+            {
+              "road": "中山路",
+              "instruction": "沿中山路向北步行20米到达目的地",
+              "time": 16,
+              "distance": 20,
+              "nodes": [
+                [
+                  118.074744,
+                  24.453012
+                ],
+                [
+                  118.074761,
+                  24.453108
+                ],
+                [
+                  118.074787,
+                  24.453177
+                ],
+                [
+                  118.074796,
+                  24.453181
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 170,
+          "distance": 710,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 2150,
+          "distance": 3419,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 505,
+              "instruction": "步行378米到达开禾路口站",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 979,
+              "instruction": "乘坐M1路(海上世界商务区--妇幼保健院站)途径3站到达妇幼保健院站",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "M1路(海上世界商务区--妇幼保健院站)"
+                }
+              ]
+            },
+            {
+              "time": 70,
+              "instruction": "步行75米到达妇幼保健院",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 502,
+              "instruction": "乘坐10路(枋湖文旅中心站--轮渡公交场站)途径0站到达海滨大厦",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "10路(枋湖文旅中心站--轮渡公交场站)"
+                },
+                {
+                  "name": "19路(会展中心公交场站--第一码头)"
+                },
+                {
+                  "name": "139路(文屏--七星公交场站)"
+                },
+                {
+                  "name": "2路(上李铁路休养院--第一码头)"
+                },
+                {
+                  "name": "8路(敬老线路)(松柏汇成--第一码头)"
+                },
+                {
+                  "name": "3路(敬老线路)(莲花五村--第一码头)"
+                },
+                {
+                  "name": "2路(绕行演武大桥)(上李铁路休养院--第一码头)"
+                }
+              ]
+            },
+            {
+              "time": 94,
+              "instruction": "步行68米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "中山路步行街",
+      "to": "南普陀寺",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 2394,
+          "distance": 2993,
+          "steps": [
+            {
+              "road": "中山路步行街",
+              "instruction": "沿中山路步行街向东步行658米右转",
+              "time": 526,
+              "distance": 658,
+              "nodes": [
+                [
+                  118.074796,
+                  24.453181
+                ],
+                [
+                  118.074883,
+                  24.453229
+                ],
+                [
+                  118.074883,
+                  24.453229
+                ],
+                [
+                  118.075104,
+                  24.453307
+                ],
+                [
+                  118.075104,
+                  24.453307
+                ],
+                [
+                  118.0752,
+                  24.453338
+                ],
+                [
+                  118.0752,
+                  24.453338
+                ],
+                [
+                  118.075794,
+                  24.453368
+                ],
+                [
+                  118.075794,
+                  24.453368
+                ],
+                [
+                  118.076016,
+                  24.453403
+                ],
+                [
+                  118.076016,
+                  24.453403
+                ],
+                [
+                  118.076467,
+                  24.453494
+                ],
+                [
+                  118.076467,
+                  24.453494
+                ],
+                [
+                  118.076923,
+                  24.453563
+                ],
+                [
+                  118.076923,
+                  24.453563
+                ],
+                [
+                  118.077422,
+                  24.453633
+                ],
+                [
+                  118.077422,
+                  24.453633
+                ],
+                [
+                  118.077899,
+                  24.453694
+                ],
+                [
+                  118.077899,
+                  24.453694
+                ],
+                [
+                  118.078633,
+                  24.453793
+                ],
+                [
+                  118.078633,
+                  24.453793
+                ],
+                [
+                  118.080247,
+                  24.45395
+                ],
+                [
+                  118.080247,
+                  24.45395
+                ],
+                [
+                  118.080516,
+                  24.453971
+                ],
+                [
+                  118.080516,
+                  24.453971
+                ],
+                [
+                  118.08105,
+                  24.454019
+                ],
+                [
+                  118.081254,
+                  24.454041
+                ]
+              ]
+            },
+            {
+              "road": "思明南路",
+              "instruction": "沿思明南路向东南步行1914米向右前方行走",
+              "time": 1531,
+              "distance": 1914,
+              "nodes": [
+                [
+                  118.081254,
+                  24.454041
+                ],
+                [
+                  118.081254,
+                  24.453893
+                ],
+                [
+                  118.081311,
+                  24.453451
+                ],
+                [
+                  118.081311,
+                  24.453451
+                ],
+                [
+                  118.081402,
+                  24.45316
+                ],
+                [
+                  118.081471,
+                  24.45303
+                ],
+                [
+                  118.081563,
+                  24.452925
+                ],
+                [
+                  118.081662,
+                  24.452834
+                ],
+                [
+                  118.081662,
+                  24.452834
+                ],
+                [
+                  118.081701,
+                  24.452795
+                ],
+                [
+                  118.081701,
+                  24.452795
+                ],
+                [
+                  118.08217,
+                  24.452383
+                ],
+                [
+                  118.08217,
+                  24.452383
+                ],
+                [
+                  118.082569,
+                  24.45204
+                ],
+                [
+                  118.082569,
+                  24.45204
+                ],
+                [
+                  118.082752,
+                  24.451866
+                ],
+                [
+                  118.082943,
+                  24.451641
+                ],
+                [
+                  118.083021,
+                  24.451515
+                ],
+                [
+                  118.083125,
+                  24.451315
+                ],
+                [
+                  118.083125,
+                  24.451315
+                ],
+                [
+                  118.083155,
+                  24.451254
+                ],
+                [
+                  118.083155,
+                  24.451254
+                ],
+                [
+                  118.083294,
+                  24.450929
+                ],
+                [
+                  118.083294,
+                  24.450929
+                ],
+                [
+                  118.083342,
+                  24.450825
+                ],
+                [
+                  118.083342,
+                  24.450825
+                ],
+                [
+                  118.083971,
+                  24.44957
+                ],
+                [
+                  118.083971,
+                  24.44957
+                ],
+                [
+                  118.08398,
+                  24.449544
+                ],
+                [
+                  118.08398,
+                  24.449544
+                ],
+                [
+                  118.084067,
+                  24.449293
+                ],
+                [
+                  118.084162,
+                  24.448507
+                ],
+                [
+                  118.084162,
+                  24.448507
+                ],
+                [
+                  118.084266,
+                  24.447734
+                ],
+                [
+                  118.084266,
+                  24.447734
+                ],
+                [
+                  118.084345,
+                  24.44753
+                ],
+                [
+                  118.084414,
+                  24.447413
+                ],
+                [
+                  118.084414,
+                  24.447413
+                ],
+                [
+                  118.084605,
+                  24.44714
+                ],
+                [
+                  118.084605,
+                  24.44714
+                ],
+                [
+                  118.084709,
+                  24.446997
+                ],
+                [
+                  118.084709,
+                  24.446997
+                ],
+                [
+                  118.084809,
+                  24.446858
+                ],
+                [
+                  118.084809,
+                  24.446858
+                ],
+                [
+                  118.084913,
+                  24.446706
+                ],
+                [
+                  118.084913,
+                  24.446706
+                ],
+                [
+                  118.08582,
+                  24.445438
+                ],
+                [
+                  118.08582,
+                  24.445438
+                ],
+                [
+                  118.086037,
+                  24.445161
+                ],
+                [
+                  118.086037,
+                  24.445161
+                ],
+                [
+                  118.086068,
+                  24.445117
+                ],
+                [
+                  118.086068,
+                  24.445117
+                ],
+                [
+                  118.086115,
+                  24.445052
+                ],
+                [
+                  118.086115,
+                  24.445052
+                ],
+                [
+                  118.086332,
+                  24.444766
+                ],
+                [
+                  118.086332,
+                  24.444766
+                ],
+                [
+                  118.086493,
+                  24.444583
+                ],
+                [
+                  118.086536,
+                  24.44454
+                ],
+                [
+                  118.086654,
+                  24.444449
+                ],
+                [
+                  118.086975,
+                  24.444266
+                ],
+                [
+                  118.086975,
+                  24.444266
+                ],
+                [
+                  118.087244,
+                  24.44411
+                ],
+                [
+                  118.087244,
+                  24.44411
+                ],
+                [
+                  118.087526,
+                  24.443932
+                ],
+                [
+                  118.087526,
+                  24.443932
+                ],
+                [
+                  118.087609,
+                  24.443876
+                ],
+                [
+                  118.087609,
+                  24.443876
+                ],
+                [
+                  118.087717,
+                  24.443789
+                ],
+                [
+                  118.087717,
+                  24.443789
+                ],
+                [
+                  118.087752,
+                  24.443754
+                ],
+                [
+                  118.087752,
+                  24.443754
+                ],
+                [
+                  118.087882,
+                  24.443655
+                ],
+                [
+                  118.087882,
+                  24.443655
+                ],
+                [
+                  118.088572,
+                  24.443025
+                ],
+                [
+                  118.088572,
+                  24.443025
+                ],
+                [
+                  118.088885,
+                  24.442717
+                ],
+                [
+                  118.088885,
+                  24.442717
+                ],
+                [
+                  118.088963,
+                  24.442626
+                ],
+                [
+                  118.089019,
+                  24.442595
+                ],
+                [
+                  118.089019,
+                  24.442595
+                ],
+                [
+                  118.089249,
+                  24.442339
+                ],
+                [
+                  118.089249,
+                  24.442339
+                ],
+                [
+                  118.089523,
+                  24.44204
+                ],
+                [
+                  118.089523,
+                  24.44204
+                ],
+                [
+                  118.089835,
+                  24.441762
+                ],
+                [
+                  118.089835,
+                  24.441762
+                ],
+                [
+                  118.090365,
+                  24.441254
+                ],
+                [
+                  118.090365,
+                  24.441254
+                ],
+                [
+                  118.090551,
+                  24.441068
+                ],
+                [
+                  118.090747,
+                  24.440907
+                ],
+                [
+                  118.090951,
+                  24.440751
+                ],
+                [
+                  118.091172,
+                  24.440612
+                ],
+                [
+                  118.091172,
+                  24.440612
+                ],
+                [
+                  118.091632,
+                  24.440352
+                ],
+                [
+                  118.091632,
+                  24.440352
+                ],
+                [
+                  118.09178,
+                  24.440265
+                ]
+              ]
+            },
+            {
+              "road": "思明南路",
+              "instruction": "沿思明南路向东步行293米向右前方行走",
+              "time": 234,
+              "distance": 293,
+              "nodes": [
+                [
+                  118.09178,
+                  24.44026
+                ],
+                [
+                  118.091944,
+                  24.440187
+                ],
+                [
+                  118.092092,
+                  24.440152
+                ],
+                [
+                  118.092478,
+                  24.440148
+                ],
+                [
+                  118.092478,
+                  24.440148
+                ],
+                [
+                  118.093095,
+                  24.440178
+                ],
+                [
+                  118.093095,
+                  24.440178
+                ],
+                [
+                  118.093403,
+                  24.440195
+                ],
+                [
+                  118.093403,
+                  24.440195
+                ],
+                [
+                  118.093398,
+                  24.440195
+                ],
+                [
+                  118.093815,
+                  24.440213
+                ],
+                [
+                  118.093815,
+                  24.440213
+                ],
+                [
+                  118.093997,
+                  24.440213
+                ],
+                [
+                  118.093997,
+                  24.440213
+                ],
+                [
+                  118.094666,
+                  24.440226
+                ]
+              ]
+            },
+            {
+              "road": "思明南路",
+              "instruction": "沿思明南路步行15米向左前方行走",
+              "time": 12,
+              "distance": 15,
+              "nodes": [
+                [
+                  118.094666,
+                  24.440226
+                ],
+                [
+                  118.09477,
+                  24.44013
+                ]
+              ]
+            },
+            {
+              "road": "思明南路",
+              "instruction": "沿思明南路向东步行27米右转",
+              "time": 22,
+              "distance": 27,
+              "nodes": [
+                [
+                  118.09477,
+                  24.440126
+                ],
+                [
+                  118.095022,
+                  24.440035
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行86米到达目的地",
+              "time": 69,
+              "distance": 86,
+              "nodes": [
+                [
+                  118.095022,
+                  24.44003
+                ],
+                [
+                  118.094991,
+                  24.439957
+                ],
+                [
+                  118.094991,
+                  24.439957
+                ],
+                [
+                  118.094991,
+                  24.439952
+                ],
+                [
+                  118.094944,
+                  24.439878
+                ],
+                [
+                  118.094944,
+                  24.439878
+                ],
+                [
+                  118.094792,
+                  24.439796
+                ],
+                [
+                  118.09447,
+                  24.439731
+                ],
+                [
+                  118.094379,
+                  24.43974
+                ],
+                [
+                  118.094314,
+                  24.439774
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 833,
+          "distance": 3472,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1997,
+          "distance": 3933,
+          "cost": 1,
+          "steps": [],
+          "segments": [
+            {
+              "time": 480,
+              "instruction": "步行349米到达轮渡码头",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 1215,
+              "instruction": "乘坐2路(第一码头--上李铁路休养院)途径6站到达厦大西村",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "2路(第一码头--上李铁路休养院)"
+                },
+                {
+                  "name": "71路(敬老线路)(BRT第一码头--BRT第一码头)"
+                },
+                {
+                  "name": "71路(绕行演武大桥)(敬老线路)(BRT第一码头--BRT第一码头)"
+                },
+                {
+                  "name": "71路(绕行演武西路/演武大桥)(BRT第一码头--BRT第一码头)"
+                }
+              ]
+            },
+            {
+              "time": 302,
+              "instruction": "步行291米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "南普陀寺",
+      "to": "顶澳仔猫街",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 341,
+          "distance": 426,
+          "steps": [
+            {
+              "road": "",
+              "instruction": "向东北步行113米向右前方行走",
+              "time": 90,
+              "distance": 113,
+              "nodes": [
+                [
+                  118.09431,
+                  24.439774
+                ],
+                [
+                  118.094375,
+                  24.439744
+                ],
+                [
+                  118.094466,
+                  24.439731
+                ],
+                [
+                  118.094787,
+                  24.439792
+                ],
+                [
+                  118.094939,
+                  24.439874
+                ],
+                [
+                  118.094939,
+                  24.439874
+                ],
+                [
+                  118.094991,
+                  24.439952
+                ],
+                [
+                  118.094991,
+                  24.439952
+                ],
+                [
+                  118.094987,
+                  24.439952
+                ],
+                [
+                  118.095022,
+                  24.44003
+                ],
+                [
+                  118.095022,
+                  24.44003
+                ],
+                [
+                  118.094774,
+                  24.440126
+                ]
+              ]
+            },
+            {
+              "road": "思明南路",
+              "instruction": "沿思明南路步行15米左转",
+              "time": 12,
+              "distance": 15,
+              "nodes": [
+                [
+                  118.09477,
+                  24.440126
+                ],
+                [
+                  118.09467,
+                  24.440226
+                ]
+              ]
+            },
+            {
+              "road": "思明南路",
+              "instruction": "沿思明南路向西步行293米左转",
+              "time": 234,
+              "distance": 293,
+              "nodes": [
+                [
+                  118.094666,
+                  24.440226
+                ],
+                [
+                  118.094002,
+                  24.440217
+                ],
+                [
+                  118.094002,
+                  24.440217
+                ],
+                [
+                  118.093819,
+                  24.440217
+                ],
+                [
+                  118.093819,
+                  24.440217
+                ],
+                [
+                  118.093403,
+                  24.4402
+                ],
+                [
+                  118.093403,
+                  24.4402
+                ],
+                [
+                  118.093403,
+                  24.440195
+                ],
+                [
+                  118.093099,
+                  24.440182
+                ],
+                [
+                  118.093099,
+                  24.440182
+                ],
+                [
+                  118.092483,
+                  24.440148
+                ],
+                [
+                  118.092483,
+                  24.440148
+                ],
+                [
+                  118.092096,
+                  24.440148
+                ],
+                [
+                  118.091944,
+                  24.440182
+                ],
+                [
+                  118.091784,
+                  24.44026
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西南步行5米到达目的地",
+              "time": 4,
+              "distance": 5,
+              "nodes": [
+                [
+                  118.091784,
+                  24.44026
+                ],
+                [
+                  118.091766,
+                  24.440221
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 90,
+          "distance": 373,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    },
+    {
+      "from": "顶澳仔猫街",
+      "to": "沙坡尾",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 578,
+          "distance": 723,
+          "steps": [
+            {
+              "road": "",
+              "instruction": "向西南步行14米直行",
+              "time": 11,
+              "distance": 14,
+              "nodes": [
+                [
+                  118.091762,
+                  24.440217
+                ],
+                [
+                  118.091697,
+                  24.440104
+                ]
+              ]
+            },
+            {
+              "road": "顶澳仔",
+              "instruction": "沿顶澳仔向南步行317米右转",
+              "time": 254,
+              "distance": 317,
+              "nodes": [
+                [
+                  118.091693,
+                  24.4401
+                ],
+                [
+                  118.091662,
+                  24.440039
+                ],
+                [
+                  118.091641,
+                  24.43997
+                ],
+                [
+                  118.091619,
+                  24.439874
+                ],
+                [
+                  118.091619,
+                  24.439874
+                ],
+                [
+                  118.09161,
+                  24.439753
+                ],
+                [
+                  118.09161,
+                  24.439753
+                ],
+                [
+                  118.091602,
+                  24.439688
+                ],
+                [
+                  118.091602,
+                  24.439688
+                ],
+                [
+                  118.091576,
+                  24.439466
+                ],
+                [
+                  118.091576,
+                  24.439466
+                ],
+                [
+                  118.091589,
+                  24.439245
+                ],
+                [
+                  118.091589,
+                  24.439245
+                ],
+                [
+                  118.091571,
+                  24.439084
+                ],
+                [
+                  118.091567,
+                  24.438867
+                ],
+                [
+                  118.091567,
+                  24.438867
+                ],
+                [
+                  118.091506,
+                  24.438572
+                ],
+                [
+                  118.091476,
+                  24.438498
+                ],
+                [
+                  118.091324,
+                  24.438273
+                ],
+                [
+                  118.091324,
+                  24.438273
+                ],
+                [
+                  118.091133,
+                  24.438064
+                ],
+                [
+                  118.091133,
+                  24.438064
+                ],
+                [
+                  118.091029,
+                  24.437886
+                ],
+                [
+                  118.091029,
+                  24.437886
+                ],
+                [
+                  118.090707,
+                  24.437452
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西南步行123米右转",
+              "time": 98,
+              "distance": 123,
+              "nodes": [
+                [
+                  118.090703,
+                  24.437448
+                ],
+                [
+                  118.090564,
+                  24.43747
+                ],
+                [
+                  118.09053,
+                  24.437457
+                ],
+                [
+                  118.09033,
+                  24.437101
+                ],
+                [
+                  118.09033,
+                  24.437101
+                ],
+                [
+                  118.090343,
+                  24.43704
+                ],
+                [
+                  118.090321,
+                  24.436949
+                ],
+                [
+                  118.090156,
+                  24.436727
+                ],
+                [
+                  118.090156,
+                  24.436727
+                ],
+                [
+                  118.090074,
+                  24.436615
+                ]
+              ]
+            },
+            {
+              "road": "大学路",
+              "instruction": "沿大学路步行202米向左前方行走",
+              "time": 162,
+              "distance": 202,
+              "nodes": [
+                [
+                  118.090069,
+                  24.43661
+                ],
+                [
+                  118.09,
+                  24.436649
+                ],
+                [
+                  118.09,
+                  24.436649
+                ],
+                [
+                  118.089835,
+                  24.436727
+                ],
+                [
+                  118.089835,
+                  24.436727
+                ],
+                [
+                  118.089549,
+                  24.436871
+                ],
+                [
+                  118.089549,
+                  24.436871
+                ],
+                [
+                  118.089201,
+                  24.437044
+                ],
+                [
+                  118.089201,
+                  24.437044
+                ],
+                [
+                  118.088967,
+                  24.437157
+                ],
+                [
+                  118.088967,
+                  24.437157
+                ],
+                [
+                  118.088767,
+                  24.437283
+                ],
+                [
+                  118.088767,
+                  24.437283
+                ],
+                [
+                  118.088659,
+                  24.437361
+                ],
+                [
+                  118.088659,
+                  24.437361
+                ],
+                [
+                  118.088368,
+                  24.4376
+                ]
+              ]
+            },
+            {
+              "road": "沙坡尾",
+              "instruction": "沿沙坡尾向西北步行67米到达目的地",
+              "time": 54,
+              "distance": 67,
+              "nodes": [
+                [
+                  118.088364,
+                  24.4376
+                ],
+                [
+                  118.088138,
+                  24.437717
+                ],
+                [
+                  118.088138,
+                  24.437717
+                ],
+                [
+                  118.088016,
+                  24.437839
+                ],
+                [
+                  118.088016,
+                  24.437839
+                ],
+                [
+                  118.087856,
+                  24.437986
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 241,
+          "distance": 1006,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1398,
+          "distance": 1473,
+          "cost": 1,
+          "steps": [],
+          "segments": [
+            {
+              "time": 113,
+              "instruction": "步行117米到达理工学院思明校区",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 922,
+              "instruction": "乘坐71路(敬老线路)(BRT第一码头--BRT第一码头)途径1站到达沙坡尾",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "71路(敬老线路)(BRT第一码头--BRT第一码头)"
+                }
+              ]
+            },
+            {
+              "time": 363,
+              "instruction": "步行350米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "沙坡尾",
+      "to": "演武大桥观景平台",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 397,
+          "distance": 496,
+          "steps": [
+            {
+              "road": "沙坡尾",
+              "instruction": "沿沙坡尾向东南步行67米右转",
+              "time": 54,
+              "distance": 67,
+              "nodes": [
+                [
+                  118.087852,
+                  24.437986
+                ],
+                [
+                  118.088012,
+                  24.437843
+                ],
+                [
+                  118.088012,
+                  24.437843
+                ],
+                [
+                  118.088134,
+                  24.437721
+                ],
+                [
+                  118.088134,
+                  24.437721
+                ],
+                [
+                  118.088364,
+                  24.437604
+                ]
+              ]
+            },
+            {
+              "road": "沙坡尾",
+              "instruction": "沿沙坡尾向西南步行126米左转",
+              "time": 101,
+              "distance": 126,
+              "nodes": [
+                [
+                  118.088364,
+                  24.4376
+                ],
+                [
+                  118.087769,
+                  24.43714
+                ],
+                [
+                  118.087769,
+                  24.43714
+                ],
+                [
+                  118.087457,
+                  24.436905
+                ],
+                [
+                  118.087457,
+                  24.436905
+                ],
+                [
+                  118.087405,
+                  24.436866
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东南步行71米右转",
+              "time": 57,
+              "distance": 71,
+              "nodes": [
+                [
+                  118.0874,
+                  24.436862
+                ],
+                [
+                  118.087799,
+                  24.436332
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西南步行31米向左前方行走",
+              "time": 25,
+              "distance": 31,
+              "nodes": [
+                [
+                  118.087799,
+                  24.436328
+                ],
+                [
+                  118.087648,
+                  24.436202
+                ],
+                [
+                  118.087626,
+                  24.43615
+                ],
+                [
+                  118.087635,
+                  24.436115
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东南步行201米到达目的地",
+              "time": 161,
+              "distance": 201,
+              "nodes": [
+                [
+                  118.087635,
+                  24.436111
+                ],
+                [
+                  118.087743,
+                  24.435951
+                ],
+                [
+                  118.087856,
+                  24.43582
+                ],
+                [
+                  118.087856,
+                  24.43582
+                ],
+                [
+                  118.088997,
+                  24.434813
+                ],
+                [
+                  118.088997,
+                  24.434813
+                ],
+                [
+                  118.089015,
+                  24.434796
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 119,
+          "distance": 496,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    }
+  ],
+  "geographyReviewedAt": "2026-10-13T05:59:49.779Z",
+  "geographyReviewSource": "AMap JS API 2.0 untyped PlaceSearch; manually inspected target candidates",
+  "routeQueriedAt": "2026-10-13T06:04:00.729Z"
+}

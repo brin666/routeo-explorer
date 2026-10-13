@@ -1,0 +1,96 @@
+{
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": [
+    1672,
+    941
+  ],
+  "source": "built-in image_gen; visually reviewed native artwork",
+  "image": "./assets/routes/batch20/tianjin-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "西北角",
+      "placeKey": "天津::西北角",
+      "x": 272,
+      "y": 308
+    },
+    {
+      "name": "民园广场",
+      "placeKey": "天津::民园广场",
+      "x": 1276,
+      "y": 867
+    },
+    {
+      "name": "解放桥",
+      "placeKey": "天津::解放桥",
+      "x": 1340,
+      "y": 443
+    },
+    {
+      "name": "意式风情街",
+      "placeKey": "天津::意式风情街",
+      "x": 1032,
+      "y": 507
+    },
+    {
+      "name": "天津之眼",
+      "placeKey": "天津::天津之眼",
+      "x": 732,
+      "y": 174
+    }
+  ],
+  "route": "M 272 308 L 326 328 L 364 312 L 330 381 L 294 431 L 274 461 L 251 480 L 315 512 L 373 548 L 432 587 L 483 625 L 535 662 L 585 698 L 624 730 L 667 760 L 716 788 L 775 810 L 842 806 L 908 817 L 978 834 L 1041 855 L 1098 885 L 1148 894 L 1212 891 L 1276 867 L 1212 891 L 1148 894 L 1098 885 L 1041 855 L 1020 823 L 1002 783 L 991 747 L 1025 705 L 1035 668 L 1066 629 L 1098 605 L 1134 580 L 1177 556 L 1226 546 L 1285 517 L 1313 489 L 1340 443 L 1313 461 L 1279 475 L 1244 498 L 1218 517 L 1186 533 L 1144 551 L 1110 541 L 1081 528 L 1051 519 L 1032 507 L 1014 526 L 978 524 L 941 519 L 900 503 L 860 481 L 815 454 L 783 436 L 757 401 L 732 361 L 712 322 L 692 284 L 674 247 L 660 220 L 684 192 L 732 174",
+  "segmentPaths": [
+    "M 272 308 L 326 328 L 364 312 L 330 381 L 294 431 L 274 461 L 251 480 L 315 512 L 373 548 L 432 587 L 483 625 L 535 662 L 585 698 L 624 730 L 667 760 L 716 788 L 775 810 L 842 806 L 908 817 L 978 834 L 1041 855 L 1098 885 L 1148 894 L 1212 891 L 1276 867",
+    "M 1276 867 L 1212 891 L 1148 894 L 1098 885 L 1041 855 L 1020 823 L 1002 783 L 991 747 L 1025 705 L 1035 668 L 1066 629 L 1098 605 L 1134 580 L 1177 556 L 1226 546 L 1285 517 L 1313 489 L 1340 443",
+    "M 1340 443 L 1313 461 L 1279 475 L 1244 498 L 1218 517 L 1186 533 L 1144 551 L 1110 541 L 1081 528 L 1051 519 L 1032 507",
+    "M 1032 507 L 1014 526 L 978 524 L 941 519 L 900 503 L 860 481 L 815 454 L 783 436 L 757 401 L 732 361 L 712 322 L 692 284 L 674 247 L 660 220 L 684 192 L 732 174"
+  ],
+  "layoutAnchors": [
+    {
+      "name": "西北角",
+      "placeKey": "天津::西北角",
+      "poiId": "B0FFFVKTQO",
+      "x": 160,
+      "y": 229,
+      "landmark": "Xibeijiao: fine-grained old breakfast market streets"
+    },
+    {
+      "name": "民园广场",
+      "placeKey": "天津::民园广场",
+      "poiId": "B0FFF3IW8X",
+      "x": 979,
+      "y": 560,
+      "landmark": "Minyuan Square: large oval grass field surrounded by European arcaded red-brick building"
+    },
+    {
+      "name": "解放桥",
+      "placeKey": "天津::解放桥",
+      "poiId": "B0FFFG05MS",
+      "x": 1010,
+      "y": 344,
+      "landmark": "Jiefang Bridge: recognizable metal truss movable bridge spanning Haihe"
+    },
+    {
+      "name": "意式风情街",
+      "placeKey": "天津::意式风情街",
+      "poiId": "B00160F6ZS",
+      "x": 795,
+      "y": 327,
+      "landmark": "Italian-style district: European low-rise red-roof historic streets and small plaza"
+    },
+    {
+      "name": "天津之眼",
+      "placeKey": "天津::天津之眼",
+      "poiId": "B00160F6Y9",
+      "x": 520,
+      "y": 120,
+      "landmark": "Tianjin Eye: giant ferris wheel sitting on bridge across Haihe"
+    }
+  ],
+  "calibrationStatus": "manually-reviewed-illustration-roads",
+  "notes": [
+    "民园中央误生成的雕像已通过内置image_gen局部编辑移除，保留开阔草坪。",
+    "解放桥锚点放在西侧桥头，天津之眼锚点放在图中桥面；岸间移动仅通过实体桥梁，不画水面直线。"
+  ]
+}

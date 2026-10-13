@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-13",
+  "city": "成都",
+  "slug": "chengdu",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "coordinateSystem": "illustration-pixels",
+  "status": "visual-road-calibration",
+  "artwork": "chengdu-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "文殊院周边",
+      "placeKey": "chengdu.wenshu_surroundings",
+      "x": 403,
+      "y": 284,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "镋钯街",
+      "placeKey": "chengdu.tangpa_street",
+      "x": 934,
+      "y": 818,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "大慈寺",
+      "placeKey": "chengdu.daci_temple",
+      "x": 1426,
+      "y": 671,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "太古里周边",
+      "placeKey": "chengdu.taikoo_li_area",
+      "x": 1529,
+      "y": 738,
+      "labelPlacement": "below-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    }
+  ],
+  "route": "M 403 284 L 452 302 L 420 362 L 453 417 L 553 489 L 641 551 L 694 611 L 772 662 L 837 709 L 881 755 L 934 818 M 934 818 L 966 881 L 996 918 L 1086 900 L 1194 859 L 1335 822 L 1499 774 L 1462 706 L 1426 671 M 1426 671 L 1503 675 L 1560 705 L 1529 738",
+  "segmentPaths": [
+    "M 403 284 L 452 302 L 420 362 L 453 417 L 553 489 L 641 551 L 694 611 L 772 662 L 837 709 L 881 755 L 934 818",
+    "M 934 818 L 966 881 L 996 918 L 1086 900 L 1194 859 L 1335 822 L 1499 774 L 1462 706 L 1426 671",
+    "M 1426 671 L 1503 675 L 1560 705 L 1529 738"
+  ],
+  "layoutAnchors": {
+    "width": 1200,
+    "height": 675,
+    "anchors": [
+      {
+        "name": "文殊院周边",
+        "placeKey": "chengdu.wenshu_surroundings",
+        "poiId": "B001C7WPBD",
+        "x": 160,
+        "y": 120,
+        "landmark": "Wenshu temple perimeter red walls and grey-roof courtyard complex, neighboring lanes"
+      },
+      {
+        "name": "镋钯街",
+        "placeKey": "chengdu.tangpa_street",
+        "poiId": "B0FFH6JHJ6",
+        "x": 878,
+        "y": 560,
+        "landmark": "Tangpa Street: narrow tree-shaded old street with small independent shops and cafe facades"
+      },
+      {
+        "name": "大慈寺",
+        "placeKey": "chengdu.daci_temple",
+        "poiId": "B001C00869",
+        "x": 1009,
+        "y": 460,
+        "landmark": "Daci Temple: red perimeter walls and historic courtyards"
+      },
+      {
+        "name": "太古里周边",
+        "placeKey": "chengdu.taikoo_li_area",
+        "poiId": "B0FFF6X49V",
+        "x": 1070,
+        "y": 499,
+        "landmark": "Taikoo Li: contemporary low-rise grey tiled commercial courtyards alongside Daci Temple",
+        "visualSeparation": "nearby features enlarged for readability, not a new geographic coordinate"
+      }
+    ]
+  },
+  "generation": {
+    "tool": "built-in image_gen",
+    "generatedOriginal": "C:\\Users\\BL\\.codex\\generated_images\\01a1334a-17ee-7c80-968b-0fecd9e8a713\\exec-5d4dda3f-61f5-434d-bbda-b10d564922f5.png",
+    "references": [
+      "chengdu-b20-structure-v1.png",
+      "../guangzhou-map-illustrated-v2.png"
+    ],
+    "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 成都, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Wenshu temple perimeter red walls and grey-roof courtyard complex, neighboring lanes, at 13% from left and 18% from top; 2: Tangpa Street: narrow tree-shaded old street with small independent shops and cafe facades, at 73% from left and 83% from top; 3: Daci Temple: red perimeter walls and historic courtyards, at 84% from left and 68% from top; 4: Taikoo Li: contemporary low-rise grey tiled commercial courtyards alongside Daci Temple, at 89% from left and 74% from top.\nGeographic context: North Wenshu district and south-east Daci/old commercial quarter. Most city blocks have varied irregular subdivisions and courtyard roofs; include wide connecting avenues.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.\nThis is a LAND-ONLY central Chengdu urban map. No rivers, lakes, canals, islands, boats or bridges. Modern Taikoo Li is a low-rise grey-tiled contemporary shopping courtyard district, immediately beside Daci Temple; do not turn it into an extra ancient temple. Do not copy Guangzhou's water, church, landmarks or geography. Strictly no textual marks, numbered points or itinerary lines."
+  },
+  "notes": [
+    "文殊院周边和镋钯街锚点均取外围街道，路线无需穿寺院内部。",
+    "太古里采用大慈寺东南相邻的低层灰瓦商业街区路径落点；两处生成地标已经按实图分开校准。"
+  ]
+}

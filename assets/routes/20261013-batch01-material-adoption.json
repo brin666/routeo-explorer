@@ -1,0 +1,1085 @@
+{
+  "updatedAt": "2026-10-13T11:22:59.639Z",
+  "adopted": [
+    {
+      "routeId": "chengdu-b20-city-day",
+      "city": "成都",
+      "stop": "文殊院周边",
+      "image": "./assets/routes/batch01-reference-photos/chengdu/f7d64f536610468c.jpg",
+      "reused": false,
+      "originalSha256": "f7d64f536610468cb364649a4a72d578f7bc7c3a380698f4cc57501d2d9e498a"
+    },
+    {
+      "routeId": "chengdu-b20-city-day",
+      "city": "成都",
+      "stop": "镋钯街",
+      "image": "./assets/routes/batch01-reference-photos/chengdu/05a79fa9a41b5044.jpg",
+      "reused": false,
+      "originalSha256": "05a79fa9a41b5044ac2d1a307b1e3c5e43708ffcc82b08215595818633322001"
+    },
+    {
+      "routeId": "chengdu-b20-city-day",
+      "city": "成都",
+      "stop": "大慈寺",
+      "image": "./assets/routes/batch01-reference-photos/chengdu/eebe759a6227cbec.jpg",
+      "reused": false,
+      "originalSha256": "eebe759a6227cbec1256d750b410cf96c6681e6d3f1eba15ea92a34b5bffe232"
+    },
+    {
+      "routeId": "chengdu-b20-city-day",
+      "city": "成都",
+      "stop": "太古里周边",
+      "image": "./assets/routes/batch01-reference-photos/chengdu/c96d29ee27b801a7.jpg",
+      "reused": false,
+      "originalSha256": "c96d29ee27b801a75f97829631ecde7e0a325e5fc4b0bd4b6906e2c16fcaf68a"
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "city": "苏州",
+      "stop": "苏州博物馆",
+      "image": "./assets/routes/batch01-reference-photos/suzhou/93353a0eaf05f5df.jpg",
+      "reused": false,
+      "originalSha256": "93353a0eaf05f5df61cae745a2214979d4957ede308527c45a5caa4655eba20a"
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "city": "苏州",
+      "stop": "拙政园",
+      "image": "./assets/routes/batch01-reference-photos/suzhou/e1da08dcf462a447.jpg",
+      "reused": false,
+      "originalSha256": "e1da08dcf462a447265cd011082f577967a0bb346bd1ee19d638421c43f47ad6"
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "city": "苏州",
+      "stop": "平江路",
+      "image": "./assets/routes/batch01-reference-photos/suzhou/65573a9244dd603b.jpg",
+      "reused": false,
+      "originalSha256": "65573a9244dd603bc8952eca3a643dc66075348eb49d6fafe188f0922a4d9958"
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "city": "苏州",
+      "stop": "双塔市集",
+      "image": "./assets/routes/batch01-reference-photos/suzhou/88ea8307d4461acf.jpg",
+      "reused": false,
+      "originalSha256": "88ea8307d4461acff6ffdf97987eeada2d9da7b06cd713ef828e5ebf1a4dcfc4"
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "city": "苏州",
+      "stop": "七里山塘",
+      "image": "./assets/routes/batch01-reference-photos/suzhou/6e4fd07b4a22db88.jpg",
+      "reused": false,
+      "originalSha256": "6e4fd07b4a22db88d45a79d29611d105528cc37d6f5ce21f9cb84e514fc60db1"
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "city": "杭州",
+      "stop": "断桥残雪",
+      "image": "./assets/routes/batch01-reference-photos/hangzhou/ca6fe36e7bff08d8.jpg",
+      "reused": false,
+      "originalSha256": "ca6fe36e7bff08d8e7aa613950bbaf323366840b351917a0665647a542f9423a"
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "city": "杭州",
+      "stop": "白堤",
+      "image": "./assets/routes/batch01-reference-photos/hangzhou/9acfe560861f5219.jpg",
+      "reused": false,
+      "originalSha256": "9acfe560861f521998aeabf99e475ef5c33d741a258260491cbfe767e3873b66"
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "city": "杭州",
+      "stop": "平湖秋月",
+      "image": "./assets/routes/batch01-reference-photos/hangzhou/c6969971dde7faa2.jpg",
+      "reused": false,
+      "originalSha256": "c6969971dde7faa265c45d687f9fde79711bd7c99e64a8e52474f608c81f8ea6"
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "city": "杭州",
+      "stop": "孤山路",
+      "image": "./assets/routes/batch01-reference-photos/hangzhou/6f7960a4ec1c7882.jpg",
+      "reused": false,
+      "originalSha256": "6f7960a4ec1c788213a5aff6b4bc2ad941cd0691a11744a32e15dbca07305dea"
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "city": "杭州",
+      "stop": "曲院风荷",
+      "image": "./assets/routes/batch01-reference-photos/hangzhou/db4f2960bf3259f9.jpg",
+      "reused": false,
+      "originalSha256": "db4f2960bf3259f9cb5f41df94d3a2e49cae8973baeee81fc2489c6197c3627f"
+    },
+    {
+      "routeId": "qingdao-b20-city-day",
+      "city": "青岛",
+      "stop": "石老人海浴场",
+      "image": "./assets/routes/batch01-reference-photos/qingdao/161f13c87918e541.jpeg",
+      "reused": false,
+      "originalSha256": "161f13c87918e541d7fcfcd5eea2788f283d3af5746fc6aa0f0a874a31c980ff"
+    },
+    {
+      "routeId": "qingdao-b20-city-day",
+      "city": "青岛",
+      "stop": "海之恋公园",
+      "image": "./assets/routes/batch01-reference-photos/qingdao/8b2b7e3b721687c1.jpg",
+      "reused": false,
+      "originalSha256": "8b2b7e3b721687c1f224167ea98ef7db3b39eb7527ee7dbba4e8f426a8b5f95e"
+    },
+    {
+      "routeId": "qingdao-b20-city-day",
+      "city": "青岛",
+      "stop": "小麦岛旁侧海岸",
+      "image": "./assets/routes/batch01-reference-photos/qingdao/6227d1d49bb9d27f.jpeg",
+      "reused": false,
+      "originalSha256": "6227d1d49bb9d27fbcc14679c159c3117274ca70e8a8ad5a4a393d1fe13a6be0"
+    },
+    {
+      "routeId": "qingdao-b20-city-day",
+      "city": "青岛",
+      "stop": "汇泉路",
+      "image": "./assets/routes/batch01-reference-photos/qingdao/ad094d658607dc67.jpg",
+      "reused": false,
+      "originalSha256": "ad094d658607dc676eec3ec9e533dee9a236cdaff5a500c30fdbd2a257760bca"
+    },
+    {
+      "routeId": "guangzhou-b20-city-day",
+      "city": "广州",
+      "stop": "玉树公园",
+      "image": "./assets/routes/batch01-reference-photos/guangzhou/5c04932b875501d0.png",
+      "reused": false,
+      "originalSha256": "5c04932b875501d03ba9f237ce869ec94a3b9e3d45585624e89e540917786289"
+    },
+    {
+      "routeId": "guangzhou-b20-city-day",
+      "city": "广州",
+      "stop": "科学城体育公园·尖塔山",
+      "image": "./assets/routes/batch01-reference-photos/guangzhou/f8cafa4b9c1c8f8e.jpg",
+      "reused": false,
+      "originalSha256": "f8cafa4b9c1c8f8ed3b7b78e12be470ad4cdb7bc4b440ba0cac9d0ba7a17bba7"
+    },
+    {
+      "routeId": "guangzhou-b20-city-day",
+      "city": "广州",
+      "stop": "牛角岭公园",
+      "image": "./assets/routes/batch01-reference-photos/guangzhou/d5c0ebd14356716b.png",
+      "reused": false,
+      "originalSha256": "d5c0ebd14356716b8620271027e01566940bfa245a9097006134e3302eeb6993"
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "city": "长沙",
+      "stop": "苏家巷",
+      "image": "./assets/routes/batch01-reference-photos/changsha/42dcbb8113e30a5f.jpg",
+      "reused": false,
+      "originalSha256": "42dcbb8113e30a5f6c92db49649b4dafc9bdce68c9a8b224fea4e951072ad911"
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "city": "长沙",
+      "stop": "东茅街",
+      "image": "./assets/routes/batch01-reference-photos/changsha/c7c40c4975e6fe39.jpg",
+      "reused": false,
+      "originalSha256": "c7c40c4975e6fe3907b3345c15a0b29c80f99de81e824f814ad09c70c74c3db1"
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "city": "长沙",
+      "stop": "轩辕殿巷",
+      "image": "./assets/routes/batch01-reference-photos/changsha/9f0065622bd24457.jpg",
+      "reused": false,
+      "originalSha256": "9f0065622bd24457756dd5e5fe893fb5b405452dadf35131e09860d742e1c5a5"
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "city": "长沙",
+      "stop": "西长街",
+      "image": "./assets/routes/batch01-reference-photos/changsha/e0be9f0c53ae4893.jpg",
+      "reused": false,
+      "originalSha256": "e0be9f0c53ae4893097e2fe9a3ef4bd55ca50c3dfd97eb583bf0b9340a156fd9"
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "city": "长沙",
+      "stop": "潮宗街",
+      "image": "./assets/routes/batch01-reference-photos/changsha/05010c697b875611.jpg",
+      "reused": false,
+      "originalSha256": "05010c697b875611b294ec51453870e945a3fdc3c5310962759e0c064f83fe56"
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "city": "长沙",
+      "stop": "北正街",
+      "image": "./assets/routes/batch01-reference-photos/changsha/655fac28055efa2f.jpg",
+      "reused": false,
+      "originalSha256": "655fac28055efa2f7626d375b13d0a085cd120b6f4b016c18054c1fbf7801573"
+    },
+    {
+      "routeId": "luoyang-b20-city-day",
+      "city": "洛阳",
+      "stop": "洛邑古城",
+      "image": "./assets/routes/batch01-reference-photos/luoyang/03c9f4537b4d52ca.webp",
+      "reused": false,
+      "originalSha256": "03c9f4537b4d52ca04e0589b5ecd3b8790855bcfcddc5872edcec90e69da82d3"
+    },
+    {
+      "routeId": "shanghai-b20-city-day",
+      "city": "上海",
+      "stop": "船舶大厦",
+      "image": "./assets/routes/batch01-reference-photos/shanghai/08a12274e3a748ca.jpg",
+      "reused": false,
+      "originalSha256": "08a12274e3a748cafc4118bb57976cdec95672f2968e158a9e83e1c766d0a8c3"
+    },
+    {
+      "routeId": "jinan-b20-city-day",
+      "city": "济南",
+      "stop": "曲水亭街",
+      "image": "./assets/routes/batch01-reference-photos/jinan/6209d9ade435d205.png",
+      "reused": false,
+      "originalSha256": "6209d9ade435d205bb91d259640fa1e70c795250940f3dd282d2a08261c3740a"
+    },
+    {
+      "routeId": "jinan-b20-city-day",
+      "city": "济南",
+      "stop": "超然楼外观",
+      "image": "./assets/routes/batch01-reference-photos/jinan/694dd8d2ce8b3cb9.jpg",
+      "reused": false,
+      "originalSha256": "694dd8d2ce8b3cb92ccf2074237ef31103f0af154cb4ffe5012b012a71e24fb1"
+    },
+    {
+      "routeId": "xiamen-b20-city-day",
+      "city": "厦门",
+      "stop": "南普陀寺",
+      "image": "./assets/routes/batch01-reference-photos/xiamen/ce168a24f5ebb29e.jpg",
+      "reused": false,
+      "originalSha256": "ce168a24f5ebb29ecb734c9fc52af06bd6ba43b3e3d6ddbf99e95d6cbcef80ec"
+    },
+    {
+      "routeId": "kunming-b20-city-day",
+      "city": "昆明",
+      "stop": "敬德巷",
+      "image": "./assets/routes/batch01-reference-photos/kunming/3b82d0f77bb7dba8.jpeg",
+      "reused": false,
+      "originalSha256": "3b82d0f77bb7dba86c876c694df8df2e5bb4f324d83c5a4850fcaf774c68a1b9"
+    },
+    {
+      "routeId": "kunming-b20-city-day",
+      "city": "昆明",
+      "stop": "铁皮巷",
+      "image": "./assets/routes/batch01-reference-photos/kunming/776e54e9be471303.jpeg",
+      "reused": false,
+      "originalSha256": "776e54e9be471303d92033e39ceadfce901ffef755ccfce3727d1d683f13fbfd"
+    },
+    {
+      "routeId": "beijing-b20-city-day",
+      "city": "北京",
+      "stop": "什刹海",
+      "image": "./assets/routes/batch01-reference-photos/beijing/9f0b2bbcdcccf78d.jpg",
+      "reused": false,
+      "originalSha256": "9f0b2bbcdcccf78dc2fd70526ce54d20c74e3a5b885f7cb53cbd478c752b1fbb"
+    },
+    {
+      "routeId": "wuhan-b20-city-day",
+      "city": "武汉",
+      "stop": "江汉路步行街",
+      "image": "./assets/routes/batch01-reference-photos/wuhan/f078533962f6f454.jpg",
+      "reused": false,
+      "originalSha256": "f078533962f6f45455bb4e00c64f7881cc31c9e649ae33815f64603a107e0d90"
+    },
+    {
+      "routeId": "chongqing-b20-city-day",
+      "city": "重庆",
+      "stop": "枣子岚垭彩色步道",
+      "image": "./assets/routes/b20-reference-photos/chongqing/2-6aa12ffb000000001103190d-1.webp",
+      "reused": true,
+      "originalSha256": "9de6ab28942f3029007ceba7240922577b05118d759782125089dd3e5a7b088a"
+    },
+    {
+      "routeId": "kunming-b20-city-day",
+      "city": "昆明",
+      "stop": "西寺塔",
+      "image": "./assets/routes/b20-reference-photos/kunming/1-6a8bf3e20000000028008c83-1.webp",
+      "reused": true,
+      "originalSha256": "cb99923eda5227bc9d8c99a48670979d9a8565a355a8bd041787631f1035a355"
+    },
+    {
+      "routeId": "kunming-b20-city-day",
+      "city": "昆明",
+      "stop": "近日楼",
+      "image": "./assets/routes/batch01-reference-photos/kunming/efb6f256ec8552d1.jpg",
+      "reused": false,
+      "originalSha256": "efb6f256ec8552d174d88621211ac351ae681efc15cf680bbc1545c22e23fdd5"
+    },
+    {
+      "routeId": "guangzhou-b20-city-day",
+      "city": "广州",
+      "stop": "尖峰岭公园",
+      "image": "./assets/routes/batch01-reference-photos/guangzhou/0297fa5c0afb5160.webp",
+      "reused": false,
+      "originalSha256": "0297fa5c0afb5160c3e4c58a8d2488fccc1d155571f5868227b86b2160c55c41"
+    }
+  ],
+  "held": [
+    {
+      "city": "武汉",
+      "stop": "汉口江滩",
+      "reason": "历史封闸入口图，仅保留在资料中"
+    }
+  ],
+  "ruleSummary": [
+    {
+      "routeId": "nanjing-b20-city-day",
+      "stop": "灵谷景区",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 7
+    },
+    {
+      "routeId": "nanjing-b20-city-day",
+      "stop": "音乐台",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 5
+    },
+    {
+      "routeId": "nanjing-b20-city-day",
+      "stop": "中山陵",
+      "state": "partial",
+      "displayed": 4,
+      "referenceFields": 4
+    },
+    {
+      "routeId": "nanjing-b20-city-day",
+      "stop": "美龄宫",
+      "state": "partial",
+      "displayed": 4,
+      "referenceFields": 6
+    },
+    {
+      "routeId": "nanjing-b20-city-day",
+      "stop": "明孝陵",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 5
+    },
+    {
+      "routeId": "chengdu-b20-city-day",
+      "stop": "文殊院周边",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "chengdu-b20-city-day",
+      "stop": "镋钯街",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "chengdu-b20-city-day",
+      "stop": "大慈寺",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "chengdu-b20-city-day",
+      "stop": "太古里周边",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 4
+    },
+    {
+      "routeId": "xian-b20-city-day",
+      "stop": "西安城墙",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "xian-b20-city-day",
+      "stop": "广仁寺",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "xian-b20-city-day",
+      "stop": "关中书院",
+      "state": "partial",
+      "displayed": 4,
+      "referenceFields": 5
+    },
+    {
+      "routeId": "xian-b20-city-day",
+      "stop": "碑林博物馆",
+      "state": "partial",
+      "displayed": 4,
+      "referenceFields": 7
+    },
+    {
+      "routeId": "beijing-b20-city-day",
+      "stop": "天安门",
+      "state": "partial",
+      "displayed": 3,
+      "referenceFields": 3
+    },
+    {
+      "routeId": "beijing-b20-city-day",
+      "stop": "景山公园",
+      "state": "partial",
+      "displayed": 3,
+      "referenceFields": 4
+    },
+    {
+      "routeId": "beijing-b20-city-day",
+      "stop": "什刹海",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "beijing-b20-city-day",
+      "stop": "雍和宫",
+      "state": "partial",
+      "displayed": 4,
+      "referenceFields": 6
+    },
+    {
+      "routeId": "chongqing-b20-city-day",
+      "stop": "临华路",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "chongqing-b20-city-day",
+      "stop": "枣子岚垭彩色步道",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "chongqing-b20-city-day",
+      "stop": "少年宫",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "chongqing-b20-city-day",
+      "stop": "人民大礼堂",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 3
+    },
+    {
+      "routeId": "luoyang-b20-city-day",
+      "stop": "丽景门",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "luoyang-b20-city-day",
+      "stop": "东西大街",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "luoyang-b20-city-day",
+      "stop": "鼓楼",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "luoyang-b20-city-day",
+      "stop": "洛邑古城",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "wuhan-b20-city-day",
+      "stop": "江汉路步行街",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 3
+    },
+    {
+      "routeId": "wuhan-b20-city-day",
+      "stop": "巴公房子",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 2
+    },
+    {
+      "routeId": "wuhan-b20-city-day",
+      "stop": "汉口江滩",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 2
+    },
+    {
+      "routeId": "guangzhou-b20-city-day",
+      "stop": "愈欣书店",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "guangzhou-b20-city-day",
+      "stop": "玉树公园",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "guangzhou-b20-city-day",
+      "stop": "科学城体育公园·尖塔山",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "guangzhou-b20-city-day",
+      "stop": "尖峰岭公园",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "guangzhou-b20-city-day",
+      "stop": "牛角岭公园",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "stop": "坡子街",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "stop": "苏家巷",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "stop": "东茅街",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "stop": "黄兴路步行街",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "stop": "轩辕殿巷",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "stop": "西长街",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "stop": "潮宗街",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "stop": "北正街",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "changsha-b20-city-day",
+      "stop": "中山亭",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "shanghai-b20-city-day",
+      "stop": "船舶大厦",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "shanghai-b20-city-day",
+      "stop": "东方明珠",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "shanghai-b20-city-day",
+      "stop": "浦东美术馆外观",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 2
+    },
+    {
+      "routeId": "shanghai-b20-city-day",
+      "stop": "落日长廊",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "chengdu-cd01-city-day",
+      "stop": "人民公园",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "chengdu-cd01-city-day",
+      "stop": "IFS 熊猫",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 2
+    },
+    {
+      "routeId": "guangzhou-xiguan-walk",
+      "stop": "石室圣心大教堂",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "guangzhou-xiguan-walk",
+      "stop": "沙面岛",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "guangzhou-xiguan-walk",
+      "stop": "上下九步行街",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "guangzhou-xiguan-walk",
+      "stop": "永庆坊",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "nanjing-nj01-qinhuai-day",
+      "stop": "中华门城堡",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 4
+    },
+    {
+      "routeId": "nanjing-nj01-qinhuai-day",
+      "stop": "老门东",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "nanjing-nj01-qinhuai-day",
+      "stop": "夫子庙 · 秦淮河",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "stop": "苏州博物馆",
+      "state": "partial",
+      "displayed": 4,
+      "referenceFields": 9
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "stop": "拙政园",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 4
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "stop": "平江路",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "stop": "双塔市集",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "suzhou-b20-city-day",
+      "stop": "七里山塘",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "stop": "断桥残雪",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "stop": "白堤",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "stop": "平湖秋月",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "stop": "孤山路",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "stop": "西泠桥",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "hangzhou-b20-city-day",
+      "stop": "曲院风荷",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "qingdao-b20-city-day",
+      "stop": "石老人海浴场",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "qingdao-b20-city-day",
+      "stop": "海之恋公园",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "qingdao-b20-city-day",
+      "stop": "小麦岛旁侧海岸",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "qingdao-b20-city-day",
+      "stop": "八大关",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "qingdao-b20-city-day",
+      "stop": "汇泉路",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "jinan-b20-city-day",
+      "stop": "五龙潭",
+      "state": "partial",
+      "displayed": 4,
+      "referenceFields": 4
+    },
+    {
+      "routeId": "jinan-b20-city-day",
+      "stop": "趵突泉",
+      "state": "partial",
+      "displayed": 3,
+      "referenceFields": 5
+    },
+    {
+      "routeId": "jinan-b20-city-day",
+      "stop": "黑虎泉",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "jinan-b20-city-day",
+      "stop": "曲水亭街",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "jinan-b20-city-day",
+      "stop": "大明湖",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 2
+    },
+    {
+      "routeId": "jinan-b20-city-day",
+      "stop": "超然楼外观",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "xiamen-b20-city-day",
+      "stop": "第八市场（八市）",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "xiamen-b20-city-day",
+      "stop": "中山路步行街",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "xiamen-b20-city-day",
+      "stop": "南普陀寺",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 2
+    },
+    {
+      "routeId": "xiamen-b20-city-day",
+      "stop": "顶澳仔猫街",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "xiamen-b20-city-day",
+      "stop": "沙坡尾",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "xiamen-b20-city-day",
+      "stop": "演武大桥观景平台",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "shenzhen-b20-city-day",
+      "stop": "燕晗山郊野公园",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 2
+    },
+    {
+      "routeId": "shenzhen-b20-city-day",
+      "stop": "深圳湾万象城A区",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "shenzhen-b20-city-day",
+      "stop": "深圳湾文化广场",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 3
+    },
+    {
+      "routeId": "tianjin-b20-city-day",
+      "stop": "西北角",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "tianjin-b20-city-day",
+      "stop": "民园广场",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "tianjin-b20-city-day",
+      "stop": "解放桥",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "tianjin-b20-city-day",
+      "stop": "意式风情街",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "tianjin-b20-city-day",
+      "stop": "天津之眼",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "fuzhou-b20-city-day",
+      "stop": "左海公园",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "fuzhou-b20-city-day",
+      "stop": "西湖公园",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "fuzhou-b20-city-day",
+      "stop": "福建博物院",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 4
+    },
+    {
+      "routeId": "kunming-b20-city-day",
+      "stop": "西寺塔",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "kunming-b20-city-day",
+      "stop": "近日楼",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "kunming-b20-city-day",
+      "stop": "敬德巷",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "kunming-b20-city-day",
+      "stop": "巡津新村",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "kunming-b20-city-day",
+      "stop": "铁皮巷",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "guiyang-b20-city-day",
+      "stop": "北天主教堂",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "guiyang-b20-city-day",
+      "stop": "东山寺",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "guiyang-b20-city-day",
+      "stop": "仙人洞",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "guiyang-b20-city-day",
+      "stop": "甲秀楼",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "guiyang-b20-city-day",
+      "stop": "青云市集",
+      "state": "partial",
+      "displayed": 1,
+      "referenceFields": 1
+    },
+    {
+      "routeId": "guiyang-b20-city-day",
+      "stop": "花果园白宫",
+      "state": "not_found",
+      "displayed": 0,
+      "referenceFields": 0
+    },
+    {
+      "routeId": "xian-xa01-qujiang-day",
+      "stop": "大唐芙蓉园（可选）",
+      "state": "partial",
+      "displayed": 2,
+      "referenceFields": 6
+    },
+    {
+      "routeId": "xian-xa01-qujiang-day",
+      "stop": "大唐不夜城 · 开元广场",
+      "state": "partial",
+      "displayed": 0,
+      "referenceFields": 2
+    }
+  ],
+  "quoteIssues": [],
+  "kunmingGeoResolved": true
+}

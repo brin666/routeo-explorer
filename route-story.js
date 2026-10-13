@@ -43,8 +43,10 @@ export class RouteStoryController {
       color: route.storyArtwork?.markers[index]?.color || route.map.points[index]?.color || route.accent,
       labelPlacement: route.storyArtwork?.markers[index]?.labelPlacement || story.labelPlacements?.[index],
       tags: story.stopTags[index] || route.tags.slice(0, 3),
-      previewImage: story.previewImages?.[index] || route.image,
-      previewPosition: story.previewPositions?.[index] || "50%"
+      previewImage: story.previewImages?.[index] || (story.previewMissingBehavior === "hide" ? null : route.image),
+      previewPosition: story.previewPositions?.[index] || "50%",
+      access: story.stopAccess?.[index]?.value,
+      accessLabel: story.stopAccess?.[index]?.heading
     }));
     this.opening = new RouteOpening(route, story);
     this.root.append(this.opening.element);
@@ -53,7 +55,8 @@ export class RouteStoryController {
       onPreview: (index, event) => this.onPreview(index, event),
       onPreviewEnd: () => this.onPreview(-1),
       onSelect: (index) => this.selectStop(index),
-      onTogglePanel: (open, options) => this.togglePanel(open, options)
+      onTogglePanel: (open, options) => this.togglePanel(open, options),
+      onLegModeSelect: (index, mode) => this.map?.setLegMode(index, mode)
     });
     this.root.append(this.curtain.root);
     this.map = new RouteMap(
@@ -62,7 +65,8 @@ export class RouteStoryController {
       this.points,
       (index, event) => this.onPreview(index, event),
       (index) => this.selectStop(index),
-      (index) => this.onJourneyStep(index)
+      (index) => this.onJourneyStep(index),
+      story
     );
 
     try {
@@ -164,7 +168,8 @@ export class RouteStoryController {
       return;
     }
     const stop = this.points[index];
-    this.preview?.show(stop, stop.previewImage, event);
+    if (stop.previewImage) this.preview?.show(stop, stop.previewImage, event);
+    else this.preview?.hide();
     this.curtain?.setActiveStop(index);
     this.map?.setFocusedPoint(index);
     this.map?.setActiveSegment(index === 0 ? -1 : index - 1);

@@ -1,0 +1,3227 @@
+{
+  "city": "济南",
+  "slug": "jinan",
+  "queriedAt": "2026-10-13T05:43:03.304Z",
+  "source": "AMap JS API 2.0 PlaceSearch",
+  "coordinateSystem": "GCJ-02",
+  "points": [
+    {
+      "name": "五龙潭",
+      "placeKey": "jinan:wulongtan",
+      "experienceKey": "jinan:wulongtan:pond_koi_view",
+      "searchKeyword": "五龙潭",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B021301972",
+      "address": "筐市街18号",
+      "type": "风景名胜;公园广场;公园",
+      "coordinate": [
+        117.014637,
+        36.665992
+      ],
+      "entrance": [
+        117.013909,
+        36.664298
+      ],
+      "url": "https://ditu.amap.com/place/B021301972",
+      "candidates": [
+        {
+          "name": "五龙潭公园",
+          "poiId": "B021301972",
+          "address": "筐市街18号",
+          "type": "风景名胜;公园广场;公园",
+          "coordinate": [
+            117.014637,
+            36.665992
+          ],
+          "entrance": [
+            117.013909,
+            36.664298
+          ],
+          "url": "https://ditu.amap.com/place/B021301972"
+        },
+        {
+          "name": "五龙潭(公交站)",
+          "poiId": "BV10794820",
+          "address": "(停运)一湖一环夜场专线;170路;591路;66路;K109路;K41路;K91路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            117.016269,
+            36.665328
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV10794820"
+        },
+        {
+          "name": "五龙潭公园-牌坊",
+          "poiId": "B0FFI93Y2K",
+          "address": "趵突泉北路筐市街18号(共青团路口)五龙潭景区内",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.014285,
+            36.664383
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFI93Y2K"
+        },
+        {
+          "name": "五龙潭公园-水杉林大草地",
+          "poiId": "B0FFFSM390",
+          "address": "筐市街18号五龙潭公园",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.014483,
+            36.666238
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFFSM390"
+        },
+        {
+          "name": "五龙潭公园-秦琼祠",
+          "poiId": "B02130XMNO",
+          "address": "筐市街18号五龙潭公园内(北侧)",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.014517,
+            36.667397
+          ],
+          "entrance": [
+            117.013244,
+            36.667159
+          ],
+          "url": "https://ditu.amap.com/place/B02130XMNO"
+        },
+        {
+          "name": "五龙潭公园停车场",
+          "poiId": "B0FFH0MPG1",
+          "address": "共青团路五龙潭公园(南侧)",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            117.014329,
+            36.66431
+          ],
+          "entrance": [
+            117.013908,
+            36.664298
+          ],
+          "url": "https://ditu.amap.com/place/B0FFH0MPG1"
+        }
+      ],
+      "poiName": "五龙潭公园",
+      "routeCoordinate": [
+        117.013909,
+        36.664298
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "趵突泉",
+      "placeKey": "jinan:baotu_spring",
+      "experienceKey": "jinan:baotu_spring:spring_outflow_view",
+      "searchKeyword": "趵突泉",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0LRFH675Y",
+      "address": "趵突泉南路1号趵突泉景区内",
+      "type": "风景名胜;风景名胜相关;旅游景点",
+      "coordinate": [
+        117.015259,
+        36.660835
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0LRFH675Y",
+      "candidates": [
+        {
+          "name": "趵突泉",
+          "poiId": "B0LRFH675Y",
+          "address": "趵突泉南路1号趵突泉景区内",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.015259,
+            36.660835
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0LRFH675Y"
+        },
+        {
+          "name": "趵突泉",
+          "poiId": "B0KUBZUUE7",
+          "address": "历下区",
+          "type": "地名地址信息;热点地名;热点地名",
+          "coordinate": [
+            117.015192,
+            36.660622
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0KUBZUUE7"
+        },
+        {
+          "name": "趵突泉",
+          "poiId": "B0M3YSUVJG",
+          "address": "趵突泉南路1号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            117.015893,
+            36.661087
+          ],
+          "entrance": [
+            117.018029,
+            36.661197
+          ],
+          "url": "https://ditu.amap.com/place/B0M3YSUVJG"
+        },
+        {
+          "name": "趵突泉景区",
+          "poiId": "B021305SHC",
+          "address": "趵突泉南路1号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            117.015873,
+            36.661073
+          ],
+          "entrance": [
+            117.018012,
+            36.661245
+          ],
+          "url": "https://ditu.amap.com/place/B021305SHC"
+        },
+        {
+          "name": "趵突泉游客中心",
+          "poiId": "B0FFFOS8PR",
+          "address": "趵突泉南路1号趵突泉景区内",
+          "type": "生活服务;信息咨询中心;服务中心",
+          "coordinate": [
+            117.017725,
+            36.660887
+          ],
+          "entrance": [
+            117.018113,
+            36.661016
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFOS8PR"
+        },
+        {
+          "name": "趵突泉售票处",
+          "poiId": "B0FFGLV032",
+          "address": "趵突泉景区内",
+          "type": "生活服务;售票处;公园景点售票处",
+          "coordinate": [
+            117.015874,
+            36.66365
+          ],
+          "entrance": [
+            117.015822,
+            36.664004
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGLV032"
+        }
+      ],
+      "poiName": "趵突泉",
+      "routeCoordinate": [
+        117.015259,
+        36.660835
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "黑虎泉",
+      "placeKey": "jinan:heihu_spring",
+      "experienceKey": "jinan:heihu_spring:tigerhead_spring_view",
+      "searchKeyword": "黑虎泉",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B021302AA7",
+      "address": "解放阁脚下护城河南岸",
+      "type": "风景名胜;风景名胜;国家级景点",
+      "coordinate": [
+        117.033525,
+        36.662414
+      ],
+      "entrance": [
+        117.03222,
+        36.662922
+      ],
+      "url": "https://ditu.amap.com/place/B021302AA7",
+      "candidates": [
+        {
+          "name": "济南市环城公园-黑虎泉",
+          "poiId": "B021302AA7",
+          "address": "解放阁脚下护城河南岸",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            117.033525,
+            36.662414
+          ],
+          "entrance": [
+            117.03222,
+            36.662922
+          ],
+          "url": "https://ditu.amap.com/place/B021302AA7"
+        },
+        {
+          "name": "济南市环城公园-黑虎泉广场",
+          "poiId": "B0FFJROQNJ",
+          "address": "明湖路271号天下第一泉景区内(东侧)",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.033674,
+            36.662559
+          ],
+          "entrance": [
+            117.033409,
+            36.66241
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJROQNJ"
+        },
+        {
+          "name": "黑虎泉公园金山寺遗址",
+          "poiId": "B0MG359SEY",
+          "address": "黑虎泉西路2-1号",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            117.034123,
+            36.662771
+          ],
+          "entrance": [
+            117.034266,
+            36.662444
+          ],
+          "url": "https://ditu.amap.com/place/B0MG359SEY"
+        },
+        {
+          "name": "护城河游船黑虎泉码头",
+          "poiId": "B0KAUZ7V7Z",
+          "address": "千佛山街道千佛山街道南门大街2-1号(近护城河)济南市环城公园内(东侧)",
+          "type": "交通设施服务;交通服务相关;交通服务相关|风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.032275,
+            36.662457
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0KAUZ7V7Z"
+        },
+        {
+          "name": "千佛山风景名胜区",
+          "poiId": "B021306TJ7",
+          "address": "经十一路18号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            117.036098,
+            36.639288
+          ],
+          "entrance": [
+            117.033529,
+            36.645673
+          ],
+          "url": "https://ditu.amap.com/place/B021306TJ7"
+        },
+        {
+          "name": "趵突泉景区",
+          "poiId": "B021305SHC",
+          "address": "趵突泉南路1号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            117.015873,
+            36.661073
+          ],
+          "entrance": [
+            117.018012,
+            36.661245
+          ],
+          "url": "https://ditu.amap.com/place/B021305SHC"
+        },
+        {
+          "name": "五龙潭公园",
+          "poiId": "B021301972",
+          "address": "筐市街18号",
+          "type": "风景名胜;公园广场;公园",
+          "coordinate": [
+            117.014637,
+            36.665992
+          ],
+          "entrance": [
+            117.013909,
+            36.664298
+          ],
+          "url": "https://ditu.amap.com/place/B021301972"
+        },
+        {
+          "name": "泉城广场",
+          "poiId": "B021302AAB",
+          "address": "泺源大街108-1号",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.022086,
+            36.661373
+          ],
+          "entrance": [
+            117.018465,
+            36.660672
+          ],
+          "url": "https://ditu.amap.com/place/B021302AAB"
+        },
+        {
+          "name": "济南解放纪念馆",
+          "poiId": "B0213075BT",
+          "address": "黑虎泉北路",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            117.03364,
+            36.662981
+          ],
+          "entrance": [
+            117.033018,
+            36.663089
+          ],
+          "url": "https://ditu.amap.com/place/B0213075BT"
+        },
+        {
+          "name": "济南市环城公园-解放阁",
+          "poiId": "B021301BFA",
+          "address": "南门大街2-1号(近护城河)济南市环城公园内东侧",
+          "type": "风景名胜;风景名胜;红色景区|风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.033627,
+            36.663178
+          ],
+          "entrance": [
+            117.033251,
+            36.663339
+          ],
+          "url": "https://ditu.amap.com/place/B021301BFA"
+        },
+        {
+          "name": "济南市环城公园",
+          "poiId": "B021303A3E",
+          "address": "南门大街2-1号(近护城河)",
+          "type": "风景名胜;公园广场;公园",
+          "coordinate": [
+            117.026607,
+            36.662579
+          ],
+          "entrance": [
+            117.017574,
+            36.662181
+          ],
+          "url": "https://ditu.amap.com/place/B021303A3E"
+        },
+        {
+          "name": "济南市环城公园-东护城河西岸南段木栈道",
+          "poiId": "B0FFJUC9I0",
+          "address": "大明湖街道黑虎泉北路济南市环城公园兴华桥北侧护城河西岸",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.036067,
+            36.668087
+          ],
+          "entrance": [
+            117.035729,
+            36.667896
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJUC9I0"
+        },
+        {
+          "name": "济南市环城公园-木亭",
+          "poiId": "B0FFJTOBXR",
+          "address": "大明湖街道黑虎泉北路济南市环城公园兴华桥北侧护城河西岸",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.036073,
+            36.669124
+          ],
+          "entrance": [
+            117.035799,
+            36.669132
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJTOBXR"
+        },
+        {
+          "name": "济南市环城公园-望阁亭",
+          "poiId": "B0FFJRNZSC",
+          "address": "千佛山街道半边街黑虎泉",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.034443,
+            36.662375
+          ],
+          "entrance": [
+            117.034487,
+            36.66231
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJRNZSC"
+        },
+        {
+          "name": "济南市环城公园-琵琶泉",
+          "poiId": "B02130WMJL",
+          "address": "大明湖街道黑虎泉西路6号解放阁护城河游船服务中心",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.032385,
+            36.662444
+          ],
+          "entrance": [
+            117.032352,
+            36.662522
+          ],
+          "url": "https://ditu.amap.com/place/B02130WMJL"
+        },
+        {
+          "name": "济南市环城公园-一虎泉",
+          "poiId": "B02130WMP9",
+          "address": "南门大街2-1号济南市环城公园内(东侧)",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.030472,
+            36.662405
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B02130WMP9"
+        },
+        {
+          "name": "济南市环城公园-青龙桥",
+          "poiId": "B0FFJS6081",
+          "address": "解放路街道解放路",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.034413,
+            36.666068
+          ],
+          "entrance": [
+            117.034544,
+            36.666117
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJS6081"
+        },
+        {
+          "name": "黑虎啸月",
+          "poiId": "B0L377LSY7",
+          "address": "济南市环城公园-黑虎泉内(西侧)",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.033242,
+            36.662448
+          ],
+          "entrance": [
+            117.033209,
+            36.662732
+          ],
+          "url": "https://ditu.amap.com/place/B0L377LSY7"
+        },
+        {
+          "name": "济南市环城公园-兴华桥",
+          "poiId": "B0FFJSOKIE",
+          "address": "兴华街与黑虎泉北路交叉口东侧护城河上",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.036237,
+            36.667703
+          ],
+          "entrance": [
+            117.035944,
+            36.667749
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJSOKIE"
+        },
+        {
+          "name": "济南市环城公园-北区竹林",
+          "poiId": "B0FFJTQBPJ",
+          "address": "东关街道黑虎泉北路31号济南市环城公园东门桥北侧护城河东岸",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.035973,
+            36.676429
+          ],
+          "entrance": [
+            117.036343,
+            36.676666
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJTQBPJ"
+        },
+        {
+          "name": "济南市环城公园-任泉",
+          "poiId": "B0FFJRO9M5",
+          "address": "大明湖街道黑虎泉西路10号黑虎泉",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.03137,
+            36.662621
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFJRO9M5"
+        },
+        {
+          "name": "禧肆谷社",
+          "poiId": "B0K0ZDYVXC",
+          "address": "大明湖街道黑虎泉西路45号宽厚里二期4组团212室",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.031399,
+            36.663363
+          ],
+          "entrance": [
+            117.031408,
+            36.662903
+          ],
+          "url": "https://ditu.amap.com/place/B0K0ZDYVXC"
+        },
+        {
+          "name": "大舜",
+          "poiId": "B0H3TRMKW6",
+          "address": "黑虎泉西路世茂国际广场",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            117.029662,
+            36.66388
+          ],
+          "entrance": [
+            117.029647,
+            36.663763
+          ],
+          "url": "https://ditu.amap.com/place/B0H3TRMKW6"
+        },
+        {
+          "name": "老年活动广场",
+          "poiId": "B0HK6S7IKR",
+          "address": "黑虎泉北路与明湖东路交叉口南180米",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.034434,
+            36.677047
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0HK6S7IKR"
+        },
+        {
+          "name": "趵突泉-五三街旧址",
+          "poiId": "B0FFH5LE36",
+          "address": "趵突泉北路与黑虎泉西路交叉口西北20米",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.01733,
+            36.66244
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFH5LE36"
+        },
+        {
+          "name": "济南市环城公园-东护城河西岸北段木栈道",
+          "poiId": "B0FFJSOKIH",
+          "address": "大明湖街道黑虎泉北路济南市环城公园兴华桥北侧护城河西岸",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.036023,
+            36.669427
+          ],
+          "entrance": [
+            117.035759,
+            36.66788
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJSOKIH"
+        },
+        {
+          "name": "济南市环城公园-虎泉阁长廊",
+          "poiId": "B0FFJS607Z",
+          "address": "黑虎泉西路6-1号附近",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.032683,
+            36.662334
+          ],
+          "entrance": [
+            117.032482,
+            36.662143
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJS607Z"
+        },
+        {
+          "name": "济南市环城公园-东船闸北侧花架长廊",
+          "poiId": "B0FFJUCA2M",
+          "address": "大明湖街道黑虎泉北路济南市环城公园东船闸北侧护城河西岸",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.036107,
+            36.671688
+          ],
+          "entrance": [
+            117.035884,
+            36.671218
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJUCA2M"
+        },
+        {
+          "name": "历下禁毒文化广场",
+          "poiId": "B0LRXC1N1X",
+          "address": "黑虎泉北路与苗家巷交叉口东北60米",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.036366,
+            36.673233
+          ],
+          "entrance": [
+            117.036287,
+            36.673252
+          ],
+          "url": "https://ditu.amap.com/place/B0LRXC1N1X"
+        },
+        {
+          "name": "济南市环城公园-东船闸南侧花架长廊",
+          "poiId": "B0FFJTODA2",
+          "address": "大明湖街道黑虎泉北路济南市环城公园东船闸南侧护城河西岸",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.036096,
+            36.671063
+          ],
+          "entrance": [
+            117.035898,
+            36.671395
+          ],
+          "url": "https://ditu.amap.com/place/B0FFJTODA2"
+        }
+      ],
+      "poiName": "济南市环城公园-黑虎泉",
+      "routeCoordinate": [
+        117.03222,
+        36.662922
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "曲水亭街",
+      "placeKey": "jinan:qushuiting_street",
+      "experienceKey": "jinan:qushuiting_street:stream_oldstreet_walk",
+      "searchKeyword": "曲水亭街",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFGS8UZH",
+      "address": "历下区",
+      "type": "地名地址信息;交通地名;道路名",
+      "coordinate": [
+        117.024334,
+        36.670581
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0FFGS8UZH",
+      "candidates": [
+        {
+          "name": "曲水亭街",
+          "poiId": "B0FFGS8UZH",
+          "address": "历下区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            117.024334,
+            36.670581
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGS8UZH"
+        },
+        {
+          "name": "大明湖路与曲水亭街交叉口",
+          "poiId": "B0FFGGB346",
+          "address": "历下区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            117.023881,
+            36.671888
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGGB346"
+        },
+        {
+          "name": "曲水亭街民俗文化市场",
+          "poiId": "B0IAT6F1Z2",
+          "address": "趵突泉南路1号",
+          "type": "购物服务;购物相关场所;购物相关场所|风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.023845,
+            36.671278
+          ],
+          "entrance": [
+            117.024012,
+            36.67131
+          ],
+          "url": "https://ditu.amap.com/place/B0IAT6F1Z2"
+        },
+        {
+          "name": "曲水亭街与珍池街交叉口",
+          "poiId": "B0FFI8G9HF",
+          "address": "历下区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            117.026866,
+            36.669232
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFI8G9HF"
+        },
+        {
+          "name": "曲水亭街与西更道街交叉口",
+          "poiId": "B0FFGQ85PY",
+          "address": "历下区",
+          "type": "地名地址信息;交通地名;路口名",
+          "coordinate": [
+            117.024344,
+            36.669758
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGQ85PY"
+        },
+        {
+          "name": "曲水亭风景区",
+          "poiId": "B0G3AG8Z7F",
+          "address": "百花洲历史文化街区",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.02438,
+            36.669657
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0G3AG8Z7F"
+        }
+      ],
+      "poiName": "曲水亭街",
+      "routeCoordinate": [
+        117.024334,
+        36.670581
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "大明湖",
+      "placeKey": "jinan:daming_lake",
+      "experienceKey": "jinan:daming_lake:lakeside_lixia_walk",
+      "searchKeyword": "大明湖",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0KUBZMOI6",
+      "address": "历下区",
+      "type": "地名地址信息;热点地名;热点地名",
+      "coordinate": [
+        117.023544,
+        36.67507
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0KUBZMOI6",
+      "candidates": [
+        {
+          "name": "大明湖",
+          "poiId": "B0KUBZMOI6",
+          "address": "历下区",
+          "type": "地名地址信息;热点地名;热点地名",
+          "coordinate": [
+            117.023544,
+            36.67507
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0KUBZMOI6"
+        },
+        {
+          "name": "大明湖景区",
+          "poiId": "B021307RUA",
+          "address": "大明湖路271号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            117.016718,
+            36.672584
+          ],
+          "entrance": [
+            117.025554,
+            36.678546
+          ],
+          "url": "https://ditu.amap.com/place/B021307RUA"
+        },
+        {
+          "name": "大明湖(公交站)",
+          "poiId": "BV10153717",
+          "address": "11路;170路;95路;B98路;K109路;K109路超然楼打卡专线;K41路;地铁北园站景区接驳快巴(环线);地铁生产路站景区接驳快巴",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            117.027255,
+            36.672279
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV10153717"
+        },
+        {
+          "name": "大明湖站",
+          "poiId": "B021305806",
+          "address": "明湖北路1号",
+          "type": "交通设施服务;火车站;火车站",
+          "coordinate": [
+            117.029064,
+            36.680867
+          ],
+          "entrance": [
+            117.029954,
+            36.680929
+          ],
+          "url": "https://ditu.amap.com/place/B021305806"
+        },
+        {
+          "name": "大明湖站(进站口)",
+          "poiId": "B0FFK01CVT",
+          "address": "大明湖站",
+          "type": "交通设施服务;火车站;进站口/检票口",
+          "coordinate": [
+            117.029602,
+            36.681116
+          ],
+          "entrance": [
+            117.029728,
+            36.68089
+          ],
+          "url": "https://ditu.amap.com/place/B0FFK01CVT"
+        },
+        {
+          "name": "大明湖火车站(公交站)",
+          "poiId": "BV11026823",
+          "address": "6路;K122路;K283路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            117.031409,
+            36.678761
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV11026823"
+        }
+      ],
+      "poiName": "大明湖",
+      "routeCoordinate": [
+        117.023544,
+        36.67507
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "超然楼外观（不含登楼）",
+      "placeKey": "jinan:chaoran_tower",
+      "experienceKey": "jinan:chaoran_tower:exterior_light_reflection",
+      "searchKeyword": "超然楼",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0HK6S3TEO",
+      "address": "大明湖路271号大明湖风景名胜区",
+      "type": "风景名胜;公园广场;城市广场",
+      "coordinate": [
+        117.032592,
+        36.675268
+      ],
+      "entrance": [
+        117.032855,
+        36.675311
+      ],
+      "url": "https://ditu.amap.com/place/B0HK6S3TEO",
+      "candidates": [
+        {
+          "name": "超然楼广场",
+          "poiId": "B0HK6S3TEO",
+          "address": "大明湖路271号大明湖风景名胜区",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.032592,
+            36.675268
+          ],
+          "entrance": [
+            117.032855,
+            36.675311
+          ],
+          "url": "https://ditu.amap.com/place/B0HK6S3TEO"
+        },
+        {
+          "name": "大明湖景区-超然楼",
+          "poiId": "B021307W9S",
+          "address": "大明湖景区内(东侧)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            117.031996,
+            36.675188
+          ],
+          "entrance": [
+            117.016926,
+            36.672076
+          ],
+          "url": "https://ditu.amap.com/place/B021307W9S"
+        },
+        {
+          "name": "大明湖岸边近超然楼一楼民宿(大明湖/大明湖站店)",
+          "poiId": "B0KDHP8RO3",
+          "address": "县东巷与皇华馆街交叉口东南60米",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.031051,
+            36.671321
+          ],
+          "entrance": [
+            117.031045,
+            36.671423
+          ],
+          "url": "https://ditu.amap.com/place/B0KDHP8RO3"
+        },
+        {
+          "name": "大明湖-雨荷厅",
+          "poiId": "B02130WLF9",
+          "address": "大明湖路271号大明湖风景名胜区内",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.030022,
+            36.677209
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B02130WLF9"
+        },
+        {
+          "name": "趵突泉景区",
+          "poiId": "B021305SHC",
+          "address": "趵突泉南路1号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            117.015873,
+            36.661073
+          ],
+          "entrance": [
+            117.018012,
+            36.661245
+          ],
+          "url": "https://ditu.amap.com/place/B021305SHC"
+        },
+        {
+          "name": "大观园",
+          "poiId": "B0213072OQ",
+          "address": "经四路",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            116.996425,
+            36.660766
+          ],
+          "entrance": [
+            116.996299,
+            36.661738
+          ],
+          "url": "https://ditu.amap.com/place/B0213072OQ"
+        },
+        {
+          "name": "大明湖景区-凝雪桥",
+          "poiId": "B0FFG6RNYK",
+          "address": "大明湖路与指挥巷交叉口北150米",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.031225,
+            36.674289
+          ],
+          "entrance": [
+            117.031265,
+            36.674327
+          ],
+          "url": "https://ditu.amap.com/place/B0FFG6RNYK"
+        },
+        {
+          "name": "大明湖景区-南丰祠",
+          "poiId": "B02130WLXK",
+          "address": "大明湖路271号大明湖",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.029928,
+            36.677513
+          ],
+          "entrance": [
+            117.016537,
+            36.672051
+          ],
+          "url": "https://ditu.amap.com/place/B02130WLXK"
+        },
+        {
+          "name": "大明湖景区-玉涵桥",
+          "poiId": "B0FFG6PEW8",
+          "address": "大明湖路与寿佛楼后街交叉口北100米",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            117.018639,
+            36.672745
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFG6PEW8"
+        },
+        {
+          "name": "济南市环城公园",
+          "poiId": "B021303A3E",
+          "address": "南门大街2-1号(近护城河)",
+          "type": "风景名胜;公园广场;公园",
+          "coordinate": [
+            117.026607,
+            36.662579
+          ],
+          "entrance": [
+            117.017574,
+            36.662181
+          ],
+          "url": "https://ditu.amap.com/place/B021303A3E"
+        },
+        {
+          "name": "湖畔雨荷",
+          "poiId": "B0L1XSQHUL",
+          "address": "大明湖路271号大明湖风景名胜区北极阁奇石馆西侧钢琴广场",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            117.026671,
+            36.677484
+          ],
+          "entrance": [
+            117.026692,
+            36.677371
+          ],
+          "url": "https://ditu.amap.com/place/B0L1XSQHUL"
+        },
+        {
+          "name": "大明湖景区-齐鲁道德广场",
+          "poiId": "B0G101GOH4",
+          "address": "大明湖路271号大明湖风景名胜区",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.026255,
+            36.672671
+          ],
+          "entrance": [
+            117.026457,
+            36.672151
+          ],
+          "url": "https://ditu.amap.com/place/B0G101GOH4"
+        },
+        {
+          "name": "大明湖公园游船",
+          "poiId": "B0FFM9TQT4",
+          "address": "泉城路街道大明湖路271号大明湖景区内(南侧)",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.023848,
+            36.672469
+          ],
+          "entrance": [
+            117.023811,
+            36.671912
+          ],
+          "url": "https://ditu.amap.com/place/B0FFM9TQT4"
+        },
+        {
+          "name": "大明湖景区-正谊广场",
+          "poiId": "B0FFFSO0E4",
+          "address": "大明湖路271号大明湖",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.02648,
+            36.672317
+          ],
+          "entrance": [
+            117.02638,
+            36.672142
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFSO0E4"
+        },
+        {
+          "name": "大明湖景区",
+          "poiId": "B021307RUA",
+          "address": "大明湖路271号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            117.016718,
+            36.672584
+          ],
+          "entrance": [
+            117.025554,
+            36.678546
+          ],
+          "url": "https://ditu.amap.com/place/B021307RUA"
+        }
+      ],
+      "poiName": "超然楼广场",
+      "routeCoordinate": [
+        117.032855,
+        36.675311
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    }
+  ],
+  "segments": [
+    {
+      "from": "五龙潭",
+      "to": "趵突泉",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 947,
+          "distance": 1184,
+          "steps": [
+            {
+              "road": "",
+              "instruction": "向南步行39米右转",
+              "time": 31,
+              "distance": 39,
+              "nodes": [
+                [
+                  117.013906,
+                  36.664297
+                ],
+                [
+                  117.013872,
+                  36.664297
+                ],
+                [
+                  117.013872,
+                  36.664297
+                ],
+                [
+                  117.013859,
+                  36.664019
+                ],
+                [
+                  117.013859,
+                  36.664019
+                ],
+                [
+                  117.013854,
+                  36.663958
+                ]
+              ]
+            },
+            {
+              "road": "共青团路",
+              "instruction": "沿共青团路向西步行138米左转",
+              "time": 110,
+              "distance": 138,
+              "nodes": [
+                [
+                  117.01385,
+                  36.663954
+                ],
+                [
+                  117.013073,
+                  36.663993
+                ],
+                [
+                  117.013073,
+                  36.663993
+                ],
+                [
+                  117.012982,
+                  36.663997
+                ],
+                [
+                  117.012982,
+                  36.663997
+                ],
+                [
+                  117.012426,
+                  36.664049
+                ],
+                [
+                  117.012309,
+                  36.664028
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向南步行535米左转",
+              "time": 428,
+              "distance": 535,
+              "nodes": [
+                [
+                  117.012305,
+                  36.664023
+                ],
+                [
+                  117.012313,
+                  36.663976
+                ],
+                [
+                  117.012313,
+                  36.663976
+                ],
+                [
+                  117.012322,
+                  36.663937
+                ],
+                [
+                  117.012235,
+                  36.66375
+                ],
+                [
+                  117.012088,
+                  36.663186
+                ],
+                [
+                  117.012088,
+                  36.663186
+                ],
+                [
+                  117.012062,
+                  36.662947
+                ],
+                [
+                  117.012062,
+                  36.662947
+                ],
+                [
+                  117.012279,
+                  36.662344
+                ],
+                [
+                  117.012279,
+                  36.662344
+                ],
+                [
+                  117.012422,
+                  36.661962
+                ],
+                [
+                  117.012422,
+                  36.661962
+                ],
+                [
+                  117.012539,
+                  36.661684
+                ],
+                [
+                  117.012539,
+                  36.661684
+                ],
+                [
+                  117.012674,
+                  36.66138
+                ],
+                [
+                  117.012734,
+                  36.661246
+                ],
+                [
+                  117.012821,
+                  36.660859
+                ],
+                [
+                  117.012808,
+                  36.660703
+                ],
+                [
+                  117.012808,
+                  36.660703
+                ],
+                [
+                  117.012856,
+                  36.660434
+                ],
+                [
+                  117.012856,
+                  36.660434
+                ],
+                [
+                  117.012886,
+                  36.660208
+                ],
+                [
+                  117.012886,
+                  36.660208
+                ],
+                [
+                  117.012899,
+                  36.660095
+                ],
+                [
+                  117.012899,
+                  36.660095
+                ],
+                [
+                  117.01296,
+                  36.659683
+                ],
+                [
+                  117.01296,
+                  36.659683
+                ],
+                [
+                  117.013016,
+                  36.659453
+                ],
+                [
+                  117.013016,
+                  36.659453
+                ],
+                [
+                  117.01306,
+                  36.659301
+                ]
+              ]
+            },
+            {
+              "road": "泺源大街辅路",
+              "instruction": "沿泺源大街辅路步行278米左转",
+              "time": 222,
+              "distance": 278,
+              "nodes": [
+                [
+                  117.01306,
+                  36.659297
+                ],
+                [
+                  117.013958,
+                  36.659453
+                ],
+                [
+                  117.015095,
+                  36.659588
+                ],
+                [
+                  117.015095,
+                  36.659588
+                ],
+                [
+                  117.015152,
+                  36.659601
+                ],
+                [
+                  117.015152,
+                  36.659601
+                ],
+                [
+                  117.015265,
+                  36.659609
+                ],
+                [
+                  117.015265,
+                  36.659609
+                ],
+                [
+                  117.015326,
+                  36.659614
+                ],
+                [
+                  117.015326,
+                  36.659614
+                ],
+                [
+                  117.016055,
+                  36.659701
+                ],
+                [
+                  117.016055,
+                  36.659701
+                ],
+                [
+                  117.01615,
+                  36.659714
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向北步行120米向左前方行走",
+              "time": 96,
+              "distance": 120,
+              "nodes": [
+                [
+                  117.01615,
+                  36.659714
+                ],
+                [
+                  117.01612,
+                  36.659909
+                ],
+                [
+                  117.01612,
+                  36.659909
+                ],
+                [
+                  117.01612,
+                  36.660078
+                ],
+                [
+                  117.01612,
+                  36.660078
+                ],
+                [
+                  117.01612,
+                  36.660304
+                ],
+                [
+                  117.01612,
+                  36.660304
+                ],
+                [
+                  117.016141,
+                  36.660725
+                ],
+                [
+                  117.016128,
+                  36.66076
+                ],
+                [
+                  117.016081,
+                  36.660768
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行47米左转",
+              "time": 38,
+              "distance": 47,
+              "nodes": [
+                [
+                  117.016076,
+                  36.660768
+                ],
+                [
+                  117.015894,
+                  36.660786
+                ],
+                [
+                  117.015894,
+                  36.660786
+                ],
+                [
+                  117.015677,
+                  36.660812
+                ],
+                [
+                  117.015608,
+                  36.660833
+                ],
+                [
+                  117.015577,
+                  36.660864
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行27米到达目的地",
+              "time": 22,
+              "distance": 27,
+              "nodes": [
+                [
+                  117.015573,
+                  36.660864
+                ],
+                [
+                  117.015495,
+                  36.660851
+                ],
+                [
+                  117.015495,
+                  36.660851
+                ],
+                [
+                  117.015265,
+                  36.66082
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 356,
+          "distance": 1482,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1652,
+          "distance": 1643,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 269,
+              "instruction": "步行268米到达筐市街",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 662,
+              "instruction": "乘坐85路(金阁花园--千佛山南路千佛山西路)途径1站到达趵突泉东门",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "85路(金阁花园--千佛山南路千佛山西路)"
+                }
+              ]
+            },
+            {
+              "time": 721,
+              "instruction": "步行616米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "趵突泉",
+      "to": "黑虎泉",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 1462,
+          "distance": 1828,
+          "steps": [
+            {
+              "road": "",
+              "instruction": "向东步行27米右转",
+              "time": 22,
+              "distance": 27,
+              "nodes": [
+                [
+                  117.01526,
+                  36.660816
+                ],
+                [
+                  117.01549,
+                  36.660846
+                ],
+                [
+                  117.01549,
+                  36.660846
+                ],
+                [
+                  117.015573,
+                  36.660864
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东步行47米向右前方行走",
+              "time": 38,
+              "distance": 47,
+              "nodes": [
+                [
+                  117.015573,
+                  36.660864
+                ],
+                [
+                  117.015603,
+                  36.660838
+                ],
+                [
+                  117.015673,
+                  36.660816
+                ],
+                [
+                  117.01589,
+                  36.66079
+                ],
+                [
+                  117.01589,
+                  36.66079
+                ],
+                [
+                  117.016076,
+                  36.660773
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向南步行120米左转",
+              "time": 96,
+              "distance": 120,
+              "nodes": [
+                [
+                  117.016076,
+                  36.660768
+                ],
+                [
+                  117.016124,
+                  36.660764
+                ],
+                [
+                  117.016141,
+                  36.660729
+                ],
+                [
+                  117.016124,
+                  36.660308
+                ],
+                [
+                  117.016124,
+                  36.660308
+                ],
+                [
+                  117.016124,
+                  36.660082
+                ],
+                [
+                  117.016124,
+                  36.660082
+                ],
+                [
+                  117.01612,
+                  36.659913
+                ],
+                [
+                  117.01612,
+                  36.659913
+                ],
+                [
+                  117.01615,
+                  36.659718
+                ]
+              ]
+            },
+            {
+              "road": "泺源大街辅路",
+              "instruction": "沿泺源大街辅路向东步行965米左转",
+              "time": 772,
+              "distance": 965,
+              "nodes": [
+                [
+                  117.01615,
+                  36.659714
+                ],
+                [
+                  117.016693,
+                  36.659774
+                ],
+                [
+                  117.016693,
+                  36.659774
+                ],
+                [
+                  117.017218,
+                  36.659852
+                ],
+                [
+                  117.017218,
+                  36.659852
+                ],
+                [
+                  117.017383,
+                  36.659874
+                ],
+                [
+                  117.017383,
+                  36.659874
+                ],
+                [
+                  117.017574,
+                  36.659896
+                ],
+                [
+                  117.017574,
+                  36.659896
+                ],
+                [
+                  117.018516,
+                  36.660017
+                ],
+                [
+                  117.018516,
+                  36.660017
+                ],
+                [
+                  117.018633,
+                  36.660035
+                ],
+                [
+                  117.018633,
+                  36.660035
+                ],
+                [
+                  117.018776,
+                  36.660048
+                ],
+                [
+                  117.018776,
+                  36.660048
+                ],
+                [
+                  117.019036,
+                  36.660082
+                ],
+                [
+                  117.019036,
+                  36.660082
+                ],
+                [
+                  117.019913,
+                  36.660195
+                ],
+                [
+                  117.019913,
+                  36.660195
+                ],
+                [
+                  117.020217,
+                  36.66023
+                ],
+                [
+                  117.020217,
+                  36.66023
+                ],
+                [
+                  117.020534,
+                  36.660269
+                ],
+                [
+                  117.020534,
+                  36.660269
+                ],
+                [
+                  117.020807,
+                  36.660304
+                ],
+                [
+                  117.020807,
+                  36.660304
+                ],
+                [
+                  117.02112,
+                  36.660339
+                ],
+                [
+                  117.02112,
+                  36.660339
+                ],
+                [
+                  117.021406,
+                  36.660378
+                ],
+                [
+                  117.021406,
+                  36.660378
+                ],
+                [
+                  117.021997,
+                  36.660451
+                ],
+                [
+                  117.021997,
+                  36.660451
+                ],
+                [
+                  117.022287,
+                  36.660486
+                ],
+                [
+                  117.022287,
+                  36.660486
+                ],
+                [
+                  117.022834,
+                  36.660547
+                ],
+                [
+                  117.022834,
+                  36.660547
+                ],
+                [
+                  117.02322,
+                  36.660595
+                ],
+                [
+                  117.02322,
+                  36.660595
+                ],
+                [
+                  117.023312,
+                  36.660608
+                ],
+                [
+                  117.023312,
+                  36.660608
+                ],
+                [
+                  117.023372,
+                  36.660612
+                ],
+                [
+                  117.023372,
+                  36.660612
+                ],
+                [
+                  117.023451,
+                  36.660625
+                ],
+                [
+                  117.023451,
+                  36.660625
+                ],
+                [
+                  117.023607,
+                  36.660638
+                ],
+                [
+                  117.023607,
+                  36.660638
+                ],
+                [
+                  117.023681,
+                  36.660651
+                ],
+                [
+                  117.023681,
+                  36.660651
+                ],
+                [
+                  117.023754,
+                  36.660655
+                ],
+                [
+                  117.023754,
+                  36.660655
+                ],
+                [
+                  117.024214,
+                  36.660703
+                ],
+                [
+                  117.024214,
+                  36.660703
+                ],
+                [
+                  117.024931,
+                  36.660773
+                ],
+                [
+                  117.024931,
+                  36.660773
+                ],
+                [
+                  117.025109,
+                  36.660786
+                ],
+                [
+                  117.025109,
+                  36.660786
+                ],
+                [
+                  117.025677,
+                  36.660751
+                ],
+                [
+                  117.025677,
+                  36.660751
+                ],
+                [
+                  117.026363,
+                  36.660677
+                ],
+                [
+                  117.026849,
+                  36.660621
+                ],
+                [
+                  117.026849,
+                  36.660621
+                ],
+                [
+                  117.026992,
+                  36.660599
+                ]
+              ]
+            },
+            {
+              "road": "南门大街",
+              "instruction": "沿南门大街向北步行247米右转",
+              "time": 198,
+              "distance": 247,
+              "nodes": [
+                [
+                  117.026992,
+                  36.660595
+                ],
+                [
+                  117.027014,
+                  36.660716
+                ],
+                [
+                  117.027014,
+                  36.660716
+                ],
+                [
+                  117.027088,
+                  36.661068
+                ],
+                [
+                  117.027088,
+                  36.661068
+                ],
+                [
+                  117.027148,
+                  36.661376
+                ],
+                [
+                  117.027148,
+                  36.661376
+                ],
+                [
+                  117.027218,
+                  36.661719
+                ],
+                [
+                  117.027218,
+                  36.661719
+                ],
+                [
+                  117.027235,
+                  36.661793
+                ],
+                [
+                  117.027235,
+                  36.661793
+                ],
+                [
+                  117.02727,
+                  36.661992
+                ],
+                [
+                  117.02727,
+                  36.661992
+                ],
+                [
+                  117.027283,
+                  36.66217
+                ],
+                [
+                  117.027283,
+                  36.66217
+                ],
+                [
+                  117.027283,
+                  36.662313
+                ],
+                [
+                  117.027318,
+                  36.662635
+                ],
+                [
+                  117.027348,
+                  36.662708
+                ],
+                [
+                  117.027439,
+                  36.662808
+                ]
+              ]
+            },
+            {
+              "road": "黑虎泉西路",
+              "instruction": "沿黑虎泉西路向东步行422米到达目的地",
+              "time": 338,
+              "distance": 422,
+              "nodes": [
+                [
+                  117.027439,
+                  36.662808
+                ],
+                [
+                  117.02829,
+                  36.662821
+                ],
+                [
+                  117.02829,
+                  36.662821
+                ],
+                [
+                  117.029089,
+                  36.662852
+                ],
+                [
+                  117.029089,
+                  36.662852
+                ],
+                [
+                  117.029145,
+                  36.662856
+                ],
+                [
+                  117.029145,
+                  36.662856
+                ],
+                [
+                  117.029462,
+                  36.662865
+                ],
+                [
+                  117.029462,
+                  36.662865
+                ],
+                [
+                  117.029579,
+                  36.662865
+                ],
+                [
+                  117.029579,
+                  36.662865
+                ],
+                [
+                  117.030317,
+                  36.662886
+                ],
+                [
+                  117.030317,
+                  36.662886
+                ],
+                [
+                  117.030773,
+                  36.662895
+                ],
+                [
+                  117.030773,
+                  36.662895
+                ],
+                [
+                  117.031237,
+                  36.662899
+                ],
+                [
+                  117.031237,
+                  36.662899
+                ],
+                [
+                  117.031806,
+                  36.662908
+                ],
+                [
+                  117.031806,
+                  36.662908
+                ],
+                [
+                  117.032044,
+                  36.662912
+                ],
+                [
+                  117.032044,
+                  36.662912
+                ],
+                [
+                  117.032218,
+                  36.662921
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 502,
+          "distance": 2093,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1642,
+          "distance": 1990,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 1012,
+              "instruction": "步行869米到达趵突泉东门",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 630,
+              "instruction": "乘坐59路(山东汽配城--浆水泉路荆山东路)途径1站到达黑虎泉",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "59路(山东汽配城--浆水泉路荆山东路)"
+                },
+                {
+                  "name": "5路(太平洋小区--解放桥)"
+                },
+                {
+                  "name": "K91路(匡山小区1--化纤厂路康虹北街)"
+                },
+                {
+                  "name": "1路(重汽彩世界--洪家楼1)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "黑虎泉",
+      "to": "曲水亭街",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 1185,
+          "distance": 1481,
+          "steps": [
+            {
+              "road": "黑虎泉西路",
+              "instruction": "沿黑虎泉西路向西步行492米右转",
+              "time": 394,
+              "distance": 492,
+              "nodes": [
+                [
+                  117.032218,
+                  36.662921
+                ],
+                [
+                  117.032049,
+                  36.662917
+                ],
+                [
+                  117.032049,
+                  36.662917
+                ],
+                [
+                  117.03181,
+                  36.662912
+                ],
+                [
+                  117.03181,
+                  36.662912
+                ],
+                [
+                  117.031241,
+                  36.662904
+                ],
+                [
+                  117.031241,
+                  36.662904
+                ],
+                [
+                  117.030777,
+                  36.662899
+                ],
+                [
+                  117.030777,
+                  36.662899
+                ],
+                [
+                  117.030321,
+                  36.662891
+                ],
+                [
+                  117.030321,
+                  36.662891
+                ],
+                [
+                  117.029583,
+                  36.662869
+                ],
+                [
+                  117.029583,
+                  36.662869
+                ],
+                [
+                  117.029466,
+                  36.662869
+                ],
+                [
+                  117.029466,
+                  36.662869
+                ],
+                [
+                  117.029149,
+                  36.66286
+                ],
+                [
+                  117.029149,
+                  36.66286
+                ],
+                [
+                  117.029093,
+                  36.662856
+                ],
+                [
+                  117.029093,
+                  36.662856
+                ],
+                [
+                  117.028294,
+                  36.662826
+                ],
+                [
+                  117.028294,
+                  36.662826
+                ],
+                [
+                  117.027444,
+                  36.662813
+                ],
+                [
+                  117.027444,
+                  36.662813
+                ],
+                [
+                  117.026658,
+                  36.662882
+                ]
+              ]
+            },
+            {
+              "road": "院前街",
+              "instruction": "沿院前街向北步行366米左转",
+              "time": 293,
+              "distance": 366,
+              "nodes": [
+                [
+                  117.026654,
+                  36.662882
+                ],
+                [
+                  117.026589,
+                  36.662999
+                ],
+                [
+                  117.026411,
+                  36.663355
+                ],
+                [
+                  117.026411,
+                  36.663355
+                ],
+                [
+                  117.026367,
+                  36.663451
+                ],
+                [
+                  117.026363,
+                  36.663464
+                ],
+                [
+                  117.026363,
+                  36.663464
+                ],
+                [
+                  117.026285,
+                  36.66372
+                ],
+                [
+                  117.026285,
+                  36.66372
+                ],
+                [
+                  117.026224,
+                  36.664236
+                ],
+                [
+                  117.026224,
+                  36.664236
+                ],
+                [
+                  117.026181,
+                  36.664653
+                ],
+                [
+                  117.026181,
+                  36.664653
+                ],
+                [
+                  117.026137,
+                  36.665109
+                ],
+                [
+                  117.026137,
+                  36.665109
+                ],
+                [
+                  117.026124,
+                  36.66523
+                ],
+                [
+                  117.026124,
+                  36.66523
+                ],
+                [
+                  117.026033,
+                  36.665877
+                ],
+                [
+                  117.026033,
+                  36.665877
+                ],
+                [
+                  117.026003,
+                  36.666059
+                ],
+                [
+                  117.025955,
+                  36.66615
+                ]
+              ]
+            },
+            {
+              "road": "西辕门街",
+              "instruction": "沿西辕门街向西步行120米右转",
+              "time": 96,
+              "distance": 120,
+              "nodes": [
+                [
+                  117.025951,
+                  36.66615
+                ],
+                [
+                  117.024622,
+                  36.666037
+                ]
+              ]
+            },
+            {
+              "road": "西更道街",
+              "instruction": "沿西更道街向北步行503米到达目的地",
+              "time": 402,
+              "distance": 503,
+              "nodes": [
+                [
+                  117.024618,
+                  36.666033
+                ],
+                [
+                  117.024592,
+                  36.666241
+                ],
+                [
+                  117.024592,
+                  36.666241
+                ],
+                [
+                  117.024531,
+                  36.666957
+                ],
+                [
+                  117.024531,
+                  36.666957
+                ],
+                [
+                  117.024488,
+                  36.667391
+                ],
+                [
+                  117.024488,
+                  36.667391
+                ],
+                [
+                  117.024384,
+                  36.668433
+                ],
+                [
+                  117.024384,
+                  36.668433
+                ],
+                [
+                  117.024349,
+                  36.668876
+                ],
+                [
+                  117.024349,
+                  36.668876
+                ],
+                [
+                  117.024297,
+                  36.669136
+                ],
+                [
+                  117.024297,
+                  36.669136
+                ],
+                [
+                  117.024288,
+                  36.669323
+                ],
+                [
+                  117.024288,
+                  36.669323
+                ],
+                [
+                  117.024345,
+                  36.669753
+                ],
+                [
+                  117.024345,
+                  36.669753
+                ],
+                [
+                  117.024384,
+                  36.669978
+                ],
+                [
+                  117.024414,
+                  36.670243
+                ],
+                [
+                  117.024388,
+                  36.670369
+                ],
+                [
+                  117.024388,
+                  36.670369
+                ],
+                [
+                  117.024379,
+                  36.67046
+                ],
+                [
+                  117.024332,
+                  36.670577
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 487,
+          "distance": 2031,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1511,
+          "distance": 5602,
+          "cost": 1,
+          "steps": [],
+          "segments": [
+            {
+              "time": 72,
+              "instruction": "步行60米到达黑虎泉",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 1013,
+              "instruction": "乘坐577路(市立一院--大明湖西南门)途径4站到达贡院墙根街大明湖路",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "577路(市立一院--大明湖西南门)"
+                }
+              ]
+            },
+            {
+              "time": 426,
+              "instruction": "步行382米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "曲水亭街",
+      "to": "大明湖",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 526,
+          "distance": 658,
+          "steps": [
+            {
+              "road": "曲水亭街",
+              "instruction": "沿曲水亭街向北步行195米左转",
+              "time": 156,
+              "distance": 195,
+              "nodes": [
+                [
+                  117.024327,
+                  36.670577
+                ],
+                [
+                  117.024306,
+                  36.670651
+                ],
+                [
+                  117.024297,
+                  36.670716
+                ],
+                [
+                  117.024297,
+                  36.670716
+                ],
+                [
+                  117.024162,
+                  36.670881
+                ],
+                [
+                  117.024145,
+                  36.670929
+                ],
+                [
+                  117.024145,
+                  36.670929
+                ],
+                [
+                  117.023993,
+                  36.671367
+                ],
+                [
+                  117.023906,
+                  36.671745
+                ],
+                [
+                  117.023906,
+                  36.671745
+                ],
+                [
+                  117.023885,
+                  36.671862
+                ],
+                [
+                  117.023885,
+                  36.671862
+                ],
+                [
+                  117.023863,
+                  36.67191
+                ],
+                [
+                  117.023863,
+                  36.67191
+                ],
+                [
+                  117.023811,
+                  36.672135
+                ],
+                [
+                  117.023806,
+                  36.672292
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行83米向右前方行走",
+              "time": 66,
+              "distance": 83,
+              "nodes": [
+                [
+                  117.023802,
+                  36.672292
+                ],
+                [
+                  117.023147,
+                  36.672313
+                ],
+                [
+                  117.022947,
+                  36.672339
+                ],
+                [
+                  117.022908,
+                  36.672361
+                ],
+                [
+                  117.022895,
+                  36.67237
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向北步行100米左转",
+              "time": 80,
+              "distance": 100,
+              "nodes": [
+                [
+                  117.022891,
+                  36.67237
+                ],
+                [
+                  117.022865,
+                  36.672391
+                ],
+                [
+                  117.02283,
+                  36.672461
+                ],
+                [
+                  117.022813,
+                  36.672535
+                ],
+                [
+                  117.022813,
+                  36.672535
+                ],
+                [
+                  117.022782,
+                  36.672982
+                ],
+                [
+                  117.022782,
+                  36.672982
+                ],
+                [
+                  117.022765,
+                  36.673273
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向西步行148米右转",
+              "time": 118,
+              "distance": 148,
+              "nodes": [
+                [
+                  117.02276,
+                  36.673273
+                ],
+                [
+                  117.022721,
+                  36.673294
+                ],
+                [
+                  117.022674,
+                  36.673299
+                ],
+                [
+                  117.02204,
+                  36.673277
+                ],
+                [
+                  117.02204,
+                  36.673277
+                ],
+                [
+                  117.021341,
+                  36.673268
+                ],
+                [
+                  117.021341,
+                  36.673268
+                ],
+                [
+                  117.021102,
+                  36.673268
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向北步行44米右转",
+              "time": 35,
+              "distance": 44,
+              "nodes": [
+                [
+                  117.021098,
+                  36.673268
+                ],
+                [
+                  117.021068,
+                  36.67355
+                ],
+                [
+                  117.021068,
+                  36.67355
+                ],
+                [
+                  117.021055,
+                  36.673672
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东步行88米到达目的地",
+              "time": 70,
+              "distance": 88,
+              "nodes": [
+                [
+                  117.02105,
+                  36.673672
+                ],
+                [
+                  117.022005,
+                  36.673872
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 184,
+          "distance": 767,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "info": "NO_DATA"
+        }
+      }
+    },
+    {
+      "from": "大明湖",
+      "to": "超然楼外观（不含登楼）",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 1255,
+          "distance": 1569,
+          "steps": [
+            {
+              "road": "",
+              "instruction": "向西步行88米左转",
+              "time": 70,
+              "distance": 88,
+              "nodes": [
+                [
+                  117.022005,
+                  36.673872
+                ],
+                [
+                  117.021055,
+                  36.673676
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向南步行44米左转",
+              "time": 35,
+              "distance": 44,
+              "nodes": [
+                [
+                  117.02105,
+                  36.673672
+                ],
+                [
+                  117.021063,
+                  36.673555
+                ],
+                [
+                  117.021063,
+                  36.673555
+                ],
+                [
+                  117.021098,
+                  36.673273
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东步行148米右转",
+              "time": 118,
+              "distance": 148,
+              "nodes": [
+                [
+                  117.021098,
+                  36.673268
+                ],
+                [
+                  117.021337,
+                  36.673268
+                ],
+                [
+                  117.021337,
+                  36.673268
+                ],
+                [
+                  117.022036,
+                  36.673273
+                ],
+                [
+                  117.022036,
+                  36.673273
+                ],
+                [
+                  117.022669,
+                  36.673299
+                ],
+                [
+                  117.022717,
+                  36.673299
+                ],
+                [
+                  117.02276,
+                  36.673277
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向南步行100米向左前方行走",
+              "time": 80,
+              "distance": 100,
+              "nodes": [
+                [
+                  117.02276,
+                  36.673273
+                ],
+                [
+                  117.022778,
+                  36.672986
+                ],
+                [
+                  117.022778,
+                  36.672986
+                ],
+                [
+                  117.022808,
+                  36.672535
+                ],
+                [
+                  117.022808,
+                  36.672535
+                ],
+                [
+                  117.022826,
+                  36.672465
+                ],
+                [
+                  117.02286,
+                  36.672396
+                ],
+                [
+                  117.022891,
+                  36.672374
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向东步行83米右转",
+              "time": 66,
+              "distance": 83,
+              "nodes": [
+                [
+                  117.022891,
+                  36.67237
+                ],
+                [
+                  117.022904,
+                  36.672365
+                ],
+                [
+                  117.022943,
+                  36.672344
+                ],
+                [
+                  117.023142,
+                  36.672318
+                ],
+                [
+                  117.023802,
+                  36.672296
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向南步行42米左转",
+              "time": 34,
+              "distance": 42,
+              "nodes": [
+                [
+                  117.023802,
+                  36.672292
+                ],
+                [
+                  117.023806,
+                  36.67214
+                ],
+                [
+                  117.023859,
+                  36.671914
+                ]
+              ]
+            },
+            {
+              "road": "大明湖路",
+              "instruction": "沿大明湖路向东步行839米左转",
+              "time": 671,
+              "distance": 839,
+              "nodes": [
+                [
+                  117.023859,
+                  36.67191
+                ],
+                [
+                  117.02447,
+                  36.671949
+                ],
+                [
+                  117.025482,
+                  36.672044
+                ],
+                [
+                  117.025482,
+                  36.672044
+                ],
+                [
+                  117.026363,
+                  36.672135
+                ],
+                [
+                  117.02645,
+                  36.672148
+                ],
+                [
+                  117.02645,
+                  36.672148
+                ],
+                [
+                  117.02658,
+                  36.672166
+                ],
+                [
+                  117.02658,
+                  36.672166
+                ],
+                [
+                  117.027105,
+                  36.672248
+                ],
+                [
+                  117.027105,
+                  36.672248
+                ],
+                [
+                  117.02747,
+                  36.672318
+                ],
+                [
+                  117.02747,
+                  36.672318
+                ],
+                [
+                  117.0277,
+                  36.672361
+                ],
+                [
+                  117.027947,
+                  36.672409
+                ],
+                [
+                  117.027947,
+                  36.672409
+                ],
+                [
+                  117.028151,
+                  36.672448
+                ],
+                [
+                  117.028151,
+                  36.672448
+                ],
+                [
+                  117.028954,
+                  36.672582
+                ],
+                [
+                  117.028954,
+                  36.672582
+                ],
+                [
+                  117.02928,
+                  36.672635
+                ],
+                [
+                  117.02928,
+                  36.672635
+                ],
+                [
+                  117.029423,
+                  36.672656
+                ],
+                [
+                  117.029423,
+                  36.672656
+                ],
+                [
+                  117.029653,
+                  36.6727
+                ],
+                [
+                  117.029653,
+                  36.6727
+                ],
+                [
+                  117.030352,
+                  36.672821
+                ],
+                [
+                  117.030352,
+                  36.672821
+                ],
+                [
+                  117.030425,
+                  36.672834
+                ],
+                [
+                  117.030425,
+                  36.672834
+                ],
+                [
+                  117.030469,
+                  36.672839
+                ],
+                [
+                  117.030469,
+                  36.672839
+                ],
+                [
+                  117.030907,
+                  36.672912
+                ],
+                [
+                  117.030907,
+                  36.672912
+                ],
+                [
+                  117.031311,
+                  36.672977
+                ],
+                [
+                  117.031311,
+                  36.672977
+                ],
+                [
+                  117.031814,
+                  36.673064
+                ],
+                [
+                  117.031814,
+                  36.673064
+                ],
+                [
+                  117.032509,
+                  36.673177
+                ],
+                [
+                  117.032509,
+                  36.673177
+                ],
+                [
+                  117.032895,
+                  36.673242
+                ],
+                [
+                  117.032895,
+                  36.673242
+                ],
+                [
+                  117.033173,
+                  36.673277
+                ]
+              ]
+            },
+            {
+              "road": "鹊华路",
+              "instruction": "沿鹊华路向北步行225米左转到达目的地",
+              "time": 180,
+              "distance": 225,
+              "nodes": [
+                [
+                  117.033173,
+                  36.673277
+                ],
+                [
+                  117.03316,
+                  36.673468
+                ],
+                [
+                  117.03316,
+                  36.673468
+                ],
+                [
+                  117.033103,
+                  36.673867
+                ],
+                [
+                  117.033103,
+                  36.673867
+                ],
+                [
+                  117.032977,
+                  36.674583
+                ],
+                [
+                  117.032977,
+                  36.674583
+                ],
+                [
+                  117.032882,
+                  36.675161
+                ],
+                [
+                  117.032882,
+                  36.675161
+                ],
+                [
+                  117.03286,
+                  36.675312
+                ],
+                [
+                  117.03286,
+                  36.675312
+                ],
+                [
+                  117.032856,
+                  36.675312
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 350,
+          "distance": 1460,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1576,
+          "distance": 1582,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 731,
+              "instruction": "步行628米到达大明湖",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 445,
+              "instruction": "乘坐11路(纬三路经二路--十里河西)途径0站到达市立一院",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "11路(纬三路经二路--十里河西)"
+                },
+                {
+                  "name": "B98路(烟台路淄博路--洪家楼)"
+                },
+                {
+                  "name": "95路(小清河北路无影山北路--华能路化纤厂路)"
+                },
+                {
+                  "name": "K109路(大明湖--济南西站公交枢纽)"
+                }
+              ]
+            },
+            {
+              "time": 400,
+              "instruction": "步行330米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "routeQueriedAt": "2026-10-13T05:59:33.951Z"
+}

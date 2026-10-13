@@ -1,0 +1,84 @@
+{
+  "city": "长沙",
+  "slug": "changsha",
+  "width": 1200,
+  "height": 675,
+  "anchors": [
+    {
+      "name": "坡子街",
+      "placeKey": "changsha_pozi_street",
+      "poiId": "B0FFGQ570S",
+      "x": 229,
+      "y": 492,
+      "landmark": "Pozi Street: traditional commercial food street with grey tile roofs"
+    },
+    {
+      "name": "苏家巷",
+      "placeKey": "changsha_sujia_lane",
+      "poiId": "B0IA3AQ99R",
+      "x": 751,
+      "y": 519,
+      "landmark": "Sujia Lane: narrow old-city alley with cafes and aged buildings"
+    },
+    {
+      "name": "东茅街",
+      "placeKey": "changsha_dongmao_street",
+      "poiId": "B0FFH6IK44",
+      "x": 1010,
+      "y": 497,
+      "landmark": "Dongmao Street: old red-brick tea/cafe complex and lanes"
+    },
+    {
+      "name": "黄兴路步行街",
+      "placeKey": "changsha_huangxing_road_pedestrian_street",
+      "poiId": "B0KUBZUUAY",
+      "x": 611,
+      "y": 560,
+      "landmark": "Huangxing pedestrian street: wide commercial pedestrian road"
+    },
+    {
+      "name": "轩辕殿巷",
+      "placeKey": "changsha_xuanyuandian_lane",
+      "poiId": "BZ9FP4003U",
+      "x": 458,
+      "y": 318,
+      "landmark": "Xuanyuandian Lane: fine-grained old residential alley"
+    },
+    {
+      "name": "西长街",
+      "placeKey": "changsha_xichang_street",
+      "poiId": "B0HGTS9KAG",
+      "x": 160,
+      "y": 262,
+      "landmark": "Xichang Street: older west-side commercial lane"
+    },
+    {
+      "name": "潮宗街",
+      "placeKey": "changsha_chaozong_street",
+      "poiId": "B0L07U2LED",
+      "x": 484,
+      "y": 120,
+      "landmark": "Chaozong Street: historic tree-shaded alley and mixed renovated buildings"
+    },
+    {
+      "name": "北正街",
+      "placeKey": "changsha_beizheng_street",
+      "poiId": "B0IATXA3S0",
+      "x": 528,
+      "y": 171,
+      "landmark": "Beizheng Street: old street heading toward civic area"
+    },
+    {
+      "name": "中山亭",
+      "placeKey": "changsha_zhongshan_pavilion",
+      "poiId": "B02DB045MO",
+      "x": 623,
+      "y": 195,
+      "landmark": "Zhongshan Pavilion: distinctive pale European-style clock tower at street junction, exterior only"
+    }
+  ],
+  "terrain": "river",
+  "context": "Central Changsha east of Xiang River (river along western side). Nine close old-city streets with varied width and old/new building fabric. No extra CMYK stop. Clearly show northern and southern sections without repeating identical blocks.",
+  "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 长沙, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Pozi Street: traditional commercial food street with grey tile roofs, at 19% from left and 73% from top; 2: Sujia Lane: narrow old-city alley with cafes and aged buildings, at 63% from left and 77% from top; 3: Dongmao Street: old red-brick tea/cafe complex and lanes, at 84% from left and 74% from top; 4: Huangxing pedestrian street: wide commercial pedestrian road, at 51% from left and 83% from top; 5: Xuanyuandian Lane: fine-grained old residential alley, at 38% from left and 47% from top; 6: Xichang Street: older west-side commercial lane, at 13% from left and 39% from top; 7: Chaozong Street: historic tree-shaded alley and mixed renovated buildings, at 40% from left and 18% from top; 8: Beizheng Street: old street heading toward civic area, at 44% from left and 25% from top; 9: Zhongshan Pavilion: distinctive pale European-style clock tower at street junction, exterior only, at 52% from left and 29% from top.\nGeographic context: Central Changsha east of Xiang River (river along western side). Nine close old-city streets with varied width and old/new building fabric. No extra CMYK stop. Clearly show northern and southern sections without repeating identical blocks.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.",
+  "geographicStatus": "AMap POI locations checked; draft artwork enlargement is a visual convention, not geographic coordinates"
+}

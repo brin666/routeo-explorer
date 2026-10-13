@@ -1,0 +1,54 @@
+{
+  "city": "昆明",
+  "slug": "kunming",
+  "width": 1200,
+  "height": 675,
+  "anchors": [
+    {
+      "name": "西寺塔",
+      "placeKey": "kunming.western_pagoda",
+      "poiId": "B0FFGA3Q0C",
+      "x": 160,
+      "y": 120,
+      "landmark": "Western Pagoda: slender multi-storey square ochre brick pagoda in small street plaza"
+    },
+    {
+      "name": "近日楼",
+      "placeKey": "kunming.jinri_building",
+      "poiId": null,
+      "x": 432,
+      "y": 217,
+      "landmark": "Jinri Building: small traditional gatehouse tower above an old street",
+      "geographicStatus": "pending",
+      "visualSeparation": "草图临时展示锚点，真实经纬度未确认；不用于计算距离或交通"
+    },
+    {
+      "name": "敬德巷",
+      "placeKey": "kunming.jingde_lane",
+      "poiId": "BZ8DMU019W",
+      "x": 704,
+      "y": 313,
+      "landmark": "Jingde Lane: narrow historic shop-lined alley"
+    },
+    {
+      "name": "巡津新村",
+      "placeKey": "kunming.xunjin_new_village",
+      "poiId": "B03670W7TM",
+      "x": 1010,
+      "y": 302,
+      "landmark": "Xunjin New Village: modest historic residential alley with textured low-rise roofs"
+    },
+    {
+      "name": "铁皮巷",
+      "placeKey": "kunming.tiepi_lane",
+      "poiId": "BZ8DMU01PK",
+      "x": 864,
+      "y": 560,
+      "landmark": "Tiepi Lane: narrow textured old-city alley with small craft/store fronts"
+    }
+  ],
+  "terrain": "city",
+  "context": "Compact central Kunming street photography route, old alleys surrounded by modern city blocks. Nearby eastern pagoda may be secondary context but not replace Western Pagoda. No lake or huge mountain panorama. Varied irregular buildings.",
+  "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 昆明, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Western Pagoda: slender multi-storey square ochre brick pagoda in small street plaza, at 13% from left and 18% from top; 2: Jinri Building: small traditional gatehouse tower above an old street, at 36% from left and 32% from top; 3: Jingde Lane: narrow historic shop-lined alley, at 59% from left and 46% from top; 4: Xunjin New Village: modest historic residential alley with textured low-rise roofs, at 84% from left and 45% from top; 5: Tiepi Lane: narrow textured old-city alley with small craft/store fronts, at 72% from left and 83% from top.\nGeographic context: Compact central Kunming street photography route, old alleys surrounded by modern city blocks. Nearby eastern pagoda may be secondary context but not replace Western Pagoda. No lake or huge mountain panorama. Varied irregular buildings.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.",
+  "geographicStatus": "AMap POI locations checked; draft artwork enlargement is a visual convention, not geographic coordinates"
+}

@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-13",
+  "artwork": "./assets/routes/nanjing-nj01-map-illustrated-v1.webp",
+  "canvas": {
+    "width": 1672,
+    "height": 941
+  },
+  "coordinateSystem": "illustration-pixels",
+  "sourceCoordinateSystem": "GCJ-02",
+  "status": "visual-road-calibration",
+  "markers": [
+    {
+      "name": "中华门城堡",
+      "poiId": "B00190AMPR",
+      "x": 465,
+      "y": 645,
+      "color": "#d6815b",
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "老门东",
+      "poiId": "B0FFFF28YI",
+      "x": 982,
+      "y": 557,
+      "color": "#67a78a",
+      "labelPlacement": "above-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "夫子庙 · 秦淮河",
+      "poiId": "B0FFLGYL8B",
+      "x": 1020,
+      "y": 290,
+      "color": "#d7a456",
+      "labelPlacement": "above-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    }
+  ],
+  "segments": [
+    {
+      "from": "中华门城堡",
+      "to": "老门东",
+      "path": "M 465 645 L 449 678 C 540 694 653 719 766 741 C 824 753 885 758 928 748 C 950 722 961 685 966 645 L 982 557"
+    },
+    {
+      "from": "老门东",
+      "to": "夫子庙 · 秦淮河",
+      "path": "M 982 557 C 987 516 994 468 1001 419 C 1008 371 1017 325 1020 290"
+    }
+  ],
+  "note": "图像模型会移动地标；这些锚点按生成底图重新落位，高德点与路径在独立文件保存。"
+}

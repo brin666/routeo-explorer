@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-13",
+  "city": "南京",
+  "slug": "nanjing",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "coordinateSystem": "illustration-pixels",
+  "status": "visual-road-calibration",
+  "artwork": "nanjing-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "灵谷景区",
+      "placeKey": "nanjing.linggu_scenic",
+      "x": 1486,
+      "y": 334,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "音乐台",
+      "placeKey": "nanjing.music_stage",
+      "x": 958,
+      "y": 351,
+      "labelPlacement": "above-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "中山陵",
+      "placeKey": "nanjing.sun_yatsen_mausoleum",
+      "x": 681,
+      "y": 438,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "美龄宫",
+      "placeKey": "nanjing.meiling_palace",
+      "x": 529,
+      "y": 843,
+      "labelPlacement": "above-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "明孝陵",
+      "placeKey": "nanjing.ming_xiaoling",
+      "x": 232,
+      "y": 655,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    }
+  ],
+  "route": "M 1486 334 C 1400 350 1320 328 1243 297 C 1204 284 1177 275 1162 276 C 1110 307 1034 350 958 351 M 958 351 C 927 351 903 347 897 344 C 885 369 856 400 832 412 C 789 442 728 448 681 438 M 681 438 L 683 483 L 745 494 L 797 537 C 829 571 848 619 849 690 C 842 731 810 752 795 759 L 693 818 L 592 860 L 529 860 L 529 843 M 529 843 L 529 860 L 478 866 L 415 852 L 353 811 L 310 774 L 269 731 L 267 704 L 248 682 L 232 655",
+  "segmentPaths": [
+    "M 1486 334 C 1400 350 1320 328 1243 297 C 1204 284 1177 275 1162 276 C 1110 307 1034 350 958 351",
+    "M 958 351 C 927 351 903 347 897 344 C 885 369 856 400 832 412 C 789 442 728 448 681 438",
+    "M 681 438 L 683 483 L 745 494 L 797 537 C 829 571 848 619 849 690 C 842 731 810 752 795 759 L 693 818 L 592 860 L 529 860 L 529 843",
+    "M 529 843 L 529 860 L 478 866 L 415 852 L 353 811 L 310 774 L 269 731 L 267 704 L 248 682 L 232 655"
+  ],
+  "layoutAnchors": {
+    "width": 1200,
+    "height": 675,
+    "anchors": [
+      {
+        "name": "灵谷景区",
+        "placeKey": "nanjing.linggu_scenic",
+        "poiId": "B0FFHDXY5Z",
+        "x": 1010,
+        "y": 120,
+        "landmark": "Linggu temple and tall ochre multi-storey Linggu pagoda in dense forest"
+      },
+      {
+        "name": "音乐台",
+        "placeKey": "nanjing.music_stage",
+        "poiId": "B001909G6V",
+        "x": 649,
+        "y": 168,
+        "landmark": "sunken semi-circular Music Stage amphitheater with pale stone seating and pigeons"
+      },
+      {
+        "name": "中山陵",
+        "placeKey": "nanjing.sun_yatsen_mausoleum",
+        "poiId": "B0FFHVEECG",
+        "x": 547,
+        "y": 167,
+        "landmark": "Sun Yat-sen Mausoleum with long straight pale stone stairs rising north to a blue-roof memorial hall",
+        "visualSeparation": "nearby features enlarged for readability, not a new geographic coordinate"
+      },
+      {
+        "name": "美龄宫",
+        "placeKey": "nanjing.meiling_palace",
+        "poiId": "B0FFF0AJVN",
+        "x": 360,
+        "y": 560,
+        "landmark": "Meiling Palace: small yellow-walled mansion with green-glazed roof inside a ring of trees"
+      },
+      {
+        "name": "明孝陵",
+        "placeKey": "nanjing.ming_xiaoling",
+        "poiId": "B0FFFFKG55",
+        "x": 160,
+        "y": 297,
+        "landmark": "Ming Xiaoling red gate, curved stone animal avenue and forest-covered mausoleum"
+      }
+    ]
+  },
+  "generation": {
+    "tool": "built-in image_gen",
+    "generatedOriginal": "C:\\Users\\BL\\.codex\\generated_images\\01a1334a-17ee-7c80-968b-0fecd9e8a713\\exec-bb5da7b7-6b79-4d4a-a3b0-d85047f1ba3e.png",
+    "references": [
+      "nanjing-b20-structure-v1.png",
+      "../guangzhou-map-illustrated-v2.png"
+    ],
+    "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 南京, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Linggu temple and tall ochre multi-storey Linggu pagoda in dense forest, at 84% from left and 18% from top; 2: sunken semi-circular Music Stage amphitheater with pale stone seating and pigeons, at 54% from left and 25% from top; 3: Sun Yat-sen Mausoleum with long straight pale stone stairs rising north to a blue-roof memorial hall, at 46% from left and 25% from top; 4: Meiling Palace: small yellow-walled mansion with green-glazed roof inside a ring of trees, at 30% from left and 83% from top; 5: Ming Xiaoling red gate, curved stone animal avenue and forest-covered mausoleum, at 13% from left and 44% from top.\nGeographic context: Zhongshan wooded hills, winding park roads between separate monuments, no city grid in forest. Main axis of Sun Yat-sen Mausoleum points north.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.\nOutput a richly rendered landscape bitmap in exact 16:9 aspect ratio. Reference 1 controls geography; reference 2 controls rendering richness only. Treat pale draft connector strokes only as approximate geographic relationships, replace them with a believable secondary road network, and remove all route-like highlighted lines. Do not introduce water into Nanjing's mountain-forest route or add an island and river strip copied from Guangzhou. Preserve north-up orientation and each landmark's actual relative side."
+  },
+  "notes": [
+    "地标位置按生成图重新落位；锚点为可见入口或入口相邻园路。",
+    "音乐台与中山陵在画面中放大分离；保留原始布局锚点供复核。"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": [
+    1672,
+    941
+  ],
+  "source": "built-in image_gen; visually reviewed native artwork",
+  "image": "./assets/routes/batch20/xiamen-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "第八市场（八市）",
+      "placeKey": "xiamen:bashi_market",
+      "x": 320,
+      "y": 216
+    },
+    {
+      "name": "中山路步行街",
+      "placeKey": "xiamen:zhongshan_road",
+      "x": 529,
+      "y": 343
+    },
+    {
+      "name": "南普陀寺",
+      "placeKey": "xiamen:nanputuo_temple",
+      "x": 1317,
+      "y": 489
+    },
+    {
+      "name": "顶澳仔猫街",
+      "placeKey": "xiamen:dingaozai_cat_street",
+      "x": 1109,
+      "y": 591
+    },
+    {
+      "name": "沙坡尾",
+      "placeKey": "xiamen:shapowei",
+      "x": 791,
+      "y": 562
+    },
+    {
+      "name": "演武大桥观景平台",
+      "placeKey": "xiamen:yanwu_observation_platform",
+      "x": 1094,
+      "y": 753
+    }
+  ],
+  "route": "M 320 216 L 343 250 L 382 280 L 426 305 L 467 326 L 529 343 L 599 372 L 666 389 L 722 400 L 775 401 L 808 349 L 850 294 L 878 255 L 936 250 L 989 243 L 1053 240 L 1116 224 L 1161 209 L 1194 202 L 1194 223 L 1158 265 L 1137 322 L 1129 385 L 1154 432 L 1219 464 L 1279 485 L 1317 489 L 1271 481 L 1223 492 L 1180 512 L 1158 520 L 1124 546 L 1109 591 L 1127 630 L 1156 676 L 1162 715 L 1131 721 L 1101 728 L 1060 733 L 1007 746 L 942 726 L 864 701 L 800 683 L 741 666 L 698 654 L 669 640 L 645 613 L 665 577 L 704 556 L 733 553 L 762 553 L 791 562 L 762 553 L 733 553 L 704 556 L 665 577 L 645 613 L 669 640 L 698 654 L 741 666 L 800 683 L 864 701 L 942 726 L 1007 746 L 1060 733 L 1099 740 L 1094 753",
+  "segmentPaths": [
+    "M 320 216 L 343 250 L 382 280 L 426 305 L 467 326 L 529 343",
+    "M 529 343 L 599 372 L 666 389 L 722 400 L 775 401 L 808 349 L 850 294 L 878 255 L 936 250 L 989 243 L 1053 240 L 1116 224 L 1161 209 L 1194 202 L 1194 223 L 1158 265 L 1137 322 L 1129 385 L 1154 432 L 1219 464 L 1279 485 L 1317 489",
+    "M 1317 489 L 1271 481 L 1223 492 L 1180 512 L 1158 520 L 1124 546 L 1109 591",
+    "M 1109 591 L 1127 630 L 1156 676 L 1162 715 L 1131 721 L 1101 728 L 1060 733 L 1007 746 L 942 726 L 864 701 L 800 683 L 741 666 L 698 654 L 669 640 L 645 613 L 665 577 L 704 556 L 733 553 L 762 553 L 791 562",
+    "M 791 562 L 762 553 L 733 553 L 704 556 L 665 577 L 645 613 L 669 640 L 698 654 L 741 666 L 800 683 L 864 701 L 942 726 L 1007 746 L 1060 733 L 1099 740 L 1094 753"
+  ],
+  "layoutAnchors": [
+    {
+      "name": "第八市场（八市）",
+      "placeKey": "xiamen:bashi_market",
+      "poiId": "B0JG9C6ZWG",
+      "x": 160,
+      "y": 120,
+      "landmark": "Bashi eighth market: compact bustling old market lanes with awnings in old quarter"
+    },
+    {
+      "name": "中山路步行街",
+      "placeKey": "xiamen:zhongshan_road",
+      "poiId": "B025003IUP",
+      "x": 323,
+      "y": 164,
+      "landmark": "Zhongshan Road: wide Nanyang-style arcaded shophouses in pedestrian street"
+    },
+    {
+      "name": "南普陀寺",
+      "placeKey": "xiamen:nanputuo_temple",
+      "poiId": "B025003QZU",
+      "x": 1010,
+      "y": 393,
+      "landmark": "Nanputuo Temple: large traditional roof Buddhist temple at foot of green wooded hill"
+    },
+    {
+      "name": "顶澳仔猫街",
+      "placeKey": "xiamen:dingaozai_cat_street",
+      "poiId": "B0FFHF0QFQ",
+      "x": 799,
+      "y": 437,
+      "landmark": "Dingaozai Cat Street: small urban street with cat wall art motifs, not giant cats"
+    },
+    {
+      "name": "沙坡尾",
+      "placeKey": "xiamen:shapowei",
+      "poiId": "B0FFGQNO60",
+      "x": 653,
+      "y": 476,
+      "landmark": "Shapowei: compact historic fishing harbor with colored small houses and modern shops"
+    },
+    {
+      "name": "演武大桥观景平台",
+      "placeKey": "xiamen:yanwu_observation_platform",
+      "poiId": "B0FFH1VLKT",
+      "x": 746,
+      "y": 560,
+      "landmark": "Yanwu Bridge observation platform: low modern coastal walkway by sea near twin glass Sail towers"
+    }
+  ],
+  "calibrationStatus": "manually-reviewed-illustration-roads",
+  "notes": [
+    "以市场出口、骑楼前广场、寺院阶梯下方、猫街交叉口、港湾街口及平台步道校准，路径沿成品街道和岸边步道。",
+    "中山路至南普陀为插画路网连接，不代表已核全步行行程；平台只通过图中实体步道连接。"
+  ]
+}

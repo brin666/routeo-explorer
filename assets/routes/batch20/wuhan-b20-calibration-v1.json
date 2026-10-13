@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-13",
+  "city": "武汉",
+  "slug": "wuhan",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "coordinateSystem": "illustration-pixels",
+  "status": "visual-road-calibration",
+  "artwork": "wuhan-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "江汉路步行街",
+      "placeKey": "wuhan_jianghan_road_pedestrian_street",
+      "x": 279,
+      "y": 725,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "巴公房子",
+      "placeKey": "wuhan_bagong_house",
+      "x": 848,
+      "y": 695,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "汉口江滩",
+      "placeKey": "wuhan_hankou_riverfront",
+      "x": 1365,
+      "y": 652,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    }
+  ],
+  "route": "M 279 725 L 309 790 L 345 847 L 395 822 L 473 788 L 551 755 L 641 722 L 746 707 L 848 695 M 848 695 L 848 720 L 904 775 L 947 821 L 995 885 L 1066 866 L 1185 824 L 1286 778 L 1366 734 L 1417 700 L 1390 672 L 1365 652",
+  "segmentPaths": [
+    "M 279 725 L 309 790 L 345 847 L 395 822 L 473 788 L 551 755 L 641 722 L 746 707 L 848 695",
+    "M 848 695 L 848 720 L 904 775 L 947 821 L 995 885 L 1066 866 L 1185 824 L 1286 778 L 1366 734 L 1417 700 L 1390 672 L 1365 652"
+  ],
+  "layoutAnchors": {
+    "width": 1200,
+    "height": 675,
+    "anchors": [
+      {
+        "name": "江汉路步行街",
+        "placeKey": "wuhan_jianghan_road_pedestrian_street",
+        "poiId": "BZA7PF01X8",
+        "x": 160,
+        "y": 560,
+        "landmark": "Jianghan Road: broad pedestrian shopping street and historic stone bank buildings, old clock-tower area as supporting context"
+      },
+      {
+        "name": "巴公房子",
+        "placeKey": "wuhan_bagong_house",
+        "poiId": "B0FFK4IHIB",
+        "x": 434,
+        "y": 491,
+        "landmark": "Bagong House: distinctive curved corner red-brick historic apartment building"
+      },
+      {
+        "name": "汉口江滩",
+        "placeKey": "wuhan_hankou_riverfront",
+        "poiId": "B0FFGCIG85",
+        "x": 1010,
+        "y": 120,
+        "landmark": "Hankou Riverfront: broad riverside park, tree-lined walking paths and embankment beside Yangtze River"
+      }
+    ]
+  },
+  "generation": {
+    "tool": "built-in image_gen",
+    "generatedOriginal": "C:\\Users\\BL\\.codex\\generated_images\\01a1334a-17ee-7c80-968b-0fecd9e8a713\\exec-6f267134-0587-4bfe-8f8a-4a53bf34c497.png",
+    "references": [
+      "wuhan-b20-structure-v1.png",
+      "../guangzhou-map-illustrated-v2.png"
+    ],
+    "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 武汉, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Jianghan Road: broad pedestrian shopping street and historic stone bank buildings, old clock-tower area as supporting context, at 13% from left and 83% from top; 2: Bagong House: distinctive curved corner red-brick historic apartment building, at 36% from left and 73% from top; 3: Hankou Riverfront: broad riverside park, tree-lined walking paths and embankment beside Yangtze River, at 84% from left and 18% from top.\nGeographic context: Yangtze River east/north-east of Hankou anchors; expansive river and landscaped riverfront with urban grid changing to fine-grained old streets to west.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.\nOutput a finely detailed landscape raster image in 16:9 aspect ratio. Reference 1 controls geography; reference 2 controls rendering only. Draft connector strokes are approximate relationships, replace them with a believable thin secondary street network. All landmark entrances must have visible road or path access. Strictly no highlighted itinerary line, text or numbered points."
+  },
+  "notes": [
+    "江汉路锚点在银行建筑之间的步行街；巴公房子锚点在红砖弧角建筑前。",
+    "汉口江滩是一条连续滨江绿带，锚点采用图中公园南段入口；路径沿陆地街道和江岸步道，不跨江或使用桥面。"
+  ]
+}

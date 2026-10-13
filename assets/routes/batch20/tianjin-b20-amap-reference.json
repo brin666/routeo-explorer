@@ -1,0 +1,4176 @@
+{
+  "city": "天津",
+  "slug": "tianjin",
+  "queriedAt": "2026-10-13T05:43:08.492Z",
+  "source": "AMap JS API 2.0 PlaceSearch",
+  "coordinateSystem": "GCJ-02",
+  "points": [
+    {
+      "name": "西北角",
+      "placeKey": "天津::西北角",
+      "experienceKey": "天津::西北角::早餐街区逛吃",
+      "searchKeyword": "西北角",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFFVKTQO",
+      "address": "西马路与西关北街交叉口西北60米",
+      "type": "购物服务;特色商业街;特色商业街",
+      "coordinate": [
+        117.171547,
+        39.143883
+      ],
+      "entrance": [
+        117.17154,
+        39.144016
+      ],
+      "url": "https://ditu.amap.com/place/B0FFFVKTQO",
+      "candidates": [
+        {
+          "name": "西北角",
+          "poiId": "B0FFFVKTQO",
+          "address": "西马路与西关北街交叉口西北60米",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            117.171547,
+            39.143883
+          ],
+          "entrance": [
+            117.17154,
+            39.144016
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFVKTQO"
+        },
+        {
+          "name": "西北角(新春花苑店)",
+          "poiId": "B0LRAC05EP",
+          "address": "鼓楼西街659号",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            117.171385,
+            39.144536
+          ],
+          "entrance": [
+            117.171549,
+            39.144584
+          ],
+          "url": "https://ditu.amap.com/place/B0LRAC05EP"
+        },
+        {
+          "name": "西北角(地铁站)",
+          "poiId": "BV10040302",
+          "address": "1号线",
+          "type": "交通设施服务;地铁站;地铁站",
+          "coordinate": [
+            117.171661,
+            39.146568
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV10040302"
+        },
+        {
+          "name": "西北角老传统烧鸡(暂停营业)",
+          "poiId": "B00161CG02",
+          "address": "西马路与西关北街交叉口西北60米",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            117.17153,
+            39.143885
+          ],
+          "entrance": [
+            117.171734,
+            39.143879
+          ],
+          "url": "https://ditu.amap.com/place/B00161CG02"
+        },
+        {
+          "name": "西北角早市",
+          "poiId": "B0LRRAJOPG",
+          "address": "西马路10号民族楼(西北角地铁站C口步行190米)",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            117.171545,
+            39.144253
+          ],
+          "entrance": [
+            117.171631,
+            39.144303
+          ],
+          "url": "https://ditu.amap.com/place/B0LRRAJOPG"
+        },
+        {
+          "name": "西北角早点(金门里店)",
+          "poiId": "B0HAOOMQ36",
+          "address": "金门里东南2门旁",
+          "type": "餐饮服务;餐饮相关场所;餐饮相关",
+          "coordinate": [
+            117.145278,
+            39.210196
+          ],
+          "entrance": [
+            117.145116,
+            39.210133
+          ],
+          "url": "https://ditu.amap.com/place/B0HAOOMQ36"
+        }
+      ],
+      "poiName": "西北角",
+      "routeCoordinate": [
+        117.17154,
+        39.144016
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "民园广场",
+      "placeKey": "天津::民园广场",
+      "experienceKey": "天津::民园广场::回廊与草坪游逛",
+      "searchKeyword": "民园广场",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFF3IW8X",
+      "address": "重庆道83号",
+      "type": "风景名胜;公园广场;城市广场",
+      "coordinate": [
+        117.204957,
+        39.112223
+      ],
+      "entrance": [
+        117.204772,
+        39.1113
+      ],
+      "url": "https://ditu.amap.com/place/B0FFF3IW8X",
+      "candidates": [
+        {
+          "name": "民园广场",
+          "poiId": "B0FFF3IW8X",
+          "address": "重庆道83号",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.204957,
+            39.112223
+          ],
+          "entrance": [
+            117.204772,
+            39.1113
+          ],
+          "url": "https://ditu.amap.com/place/B0FFF3IW8X"
+        },
+        {
+          "name": "民园广场(公交站)",
+          "poiId": "BV11080596",
+          "address": "观光5路;观光7路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            117.204338,
+            39.112986
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV11080596"
+        },
+        {
+          "name": "民园广场南楼",
+          "poiId": "B0L1L5E9ZN",
+          "address": "大理道与衡阳路交叉口东80米",
+          "type": "商务住宅;楼宇;商务写字楼",
+          "coordinate": [
+            117.205075,
+            39.111475
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0L1L5E9ZN"
+        },
+        {
+          "name": "民园广场北楼东区",
+          "poiId": "B0MROOJ7S6",
+          "address": "重庆道与湖南路交叉口东40米",
+          "type": "商务住宅;住宅区;住宅小区",
+          "coordinate": [
+            117.205275,
+            39.112875
+          ],
+          "entrance": [
+            117.205256,
+            39.113045
+          ],
+          "url": "https://ditu.amap.com/place/B0MROOJ7S6"
+        },
+        {
+          "name": "民园广场地下停车场",
+          "poiId": "B0FFFA8HRT",
+          "address": "重庆道83号民园广场内(南侧)",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            117.204764,
+            39.111396
+          ],
+          "entrance": [
+            117.204717,
+            39.111385
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFA8HRT"
+        },
+        {
+          "name": "民园广场地下停车场(入口)",
+          "poiId": "B0FFGIFY3T",
+          "address": "民园广场地下停车场",
+          "type": "交通设施服务;停车场;停车场入口",
+          "coordinate": [
+            117.204715,
+            39.111385
+          ],
+          "entrance": [
+            117.204717,
+            39.111385
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGIFY3T"
+        }
+      ],
+      "poiName": "民园广场",
+      "routeCoordinate": [
+        117.204772,
+        39.1113
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "解放桥",
+      "placeKey": "天津::解放桥",
+      "experienceKey": "天津::解放桥::桥与海河景观",
+      "searchKeyword": "解放桥",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B0FFFG05MS",
+      "address": "河北区",
+      "type": "地名地址信息;交通地名;桥",
+      "coordinate": [
+        117.206213,
+        39.132849
+      ],
+      "entrance": null,
+      "url": "https://ditu.amap.com/place/B0FFFG05MS",
+      "candidates": [
+        {
+          "name": "解放桥",
+          "poiId": "B0FFFG05MS",
+          "address": "河北区",
+          "type": "地名地址信息;交通地名;桥",
+          "coordinate": [
+            117.206213,
+            39.132849
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFFG05MS"
+        },
+        {
+          "name": "解放桥",
+          "poiId": "B0FFI8KFI4",
+          "address": "小白楼街道解放北路与张自忠路交口",
+          "type": "风景名胜;风景名胜;红色景区",
+          "coordinate": [
+            117.206622,
+            39.132368
+          ],
+          "entrance": [
+            117.205773,
+            39.133278
+          ],
+          "url": "https://ditu.amap.com/place/B0FFI8KFI4"
+        },
+        {
+          "name": "解放桥",
+          "poiId": "B0IA3ZP1SW",
+          "address": "河北区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            117.206094,
+            39.133029
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IA3ZP1SW"
+        },
+        {
+          "name": "解放南路桥",
+          "poiId": "B0IA3APOJ6",
+          "address": "河西区",
+          "type": "地名地址信息;交通地名;道路名",
+          "coordinate": [
+            117.230442,
+            39.095738
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IA3APOJ6"
+        },
+        {
+          "name": "解放南路桥",
+          "poiId": "B0FFFAAJVP",
+          "address": "河西区",
+          "type": "地名地址信息;交通地名;立交桥",
+          "coordinate": [
+            117.230502,
+            39.09575
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFFAAJVP"
+        },
+        {
+          "name": "解放南路立交桥",
+          "poiId": "BZD2Q204KA",
+          "address": "河西区",
+          "type": "地名地址信息;交通地名;桥",
+          "coordinate": [
+            117.231571,
+            39.094438
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BZD2Q204KA"
+        }
+      ],
+      "poiName": "解放桥",
+      "routeCoordinate": [
+        117.206213,
+        39.132849
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "意式风情街",
+      "placeKey": "天津::意式风情街",
+      "experienceKey": "天津::意式风情街::历史街区漫游",
+      "searchKeyword": "意大利风情区",
+      "status": "candidate-selected",
+      "selectionMethod": "manually-reviewed-exact-POI-id-name-type-and-address",
+      "poiId": "B00160F6ZS",
+      "address": "胜利路与自由道交汇处",
+      "type": "风景名胜;风景名胜;国家级景点",
+      "coordinate": [
+        117.197435,
+        39.134543
+      ],
+      "entrance": [
+        117.197451,
+        39.133511
+      ],
+      "url": "https://ditu.amap.com/place/B00160F6ZS",
+      "candidates": [
+        {
+          "name": "天津·海河意式风情区",
+          "poiId": "B00160E5VG",
+          "address": "进步道34号",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            117.20028,
+            39.136238
+          ],
+          "entrance": [
+            117.19718,
+            39.135801
+          ],
+          "url": "https://ditu.amap.com/place/B00160E5VG"
+        },
+        {
+          "name": "天津意大利风情旅游区",
+          "poiId": "B00160F6ZS",
+          "address": "胜利路与自由道交汇处",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "coordinate": [
+            117.197435,
+            39.134543
+          ],
+          "entrance": [
+            117.197451,
+            39.133511
+          ],
+          "url": "https://ditu.amap.com/place/B00160F6ZS"
+        },
+        {
+          "name": "意式风情区-威尼斯广场",
+          "poiId": "B0IA3PH2XL",
+          "address": "意大利风情旅游区",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.197825,
+            39.135175
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IA3PH2XL"
+        },
+        {
+          "name": "意式风情区站(公交站)",
+          "poiId": "BV11275350",
+          "address": "156路;176路;24路专线;27路;324路;5路;634路;635路;638路;639路东线定点;639路西线;645路;645路区间;663路快线;802路;806路;827路;832路;8路;905路;观光3路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            117.198633,
+            39.136372
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV11275350"
+        },
+        {
+          "name": "天津海河意式风情区管委会",
+          "poiId": "B00160F2E5",
+          "address": "胜利路389号(建国道意风区地铁站B口步行320米)",
+          "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+          "coordinate": [
+            117.198851,
+            39.13796
+          ],
+          "entrance": [
+            117.198715,
+            39.137999
+          ],
+          "url": "https://ditu.amap.com/place/B00160F2E5"
+        },
+        {
+          "name": "钟书阁(天津意式风情区店)",
+          "poiId": "B0K22HEDTE",
+          "address": "民族路39号天津意式风情区(建国道地铁站B口步行400米)",
+          "type": "购物服务;专卖店;书店",
+          "coordinate": [
+            117.199226,
+            39.135094
+          ],
+          "entrance": [
+            117.199275,
+            39.135252
+          ],
+          "url": "https://ditu.amap.com/place/B0K22HEDTE"
+        },
+        {
+          "name": "解放北路风情区",
+          "poiId": "B0016167KP",
+          "address": "保定道与解放北路交叉口北40米",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.213964,
+            39.123533
+          ],
+          "entrance": [
+            117.213863,
+            39.123213
+          ],
+          "url": "https://ditu.amap.com/place/B0016167KP"
+        },
+        {
+          "name": "自由道(意大利风情旅游区店)",
+          "poiId": "B0FFGMC28K",
+          "address": "进步道34号天津·海河意式风情区",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            117.199436,
+            39.13435
+          ],
+          "entrance": [
+            117.196678,
+            39.135098
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGMC28K"
+        },
+        {
+          "name": "菲佛小镇(天津·海河意式风情区店)",
+          "poiId": "B0FFFQLTZ6",
+          "address": "进步道34号天津·海河意式风情区",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            117.199012,
+            39.134809
+          ],
+          "entrance": [
+            117.198939,
+            39.134757
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFQLTZ6"
+        },
+        {
+          "name": "新天堂意式餐厅(天津·海河意式风情区店)",
+          "poiId": "B0FFFYEZFB",
+          "address": "意式风情区光复道35号天堂电影院",
+          "type": "餐饮服务;外国餐厅;意式菜品餐厅",
+          "coordinate": [
+            117.197957,
+            39.135162
+          ],
+          "entrance": [
+            117.19786,
+            39.135191
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFYEZFB"
+        },
+        {
+          "name": "喆啡酒店意式风情区天津之眼店大堂",
+          "poiId": "B0IRJCLFCT",
+          "address": "喆啡酒店(天津意式风情区天津之眼店)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            117.195915,
+            39.141635
+          ],
+          "entrance": [
+            117.195836,
+            39.141669
+          ],
+          "url": "https://ditu.amap.com/place/B0IRJCLFCT"
+        },
+        {
+          "name": "意式风情街二店",
+          "poiId": "B0L0SCJZ0X",
+          "address": "海河东路76号君临大厦F10层",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            117.19725,
+            39.132988
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0L0SCJZ0X"
+        },
+        {
+          "name": "意大利风情旅游区地面停车场",
+          "poiId": "B0FFG7TXP8",
+          "address": "博爱道与民族路交叉口西北80米",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            117.197581,
+            39.133844
+          ],
+          "entrance": [
+            117.197449,
+            39.13351
+          ],
+          "url": "https://ditu.amap.com/place/B0FFG7TXP8"
+        },
+        {
+          "name": "天津站意大利风情区桔子水晶酒店",
+          "poiId": "B0K36DA671",
+          "address": "新开路98号(远洋国际中心地铁站B口步行240米)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            117.222362,
+            39.134334
+          ],
+          "entrance": [
+            117.22247,
+            39.13418
+          ],
+          "url": "https://ditu.amap.com/place/B0K36DA671"
+        },
+        {
+          "name": "天津意式风情民宿(意大利风情旅游区店)",
+          "poiId": "B0LARU6LL3",
+          "address": "新兆路与华捷道交叉口东南100米",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            117.216175,
+            39.136125
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0LARU6LL3"
+        },
+        {
+          "name": "天津意式风情街民宿(意大利风情旅游区店)",
+          "poiId": "B0LARCBEN0",
+          "address": "寿安街与建国道交叉口西南40米",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            117.198727,
+            39.139724
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0LARCBEN0"
+        },
+        {
+          "name": "原意租界花园",
+          "poiId": "B0FFGI6FV9",
+          "address": "意大利风情旅游区",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.198921,
+            39.134242
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGI6FV9"
+        },
+        {
+          "name": "汤玉麟旧宅(不对外开放)",
+          "poiId": "B00160F12P",
+          "address": "意大利风情旅游区(建国道意风区地铁站B口步行240米)",
+          "type": "风景名胜;风景名胜;纪念馆",
+          "coordinate": [
+            117.199446,
+            39.138239
+          ],
+          "entrance": [
+            117.199476,
+            39.137882
+          ],
+          "url": "https://ditu.amap.com/place/B00160F12P"
+        },
+        {
+          "name": "马可波罗广场",
+          "poiId": "B00160E50Q",
+          "address": "天津市光复道街道光复道街道民族路与自由道交口意大利风情区",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.198669,
+            39.134498
+          ],
+          "entrance": [
+            117.197334,
+            39.133495
+          ],
+          "url": "https://ditu.amap.com/place/B00160E50Q"
+        },
+        {
+          "name": "原意大利兵营",
+          "poiId": "B0G07R5DWG",
+          "address": "光明道20号(近意大利风情区、地铁2号线建国道站B口)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            117.201253,
+            39.137817
+          ],
+          "entrance": [
+            117.200835,
+            39.137833
+          ],
+          "url": "https://ditu.amap.com/place/B0G07R5DWG"
+        }
+      ],
+      "poiName": "天津意大利风情旅游区",
+      "selectionNote": "意式风情区及意大利风情区两次结果均含胜利路与自由道交汇处的目标景区；选择景区本体，拒绝五大道及单独商户。",
+      "reviewedAt": "2026-10-13T05:59:49.780Z",
+      "candidateQueries": [
+        {
+          "keyword": "意式风情区",
+          "status": "complete",
+          "info": "OK",
+          "candidateCount": 12
+        },
+        {
+          "keyword": "意大利风情区",
+          "status": "complete",
+          "info": "OK",
+          "candidateCount": 12
+        }
+      ],
+      "previousSelection": {
+        "name": "天津五大道文化旅游区",
+        "poiId": "B00160E5VJ",
+        "coordinate": [
+          117.203601,
+          39.110567
+        ],
+        "address": "重庆道83号",
+        "type": "风景名胜;风景名胜;国家级景点"
+      },
+      "rejectedCandidates": [
+        {
+          "name": "天津·海河意式风情区",
+          "poiId": "B00160E5VG",
+          "address": "进步道34号",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            117.20028,
+            39.136238
+          ],
+          "entrance": [
+            117.19718,
+            39.135801
+          ],
+          "url": "https://ditu.amap.com/place/B00160E5VG",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "意式风情区-威尼斯广场",
+          "poiId": "B0IA3PH2XL",
+          "address": "意大利风情旅游区",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.197825,
+            39.135175
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0IA3PH2XL",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "意式风情区站(公交站)",
+          "poiId": "BV11275350",
+          "address": "156路;176路;24路专线;27路;324路;5路;634路;635路;638路;639路东线定点;639路西线;645路;645路区间;663路快线;802路;806路;827路;832路;8路;905路;观光3路",
+          "type": "交通设施服务;公交车站;公交车站相关",
+          "coordinate": [
+            117.198633,
+            39.136372
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/BV11275350",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "天津海河意式风情区管委会",
+          "poiId": "B00160F2E5",
+          "address": "胜利路389号(建国道意风区地铁站B口步行320米)",
+          "type": "政府机构及社会团体;政府机关;乡镇以下级政府及事业单位",
+          "coordinate": [
+            117.198851,
+            39.13796
+          ],
+          "entrance": [
+            117.198715,
+            39.137999
+          ],
+          "url": "https://ditu.amap.com/place/B00160F2E5",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "钟书阁(天津意式风情区店)",
+          "poiId": "B0K22HEDTE",
+          "address": "民族路39号天津意式风情区(建国道地铁站B口步行400米)",
+          "type": "购物服务;专卖店;书店",
+          "coordinate": [
+            117.199226,
+            39.135094
+          ],
+          "entrance": [
+            117.199275,
+            39.135252
+          ],
+          "url": "https://ditu.amap.com/place/B0K22HEDTE",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "解放北路风情区",
+          "poiId": "B0016167KP",
+          "address": "保定道与解放北路交叉口北40米",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.213964,
+            39.123533
+          ],
+          "entrance": [
+            117.213863,
+            39.123213
+          ],
+          "url": "https://ditu.amap.com/place/B0016167KP",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "自由道(意大利风情旅游区店)",
+          "poiId": "B0FFGMC28K",
+          "address": "进步道34号天津·海河意式风情区",
+          "type": "购物服务;特色商业街;特色商业街",
+          "coordinate": [
+            117.199436,
+            39.13435
+          ],
+          "entrance": [
+            117.196678,
+            39.135098
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGMC28K",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "菲佛小镇(天津·海河意式风情区店)",
+          "poiId": "B0FFFQLTZ6",
+          "address": "进步道34号天津·海河意式风情区",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            117.199012,
+            39.134809
+          ],
+          "entrance": [
+            117.198939,
+            39.134757
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFQLTZ6",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "新天堂意式餐厅(天津·海河意式风情区店)",
+          "poiId": "B0FFFYEZFB",
+          "address": "意式风情区光复道35号天堂电影院",
+          "type": "餐饮服务;外国餐厅;意式菜品餐厅",
+          "coordinate": [
+            117.197957,
+            39.135162
+          ],
+          "entrance": [
+            117.19786,
+            39.135191
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFYEZFB",
+          "reason": "商户或餐饮POI，不是目标地点本体。"
+        },
+        {
+          "name": "喆啡酒店意式风情区天津之眼店大堂",
+          "poiId": "B0IRJCLFCT",
+          "address": "喆啡酒店(天津意式风情区天津之眼店)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            117.195915,
+            39.141635
+          ],
+          "entrance": [
+            117.195836,
+            39.141669
+          ],
+          "url": "https://ditu.amap.com/place/B0IRJCLFCT",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "意式风情街二店",
+          "poiId": "B0L0SCJZ0X",
+          "address": "海河东路76号君临大厦F10层",
+          "type": "购物服务;购物相关场所;购物相关场所",
+          "coordinate": [
+            117.19725,
+            39.132988
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0L0SCJZ0X",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "意大利风情旅游区地面停车场",
+          "poiId": "B0FFG7TXP8",
+          "address": "博爱道与民族路交叉口西北80米",
+          "type": "交通设施服务;停车场;公共停车场",
+          "coordinate": [
+            117.197581,
+            39.133844
+          ],
+          "entrance": [
+            117.197449,
+            39.13351
+          ],
+          "url": "https://ditu.amap.com/place/B0FFG7TXP8",
+          "reason": "停车、交通或售票附属POI，不选作目标地点本体。"
+        },
+        {
+          "name": "天津站意大利风情区桔子水晶酒店",
+          "poiId": "B0K36DA671",
+          "address": "新开路98号(远洋国际中心地铁站B口步行240米)",
+          "type": "住宿服务;宾馆酒店;宾馆酒店",
+          "coordinate": [
+            117.222362,
+            39.134334
+          ],
+          "entrance": [
+            117.22247,
+            39.13418
+          ],
+          "url": "https://ditu.amap.com/place/B0K36DA671",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "天津意式风情民宿(意大利风情旅游区店)",
+          "poiId": "B0LARU6LL3",
+          "address": "新兆路与华捷道交叉口东南100米",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            117.216175,
+            39.136125
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0LARU6LL3",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "天津意式风情街民宿(意大利风情旅游区店)",
+          "poiId": "B0LARCBEN0",
+          "address": "寿安街与建国道交叉口西南40米",
+          "type": "住宿服务;住宿服务相关;住宿服务相关",
+          "coordinate": [
+            117.198727,
+            39.139724
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0LARCBEN0",
+          "reason": "住宿或酒店POI，不是目标地点本体，也不能用旁边地址代替本体坐标。"
+        },
+        {
+          "name": "原意租界花园",
+          "poiId": "B0FFGI6FV9",
+          "address": "意大利风情旅游区",
+          "type": "风景名胜;风景名胜相关;旅游景点",
+          "coordinate": [
+            117.198921,
+            39.134242
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0FFGI6FV9",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "汤玉麟旧宅(不对外开放)",
+          "poiId": "B00160F12P",
+          "address": "意大利风情旅游区(建国道意风区地铁站B口步行240米)",
+          "type": "风景名胜;风景名胜;纪念馆",
+          "coordinate": [
+            117.199446,
+            39.138239
+          ],
+          "entrance": [
+            117.199476,
+            39.137882
+          ],
+          "url": "https://ditu.amap.com/place/B00160F12P",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "马可波罗广场",
+          "poiId": "B00160E50Q",
+          "address": "天津市光复道街道光复道街道民族路与自由道交口意大利风情区",
+          "type": "风景名胜;公园广场;城市广场",
+          "coordinate": [
+            117.198669,
+            39.134498
+          ],
+          "entrance": [
+            117.197334,
+            39.133495
+          ],
+          "url": "https://ditu.amap.com/place/B00160E50Q",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "原意大利兵营",
+          "poiId": "B0G07R5DWG",
+          "address": "光明道20号(近意大利风情区、地铁2号线建国道站B口)",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "coordinate": [
+            117.201253,
+            39.137817
+          ],
+          "entrance": [
+            117.200835,
+            39.137833
+          ],
+          "url": "https://ditu.amap.com/place/B0G07R5DWG",
+          "reason": "不是本次明确选择的目标本体POI；按名称、类别及地址人工排除，不以返回排序替代身份判断。"
+        },
+        {
+          "name": "天津五大道文化旅游区",
+          "poiId": "B00160E5VJ",
+          "coordinate": [
+            117.203601,
+            39.110567
+          ],
+          "address": "重庆道83号",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "reason": "旧记录的POI不匹配目标名称；本次不限定类别搜索未将它作为目标本体返回，撤销该到达锚点。"
+        }
+      ],
+      "routeCoordinate": [
+        117.197451,
+        39.133511
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    },
+    {
+      "name": "天津之眼",
+      "placeKey": "天津::天津之眼",
+      "experienceKey": "天津::天津之眼::外部夜景观赏",
+      "searchKeyword": "天津之眼",
+      "status": "candidate-selected",
+      "selectionMethod": "name-and-type-match; inspect candidates before map use",
+      "poiId": "B00160F6Y9",
+      "address": "三岔河口永乐桥上",
+      "type": "体育休闲服务;休闲场所;游乐场",
+      "coordinate": [
+        117.186217,
+        39.154286
+      ],
+      "entrance": [
+        117.18781,
+        39.154468
+      ],
+      "url": "https://ditu.amap.com/place/B00160F6Y9",
+      "candidates": [
+        {
+          "name": "天津之眼",
+          "poiId": "B00160F6Y9",
+          "address": "三岔河口永乐桥上",
+          "type": "体育休闲服务;休闲场所;游乐场",
+          "coordinate": [
+            117.186217,
+            39.154286
+          ],
+          "entrance": [
+            117.18781,
+            39.154468
+          ],
+          "url": "https://ditu.amap.com/place/B00160F6Y9"
+        },
+        {
+          "name": "天津之眼商圈",
+          "poiId": "B0J17UFZXO",
+          "address": "河北区",
+          "type": "地名地址信息;热点地名;热点地名",
+          "coordinate": [
+            117.189019,
+            39.153165
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0J17UFZXO"
+        },
+        {
+          "name": "天津之眼摩天轮游客中心",
+          "poiId": "B0H6PRRQYT",
+          "address": "之眼",
+          "type": "生活服务;信息咨询中心;服务中心",
+          "coordinate": [
+            117.186338,
+            39.15417
+          ],
+          "entrance": [
+            117.185901,
+            39.154174
+          ],
+          "url": "https://ditu.amap.com/place/B0H6PRRQYT"
+        },
+        {
+          "name": "天津之眼夜市",
+          "poiId": "B0L27GJR9T",
+          "address": "子牙河南路与三条石大街交叉口东北20米",
+          "type": "餐饮服务;中餐厅;中餐厅",
+          "coordinate": [
+            117.186425,
+            39.154075
+          ],
+          "entrance": null,
+          "url": "https://ditu.amap.com/place/B0L27GJR9T"
+        },
+        {
+          "name": "天津之眼红桥售票处",
+          "poiId": "B0FFFF7OHV",
+          "address": "三岔河口永乐桥上天津之眼",
+          "type": "生活服务;售票处;公园景点售票处",
+          "coordinate": [
+            117.186325,
+            39.154163
+          ],
+          "entrance": [
+            117.185911,
+            39.154169
+          ],
+          "url": "https://ditu.amap.com/place/B0FFFF7OHV"
+        },
+        {
+          "name": "天津之眼河北区售票处",
+          "poiId": "B0FFGY8Z6H",
+          "address": "五马路与李公祠大街交汇处西50米",
+          "type": "生活服务;售票处;公园景点售票处",
+          "coordinate": [
+            117.187186,
+            39.154664
+          ],
+          "entrance": [
+            117.187813,
+            39.154468
+          ],
+          "url": "https://ditu.amap.com/place/B0FFGY8Z6H"
+        }
+      ],
+      "poiName": "天津之眼",
+      "routeCoordinate": [
+        117.18781,
+        39.154468
+      ],
+      "endpointNote": "高德POI或归档入口；未实测门禁及通行"
+    }
+  ],
+  "segments": [
+    {
+      "from": "西北角",
+      "to": "民园广场",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 4490,
+          "distance": 5613,
+          "steps": [
+            {
+              "road": "",
+              "instruction": "向东步行9米右转",
+              "time": 7,
+              "distance": 9,
+              "nodes": [
+                [
+                  117.171536,
+                  39.144015
+                ],
+                [
+                  117.171645,
+                  39.144015
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向南步行228米右转",
+              "time": 182,
+              "distance": 228,
+              "nodes": [
+                [
+                  117.171645,
+                  39.144015
+                ],
+                [
+                  117.171658,
+                  39.143446
+                ],
+                [
+                  117.171658,
+                  39.143446
+                ],
+                [
+                  117.171658,
+                  39.142912
+                ],
+                [
+                  117.171658,
+                  39.142912
+                ],
+                [
+                  117.171658,
+                  39.142578
+                ],
+                [
+                  117.171658,
+                  39.142578
+                ],
+                [
+                  117.171688,
+                  39.142127
+                ],
+                [
+                  117.171688,
+                  39.142127
+                ],
+                [
+                  117.171823,
+                  39.141984
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向南步行1288米左转",
+              "time": 1030,
+              "distance": 1288,
+              "nodes": [
+                [
+                  117.171823,
+                  39.141979
+                ],
+                [
+                  117.171788,
+                  39.141936
+                ],
+                [
+                  117.171788,
+                  39.141936
+                ],
+                [
+                  117.171706,
+                  39.141832
+                ],
+                [
+                  117.171719,
+                  39.141128
+                ],
+                [
+                  117.171719,
+                  39.141128
+                ],
+                [
+                  117.171745,
+                  39.140056
+                ],
+                [
+                  117.171745,
+                  39.140056
+                ],
+                [
+                  117.171762,
+                  39.139188
+                ],
+                [
+                  117.171762,
+                  39.139188
+                ],
+                [
+                  117.171793,
+                  39.138229
+                ],
+                [
+                  117.171793,
+                  39.138229
+                ],
+                [
+                  117.171806,
+                  39.137873
+                ],
+                [
+                  117.171806,
+                  39.137873
+                ],
+                [
+                  117.17181,
+                  39.137743
+                ],
+                [
+                  117.17181,
+                  39.137743
+                ],
+                [
+                  117.171853,
+                  39.137487
+                ],
+                [
+                  117.171853,
+                  39.137487
+                ],
+                [
+                  117.171875,
+                  39.137374
+                ],
+                [
+                  117.171875,
+                  39.137374
+                ],
+                [
+                  117.171962,
+                  39.137075
+                ],
+                [
+                  117.172088,
+                  39.136745
+                ],
+                [
+                  117.172088,
+                  39.136745
+                ],
+                [
+                  117.172192,
+                  39.136484
+                ],
+                [
+                  117.172192,
+                  39.136484
+                ],
+                [
+                  117.172309,
+                  39.136185
+                ],
+                [
+                  117.172309,
+                  39.136185
+                ],
+                [
+                  117.172556,
+                  39.135577
+                ],
+                [
+                  117.172556,
+                  39.135577
+                ],
+                [
+                  117.172778,
+                  39.135017
+                ],
+                [
+                  117.172973,
+                  39.134887
+                ],
+                [
+                  117.172973,
+                  39.134887
+                ],
+                [
+                  117.17306,
+                  39.134705
+                ],
+                [
+                  117.17306,
+                  39.134705
+                ],
+                [
+                  117.173095,
+                  39.13464
+                ],
+                [
+                  117.173095,
+                  39.13464
+                ],
+                [
+                  117.173064,
+                  39.134392
+                ],
+                [
+                  117.173355,
+                  39.133806
+                ],
+                [
+                  117.173355,
+                  39.133806
+                ],
+                [
+                  117.173611,
+                  39.133303
+                ],
+                [
+                  117.173733,
+                  39.133069
+                ],
+                [
+                  117.173733,
+                  39.133069
+                ],
+                [
+                  117.174036,
+                  39.132478
+                ],
+                [
+                  117.174036,
+                  39.132478
+                ],
+                [
+                  117.174219,
+                  39.132105
+                ],
+                [
+                  117.174219,
+                  39.132105
+                ],
+                [
+                  117.174293,
+                  39.131953
+                ],
+                [
+                  117.174418,
+                  39.131597
+                ],
+                [
+                  117.17444,
+                  39.131463
+                ],
+                [
+                  117.17444,
+                  39.131463
+                ],
+                [
+                  117.174488,
+                  39.131181
+                ],
+                [
+                  117.174488,
+                  39.131181
+                ],
+                [
+                  117.174514,
+                  39.13092
+                ],
+                [
+                  117.174514,
+                  39.130712
+                ]
+              ]
+            },
+            {
+              "road": "南开二纬路",
+              "instruction": "沿南开二纬路步行533米右转",
+              "time": 426,
+              "distance": 533,
+              "nodes": [
+                [
+                  117.174514,
+                  39.130707
+                ],
+                [
+                  117.174666,
+                  39.130703
+                ],
+                [
+                  117.174666,
+                  39.130703
+                ],
+                [
+                  117.174839,
+                  39.130686
+                ],
+                [
+                  117.174839,
+                  39.130686
+                ],
+                [
+                  117.174987,
+                  39.130673
+                ],
+                [
+                  117.174987,
+                  39.130673
+                ],
+                [
+                  117.175898,
+                  39.130616
+                ],
+                [
+                  117.175898,
+                  39.130616
+                ],
+                [
+                  117.176406,
+                  39.130577
+                ],
+                [
+                  117.176406,
+                  39.130577
+                ],
+                [
+                  117.176493,
+                  39.130573
+                ],
+                [
+                  117.176493,
+                  39.130573
+                ],
+                [
+                  117.176745,
+                  39.130551
+                ],
+                [
+                  117.176745,
+                  39.130551
+                ],
+                [
+                  117.176962,
+                  39.130534
+                ],
+                [
+                  117.176962,
+                  39.130534
+                ],
+                [
+                  117.177921,
+                  39.130477
+                ],
+                [
+                  117.177921,
+                  39.130477
+                ],
+                [
+                  117.178129,
+                  39.130464
+                ],
+                [
+                  117.178129,
+                  39.130464
+                ],
+                [
+                  117.178542,
+                  39.130443
+                ],
+                [
+                  117.178542,
+                  39.130443
+                ],
+                [
+                  117.17865,
+                  39.130438
+                ],
+                [
+                  117.17865,
+                  39.130438
+                ],
+                [
+                  117.179188,
+                  39.130408
+                ],
+                [
+                  117.179188,
+                  39.130408
+                ],
+                [
+                  117.179353,
+                  39.130399
+                ],
+                [
+                  117.179353,
+                  39.130399
+                ],
+                [
+                  117.179484,
+                  39.130395
+                ],
+                [
+                  117.179484,
+                  39.130395
+                ],
+                [
+                  117.179688,
+                  39.130378
+                ],
+                [
+                  117.179688,
+                  39.130378
+                ],
+                [
+                  117.180174,
+                  39.130352
+                ],
+                [
+                  117.180621,
+                  39.13033
+                ],
+                [
+                  117.180621,
+                  39.13033
+                ],
+                [
+                  117.180694,
+                  39.130326
+                ],
+                [
+                  117.180694,
+                  39.130326
+                ],
+                [
+                  117.180781,
+                  39.130321
+                ]
+              ]
+            },
+            {
+              "road": "南门外大街",
+              "instruction": "沿南门外大街步行131米左转",
+              "time": 105,
+              "distance": 131,
+              "nodes": [
+                [
+                  117.180781,
+                  39.130317
+                ],
+                [
+                  117.180781,
+                  39.130217
+                ],
+                [
+                  117.180781,
+                  39.130217
+                ],
+                [
+                  117.180694,
+                  39.129271
+                ],
+                [
+                  117.180694,
+                  39.129271
+                ],
+                [
+                  117.180686,
+                  39.129136
+                ]
+              ]
+            },
+            {
+              "road": "河北路",
+              "instruction": "沿河北路向东南步行3263米右转",
+              "time": 2610,
+              "distance": 3263,
+              "nodes": [
+                [
+                  117.180681,
+                  39.129132
+                ],
+                [
+                  117.180833,
+                  39.129123
+                ],
+                [
+                  117.180833,
+                  39.129123
+                ],
+                [
+                  117.181224,
+                  39.129093
+                ],
+                [
+                  117.181224,
+                  39.129093
+                ],
+                [
+                  117.181897,
+                  39.129049
+                ],
+                [
+                  117.181897,
+                  39.129049
+                ],
+                [
+                  117.182609,
+                  39.129002
+                ],
+                [
+                  117.182609,
+                  39.129002
+                ],
+                [
+                  117.1827,
+                  39.128993
+                ],
+                [
+                  117.1827,
+                  39.128993
+                ],
+                [
+                  117.182947,
+                  39.12898
+                ],
+                [
+                  117.182947,
+                  39.12898
+                ],
+                [
+                  117.183199,
+                  39.128958
+                ],
+                [
+                  117.183199,
+                  39.128958
+                ],
+                [
+                  117.183872,
+                  39.128919
+                ],
+                [
+                  117.183872,
+                  39.128919
+                ],
+                [
+                  117.184175,
+                  39.128898
+                ],
+                [
+                  117.184175,
+                  39.128898
+                ],
+                [
+                  117.184497,
+                  39.128876
+                ],
+                [
+                  117.184497,
+                  39.128876
+                ],
+                [
+                  117.184566,
+                  39.128876
+                ],
+                [
+                  117.184566,
+                  39.128876
+                ],
+                [
+                  117.185069,
+                  39.128819
+                ],
+                [
+                  117.185069,
+                  39.128819
+                ],
+                [
+                  117.185434,
+                  39.12878
+                ],
+                [
+                  117.185434,
+                  39.12878
+                ],
+                [
+                  117.186111,
+                  39.128715
+                ],
+                [
+                  117.186111,
+                  39.128715
+                ],
+                [
+                  117.186445,
+                  39.128681
+                ],
+                [
+                  117.186445,
+                  39.128681
+                ],
+                [
+                  117.187183,
+                  39.128598
+                ],
+                [
+                  117.187183,
+                  39.128598
+                ],
+                [
+                  117.187448,
+                  39.128568
+                ],
+                [
+                  117.187448,
+                  39.128568
+                ],
+                [
+                  117.188377,
+                  39.128437
+                ],
+                [
+                  117.188377,
+                  39.128437
+                ],
+                [
+                  117.189058,
+                  39.128303
+                ],
+                [
+                  117.189058,
+                  39.128303
+                ],
+                [
+                  117.189527,
+                  39.128194
+                ],
+                [
+                  117.189527,
+                  39.128194
+                ],
+                [
+                  117.189883,
+                  39.12806
+                ],
+                [
+                  117.190152,
+                  39.127938
+                ],
+                [
+                  117.190152,
+                  39.127938
+                ],
+                [
+                  117.190586,
+                  39.12773
+                ],
+                [
+                  117.190586,
+                  39.12773
+                ],
+                [
+                  117.190677,
+                  39.127687
+                ],
+                [
+                  117.190677,
+                  39.127687
+                ],
+                [
+                  117.19099,
+                  39.127543
+                ],
+                [
+                  117.19099,
+                  39.127543
+                ],
+                [
+                  117.191089,
+                  39.127491
+                ],
+                [
+                  117.191089,
+                  39.127491
+                ],
+                [
+                  117.19125,
+                  39.127431
+                ],
+                [
+                  117.19125,
+                  39.127431
+                ],
+                [
+                  117.191389,
+                  39.127361
+                ],
+                [
+                  117.191389,
+                  39.127361
+                ],
+                [
+                  117.191771,
+                  39.127166
+                ],
+                [
+                  117.191771,
+                  39.127166
+                ],
+                [
+                  117.191927,
+                  39.127083
+                ],
+                [
+                  117.191927,
+                  39.127083
+                ],
+                [
+                  117.192652,
+                  39.12671
+                ],
+                [
+                  117.192652,
+                  39.12671
+                ],
+                [
+                  117.192795,
+                  39.126641
+                ],
+                [
+                  117.192795,
+                  39.126641
+                ],
+                [
+                  117.193142,
+                  39.126458
+                ],
+                [
+                  117.193142,
+                  39.126458
+                ],
+                [
+                  117.193581,
+                  39.126233
+                ],
+                [
+                  117.193581,
+                  39.126233
+                ],
+                [
+                  117.19401,
+                  39.126011
+                ],
+                [
+                  117.19401,
+                  39.126011
+                ],
+                [
+                  117.194427,
+                  39.125799
+                ],
+                [
+                  117.194427,
+                  39.125799
+                ],
+                [
+                  117.194874,
+                  39.125569
+                ],
+                [
+                  117.194874,
+                  39.125569
+                ],
+                [
+                  117.195117,
+                  39.125443
+                ],
+                [
+                  117.195117,
+                  39.125443
+                ],
+                [
+                  117.195295,
+                  39.125352
+                ],
+                [
+                  117.195295,
+                  39.125352
+                ],
+                [
+                  117.195677,
+                  39.125156
+                ],
+                [
+                  117.195677,
+                  39.125156
+                ],
+                [
+                  117.196072,
+                  39.124957
+                ],
+                [
+                  117.196072,
+                  39.124957
+                ],
+                [
+                  117.196454,
+                  39.124761
+                ],
+                [
+                  117.196454,
+                  39.124761
+                ],
+                [
+                  117.196628,
+                  39.124688
+                ],
+                [
+                  117.196628,
+                  39.124688
+                ],
+                [
+                  117.197014,
+                  39.124553
+                ],
+                [
+                  117.197014,
+                  39.124553
+                ],
+                [
+                  117.197166,
+                  39.124505
+                ],
+                [
+                  117.197166,
+                  39.124505
+                ],
+                [
+                  117.197747,
+                  39.124301
+                ],
+                [
+                  117.197747,
+                  39.124301
+                ],
+                [
+                  117.198086,
+                  39.124184
+                ],
+                [
+                  117.198086,
+                  39.124184
+                ],
+                [
+                  117.198181,
+                  39.124162
+                ],
+                [
+                  117.198181,
+                  39.124162
+                ],
+                [
+                  117.198338,
+                  39.124102
+                ],
+                [
+                  117.198338,
+                  39.124102
+                ],
+                [
+                  117.198494,
+                  39.124049
+                ],
+                [
+                  117.198494,
+                  39.124049
+                ],
+                [
+                  117.198754,
+                  39.123967
+                ],
+                [
+                  117.198976,
+                  39.123885
+                ],
+                [
+                  117.198976,
+                  39.123885
+                ],
+                [
+                  117.199792,
+                  39.123477
+                ],
+                [
+                  117.199792,
+                  39.123477
+                ],
+                [
+                  117.200017,
+                  39.123364
+                ],
+                [
+                  117.200017,
+                  39.123364
+                ],
+                [
+                  117.200386,
+                  39.123173
+                ],
+                [
+                  117.200386,
+                  39.123173
+                ],
+                [
+                  117.201094,
+                  39.122817
+                ],
+                [
+                  117.201094,
+                  39.122817
+                ],
+                [
+                  117.201675,
+                  39.122526
+                ],
+                [
+                  117.201675,
+                  39.122526
+                ],
+                [
+                  117.202031,
+                  39.122348
+                ],
+                [
+                  117.202031,
+                  39.122348
+                ],
+                [
+                  117.202096,
+                  39.122318
+                ],
+                [
+                  117.202144,
+                  39.122292
+                ],
+                [
+                  117.202604,
+                  39.122057
+                ],
+                [
+                  117.202704,
+                  39.121962
+                ],
+                [
+                  117.202704,
+                  39.121962
+                ],
+                [
+                  117.202839,
+                  39.121736
+                ],
+                [
+                  117.202839,
+                  39.121736
+                ],
+                [
+                  117.203116,
+                  39.121254
+                ],
+                [
+                  117.203116,
+                  39.121254
+                ],
+                [
+                  117.203316,
+                  39.12092
+                ],
+                [
+                  117.203316,
+                  39.12092
+                ],
+                [
+                  117.203455,
+                  39.120681
+                ],
+                [
+                  117.203455,
+                  39.120681
+                ],
+                [
+                  117.20355,
+                  39.120512
+                ],
+                [
+                  117.20355,
+                  39.120512
+                ],
+                [
+                  117.203746,
+                  39.120182
+                ],
+                [
+                  117.203746,
+                  39.120182
+                ],
+                [
+                  117.203772,
+                  39.120135
+                ],
+                [
+                  117.203772,
+                  39.120135
+                ],
+                [
+                  117.203885,
+                  39.119935
+                ],
+                [
+                  117.203885,
+                  39.119935
+                ],
+                [
+                  117.204067,
+                  39.119644
+                ],
+                [
+                  117.204067,
+                  39.119644
+                ],
+                [
+                  117.204319,
+                  39.119214
+                ],
+                [
+                  117.204319,
+                  39.119214
+                ],
+                [
+                  117.20454,
+                  39.118863
+                ],
+                [
+                  117.20454,
+                  39.118863
+                ],
+                [
+                  117.204766,
+                  39.118464
+                ],
+                [
+                  117.204766,
+                  39.118464
+                ],
+                [
+                  117.204809,
+                  39.118394
+                ],
+                [
+                  117.204809,
+                  39.118394
+                ],
+                [
+                  117.204891,
+                  39.118255
+                ],
+                [
+                  117.204891,
+                  39.118255
+                ],
+                [
+                  117.205,
+                  39.11803
+                ],
+                [
+                  117.205069,
+                  39.117687
+                ],
+                [
+                  117.205069,
+                  39.117687
+                ],
+                [
+                  117.205074,
+                  39.117517
+                ],
+                [
+                  117.205074,
+                  39.117517
+                ],
+                [
+                  117.205082,
+                  39.117431
+                ],
+                [
+                  117.205082,
+                  39.117431
+                ],
+                [
+                  117.205104,
+                  39.117192
+                ],
+                [
+                  117.205104,
+                  39.117192
+                ],
+                [
+                  117.205117,
+                  39.116962
+                ],
+                [
+                  117.205117,
+                  39.116962
+                ],
+                [
+                  117.20513,
+                  39.116814
+                ],
+                [
+                  117.20513,
+                  39.116814
+                ],
+                [
+                  117.205135,
+                  39.116758
+                ],
+                [
+                  117.205135,
+                  39.116758
+                ],
+                [
+                  117.205156,
+                  39.116484
+                ],
+                [
+                  117.205148,
+                  39.11628
+                ],
+                [
+                  117.205148,
+                  39.11628
+                ],
+                [
+                  117.205161,
+                  39.116085
+                ],
+                [
+                  117.205161,
+                  39.116085
+                ],
+                [
+                  117.205174,
+                  39.115951
+                ],
+                [
+                  117.205174,
+                  39.115951
+                ],
+                [
+                  117.205187,
+                  39.115729
+                ],
+                [
+                  117.205187,
+                  39.115729
+                ],
+                [
+                  117.205226,
+                  39.115295
+                ],
+                [
+                  117.205226,
+                  39.115295
+                ],
+                [
+                  117.205269,
+                  39.115035
+                ],
+                [
+                  117.205269,
+                  39.115035
+                ],
+                [
+                  117.205386,
+                  39.114714
+                ],
+                [
+                  117.205386,
+                  39.114714
+                ],
+                [
+                  117.205486,
+                  39.114475
+                ],
+                [
+                  117.205486,
+                  39.114475
+                ],
+                [
+                  117.205734,
+                  39.113859
+                ],
+                [
+                  117.205734,
+                  39.113859
+                ],
+                [
+                  117.20582,
+                  39.113655
+                ],
+                [
+                  117.20582,
+                  39.113655
+                ],
+                [
+                  117.205924,
+                  39.11339
+                ],
+                [
+                  117.205924,
+                  39.11339
+                ],
+                [
+                  117.205946,
+                  39.113342
+                ],
+                [
+                  117.205946,
+                  39.113342
+                ],
+                [
+                  117.206024,
+                  39.113134
+                ],
+                [
+                  117.206024,
+                  39.113134
+                ],
+                [
+                  117.206233,
+                  39.112622
+                ],
+                [
+                  117.206233,
+                  39.112622
+                ],
+                [
+                  117.206402,
+                  39.112205
+                ],
+                [
+                  117.206402,
+                  39.112205
+                ],
+                [
+                  117.206571,
+                  39.111758
+                ]
+              ]
+            },
+            {
+              "road": "大理道",
+              "instruction": "沿大理道向西步行161米到达目的地",
+              "time": 129,
+              "distance": 161,
+              "nodes": [
+                [
+                  117.206571,
+                  39.111753
+                ],
+                [
+                  117.206398,
+                  39.111701
+                ],
+                [
+                  117.206398,
+                  39.111701
+                ],
+                [
+                  117.206076,
+                  39.111606
+                ],
+                [
+                  117.206076,
+                  39.111606
+                ],
+                [
+                  117.205738,
+                  39.111523
+                ],
+                [
+                  117.205738,
+                  39.111523
+                ],
+                [
+                  117.205339,
+                  39.111432
+                ],
+                [
+                  117.205339,
+                  39.111432
+                ],
+                [
+                  117.204896,
+                  39.111328
+                ],
+                [
+                  117.204774,
+                  39.111306
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 1403,
+          "distance": 5847,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 2886,
+          "distance": 6400,
+          "cost": 3,
+          "steps": [],
+          "segments": [
+            {
+              "time": 479,
+              "instruction": "步行354米到达西北角",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 960,
+              "instruction": "乘坐地铁1号线(刘园--双桥河)途径4站到达营口道",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "地铁1号线(刘园--双桥河)"
+                }
+              ]
+            },
+            {
+              "time": 1447,
+              "instruction": "步行1266米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "民园广场",
+      "to": "解放桥",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 2366,
+          "distance": 2958,
+          "steps": [
+            {
+              "road": "大理道",
+              "instruction": "沿大理道向东步行161米左转",
+              "time": 129,
+              "distance": 161,
+              "nodes": [
+                [
+                  117.20477,
+                  39.111302
+                ],
+                [
+                  117.204891,
+                  39.111324
+                ],
+                [
+                  117.205334,
+                  39.111428
+                ],
+                [
+                  117.205334,
+                  39.111428
+                ],
+                [
+                  117.205734,
+                  39.111519
+                ],
+                [
+                  117.205734,
+                  39.111519
+                ],
+                [
+                  117.206072,
+                  39.111602
+                ],
+                [
+                  117.206072,
+                  39.111602
+                ],
+                [
+                  117.206393,
+                  39.111697
+                ],
+                [
+                  117.206393,
+                  39.111697
+                ],
+                [
+                  117.206571,
+                  39.111753
+                ]
+              ]
+            },
+            {
+              "road": "河北路",
+              "instruction": "沿河北路向北步行664米向左前方行走",
+              "time": 531,
+              "distance": 664,
+              "nodes": [
+                [
+                  117.206571,
+                  39.111753
+                ],
+                [
+                  117.206406,
+                  39.112201
+                ],
+                [
+                  117.206406,
+                  39.112201
+                ],
+                [
+                  117.206237,
+                  39.112617
+                ],
+                [
+                  117.206237,
+                  39.112617
+                ],
+                [
+                  117.206029,
+                  39.113129
+                ],
+                [
+                  117.206029,
+                  39.113129
+                ],
+                [
+                  117.205951,
+                  39.113338
+                ],
+                [
+                  117.205951,
+                  39.113338
+                ],
+                [
+                  117.205929,
+                  39.113385
+                ],
+                [
+                  117.205929,
+                  39.113385
+                ],
+                [
+                  117.205825,
+                  39.11365
+                ],
+                [
+                  117.205825,
+                  39.11365
+                ],
+                [
+                  117.205738,
+                  39.113854
+                ],
+                [
+                  117.205738,
+                  39.113854
+                ],
+                [
+                  117.20549,
+                  39.11447
+                ],
+                [
+                  117.20549,
+                  39.11447
+                ],
+                [
+                  117.205391,
+                  39.114709
+                ],
+                [
+                  117.205391,
+                  39.114709
+                ],
+                [
+                  117.205273,
+                  39.115035
+                ],
+                [
+                  117.205273,
+                  39.115035
+                ],
+                [
+                  117.20523,
+                  39.115291
+                ],
+                [
+                  117.20523,
+                  39.115291
+                ],
+                [
+                  117.205191,
+                  39.115725
+                ],
+                [
+                  117.205191,
+                  39.115725
+                ],
+                [
+                  117.205178,
+                  39.115946
+                ],
+                [
+                  117.205178,
+                  39.115946
+                ],
+                [
+                  117.205165,
+                  39.116081
+                ],
+                [
+                  117.205165,
+                  39.116081
+                ],
+                [
+                  117.205148,
+                  39.116276
+                ],
+                [
+                  117.205148,
+                  39.116276
+                ],
+                [
+                  117.205156,
+                  39.11648
+                ],
+                [
+                  117.205139,
+                  39.116753
+                ],
+                [
+                  117.205139,
+                  39.116753
+                ],
+                [
+                  117.205135,
+                  39.11681
+                ],
+                [
+                  117.205135,
+                  39.11681
+                ],
+                [
+                  117.205122,
+                  39.116957
+                ],
+                [
+                  117.205122,
+                  39.116957
+                ],
+                [
+                  117.205104,
+                  39.117188
+                ],
+                [
+                  117.205104,
+                  39.117188
+                ],
+                [
+                  117.205087,
+                  39.117426
+                ],
+                [
+                  117.205087,
+                  39.117426
+                ],
+                [
+                  117.205078,
+                  39.117513
+                ],
+                [
+                  117.205078,
+                  39.117513
+                ],
+                [
+                  117.205074,
+                  39.117682
+                ]
+              ]
+            },
+            {
+              "road": "河北路",
+              "instruction": "沿河北路向西北步行511米右转",
+              "time": 409,
+              "distance": 511,
+              "nodes": [
+                [
+                  117.205069,
+                  39.117682
+                ],
+                [
+                  117.205004,
+                  39.118025
+                ],
+                [
+                  117.204896,
+                  39.118251
+                ],
+                [
+                  117.204896,
+                  39.118251
+                ],
+                [
+                  117.204813,
+                  39.11839
+                ],
+                [
+                  117.204813,
+                  39.11839
+                ],
+                [
+                  117.20477,
+                  39.118459
+                ],
+                [
+                  117.20477,
+                  39.118459
+                ],
+                [
+                  117.204544,
+                  39.118859
+                ],
+                [
+                  117.204544,
+                  39.118859
+                ],
+                [
+                  117.204323,
+                  39.11921
+                ],
+                [
+                  117.204323,
+                  39.11921
+                ],
+                [
+                  117.204071,
+                  39.11964
+                ],
+                [
+                  117.204071,
+                  39.11964
+                ],
+                [
+                  117.203889,
+                  39.119931
+                ],
+                [
+                  117.203889,
+                  39.119931
+                ],
+                [
+                  117.203776,
+                  39.12013
+                ],
+                [
+                  117.203776,
+                  39.12013
+                ],
+                [
+                  117.20375,
+                  39.120178
+                ],
+                [
+                  117.20375,
+                  39.120178
+                ],
+                [
+                  117.203555,
+                  39.120508
+                ],
+                [
+                  117.203555,
+                  39.120508
+                ],
+                [
+                  117.203459,
+                  39.120677
+                ],
+                [
+                  117.203459,
+                  39.120677
+                ],
+                [
+                  117.20332,
+                  39.120916
+                ],
+                [
+                  117.20332,
+                  39.120916
+                ],
+                [
+                  117.203121,
+                  39.12125
+                ],
+                [
+                  117.203121,
+                  39.12125
+                ],
+                [
+                  117.202843,
+                  39.121732
+                ],
+                [
+                  117.202843,
+                  39.121732
+                ],
+                [
+                  117.202708,
+                  39.121957
+                ]
+              ]
+            },
+            {
+              "road": "营口道",
+              "instruction": "沿营口道向东北步行900米左转",
+              "time": 720,
+              "distance": 900,
+              "nodes": [
+                [
+                  117.202704,
+                  39.121957
+                ],
+                [
+                  117.20309,
+                  39.122222
+                ],
+                [
+                  117.20309,
+                  39.122222
+                ],
+                [
+                  117.203225,
+                  39.122313
+                ],
+                [
+                  117.203325,
+                  39.122383
+                ],
+                [
+                  117.203325,
+                  39.122383
+                ],
+                [
+                  117.203598,
+                  39.122565
+                ],
+                [
+                  117.203598,
+                  39.122565
+                ],
+                [
+                  117.20378,
+                  39.122678
+                ],
+                [
+                  117.20378,
+                  39.122678
+                ],
+                [
+                  117.204219,
+                  39.12296
+                ],
+                [
+                  117.204219,
+                  39.12296
+                ],
+                [
+                  117.204479,
+                  39.123121
+                ],
+                [
+                  117.204479,
+                  39.123121
+                ],
+                [
+                  117.205365,
+                  39.123733
+                ],
+                [
+                  117.205365,
+                  39.123733
+                ],
+                [
+                  117.205872,
+                  39.124063
+                ],
+                [
+                  117.205872,
+                  39.124063
+                ],
+                [
+                  117.206089,
+                  39.12421
+                ],
+                [
+                  117.206089,
+                  39.12421
+                ],
+                [
+                  117.206211,
+                  39.124297
+                ],
+                [
+                  117.206211,
+                  39.124297
+                ],
+                [
+                  117.206506,
+                  39.124518
+                ],
+                [
+                  117.206506,
+                  39.124518
+                ],
+                [
+                  117.207005,
+                  39.124844
+                ],
+                [
+                  117.20737,
+                  39.125061
+                ],
+                [
+                  117.20737,
+                  39.125061
+                ],
+                [
+                  117.207752,
+                  39.125295
+                ],
+                [
+                  117.207752,
+                  39.125295
+                ],
+                [
+                  117.208025,
+                  39.125447
+                ],
+                [
+                  117.208025,
+                  39.125447
+                ],
+                [
+                  117.208477,
+                  39.125799
+                ],
+                [
+                  117.208477,
+                  39.125799
+                ],
+                [
+                  117.208589,
+                  39.125872
+                ],
+                [
+                  117.208589,
+                  39.125872
+                ],
+                [
+                  117.209162,
+                  39.126267
+                ],
+                [
+                  117.209162,
+                  39.126267
+                ],
+                [
+                  117.209232,
+                  39.126315
+                ],
+                [
+                  117.209232,
+                  39.126315
+                ],
+                [
+                  117.209566,
+                  39.126532
+                ],
+                [
+                  117.209566,
+                  39.126532
+                ],
+                [
+                  117.210078,
+                  39.126884
+                ],
+                [
+                  117.210078,
+                  39.126884
+                ],
+                [
+                  117.210135,
+                  39.126927
+                ],
+                [
+                  117.210135,
+                  39.126927
+                ],
+                [
+                  117.21066,
+                  39.127283
+                ]
+              ]
+            },
+            {
+              "road": "解放北路",
+              "instruction": "沿解放北路向西北步行722米到达目的地",
+              "time": 578,
+              "distance": 722,
+              "nodes": [
+                [
+                  117.21066,
+                  39.127283
+                ],
+                [
+                  117.210577,
+                  39.127526
+                ],
+                [
+                  117.210443,
+                  39.127756
+                ],
+                [
+                  117.210256,
+                  39.12803
+                ],
+                [
+                  117.210256,
+                  39.12803
+                ],
+                [
+                  117.210048,
+                  39.12832
+                ],
+                [
+                  117.210048,
+                  39.12832
+                ],
+                [
+                  117.209931,
+                  39.128459
+                ],
+                [
+                  117.209931,
+                  39.128459
+                ],
+                [
+                  117.209327,
+                  39.129167
+                ],
+                [
+                  117.209327,
+                  39.129167
+                ],
+                [
+                  117.208863,
+                  39.129609
+                ],
+                [
+                  117.208581,
+                  39.129909
+                ],
+                [
+                  117.208581,
+                  39.129909
+                ],
+                [
+                  117.208372,
+                  39.130139
+                ],
+                [
+                  117.208372,
+                  39.130139
+                ],
+                [
+                  117.208125,
+                  39.130443
+                ],
+                [
+                  117.208125,
+                  39.130443
+                ],
+                [
+                  117.208047,
+                  39.130543
+                ],
+                [
+                  117.208047,
+                  39.130543
+                ],
+                [
+                  117.207726,
+                  39.131003
+                ],
+                [
+                  117.207726,
+                  39.131003
+                ],
+                [
+                  117.207513,
+                  39.131246
+                ],
+                [
+                  117.207513,
+                  39.131246
+                ],
+                [
+                  117.207478,
+                  39.131293
+                ],
+                [
+                  117.207478,
+                  39.131293
+                ],
+                [
+                  117.207231,
+                  39.131593
+                ],
+                [
+                  117.207231,
+                  39.131593
+                ],
+                [
+                  117.206688,
+                  39.132283
+                ],
+                [
+                  117.206688,
+                  39.132283
+                ],
+                [
+                  117.206597,
+                  39.132435
+                ],
+                [
+                  117.20635,
+                  39.132747
+                ],
+                [
+                  117.20635,
+                  39.132747
+                ],
+                [
+                  117.206246,
+                  39.132865
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 732,
+          "distance": 3050,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 2197,
+          "distance": 3252,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 1597,
+              "instruction": "步行1351米到达营口道",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 360,
+              "instruction": "乘坐地铁3号线(南站--小淀)途径1站到达津湾广场",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "地铁3号线(南站--小淀)"
+                }
+              ]
+            },
+            {
+              "time": 240,
+              "instruction": "步行181米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "解放桥",
+      "to": "意式风情街",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 724,
+          "distance": 905,
+          "steps": [
+            {
+              "road": "解放桥",
+              "instruction": "沿解放桥向西北步行38米向左前方行走",
+              "time": 30,
+              "distance": 38,
+              "nodes": [
+                [
+                  117.206241,
+                  39.132865
+                ],
+                [
+                  117.20599,
+                  39.133142
+                ]
+              ]
+            },
+            {
+              "road": "解放桥",
+              "instruction": "沿解放桥向西北步行28米左转",
+              "time": 22,
+              "distance": 28,
+              "nodes": [
+                [
+                  117.205985,
+                  39.133142
+                ],
+                [
+                  117.205942,
+                  39.133108
+                ],
+                [
+                  117.205942,
+                  39.133108
+                ],
+                [
+                  117.205786,
+                  39.133277
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "步行38米左转",
+              "time": 30,
+              "distance": 38,
+              "nodes": [
+                [
+                  117.205781,
+                  39.133277
+                ],
+                [
+                  117.205734,
+                  39.13326
+                ],
+                [
+                  117.205556,
+                  39.133229
+                ],
+                [
+                  117.20536,
+                  39.133229
+                ]
+              ]
+            },
+            {
+              "road": "海河东路",
+              "instruction": "沿海河东路向西南步行65米右转",
+              "time": 52,
+              "distance": 65,
+              "nodes": [
+                [
+                  117.205356,
+                  39.133229
+                ],
+                [
+                  117.205226,
+                  39.13299
+                ],
+                [
+                  117.205104,
+                  39.132852
+                ],
+                [
+                  117.204952,
+                  39.132752
+                ]
+              ]
+            },
+            {
+              "road": "海河东路辅路",
+              "instruction": "沿海河东路辅路向西步行270米向右前方行走",
+              "time": 216,
+              "distance": 270,
+              "nodes": [
+                [
+                  117.204948,
+                  39.132743
+                ],
+                [
+                  117.204922,
+                  39.132782
+                ],
+                [
+                  117.204922,
+                  39.132782
+                ],
+                [
+                  117.204826,
+                  39.132891
+                ],
+                [
+                  117.204826,
+                  39.132891
+                ],
+                [
+                  117.204822,
+                  39.132891
+                ],
+                [
+                  117.20434,
+                  39.132674
+                ],
+                [
+                  117.203937,
+                  39.132457
+                ],
+                [
+                  117.203937,
+                  39.132457
+                ],
+                [
+                  117.203377,
+                  39.132192
+                ],
+                [
+                  117.203377,
+                  39.132192
+                ],
+                [
+                  117.202799,
+                  39.131962
+                ],
+                [
+                  117.202665,
+                  39.13194
+                ],
+                [
+                  117.202565,
+                  39.131949
+                ],
+                [
+                  117.202444,
+                  39.131997
+                ],
+                [
+                  117.202305,
+                  39.132101
+                ]
+              ]
+            },
+            {
+              "road": "海河东路辅路",
+              "instruction": "沿海河东路辅路向西北步行57米向右前方行走",
+              "time": 46,
+              "distance": 57,
+              "nodes": [
+                [
+                  117.2023,
+                  39.132101
+                ],
+                [
+                  117.202148,
+                  39.132322
+                ],
+                [
+                  117.202023,
+                  39.132517
+                ],
+                [
+                  117.202023,
+                  39.132517
+                ],
+                [
+                  117.202018,
+                  39.132565
+                ]
+              ]
+            },
+            {
+              "road": "博爱道",
+              "instruction": "沿博爱道步行404米右转",
+              "time": 323,
+              "distance": 404,
+              "nodes": [
+                [
+                  117.202014,
+                  39.132565
+                ],
+                [
+                  117.201875,
+                  39.132561
+                ],
+                [
+                  117.201875,
+                  39.132561
+                ],
+                [
+                  117.201233,
+                  39.132665
+                ],
+                [
+                  117.201233,
+                  39.132665
+                ],
+                [
+                  117.201011,
+                  39.1327
+                ],
+                [
+                  117.201011,
+                  39.1327
+                ],
+                [
+                  117.20092,
+                  39.132713
+                ],
+                [
+                  117.20092,
+                  39.132713
+                ],
+                [
+                  117.200347,
+                  39.132821
+                ],
+                [
+                  117.200347,
+                  39.132821
+                ],
+                [
+                  117.1998,
+                  39.13293
+                ],
+                [
+                  117.1998,
+                  39.13293
+                ],
+                [
+                  117.199609,
+                  39.13296
+                ],
+                [
+                  117.199609,
+                  39.13296
+                ],
+                [
+                  117.199284,
+                  39.133025
+                ],
+                [
+                  117.199284,
+                  39.133025
+                ],
+                [
+                  117.199041,
+                  39.133069
+                ],
+                [
+                  117.199041,
+                  39.133069
+                ],
+                [
+                  117.198207,
+                  39.133251
+                ],
+                [
+                  117.198207,
+                  39.133251
+                ],
+                [
+                  117.197986,
+                  39.133299
+                ],
+                [
+                  117.197912,
+                  39.133316
+                ],
+                [
+                  117.197431,
+                  39.133459
+                ]
+              ]
+            },
+            {
+              "road": "",
+              "instruction": "向北步行5米到达目的地",
+              "time": 4,
+              "distance": 5,
+              "nodes": [
+                [
+                  117.197426,
+                  39.133459
+                ],
+                [
+                  117.197448,
+                  39.133507
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 287,
+          "distance": 1196,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 1433,
+          "distance": 963,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 308,
+              "instruction": "步行208米到达天津站码头",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 1096,
+              "instruction": "乘坐352路海河风景线(津塔公交站--津塔公交站)途径0站到达北安桥",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "352路海河风景线(津塔公交站--津塔公交站)"
+                }
+              ]
+            },
+            {
+              "time": 29,
+              "instruction": "步行30米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "from": "意式风情街",
+      "to": "天津之眼",
+      "options": {
+        "walk": {
+          "status": "complete",
+          "time": 2177,
+          "distance": 2721,
+          "steps": [
+            {
+              "road": "",
+              "instruction": "向南步行5米右转",
+              "time": 4,
+              "distance": 5,
+              "nodes": [
+                [
+                  117.197448,
+                  39.133507
+                ],
+                [
+                  117.197431,
+                  39.133464
+                ]
+              ]
+            },
+            {
+              "road": "博爱道",
+              "instruction": "沿博爱道向西步行157米右转",
+              "time": 126,
+              "distance": 157,
+              "nodes": [
+                [
+                  117.197426,
+                  39.133459
+                ],
+                [
+                  117.197313,
+                  39.13349
+                ],
+                [
+                  117.197313,
+                  39.13349
+                ],
+                [
+                  117.196315,
+                  39.133793
+                ],
+                [
+                  117.196315,
+                  39.133793
+                ],
+                [
+                  117.195838,
+                  39.133932
+                ],
+                [
+                  117.195838,
+                  39.133932
+                ],
+                [
+                  117.195703,
+                  39.133954
+                ]
+              ]
+            },
+            {
+              "road": "平安街",
+              "instruction": "沿平安街向北步行755米左转",
+              "time": 604,
+              "distance": 755,
+              "nodes": [
+                [
+                  117.195699,
+                  39.133954
+                ],
+                [
+                  117.195786,
+                  39.134054
+                ],
+                [
+                  117.195786,
+                  39.134054
+                ],
+                [
+                  117.19599,
+                  39.134323
+                ],
+                [
+                  117.196059,
+                  39.134497
+                ],
+                [
+                  117.196059,
+                  39.134497
+                ],
+                [
+                  117.196085,
+                  39.134618
+                ],
+                [
+                  117.196128,
+                  39.13503
+                ],
+                [
+                  117.196128,
+                  39.13503
+                ],
+                [
+                  117.196128,
+                  39.135126
+                ],
+                [
+                  117.196128,
+                  39.135126
+                ],
+                [
+                  117.196198,
+                  39.136315
+                ],
+                [
+                  117.196198,
+                  39.136315
+                ],
+                [
+                  117.196207,
+                  39.136758
+                ],
+                [
+                  117.196207,
+                  39.136758
+                ],
+                [
+                  117.19622,
+                  39.136944
+                ],
+                [
+                  117.19622,
+                  39.136944
+                ],
+                [
+                  117.196241,
+                  39.137161
+                ],
+                [
+                  117.196241,
+                  39.137161
+                ],
+                [
+                  117.196289,
+                  39.137661
+                ],
+                [
+                  117.196289,
+                  39.137661
+                ],
+                [
+                  117.196298,
+                  39.137752
+                ],
+                [
+                  117.196298,
+                  39.137752
+                ],
+                [
+                  117.196332,
+                  39.138194
+                ],
+                [
+                  117.196332,
+                  39.138194
+                ],
+                [
+                  117.196354,
+                  39.138433
+                ],
+                [
+                  117.196354,
+                  39.138433
+                ],
+                [
+                  117.196385,
+                  39.138906
+                ],
+                [
+                  117.196385,
+                  39.138906
+                ],
+                [
+                  117.196406,
+                  39.139219
+                ],
+                [
+                  117.196406,
+                  39.139219
+                ],
+                [
+                  117.196424,
+                  39.139462
+                ],
+                [
+                  117.196424,
+                  39.139462
+                ],
+                [
+                  117.196454,
+                  39.139874
+                ],
+                [
+                  117.196454,
+                  39.139874
+                ],
+                [
+                  117.196454,
+                  39.139935
+                ],
+                [
+                  117.196454,
+                  39.139935
+                ],
+                [
+                  117.196493,
+                  39.140451
+                ],
+                [
+                  117.196493,
+                  39.140451
+                ],
+                [
+                  117.196497,
+                  39.14076
+                ]
+              ]
+            },
+            {
+              "road": "海河东路",
+              "instruction": "沿海河东路向西北步行106米向右前方行走",
+              "time": 85,
+              "distance": 106,
+              "nodes": [
+                [
+                  117.196497,
+                  39.14076
+                ],
+                [
+                  117.195998,
+                  39.140929
+                ],
+                [
+                  117.195998,
+                  39.140929
+                ],
+                [
+                  117.195616,
+                  39.141076
+                ],
+                [
+                  117.195616,
+                  39.141076
+                ],
+                [
+                  117.195495,
+                  39.141141
+                ],
+                [
+                  117.195417,
+                  39.14122
+                ]
+              ]
+            },
+            {
+              "road": "海河东路",
+              "instruction": "沿海河东路向西北步行1698米左转到达目的地",
+              "time": 1358,
+              "distance": 1698,
+              "nodes": [
+                [
+                  117.195412,
+                  39.14122
+                ],
+                [
+                  117.195382,
+                  39.141298
+                ],
+                [
+                  117.195365,
+                  39.141463
+                ],
+                [
+                  117.195503,
+                  39.142639
+                ],
+                [
+                  117.195503,
+                  39.142639
+                ],
+                [
+                  117.195629,
+                  39.143624
+                ],
+                [
+                  117.195629,
+                  39.143624
+                ],
+                [
+                  117.195638,
+                  39.143707
+                ],
+                [
+                  117.195638,
+                  39.143707
+                ],
+                [
+                  117.195699,
+                  39.144171
+                ],
+                [
+                  117.195699,
+                  39.144171
+                ],
+                [
+                  117.195716,
+                  39.144284
+                ],
+                [
+                  117.195742,
+                  39.144505
+                ],
+                [
+                  117.195742,
+                  39.144505
+                ],
+                [
+                  117.195786,
+                  39.144865
+                ],
+                [
+                  117.195786,
+                  39.144865
+                ],
+                [
+                  117.195816,
+                  39.145243
+                ],
+                [
+                  117.195816,
+                  39.145499
+                ],
+                [
+                  117.195799,
+                  39.145707
+                ],
+                [
+                  117.195738,
+                  39.146016
+                ],
+                [
+                  117.195599,
+                  39.146437
+                ],
+                [
+                  117.195456,
+                  39.146732
+                ],
+                [
+                  117.195356,
+                  39.146897
+                ],
+                [
+                  117.195356,
+                  39.146897
+                ],
+                [
+                  117.195165,
+                  39.147209
+                ],
+                [
+                  117.195165,
+                  39.147209
+                ],
+                [
+                  117.195091,
+                  39.1473
+                ],
+                [
+                  117.195091,
+                  39.1473
+                ],
+                [
+                  117.194688,
+                  39.147786
+                ],
+                [
+                  117.194688,
+                  39.147786
+                ],
+                [
+                  117.194596,
+                  39.147895
+                ],
+                [
+                  117.194596,
+                  39.147895
+                ],
+                [
+                  117.194258,
+                  39.148264
+                ],
+                [
+                  117.193984,
+                  39.148533
+                ],
+                [
+                  117.193589,
+                  39.148893
+                ],
+                [
+                  117.193589,
+                  39.148893
+                ],
+                [
+                  117.192409,
+                  39.149809
+                ],
+                [
+                  117.192409,
+                  39.149809
+                ],
+                [
+                  117.192313,
+                  39.149887
+                ],
+                [
+                  117.192109,
+                  39.150004
+                ],
+                [
+                  117.192109,
+                  39.150004
+                ],
+                [
+                  117.191866,
+                  39.150174
+                ],
+                [
+                  117.191866,
+                  39.150174
+                ],
+                [
+                  117.191402,
+                  39.150512
+                ],
+                [
+                  117.190981,
+                  39.150872
+                ],
+                [
+                  117.190981,
+                  39.150872
+                ],
+                [
+                  117.19089,
+                  39.150959
+                ],
+                [
+                  117.19089,
+                  39.150959
+                ],
+                [
+                  117.190339,
+                  39.15158
+                ],
+                [
+                  117.190061,
+                  39.151984
+                ],
+                [
+                  117.190061,
+                  39.151984
+                ],
+                [
+                  117.19003,
+                  39.152018
+                ],
+                [
+                  117.19003,
+                  39.152018
+                ],
+                [
+                  117.189896,
+                  39.152196
+                ],
+                [
+                  117.189896,
+                  39.152196
+                ],
+                [
+                  117.18954,
+                  39.152674
+                ],
+                [
+                  117.18954,
+                  39.152674
+                ],
+                [
+                  117.189388,
+                  39.152847
+                ],
+                [
+                  117.188832,
+                  39.153433
+                ],
+                [
+                  117.188832,
+                  39.153433
+                ],
+                [
+                  117.188793,
+                  39.153472
+                ],
+                [
+                  117.188793,
+                  39.153472
+                ],
+                [
+                  117.188607,
+                  39.153668
+                ],
+                [
+                  117.188607,
+                  39.153668
+                ],
+                [
+                  117.187817,
+                  39.154466
+                ],
+                [
+                  117.187817,
+                  39.154466
+                ],
+                [
+                  117.187808,
+                  39.154466
+                ],
+                [
+                  117.187808,
+                  39.154466
+                ]
+              ]
+            }
+          ],
+          "segments": []
+        },
+        "cycle": {
+          "status": "complete",
+          "time": 693,
+          "distance": 2887,
+          "steps": [],
+          "segments": []
+        },
+        "transit": {
+          "status": "complete",
+          "time": 2037,
+          "distance": 3042,
+          "cost": 2,
+          "steps": [],
+          "segments": [
+            {
+              "time": 29,
+              "instruction": "步行30米到达北安桥",
+              "walking": null,
+              "lines": []
+            },
+            {
+              "time": 1814,
+              "instruction": "乘坐352路海河风景线(津塔公交站--津塔公交站)途径1站到达大悲院码头",
+              "walking": null,
+              "lines": [
+                {
+                  "name": "352路海河风景线(津塔公交站--津塔公交站)"
+                }
+              ]
+            },
+            {
+              "time": 194,
+              "instruction": "步行142米到达目的地",
+              "walking": null,
+              "lines": []
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "geographyReviewedAt": "2026-10-13T05:59:49.780Z",
+  "geographyReviewSource": "AMap JS API 2.0 untyped PlaceSearch; manually inspected target candidates",
+  "routeQueriedAt": "2026-10-13T06:04:04.274Z"
+}

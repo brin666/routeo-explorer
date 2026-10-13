@@ -1,0 +1,12 @@
+# 西安 地图底图生成提示词
+
+内置 image_gen；结构图决定空间关系，广州图仅决定风格。
+
+```text
+Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 西安, not a scenic postcard.
+Reference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.
+Place these landmarks at these normalized image positions: 1: Yongning Gate: imposing south city-wall gate tower with inner rectangular barbican and thick grey stone walls, at 69% from left and 83% from top; 2: Guangren Temple: small red/gold Tibetan Buddhist courtyard complex by the north-west city wall, at 13% from left and 18% from top; 3: Guanzhong Academy: historic grey tiled scholarly courtyards south-east of the wall gate, at 76% from left and 78% from top; 4: Beilin Museum: dense traditional halls and cypress courtyards north of south city wall, at 84% from left and 75% from top.
+Geographic context: Keep fortified old-city wall with south wall running east-west near bottom and western wall left. Dense believable old and modern urban fabric inside; do not put a great lake inside the city.
+Use clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.
+No text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.
+```

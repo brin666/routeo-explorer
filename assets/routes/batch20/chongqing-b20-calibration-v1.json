@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-13",
+  "city": "重庆",
+  "slug": "chongqing",
+  "width": 1672,
+  "height": 941,
+  "sourceDetailSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "coordinateSystem": "illustration-pixels",
+  "status": "visual-road-calibration",
+  "artwork": "chongqing-b20-artwork-v1.webp",
+  "markers": [
+    {
+      "name": "临华路",
+      "placeKey": "chongqing.linhua_road",
+      "x": 1400,
+      "y": 809,
+      "labelPlacement": "above-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "枣子岚垭彩色步道",
+      "placeKey": "chongqing.zaozilanya_colored_path",
+      "x": 588,
+      "y": 578,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "少年宫",
+      "placeKey": "chongqing.youth_palace",
+      "x": 757,
+      "y": 917,
+      "labelPlacement": "above-left",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    },
+    {
+      "name": "人民大礼堂",
+      "placeKey": "chongqing.peoples_hall",
+      "x": 313,
+      "y": 449,
+      "labelPlacement": "above-right",
+      "coordinateStatus": "visual-anchor-on-generated-artwork"
+    }
+  ],
+  "route": "M 1400 809 L 1365 836 L 1302 768 L 1278 729 L 1242 659 L 1196 654 L 1130 634 L 1060 620 L 982 608 L 892 599 L 801 595 L 704 588 L 588 578 M 588 578 L 519 568 L 466 564 L 435 630 L 406 690 L 375 746 L 350 797 L 413 841 L 508 870 L 625 895 L 757 917 M 757 917 L 625 895 L 508 870 L 413 841 L 350 797 L 375 746 L 406 690 L 435 630 L 466 564 L 407 531 L 363 491 L 339 459 L 313 449",
+  "segmentPaths": [
+    "M 1400 809 L 1365 836 L 1302 768 L 1278 729 L 1242 659 L 1196 654 L 1130 634 L 1060 620 L 982 608 L 892 599 L 801 595 L 704 588 L 588 578",
+    "M 588 578 L 519 568 L 466 564 L 435 630 L 406 690 L 375 746 L 350 797 L 413 841 L 508 870 L 625 895 L 757 917",
+    "M 757 917 L 625 895 L 508 870 L 413 841 L 350 797 L 375 746 L 406 690 L 435 630 L 466 564 L 407 531 L 363 491 L 339 459 L 313 449"
+  ],
+  "layoutAnchors": {
+    "width": 1200,
+    "height": 675,
+    "anchors": [
+      {
+        "name": "临华路",
+        "placeKey": "chongqing.linhua_road",
+        "poiId": "BZ9VNP00SO",
+        "x": 1010,
+        "y": 456,
+        "landmark": "Linhua Road: stepped densely built hillside lane, concrete old residential buildings"
+      },
+      {
+        "name": "枣子岚垭彩色步道",
+        "placeKey": "chongqing.zaozilanya_colored_path",
+        "poiId": "B0FFHL2CSI",
+        "x": 338,
+        "y": 246,
+        "landmark": "Zaozilanya colorful steps: narrow steep staircase with restrained multicolor risers, lined with trees and old buildings"
+      },
+      {
+        "name": "少年宫",
+        "placeKey": "chongqing.youth_palace",
+        "poiId": "B00170BRLM",
+        "x": 421,
+        "y": 560,
+        "landmark": "Chongqing Youth Palace on Zhongshan Second Road: recognizable civic education complex and small adjacent playground"
+      },
+      {
+        "name": "人民大礼堂",
+        "placeKey": "chongqing.peoples_hall",
+        "poiId": "B00170BPJJ",
+        "x": 160,
+        "y": 120,
+        "landmark": "Great Hall of the People: monumental round green-tiled dome with gold finial and broad plaza"
+      }
+    ]
+  },
+  "generation": {
+    "tool": "built-in image_gen",
+    "generatedOriginal": "C:\\Users\\BL\\.codex\\generated_images\\01a1334a-17ee-7c80-968b-0fecd9e8a713\\exec-5a0a3d6c-e196-4691-b30f-a6c9491bc29d.png",
+    "references": [
+      "chongqing-b20-structure-v1.png",
+      "../guangzhou-map-illustrated-v2.png"
+    ],
+    "prompt": "Create one finely detailed 16:9 north-up bird's-eye illustrated travel MAP of 重庆, not a scenic postcard.\nReference image 1 is the geographic relationship and building placement draft. Preserve the order and relative locations of the numbered anchors, but remove the numbers, labels, point dots and white connecting stroke. Use image 2 only for the existing Routeo hand-painted detailed miniature-city rendering style, not its city layout.\nPlace these landmarks at these normalized image positions: 1: Linhua Road: stepped densely built hillside lane, concrete old residential buildings, at 84% from left and 68% from top; 2: Zaozilanya colorful steps: narrow steep staircase with restrained multicolor risers, lined with trees and old buildings, at 28% from left and 36% from top; 3: Chongqing Youth Palace on Zhongshan Second Road: recognizable civic education complex and small adjacent playground, at 35% from left and 83% from top; 4: Great Hall of the People: monumental round green-tiled dome with gold finial and broad plaza, at 13% from left and 18% from top.\nGeographic context: Yuzhong hilly old city, dramatic stepped residential terraces and winding roads, realistic slope changes. No huge river through these nearby hillside anchors.\nUse clear thin cream-colored real-looking streets and footpaths weaving between recognizable buildings, gardens and appropriate natural boundaries. Street intersections, alleys, building clusters and landscaping must vary in size, orientation and density. Draw landmark architecture large enough to recognize, keeping its entrance/path visible. The composition must read as an overhead city map with a connected road network. Rich but controlled greens, warm cream roads, grey/ochre roofs, turquoise water only where city context calls for it, soft clear daylight, crisp tiny hand-painted architectural details. Full-bleed image with no blank margins.\nNo text, labels, glyphs, route line, dashed path, highlighted itinerary stroke, pins, dots, numbers, compass, legend, watermark, UI or picture frames. No horizon, mountains obscuring roads, giant front-facing scenery, repeated tiled square-block pattern or decorative golden ribbon. The app draws its interactive path separately. Preserve exact landmark count and relationship; generic supporting buildings may fill surrounding areas. Render a finished detailed MAP background.\nOutput a finely detailed landscape raster image in 16:9 aspect ratio. Reference 1 controls geography; reference 2 controls rendering only. Draft connector strokes are approximate relationships, replace them with a believable thin secondary street network. All landmark entrances must have visible road or path access. Strictly no highlighted itinerary line, text or numbered points."
+  },
+  "notes": [
+    "临华路采用画面东侧老居民区阶梯入口；彩色步道采用下端阶梯口。",
+    "生成地标为可识别的概念插画，少年宫从道路前的入口落点；所有段按可见坡路或台阶连接。"
+  ]
+}

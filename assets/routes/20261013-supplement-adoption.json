@@ -1,0 +1,28 @@
+{
+  "updatedAt": "2026-10-13",
+  "collection": "D:\\小红书数据采集\\补齐20261013",
+  "adoptedLandmarkPhotos": 15,
+  "landmarkPhotoCount": 25,
+  "adoptedMenuPhotos": 3,
+  "diningPhotoCount": 18,
+  "priceConflict": {
+    "item": "鹤鸣有机红茶",
+    "values": [
+      20,
+      25
+    ],
+    "unit": "元/杯",
+    "currentPriceVerified": false
+  },
+  "excludedGuidePhotos": [
+    "IFS路线图05为人物摆拍，非电梯内部",
+    "IFS路线图06为人物摆拍，非7楼出口"
+  ],
+  "heldRestaurantCandidates": [
+    "玉林串串香",
+    "茶百道宽窄旗舰",
+    "陈记蛋烘糕"
+  ],
+  "cathedralCurrentRulesVerified": false,
+  "notes": "15张新增照片含14张精选和1张IFS无导航文字照片；馆方存档和游客路径分开，历史假期公告不当现行规则。"
+}
