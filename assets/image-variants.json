@@ -1,0 +1,3566 @@
+{
+  "./assets/routes/b20-reference-photos/beijing/1-6aa93921000000002902f7cb-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/50f0f555fcd0b5cf1891a10d95682955e35b986a8dd4247c24558a335dd82835.webp",
+      "width": 720
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/2138924d577d2086fc2a583575a806103577f0341681e1164efd320c439bc512.webp",
+      "width": 180
+    }
+  },
+  "./assets/routes/b20-reference-photos/beijing/1-6aa93921000000002902f7cb-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/606627359abc94793797850bd1c74427cbad13098d53e5d5a26bdce9c5271a18.webp",
+      "width": 720
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/9547377a6061182e70d3701be71056476635c7b68b8e586d2c730c8ed02b7be2.webp",
+      "width": 180
+    }
+  },
+  "./assets/routes/b20-reference-photos/beijing/2-6aa93921000000002902f7cb-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/b87a1d440fcbc85dbb2d74e9da41c600f0a125f2b2e230f1c337baa3cbcf3c03.webp",
+      "width": 720
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/b495461dc3956a69e859526c83448a5bac7fb5683c4080f4556ba8046a5f5286.webp",
+      "width": 180
+    }
+  },
+  "./assets/routes/b20-reference-photos/beijing/3-6aa93921000000002902f7cb-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/92e965d6aa9ad52e7c19a1f9b9fe59ad7c59098dca8132851e08c94af2c455b6.webp",
+      "width": 720
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/9b5e875b6bd102c40c4c8092f2122c425c78ccb47c7e8cae3d3a86443a1fff5d.webp",
+      "width": 180
+    }
+  },
+  "./assets/routes/b20-reference-photos/beijing/4-6aa93921000000002902f7cb-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/8c78566baf319a93562bb3674bd43253073e1243164fe723078d1e74e6c90e09.webp",
+      "width": 720
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/03a191a35a331d8c9859c7fe45d5c2630bf90a923885256411c25c59332b0b84.webp",
+      "width": 180
+    }
+  },
+  "./assets/routes/b20-reference-photos/changsha/1-69cbf39a0000000021004af7-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/b8701a4e744fb4aa507060abb2f66439d478c38fabb4454296c2d2e339dfb17a.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/d5cb50ee233c780bd197dcfeeea133e57546cf9a5e8e7a08ece0c4bcaf704680.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/changsha/4-69cbf39a0000000021004af7-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/27dfd28c3c8126f3c6decb53f60471e891417bd86a916ac3ee6f25f93bf4cf90.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/f8edbfea482faefe9fa721701f39ea4460d0ba12b722e7cff6157049e5916018.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/changsha/9-69cbf39a0000000021004af7-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/4a3b75f7063c4cf296bb7ba6e375b12bbb7439d90fb7fce3e833ee6107d996a9.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/a09004bb4ebeba2238ea0041ae9bba963c2603af7ea1679b7ae80faa1b493ea5.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/chongqing/2-6aa12ffb000000001103190d-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/968cef3d25227066af68759be584b2b84d99afe2c98a7ed4769727684929c186.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/386b35dc04b92d70a44fd1fce4459a0c60396683b434b16afa2f672d653f8c74.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/chongqing/3-6aa12ffb000000001103190d-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/148e6208f0a2e66519c7177535c2beac23146d4e8e9dc98cbcd5f2c33dad6a1b.webp",
+      "width": 961
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/1cf2bee91f1bae001665c15fc4aa0b0fa428a19ffc6b3afd7e4fd9537b694cd6.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/chongqing/4-6aa12ffb000000001103190d-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/9d12f6cad343bf05258344a6a8011a50ecdaf5f59a82fe9396e35090e32eb247.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/0af95b636254606fba4bb9e6a1940de06c105eba03ccd2b04ea5789d4c24a1fa.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/fuzhou/1-6a9d3a17000000001202461b-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/f38d1c63e53c6641cd03cdfc9e85f47b5650e1d88d64cb13d063c36e5b8e22b6.webp",
+      "width": 964
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/8647419b298f3ea46c0346be858eca57923e662b00a6970fee520596a5443fb5.webp",
+      "width": 241
+    }
+  },
+  "./assets/routes/b20-reference-photos/fuzhou/1-6a9d3a17000000001202461b-2.webp": {
+    "preview": {
+      "height": 964,
+      "image": "./assets/optimized/photos/2c681c12af38ce9e82327c8025ee945482c34c13fab1f02db7d64c3fe34ad09c.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 241,
+      "image": "./assets/optimized/photos/be2824e49dcfdf04b3510baa465851bcdf0736ca7783a09929da5ae09a528de4.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/b20-reference-photos/fuzhou/2-6abb5639000000001b02d265-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/0b43aafa986effb8be5c2c54b24c9a0fdcd996e21831b9052af8b8cfa06f83b1.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/f5d48f52929ed1381723fb577df07c5b961017314a45531f6a4541880fee76c1.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/fuzhou/3-6abb5639000000001b02d265-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/128615a70093fce78007ee742f8225229ffcd7eaa53cd5ec64d7685ca2f20b26.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/b959a46ced2fc66ebcffbc303c07b5516b0dedcc9c36acd533a5b6703fd156c8.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/guangzhou/1-6a5da004000000000c016d15-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/4268aee4f01669051f71703335b8ce0da72af0a55bd08e83798e33d596729d9c.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/e841756740f5c22508c70af5850531125b1fb77bf16cf6c15246e17a19520802.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/guangzhou/1-6a5da004000000000c016d15-2.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/397dbc1309991b464c2a40558054990c2049879eef3018da2771d5185373c00e.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/be87cc0e9b25532135f6d3f6343e5776fd628317a3252ced635ece4a9f5e51c2.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/b20-reference-photos/guiyang/1-6a6c72ac0000000033009c71-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/f9b94ce6f89ae7e3bce6e1b0209716ca2191aa5ebf8c1be7fe726f3f72149fe2.webp",
+      "width": 961
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/1a614cfc0831c8b3f871dcb8f4a1c52a1445a134ae199544a624485e06803650.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/guiyang/1-6a6c72ac0000000033009c71-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/07e4b5c8e97f9c8a06c459b2928a61d128fdf33d290ba8f878ff8c46d9cb3766.webp",
+      "width": 956
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/e18aa8b04a8a2953e65af240cccbb8dbe0dc6fdd3a3ab1c972647cda4f5ae5ba.webp",
+      "width": 239
+    }
+  },
+  "./assets/routes/b20-reference-photos/guiyang/2-6a6c72ac0000000033009c71-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/aaf1e072d2e8891976bf21ad5a6643f93ac96b5232a6b8c079a85377aa839962.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/4eeb5f3e1d74d8143385fc2566e57ad1b439cc276693edf75f012d22efc463dd.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/guiyang/3-6a6c72ac0000000033009c71-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/065cd7e1bc7f909660752cd0c5661dea09ecee2463f1ca2c6e445b2728947cda.webp",
+      "width": 961
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/4b41a72e5dd5c9e4670cfc9b306991bbb7c32627ced9869c0e9fbdbeb8dfdee5.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/guiyang/4-6a6c72ac0000000033009c71-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/7e2a694f6845dd4d62eb705315070bc18c30d1ad009e2b8ec23a900586a0f36a.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/1eb0566e9510d47b1fa6064b41964ae9e4c096ef0a075859b6b42c9eba47cc81.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/guiyang/4-6a6c72ac0000000033009c71-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/2dc3bf603ab3f1a187d7ba96dbbc2b4dc50d85e396a1496017d45b84b0d7fdce.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/135e1dd3f5a788d04e47ed4783f1cb0665d8a52c5ab663fb6eae6b0181bead21.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/guiyang/5-6a6c72ac0000000033009c71-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/b052741ca535b9ae8e241da56a0585f52ee172d26b8afdf4f4e5d4a5931ec592.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/6abeecdaa1b9a97819d8b8500b1fdc5ba574b20d4da03d33e64edf64789fa4b2.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/guiyang/6-6a6c72ac0000000033009c71-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/de45a629521f405636e67f9bad87dd1450123f5b8a67c41f5c61b10e692bb79f.webp",
+      "width": 955
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/40b7811ebf395f0d8c52791c4e721e6c69ef34492173150cbdb4b8338a8051c6.webp",
+      "width": 239
+    }
+  },
+  "./assets/routes/b20-reference-photos/hangzhou/5-6a86f445000000002202ca93-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/e8df84ee7b0c27a2c042151a6375cce9158d4f63fb84d95336b5e5fdd0aec609.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/22a7cff59e42b8ab2c8b534d7a3bed195e861ad758ce19a361f741456d89f9e1.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/jinan/1-6accdb70000000001301b875-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/81e67e51f1eb69fcd69a047ce774cfa59a6b150de3d74db39bf2fffa9e445c7c.webp",
+      "width": 720
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/6d18419fcce79f8d4de524b39198513f7798079d71f74785f3510ecaf14a25ab.webp",
+      "width": 180
+    }
+  },
+  "./assets/routes/b20-reference-photos/jinan/2-6abb7272000000001500094f-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/d3f50e3b84df5ea3d0ce81b31329dab2cb79ee99f6f97676232583ef5f459eff.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/503e52bee2b72016518b6d76f8f412d72897358e5ff9b3cb596940cebf67088a.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/jinan/3-6abb7272000000001500094f-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/a276ffe60bb03e6245b3d7ef9be66169793b6a42c2758606549d87944dc8a588.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/56d46abb1551a7c5469307805ca9d0d2a263ce3e4c6b81e39947c8dcec598412.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/jinan/5-6accdb70000000001301b875-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/fb37c71a42335be889bf77e11ed85420a2b90f70eaaf744d6f610d0f64e461c9.webp",
+      "width": 720
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/f49dc0242b90592b3ae8092964cccb3be8c3c2edf52f1bac85b78e0cd6b9c71e.webp",
+      "width": 180
+    }
+  },
+  "./assets/routes/b20-reference-photos/kunming/1-6a8bf3e20000000028008c83-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/58de4c0607a9381794a09623c5f5513a7849e1a7df6165e8c9e14ac036173761.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/95d5c574b3dd765db5995f9b343e1bd510c29648342db876a500d78c43feff3b.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/kunming/1-6a8bf3e20000000028008c83-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/c053b7bdb3599d05d4ebc8515b90e2b8293be6631782f55bc44c425a02ff122d.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/582b5fa406e4a8383107e9c3b0f99819ea26af01bb3dcb9932b9b660058ac145.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/kunming/4-6a8bf3e20000000028008c83-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/4282c33da02f2cbe83d6dc21759b5203bd181b82fb2fc446a858adfa3402dea4.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/d57e7e95276e06ce0a883c2db471f10e51db273386d11da03dff5a66294b1557.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/b20-reference-photos/luoyang/1-6a54c4f30000000007028fd7-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/262d2ea2b84a86df73cca42318b23ba261b75ae08978c32aafa5bb2789a8d1c9.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/4c894cc58da825fe34dda2ec57b884b5b07c4c580d7668dbf937009115034d67.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/luoyang/1-6a54c4f30000000007028fd7-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/81a174b2a34f61da24db64f951139b978d7f73a6d0c80f003e27d2f9dcd70cd4.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/eb3f84670086c9de0f8bad8a82a5cedeefe7b82ba777f78502ea435bfe3a1f96.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/luoyang/2-6a54c4f30000000007028fd7-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/1a93fe0f0b56672659a30507b6aaee43d8906fb5784ccc784a96b742d947d378.webp",
+      "width": 961
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/fe2f94bf25c7c7fb962b46beb55b22e669e66ed67385f4bc7329174d1623a626.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/luoyang/3-6a54c4f30000000007028fd7-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/9e240d92370704031a74a8dfd8748f9f8d28b3eacfc681a583d41b1102c52f4e.webp",
+      "width": 961
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/d191be87ade4ab89a62cbbd3c277124b735b04ae1688df35c182d881d92764fd.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/nanjing/1-6a890d4c00000000280260c8-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/0a3b149cbdee3b540eab88ee4907fb2975d55e6559a057761166182ad4ccc54f.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/df1a7b5553ed4d75cee17e2201da58d9aac76d86d11feab6d4043adcaf017fd9.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/nanjing/2-69f345f70000000023006d91-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/05d06edb1776a2df11dc71aecdf55916b9a1cfc9dc230202f69a691ef5e368cc.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/81e1652849576dec2808ef6e3ac15d3b624b2f2393586b766473f1c8e1176843.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/b20-reference-photos/nanjing/2-6a890d4c00000000280260c8-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/7b19058bdf59c6309c82837e32a506beba41e9423670774b4cde11a150d52f89.webp",
+      "width": 1066
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/2b3ef5378db0f0c949169770bf794f69361f0237579721888c84cd63e711f271.webp",
+      "width": 266
+    }
+  },
+  "./assets/routes/b20-reference-photos/nanjing/3-69f345f70000000023006d91-2.webp": {
+    "preview": {
+      "height": 853,
+      "image": "./assets/optimized/photos/7b255c64853b121d6bfded278f9b7aed2c9d76b4a54d558bbe0b7938ffbe044e.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/08f73de54f2baf1fee4e8bc0313b7aff8dee990a215453162ff9c490f742a70a.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/b20-reference-photos/nanjing/3-6a890d4c00000000280260c8-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/11aa513b32cdc48ae381682de49ca10f3fd61291f325ea6a25cde8d80db0f547.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/afe45a528c723773d17022fc9900d1b304cd5fe6471122da1a874a441a7fd626.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/nanjing/4-69f345f70000000023006d91-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/ef8744da3138e674e960e75787f1bef6f9cf08c04e38114fd9931fee7ee1e110.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/d9957ae294b768319cfa59879406a3f19c88997d0b72cf7b938ae357f5d931ea.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/b20-reference-photos/nanjing/4-69f345f70000000023006d91-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/81977149c97a0dd8c4a9f230a0ac7f065722e2105e973b454267dc2fce276365.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/dbcaaf300fc22bca02ae5fa95d58a5d669b13ef136de9cca7badb825330144f4.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/b20-reference-photos/nanjing/5-6a890d4c00000000280260c8-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/3c9588609a4e80bb19757922e8ee76e3e5df61cf661498f3fde6bb793f3a745a.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/c963d3e004640606c8a69b47e2c8d5f676cd4102f74edf906be4b458c8dbe190.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/qingdao/4-6a6b5331000000002500ed3e-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/2aad79a77d2f843bce1ec8dfa689e8827afe5c6826b9be976cf79baf3241fd30.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/550535a6dfd55f17df0e832fcd83e03a04c3bb5b089a219e5a72334e29a71178.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/shanghai/2-69d5ec4400000000230054e8-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/38abeaf762bf5d50c0c565e0bedd1868d3ec0792617a318e03d5337492231554.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/8e4cb0e47499352003b72ccfec0ee4a1abac5390bfbf1805a7fd9847cbfa6ffe.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/shanghai/3-69d5ec4400000000230054e8-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/3847849a04a3010741fd5a692e799139935102a841b01357f308525cbcdd2ae3.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/3348032a3c2ae86a2c3143a2d0cf33ec194a617a795dc0f729fc3cb6a46010ab.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/shanghai/4-69d5ec4400000000230054e8-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/3c93fba67e5cda6552fe687fe36afa9fe4baf2b93b5665fb61998b3df31548b4.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/766f3831effb60c8ce492d9a6280d00d9dc9a810e3dfa55669ac6069b62e04e4.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/shenzhen/1-6a379cbc000000001700b122-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/93138b1dd4d08dc4e77607694e45e73474ac8d5ef31ba4b1e65e60ae037c9895.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/a786c4f6eefddb9846ce75fff5f6ec865f65a27f000d8d170b94be27b9ef4ac9.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/shenzhen/1-6a379cbc000000001700b122-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/205f07b27521836d968aa750859eee0c86bc3c54ce88b5ed15c17b9c58d7eab7.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/9f57f5166e94e9f5920ade5cc02fa0ab5d8c1937557695875683649dfd72348d.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/shenzhen/2-6a379cbc000000001700b122-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/69290185e87e6a880920a62b9774a27498a1ba33ee9bcd7a24b94daae596e174.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/a618ba56cedd73ea05116b59c4c8c3f4e919015d496f318e89a1d77ee973382a.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/shenzhen/3-6a379cbc000000001700b122-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/a0d034bb20206fb9e46a106e95d8ab08abc844b917f72393d50105c1191d7259.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/8e8091ac5815048bc72468a584e3672fb4a63ca482b41ff250fffd9babaacc93.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/shenzhen/3-6a379cbc000000001700b122-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/94533d3a7098c4ed55bfe886c2a5f31c184ffc22bc231cdcd3b3ee640ce7ed45.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/06342bb1a0e76fad01505c4f7595ffcb5c2b0b902b100570c9ad9573da65640e.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/shenzhen/3-6a379cbc000000001700b122-3.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/6dfc3318bbd3045bbaa643f411c0c909d41583d9b24f158ce904a76d518ac370.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/ba045d4623ebeb194ed81587adb65adbd3cc4d50785bd78f384b8b8ddbe3155c.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/tianjin/1-6ab29f96000000001a028797-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/dd98f07111456eafdf75ea66c706474e9d6e210aae7a26606da7a02c51d5074a.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/28ac601887892f8f6d6f4bb3385b2c839c0a76452a796300d48eac16b8adb710.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/tianjin/2-6ab29f96000000001a028797-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/48a16ffbfc0e22856db918127b06a1e50c17b0c7548d93414564a05b6eb18690.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/83e82dce92d0a3d143855257130eca9b3822c6087691fb25ea6c74c3c37f824e.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/tianjin/3-6ab29f96000000001a028797-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/b1e26ee7a77062eda67ea5bbf563ebc5b149d0d6ffedb4e2b5e15d862eb5b3dc.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/2ce8f82c5262a21d27b6f0d98ec949bb4bfd1def6e10a44368562ebde2351f0f.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/tianjin/4-6a6882f0000000001102ef5b-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/ecc9689da5ecc34c4afaf3772f92f143ab81799a154cfe9890f1c134689e4766.webp",
+      "width": 958
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/39fc5b92933f7a1e991d67ca098572bde7a07a7bf017fc79f6ce6ec32de7f1d0.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/tianjin/5-6a6882f0000000001102ef5b-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/23eaa670221ba5a42bb4566f3d27f65ca88880f44b7450f87c655e891e39da0c.webp",
+      "width": 958
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/0b5caf81769541ccd89e0b7395781e2945466b0fae93c3cf28b6b2eee57d44c5.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/tianjin/5-6ab15a7c000000003a021447-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/6e9ba1c84400d6c220fb7102cb24e42dcf747ee660fe02c56a2645e0b394a82b.webp",
+      "width": 768
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/2be433a61747c45b803f78a100cf2868c7a01862bb427a7343919bfb6d6184b6.webp",
+      "width": 192
+    }
+  },
+  "./assets/routes/b20-reference-photos/wuhan/1-6a89541a00000000160086fa-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/976aac6045f943ee168855c9b6fa80cfdedcc1f9631ffbcbcd40fa486948ed96.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/dbcca26188e611c6e2fc917a665c03dfcee2ef746c142fa29ff078544cbb6371.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/b20-reference-photos/wuhan/2-6a89541a00000000160086fa-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/0200e1dea724c68b870d4a75c9c45e9780ea60b389e18a39ba0311bff47d90f7.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/84753d436c0c8e64dfc22c076189ff8cf64446031565c66ed5faa7dd4680db45.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/b20-reference-photos/wuhan/3-6a89541a00000000160086fa-1.webp": {
+    "preview": {
+      "height": 853,
+      "image": "./assets/optimized/photos/fb05b44c942673b8ed110b488d525b5f9d2d8d64d04eceabf589b25a78c45054.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/122513487839055d37c7f1ebcc8ae965e979ee9900a1de0ee8bd52409a27d36d.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/b20-reference-photos/xiamen/1-6a842ba7000000002c006ef5-1.webp": {
+    "preview": {
+      "height": 1275,
+      "image": "./assets/routes/b20-reference-photos/xiamen/1-6a842ba7000000002c006ef5-1.webp",
+      "width": 956
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/15bef7aace9b50525bc5d47653b5904d5924b2d096df05b5139e45ee2120abaa.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/xiamen/2-68ccfc8f00000000130195fc-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/7a1c672ce267448a12dfe1c31d454bcbcef54416a80382a11ec2cf32ae583c8c.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/7e43b2393072247380b56c0870cbe93763f79cc1319570cea2fb211e23baabbf.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/xiamen/4-6a842ba7000000002c006ef5-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/569450e0497672892b929ff737411590b01041c80275dcb3213a3535c50a3ee3.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/4c64bb941aa6f8faa86eccdfb6d22ec647e60ed2653daa996c53b98ec08625a5.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/xiamen/5-69f8752100000000350323f1-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/d1e92a995e2aa6bf062f60096788b80f875b706b04db52fe29bc59c68870846f.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/e4b1fbc3099a6c141fbdedaf2b869eeca78a84deaeb469362731587161e76eed.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/xiamen/5-6a842ba7000000002c006ef5-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/2dba8ca6a2bef442d051eb4d4250b276e9507df835b6a856c0916bd36ea649d9.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/4711304cd468a7f5d516bf9a74c9c278d3fdff4b634d9dd740d7d91b178f32dd.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/xiamen/6-6a842ba7000000002c006ef5-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/c3d7154e9b4ae3bea0edae36df1868db9332b8a4d54f16c4d7ea0c0787a14d84.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/ac4e961178c75fec29cbeb10407852b91460128c58c916557753375343f99eb7.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/xian/1-6a9a8c6d0000000011039b11-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/d687bca7e01663bc31083b64ef57e2904e6900e4e76fc7245faac5c71a6d708d.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/f47fb086a8571cde7ad535792ea9475bc1cae1df705580953a2a36ac7e80ee8c.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/xian/1-6a9a8c6d0000000011039b11-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/883757ee0988fe06687360da6d80672d3b240205a4642fcc236ce68272564f9e.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/e218efc7eaebdd656543814b2c9587b4ad1c2b8e53f015565d1010d5a3b11315.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/xian/2-6a9a8c6d0000000011039b11-1.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/c9d33af021d0c00bfe1a06d98d73abbf247bf00e5890959f3fd17f33b58cdc07.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/c47db1c927e532cf5088dfac2d879d279b6be2af2b416783726692239aa1cae7.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/b20-reference-photos/xian/3-6a9a8c6d0000000011039b11-1.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/36501bf5a811f6006d926215dd06ed7910fda9a82957d34ff06677c0ed730df1.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/ec835038c52264682f1db2d712c7a606d80e0ccbff27d884ae18074d86fcafe9.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/b20-reference-photos/xian/4-6a9a8c6d0000000011039b11-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/8f21bce5e3ed3aff8185bcceb783ab7be1d430d2ed00a48bacbc8885e47d1e25.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/2c262f7cc666bab51a0863c40efc0030f103d6868d5054b706932d20816d48f7.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/b20-reference-photos/xian/4-6a9a8c6d0000000011039b11-2.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/aa0dbfe67d8a84ea7f2526b9388764b259f0d77d7bb839d435793cfa21203576.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/e9a88ff56046a45fce3b46ca93b8dd19521504fb3591bc51b073655a4545183a.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/beijing/3939d281f8d87a8c.jpg": {
+    "preview": {
+      "height": 853,
+      "image": "./assets/optimized/photos/efb6eb03e51622b6f40dd1e8e0d60c1e15bb38acbb11b51432779ac3668897c2.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/665dbdfe14a982e40d736e9877067eb32fc1710885cbe4f7d4069cf2a5f859d2.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/beijing/78da37fb798cf48a.jpg": {
+    "preview": {
+      "height": 853,
+      "image": "./assets/optimized/photos/3cd4754dbb1f355aa853ecb9f2ad637cd397f5c9dccf1b6c5c31210260cc3e55.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/e467ad55e3670d0ced02a2705f7f4d1b2ebeed14e82f00ad1358500dc7b849e8.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/beijing/89a15bf680a70f07.jpg": {
+    "preview": {
+      "height": 853,
+      "image": "./assets/optimized/photos/d095d7ca757d4122d854d1f3d50daceabb4630c34735d320360b8adaa7a56120.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/ccaebcffbe518aacc115e95d644b2cbfa262d2981196652f41e5ed8cbc8cfa1a.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/changsha/14732b337638f88d.png": {
+    "preview": {
+      "height": 1027,
+      "image": "./assets/routes/batch01-dining-reference-photos/changsha/14732b337638f88d.png",
+      "width": 1080
+    },
+    "thumbnail": {
+      "height": 304,
+      "image": "./assets/optimized/photos/724d65ea3fd14fd1380ab6e6a9d7978fafd022b648578de6158738ba55284024.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/changsha/c061e5abdc7336e8.jpg": {
+    "preview": {
+      "height": 810,
+      "image": "./assets/routes/batch01-dining-reference-photos/changsha/c061e5abdc7336e8.jpg",
+      "width": 1080
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/a8b5a7032601186840ffc8b79483c98ddec454e2a4aef9bf3b523c480fbe7ce3.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/chongqing/cb950b1bfd366705.jpg": {
+    "preview": {
+      "height": 675,
+      "image": "./assets/routes/batch01-dining-reference-photos/chongqing/cb950b1bfd366705.jpg",
+      "width": 1200
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/bc856933d77c54744c2d9ab53e20852e9e1fcd3ffc8d7d8fdce50a0a652a98e1.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/chongqing/ce3857c4709f0218.jpg": {
+    "preview": {
+      "height": 230,
+      "image": "./assets/routes/batch01-dining-reference-photos/chongqing/ce3857c4709f0218.jpg",
+      "width": 340
+    },
+    "thumbnail": {
+      "height": 216,
+      "image": "./assets/optimized/photos/636c2bebe9b62470d976740cd7bba8a1761561a2abebecb13a493336557084a9.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/chongqing/e7e6fc91a6faf4f8.jpg": {
+    "preview": {
+      "height": 230,
+      "image": "./assets/routes/batch01-dining-reference-photos/chongqing/e7e6fc91a6faf4f8.jpg",
+      "width": 340
+    },
+    "thumbnail": {
+      "height": 216,
+      "image": "./assets/optimized/photos/2f5d82c81fc4cc02db51ad2e143d9632d319659ac70832310f0b8591b6591404.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/fuzhou/606051a3d6549b04.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-dining-reference-photos/fuzhou/606051a3d6549b04.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/ac62a9a4d3d80dce3ad26c174f890cf020f9667c6d7a35f8ba3f683b2f8ea7b2.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/fuzhou/b2ac8c1661f393a3.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-dining-reference-photos/fuzhou/b2ac8c1661f393a3.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/c50158c449904940f85ff93e303841bbb5c7758bfe3d28b47621c9f47f4b84f3.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/fuzhou/dd2bc5ddeea7d59b.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-dining-reference-photos/fuzhou/dd2bc5ddeea7d59b.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/696a6e35d29c6c16a5617610a7106482dbb99632ae258cee227e18de31bba86b.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou-legacy/7bee914f696ea011.jpg": {
+    "preview": {
+      "height": 480,
+      "image": "./assets/routes/batch01-dining-reference-photos/guangzhou-legacy/7bee914f696ea011.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/2179aadb544de4a407a575c1a8c8f500e8a48601395110dc3a0bfc9a699bd197.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou/229eb00b151ae06f.webp": {
+    "preview": {
+      "height": 640,
+      "image": "./assets/routes/batch01-dining-reference-photos/guangzhou/229eb00b151ae06f.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/d333cb50edf4c2b1543a49bfca102b8e4573ccb731f85d26b14092561b0cf276.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou/2ebab010c10ca4b7.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/d16714be9c6e0ab7d7203bffcd2ba1b5e5a41314d47b132b66714dac62f1bba3.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/326799a94f0d6521d9da5e19872cf2fdf2be8452ff10b1fcaa6be05f3260feb5.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou/6aa03f2c107eb891.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/7c0ea9f6ade21c90d45c51e99a99cd5dda96a002fe1e03467aa210027d4b8931.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/df0cff50448cb7be55100a27bc0e2c6ceef97bd0076ffd8310647ade92ecc86a.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou/70a40ad6d011850f.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/9845f36e5182b6d32c76b04fc9f61245472a17671e2c211f00da0fb95c7c9fae.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/6bbd8ff6b54514c38eeddab436c484d80874cdb16ad72ddc6baf8adea4704741.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou/aed1a37bf1e9585d.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/008452d8af1129d6647292da7d2ff87bdb88d518b9e141ac21322d5368db2efb.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/3c8dc3c96d1178aa8de8c4cfad0ca9d6e4d11cfd9af13129f9fdbeeafaa2d8fd.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou/b3e84073bdfd9321.webp": {
+    "preview": {
+      "height": 480,
+      "image": "./assets/routes/batch01-dining-reference-photos/guangzhou/b3e84073bdfd9321.webp",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/93df6e11162aa4c5e0d6fe49ed24655a33f8e56c67b5ffb0a7909409303cb6ef.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou/dfe6179d6806b286.webp": {
+    "preview": {
+      "height": 480,
+      "image": "./assets/routes/batch01-dining-reference-photos/guangzhou/dfe6179d6806b286.webp",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/b5c298fa04f13b1e1d0d2e5b5792398be511b8dc423ac21a1d254778e5ef9963.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou/f000dd50aa1d8069.webp": {
+    "preview": {
+      "height": 480,
+      "image": "./assets/routes/batch01-dining-reference-photos/guangzhou/f000dd50aa1d8069.webp",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/1973a6e579b21d97b990a6f9a297a2dd4116151255f7ab96d05f6984161aa2da.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guangzhou/f4f5b3db44319d58.webp": {
+    "preview": {
+      "height": 640,
+      "image": "./assets/routes/batch01-dining-reference-photos/guangzhou/f4f5b3db44319d58.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/da461e411ddb797baac0508487b60a543909871424e0d7a755e717c319bfe8b4.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guiyang/d00757cf070c0cc6.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/e0de80c74616461e83bae95b45294b11952710e335675a38d9739f721dfb74f0.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/80236c9bf13ff71027214d804e63c22944e99effd4b7480da6d871b18eafbb10.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/guiyang/ea8bae02ed971160.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/bd179bc93a9d349425d4019c23cbc12d01130acc6d023c7f14d68346fd6b3294.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/b5bbf51b40532e6badb20810e6cac38e2c9cdf1a470acece403d7e41d843a53c.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/hangzhou/bbefb32ccc34ebc1.jpg": {
+    "preview": {
+      "height": 800,
+      "image": "./assets/routes/batch01-dining-reference-photos/hangzhou/bbefb32ccc34ebc1.jpg",
+      "width": 1200
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/a8dfa36f22e0a0d4e710954c1fe97565e80d4608d278155c173f4a139d321c13.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/hangzhou/e99f334ed2de2b61.jpg": {
+    "preview": {
+      "height": 800,
+      "image": "./assets/routes/batch01-dining-reference-photos/hangzhou/e99f334ed2de2b61.jpg",
+      "width": 1200
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/3b263a9545ed4e7b04b521fdd8098eb63ddea9011bc52316583a53bb66756d28.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/hangzhou/fbcd65d6cfd0cb52.jpg": {
+    "preview": {
+      "height": 750,
+      "image": "./assets/routes/batch01-dining-reference-photos/hangzhou/fbcd65d6cfd0cb52.jpg",
+      "width": 1124
+    },
+    "thumbnail": {
+      "height": 214,
+      "image": "./assets/optimized/photos/8637bc34b7316f37807bb24fa03af88fa20fb3648b497d213f697eeb8712a26d.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/jinan/75400a5946b6e5ee.jpg": {
+    "preview": {
+      "height": 640,
+      "image": "./assets/routes/batch01-dining-reference-photos/jinan/75400a5946b6e5ee.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/00ec446031b9fecd89ae67a0a9b287276a7063e3547c50393e1040149fe2faba.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/jinan/7d9ac0394c1795f5.jpg": {
+    "preview": {
+      "height": 480,
+      "image": "./assets/routes/batch01-dining-reference-photos/jinan/7d9ac0394c1795f5.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/ac49d0d882af4ee33006dab1c57e263bce4ea2f97e96c9c97d6b9c391db3247f.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/jinan/a03e4717a0e2adc5.jpg": {
+    "preview": {
+      "height": 640,
+      "image": "./assets/routes/batch01-dining-reference-photos/jinan/a03e4717a0e2adc5.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/c0f6faef146a4001e69a7920057c1468ebffd13e34e274f47674686f40bf939c.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/jinan/e76a132f1a1ef8af.jpg": {
+    "preview": {
+      "height": 640,
+      "image": "./assets/routes/batch01-dining-reference-photos/jinan/e76a132f1a1ef8af.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/f340f4f9b606d47c86e511b8e2245e77af8f9503026bb055f44953710b7920b4.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/luoyang/1dade31a69c8269e.jpg": {
+    "preview": {
+      "height": 441,
+      "image": "./assets/routes/batch01-dining-reference-photos/luoyang/1dade31a69c8269e.jpg",
+      "width": 671
+    },
+    "thumbnail": {
+      "height": 210,
+      "image": "./assets/optimized/photos/3e92a2cf5a175f055d1cf863bf5e4a9cf8270899d92002aabb3f8d4c08aa4193.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/luoyang/20b2c87bad330edc.jpg": {
+    "preview": {
+      "height": 600,
+      "image": "./assets/routes/batch01-dining-reference-photos/luoyang/20b2c87bad330edc.jpg",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 200,
+      "image": "./assets/optimized/photos/16586691e13bd74a918188043f8c1d70807347b78cc638fd3ff3bec6c9df776d.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/luoyang/565c8fdf9c41df62.jpg": {
+    "preview": {
+      "height": 600,
+      "image": "./assets/routes/batch01-dining-reference-photos/luoyang/565c8fdf9c41df62.jpg",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 200,
+      "image": "./assets/optimized/photos/881e613a676d314ae680af1dca435feca2839ebfc989c8d803dfd45a22a3475c.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/nanjing-legacy/6ec5e22796508ee6.jpg": {
+    "preview": {
+      "height": 853,
+      "image": "./assets/routes/batch01-dining-reference-photos/nanjing-legacy/6ec5e22796508ee6.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/d930b28d1d37436aa0e6d66fd1c05a1c9ebe333846fd2a3045b86acedaf2ae22.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/nanjing-legacy/d03a75b3ab1f1689.jpg": {
+    "preview": {
+      "height": 480,
+      "image": "./assets/routes/batch01-dining-reference-photos/nanjing-legacy/d03a75b3ab1f1689.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/0738ac9a43c32a071b3fe7df0834057bbc2df234cc091ef6ec6783aea430cc31.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/nanjing-legacy/e449ca815169bc7a.jpg": {
+    "preview": {
+      "height": 853,
+      "image": "./assets/routes/batch01-dining-reference-photos/nanjing-legacy/e449ca815169bc7a.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/54132870dc6559072d98c3eb35715e881c461971e2aba336f48649dc02f278b5.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/nanjing/17248f436b419ad2.jpg": {
+    "preview": {
+      "height": 358,
+      "image": "./assets/routes/batch01-dining-reference-photos/nanjing/17248f436b419ad2.jpg",
+      "width": 454
+    },
+    "thumbnail": {
+      "height": 252,
+      "image": "./assets/optimized/photos/6a2ecd8c58b32ace3a09c281d235d48e4ac39519e5ce0ab6cd2e545c01fafe0b.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/nanjing/583df7d97c1b94a5.jpg": {
+    "preview": {
+      "height": 675,
+      "image": "./assets/routes/batch01-dining-reference-photos/nanjing/583df7d97c1b94a5.jpg",
+      "width": 1200
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/3cc43db9a12f316c93757e0010e3e813f1d186ae22f21d29168f297af49d9922.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/nanjing/6814e02599c3cd7e.jpg": {
+    "preview": {
+      "height": 358,
+      "image": "./assets/routes/batch01-dining-reference-photos/nanjing/6814e02599c3cd7e.jpg",
+      "width": 454
+    },
+    "thumbnail": {
+      "height": 252,
+      "image": "./assets/optimized/photos/53763a221a4797de4437a5f5107e23c65def4c583d381e9a943a7ea66afcacf7.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/shanghai/5e1c1f6e731e8357.png": {
+    "preview": {
+      "height": 573,
+      "image": "./assets/routes/batch01-dining-reference-photos/shanghai/5e1c1f6e731e8357.png",
+      "width": 837
+    },
+    "thumbnail": {
+      "height": 219,
+      "image": "./assets/optimized/photos/f5084a875f66afc6fa01f68f65601ceb0b9172d5721f9260be06ae61a8d4ca78.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/shanghai/bfe9b3ec60c1a0f5.png": {
+    "preview": {
+      "height": 566,
+      "image": "./assets/routes/batch01-dining-reference-photos/shanghai/bfe9b3ec60c1a0f5.png",
+      "width": 824
+    },
+    "thumbnail": {
+      "height": 220,
+      "image": "./assets/optimized/photos/d166fe9a9a0594f7a7c7ebd1f3f0b9496c00dbae456353d97426420652c5ce07.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/shanghai/e757f1ebeda316bf.png": {
+    "preview": {
+      "height": 572,
+      "image": "./assets/routes/batch01-dining-reference-photos/shanghai/e757f1ebeda316bf.png",
+      "width": 776
+    },
+    "thumbnail": {
+      "height": 236,
+      "image": "./assets/optimized/photos/b19f2518b7aa6f5c66f3aeee521a65029d718cd4b03ed22995c2889dfcc57d86.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/shenzhen/4c47f29e0ec7d292.webp": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-dining-reference-photos/shenzhen/4c47f29e0ec7d292.webp",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/a61e7000b596bae16dc7664234a6aca0045a1a5a8be6a8527d3d63a166f119b9.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/shenzhen/4fbd3a57e5dbebd6.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-dining-reference-photos/shenzhen/4fbd3a57e5dbebd6.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/29675c690ac9928672334ad032593f2a8cb1005084e10da96ee18b5f2f42d74c.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/shenzhen/ea4654850716cc1d.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-dining-reference-photos/shenzhen/ea4654850716cc1d.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/94e78446bffc5a45969d029d2bf30ed3aaa21162213d603b56478b909b53fcfa.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/suzhou/43083a2f03983fc7.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/a59a667fbb7c61e2a27f9143ce8a08b6c060be93e574b7f9837eadc6fc568beb.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/9a57e109cd07735e4e1a84db2fb798f961c4b19f0f129a2658e6af790fbecd28.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/suzhou/6f82ac1fa7f9b17f.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/822615d8988ca460c13328a807364d9f792db3ec33798d5a0e1adae00a197017.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/c3f9c177ab03d85ad11902d3f9b68b18a2b93a0a2999edbb551d097c711dc5a8.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/suzhou/9bbed2174986ecb4.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/2aa7f291187b0c3205652e88a2f15bb4fdf86bf07b8d107f11c89da4e6c1c3b5.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/be97bc51ba098acdfb6814599b65b73231a6345a02a4d785f8700ba47bf3aeaa.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/wuhan/3e86960120dfd1f7.jpg": {
+    "preview": {
+      "height": 358,
+      "image": "./assets/routes/batch01-dining-reference-photos/wuhan/3e86960120dfd1f7.jpg",
+      "width": 454
+    },
+    "thumbnail": {
+      "height": 252,
+      "image": "./assets/optimized/photos/093d5e0040a28f74a54953c96a4962d7a2886fcfc533ecfd6eb117aea409c003.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/wuhan/801a5c97f096e7a2.jpg": {
+    "preview": {
+      "height": 358,
+      "image": "./assets/routes/batch01-dining-reference-photos/wuhan/801a5c97f096e7a2.jpg",
+      "width": 454
+    },
+    "thumbnail": {
+      "height": 252,
+      "image": "./assets/optimized/photos/429b94106e376b671c58ceff3a5f6d6cd8c08fb290a45934fd4d28db407cb7f4.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/wuhan/bedc46ddf3447249.jpg": {
+    "preview": {
+      "height": 675,
+      "image": "./assets/routes/batch01-dining-reference-photos/wuhan/bedc46ddf3447249.jpg",
+      "width": 1200
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/b7506d71ab6afce64b62e39ed070cd8dc372efb3f917f379ab05597e7a59993e.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/xiamen/10b5ac3c6790bafe.jpg": {
+    "preview": {
+      "height": 466,
+      "image": "./assets/routes/batch01-dining-reference-photos/xiamen/10b5ac3c6790bafe.jpg",
+      "width": 700
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/a112ab323eb25c3fe068bb68ca4f587467c70f292c22375a5575f91d10d180e9.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/xiamen/6533e56b4318655d.jpg": {
+    "preview": {
+      "height": 433,
+      "image": "./assets/routes/batch01-dining-reference-photos/xiamen/6533e56b4318655d.jpg",
+      "width": 662
+    },
+    "thumbnail": {
+      "height": 209,
+      "image": "./assets/optimized/photos/e988c870a3693e23924cfb6daa53cbc7c6dcd70803965b3ff5e9607c2dd23b68.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/xiamen/82b2e24a664aa075.jpg": {
+    "preview": {
+      "height": 425,
+      "image": "./assets/routes/batch01-dining-reference-photos/xiamen/82b2e24a664aa075.jpg",
+      "width": 700
+    },
+    "thumbnail": {
+      "height": 194,
+      "image": "./assets/optimized/photos/58d29c1a6b42cd6fe28aaec240c5c996d2c3349a81c23178803998adbbf29a96.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/xian/0758eb148a0811f4.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-dining-reference-photos/xian/0758eb148a0811f4.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/48503a3b9f62699bed8178baf1a04b6ad081d9d1c1aa077ce0213f59193b3ab2.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/xian/5dd37622d1992f4a.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-dining-reference-photos/xian/5dd37622d1992f4a.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/e0d44888b54aff3603f6dd2739749d9f7feeb08702dc53670517fafce95c32e5.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-dining-reference-photos/xian/f5d196badec3a871.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-dining-reference-photos/xian/f5d196badec3a871.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/947c304fc666fd7d08cb24a4545738caa96f1b4af7d3cb54b10cf3fd0ba34875.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/beijing/9f0b2bbcdcccf78d.jpg": {
+    "preview": {
+      "height": 562,
+      "image": "./assets/routes/batch01-reference-photos/beijing/9f0b2bbcdcccf78d.jpg",
+      "width": 1080
+    },
+    "thumbnail": {
+      "height": 167,
+      "image": "./assets/optimized/photos/106c87bebbf6766c93f432f127a9950923d29c37a64d70367cb02b20a307b6d2.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/changsha/05010c697b875611.jpg": {
+    "preview": {
+      "height": 480,
+      "image": "./assets/routes/batch01-reference-photos/changsha/05010c697b875611.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/e26d2dde092564d9eae041821f1717bddfb7896e602aec71a6643f10a096a266.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/changsha/42dcbb8113e30a5f.jpg": {
+    "preview": {
+      "height": 475,
+      "image": "./assets/routes/batch01-reference-photos/changsha/42dcbb8113e30a5f.jpg",
+      "width": 700
+    },
+    "thumbnail": {
+      "height": 217,
+      "image": "./assets/optimized/photos/d8adcfb9fb69a844b195fadc9df6d9acec703e114106d2300db9761b84a9e8fe.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/changsha/655fac28055efa2f.jpg": {
+    "preview": {
+      "height": 344,
+      "image": "./assets/routes/batch01-reference-photos/changsha/655fac28055efa2f.jpg",
+      "width": 510
+    },
+    "thumbnail": {
+      "height": 216,
+      "image": "./assets/optimized/photos/666a10eff4eff9942a8116f77f1d275bf25e0949caa4ef8b3fab264af193177a.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/changsha/9f0065622bd24457.jpg": {
+    "preview": {
+      "height": 600,
+      "image": "./assets/routes/batch01-reference-photos/changsha/9f0065622bd24457.jpg",
+      "width": 800
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/7748d4da7d02ac502e307c70ba835eb384bb2494651e3a3bfa098913e2f794ac.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/changsha/c7c40c4975e6fe39.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/614922940e83fbc88c492f092d4b7ce2d4cce34fb783b91935416faa9f0f7489.webp",
+      "width": 719
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/1b89b04e10af420a1cb668e064791dee39c812cfcfaf9969ad68fa3b5dfb1b1b.webp",
+      "width": 180
+    }
+  },
+  "./assets/routes/batch01-reference-photos/changsha/e0be9f0c53ae4893.jpg": {
+    "preview": {
+      "height": 582,
+      "image": "./assets/routes/batch01-reference-photos/changsha/e0be9f0c53ae4893.jpg",
+      "width": 900
+    },
+    "thumbnail": {
+      "height": 207,
+      "image": "./assets/optimized/photos/d3008970b194afb135146a5055432a79bda56b641d7917f7f65042831cef25c5.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/chengdu/05a79fa9a41b5044.jpg": {
+    "preview": {
+      "height": 367,
+      "image": "./assets/routes/batch01-reference-photos/chengdu/05a79fa9a41b5044.jpg",
+      "width": 550
+    },
+    "thumbnail": {
+      "height": 214,
+      "image": "./assets/optimized/photos/193c48607413bcd0d8d1723814b650c32788d3b1326d96f7145cb11fdc026906.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/chengdu/c96d29ee27b801a7.jpg": {
+    "preview": {
+      "height": 733,
+      "image": "./assets/routes/batch01-reference-photos/chengdu/c96d29ee27b801a7.jpg",
+      "width": 1072
+    },
+    "thumbnail": {
+      "height": 219,
+      "image": "./assets/optimized/photos/927d79108639289b85a9dfdcb7b79b987ceb68b92f5beece745dfbefd0532c64.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/chengdu/eebe759a6227cbec.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/routes/batch01-reference-photos/chengdu/eebe759a6227cbec.jpg",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/21ca87314c13017f5bc6979dfa4514768233acae79406f0acc5a90897aed9b10.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-reference-photos/chengdu/f7d64f536610468c.jpg": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/a8de957bf5f8684180255a58c73a1362236702878883011818ebe9a976f058d8.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/7941ebcaae53b106ca3af8b54babd7b6d2e2a617aac3d2556fcb90837aa83af9.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/guangzhou/0297fa5c0afb5160.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/35e3146284056257ea17de99f41388938bda03dd8a2b207b676f088a02944c33.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/dfc90be3d27c73c00ce2d9f260b933678f092ba0610611e326ffcca74f46d898.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/batch01-reference-photos/guangzhou/5c04932b875501d0.png": {
+    "preview": {
+      "height": 400,
+      "image": "./assets/routes/batch01-reference-photos/guangzhou/5c04932b875501d0.png",
+      "width": 600
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/c803e095537590450788b45e00378beab26b4260722a78d10b177c6d84d3cba7.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/guangzhou/d5c0ebd14356716b.png": {
+    "preview": {
+      "height": 369,
+      "image": "./assets/routes/batch01-reference-photos/guangzhou/d5c0ebd14356716b.png",
+      "width": 554
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/60495971f301d500b2cfba888853092b6d8b32ae1d0be47a1ddeedb1f3e6c611.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/guangzhou/f8cafa4b9c1c8f8e.jpg": {
+    "preview": {
+      "height": 564,
+      "image": "./assets/routes/batch01-reference-photos/guangzhou/f8cafa4b9c1c8f8e.jpg",
+      "width": 925
+    },
+    "thumbnail": {
+      "height": 195,
+      "image": "./assets/optimized/photos/9fe3d3a1a378d65a2422586a0d463e856bc4cd1abd06a5f98f7489bf20f2941d.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/hangzhou/6f7960a4ec1c7882.jpg": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/aa80c1ae2fcdd76af61e69f8b9ef3ac169562c594130a541c22081f503619031.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/1886f6d6306c180171c56290ee2f848ec2dd8c71a9aa69222890783c4861f7a8.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/hangzhou/9acfe560861f5219.jpg": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/3159e0c93c745a5c09147e9283ca940f4e2ff09f0192656b472d7a55efae7394.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/5f1ca223a084ec4e633675e0a785ceff6ceb0603a3e6b5ddc2de4fd3a25ce4ae.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/hangzhou/c6969971dde7faa2.jpg": {
+    "preview": {
+      "height": 853,
+      "image": "./assets/optimized/photos/f6de016f6bfc0cf25d7626b4113ee7f184a2a7b7c2b41b9723d62ec758d8ae03.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/3ca93fe36ba0b5cacb2d442fcd47074a2f9b90e3b96f9941b1880f8240b29429.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/hangzhou/ca6fe36e7bff08d8.jpg": {
+    "preview": {
+      "height": 721,
+      "image": "./assets/routes/batch01-reference-photos/hangzhou/ca6fe36e7bff08d8.jpg",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/c173d9c3d9e81333d6b6bfdf5e5385f01a66f386f92706a5251d8dd96d3e2399.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/hangzhou/db4f2960bf3259f9.jpg": {
+    "preview": {
+      "height": 750,
+      "image": "./assets/routes/batch01-reference-photos/hangzhou/db4f2960bf3259f9.jpg",
+      "width": 500
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/910db98633032419ed92b75301b0e9c1f56d509be642e62de94bf983de41762f.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/batch01-reference-photos/jinan/6209d9ade435d205.png": {
+    "preview": {
+      "height": 682,
+      "image": "./assets/routes/batch01-reference-photos/jinan/6209d9ade435d205.png",
+      "width": 1023
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/2cd13d298362f6dcf1a4ac85a81377141c828f29e4eb622a8c3c2a13f6849098.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/jinan/694dd8d2ce8b3cb9.jpg": {
+    "preview": {
+      "height": 670,
+      "image": "./assets/routes/batch01-reference-photos/jinan/694dd8d2ce8b3cb9.jpg",
+      "width": 893
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/4e9dfe822f8d52ca71d00852da61c8d4b4cabfa4b7f06ea77cbbb55e52fff0e8.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/kunming/3b82d0f77bb7dba8.jpeg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/618760013c709b759da0826ccae325f9087b8e4568330068c5ff98ff1e3660ea.webp",
+      "width": 855
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/d116c256a581edfaff7d91c122f383360098e6fa81a0df5137347374a0345e1e.webp",
+      "width": 214
+    }
+  },
+  "./assets/routes/batch01-reference-photos/kunming/776e54e9be471303.jpeg": {
+    "preview": {
+      "height": 521,
+      "image": "./assets/routes/batch01-reference-photos/kunming/776e54e9be471303.jpeg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 222,
+      "image": "./assets/optimized/photos/0d3980988a89d85376e704306c06d408e1fabe1f1d78475dade76839aa16d463.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/kunming/efb6f256ec8552d1.jpg": {
+    "preview": {
+      "height": 855,
+      "image": "./assets/optimized/photos/21aba9ddbc43b345dea99b435ef8fda388f82bb214e8a9b4ea38d56f68215ee1.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 214,
+      "image": "./assets/optimized/photos/50c26be61fc7fe135de8fc0e7b48a4f928615220b9f1baa8d3ee1c7e82859e5e.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/luoyang/03c9f4537b4d52ca.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/501dc77acb699968320b05ea226cae47d4a1a3353c195e1c28a53bc3a1437dde.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/c090fe6f2a223e8fd78f5b4e3e658ed20aaa9c0042803469cc99b4b84150caa0.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/qingdao/161f13c87918e541.jpeg": {
+    "preview": {
+      "height": 600,
+      "image": "./assets/routes/batch01-reference-photos/qingdao/161f13c87918e541.jpeg",
+      "width": 800
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/e659212c7cd490a5c1017f3c59f804eec4911b18f87f7539161661f36c4cd208.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/qingdao/6227d1d49bb9d27f.jpeg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/batch01-reference-photos/qingdao/6227d1d49bb9d27f.jpeg",
+      "width": 800
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/fcf0eb5acfe80736e1759921a0ab2af84de86a51d9fd11c6b888ea6d6fdd8864.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/qingdao/8b2b7e3b721687c1.jpg": {
+    "preview": {
+      "height": 948,
+      "image": "./assets/optimized/photos/62c49295f54af54b026aaa4e3fbc8ecdb06f753e54971aedfe37f5506942ad9b.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 237,
+      "image": "./assets/optimized/photos/04ec358a6595abeb4af161980944a548a53cc958181ba7fab01fc4642eab3326.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/qingdao/ad094d658607dc67.jpg": {
+    "preview": {
+      "height": 576,
+      "image": "./assets/routes/batch01-reference-photos/qingdao/ad094d658607dc67.jpg",
+      "width": 1024
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/ac4fe6f5ded1a6e2b1731a1dea21e9d7dd123ea6c2ef37ea0bb618afdf7498db.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/shanghai/08a12274e3a748ca.jpg": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/5b74649ae9d42f12313e2bdfffb1e0a08ddedd9122968bab678926fb776befce.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/48917a4ae95bc9232be6fd330a6884d3e97d6e45ff4d74b274b0329c17fa4937.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/suzhou/65573a9244dd603b.jpg": {
+    "preview": {
+      "height": 720,
+      "image": "./assets/optimized/photos/89bead8202947663a220f071217ee89e8fe9fa99f0d0c4302030f776eeac66a4.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/d765fe01eee3cee58467bbddf2f6eb9955bc9335bbe6babc3656291ad9585736.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/suzhou/6e4fd07b4a22db88.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/f7f95a567c8d8b727fb552ea4dabe7e38e9359eb75f84b9c47d74172ae8ca02c.webp",
+      "width": 809
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/21a29b30e570b94221a6c88e34a6e149e87aaf96e504e4a72e1183e827449ea9.webp",
+      "width": 202
+    }
+  },
+  "./assets/routes/batch01-reference-photos/suzhou/88ea8307d4461acf.jpg": {
+    "preview": {
+      "height": 711,
+      "image": "./assets/routes/batch01-reference-photos/suzhou/88ea8307d4461acf.jpg",
+      "width": 1070
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/425b6a67d0caaf9d138ef0cd24733ca2655a9e3d35a9ed86fe5f8f4a0a6463c1.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/suzhou/93353a0eaf05f5df.jpg": {
+    "preview": {
+      "height": 720,
+      "image": "./assets/routes/batch01-reference-photos/suzhou/93353a0eaf05f5df.jpg",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/c8ba220c17a52c5b1fac6eabfd975c3ccc317238457c1ec4ab28cfc5f5ffbad9.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/suzhou/e1da08dcf462a447.jpg": {
+    "preview": {
+      "height": 867,
+      "image": "./assets/optimized/photos/cd6e0da501df8a4c5ae58eea8f40026e3f0d496f4e974e85e7d2c29299232a5b.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 217,
+      "image": "./assets/optimized/photos/63b67cb051dd353081f9ad874b9a330c3d26c8f8e0ffeab562e891eb89344bce.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/wuhan/f078533962f6f454.jpg": {
+    "preview": {
+      "height": 469,
+      "image": "./assets/routes/batch01-reference-photos/wuhan/f078533962f6f454.jpg",
+      "width": 700
+    },
+    "thumbnail": {
+      "height": 214,
+      "image": "./assets/optimized/photos/e2409a93439c4b2bb52580ff7a6bba3f525d6270252fcd5c32812df1fbb623cd.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch01-reference-photos/xiamen/ce168a24f5ebb29e.jpg": {
+    "preview": {
+      "height": 427,
+      "image": "./assets/routes/batch01-reference-photos/xiamen/ce168a24f5ebb29e.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 214,
+      "image": "./assets/optimized/photos/c087f72ec495b5eba54b82957106de317a90863533329c8d380ce78726e88785.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/batch20/beijing-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/560268b94a69f59a4ca4fc111ec4b379fca81257f11bd7b47d53e89b15cf1e94.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/fec8ee49ee6e8a4e3386fc59b608b21bc8162a5d02dcfc92b1bc1482f1bf5499.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/beijing-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/changsha-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/c22c775735a0474b5c0043defc2c14b249eec394c671e8e7956bb1e3d8d6f732.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/0f3c7a9bdfa7bb78e659ce292ba7c9184769336449f12db7a22c772721aec03b.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/changsha-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/chengdu-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/a17b7f2833b9ef22c2c5d5b211dbb153b12931e6e11142e412ac1c3e673fa75d.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/faab81146f9ab5fd0735bbd768b93949a0238ea8815ec0c4c7850e716fa49c22.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/chengdu-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/chongqing-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/a1a3b63c7c4437d7b38b8475fd421af6231ec5293c942c246ffec2fc00339ef3.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/e264732090d215b8e600037c4ce4aaf316bd882b9841bd3649f9cae83a768716.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/chongqing-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/fuzhou-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/db93d262befa64ca5dfd879fbdc3f78afc97dc2363fd47d15b869a29277b42a4.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/5614435ea479380cde1a09776617dd53453e22d49883bf3985ce35ca3e27c3cb.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/fuzhou-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/guangzhou-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/8cbf944073faa7e21cf2f017911a0dcc9680d27ec36f437cd6f990bf03d36cc5.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/6e4b5003fbe04cc706fbc724f016913c2cbb54a94d29d0c30768a36d8e0c6d38.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/guangzhou-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/guiyang-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/bd765150299e300a24608c2e9339a9e4e9521ec050b45400ed9af5d4e77c7e3f.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/4b3a9d1d3b15e9f683eae09c7972748f3315d59e9fa7cfa74113255bdf7e1f26.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/guiyang-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/hangzhou-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/3ccc5f635019f0a9491c05cd1ab019285fd5b1c568dfcf7335ffb85476c19022.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/5c6163e1255e34a6916136d510cff69a3595720789d13adebf1d31c9c3609638.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/hangzhou-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/jinan-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/f02474761ffc6a22463c2029ef9bd04c0852428eaa69ead4c02c794643857e7e.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/d67d88606343243f043c0c7d878f96c106ffebb0b0f630c3542a89503f19e327.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/jinan-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/kunming-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/10b16537248bcaaef790136951da8aedc80080dfdeecbaf9af4e376e856a7659.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/aae5429a349903aa1ad7bc5f183ec04cc2411b65d9fa56df16c7357ad35b7e57.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/kunming-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/luoyang-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/007d22646de162b0a1af643bb81d403ded114b36cfa4810b6df5b02b661504fb.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/7f013a4e931220e91ac4581db54aad43bc03f893e60182e8b8753e8c13ce5d1d.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/luoyang-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/nanjing-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/879d6b691d61d7b493331a0baa9698632d186b96518fe8137e195176a59025ba.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/69b5fb3e82552d3f430cc0898bd31c773cba4e354c01b2bfa8d08a1678738c0d.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/nanjing-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/qingdao-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/c418e258368a422a147c7451615505f648783127f1ece6e79e8562f84529262a.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/4f64a921ea3d501bda49544e8c49ee40afa4e69a8fc01674cd7e328d3bd5e560.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/qingdao-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/shanghai-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/845fb25410673e3788ccfb51923f4cccca4f6116c8bf4da6c5c93b0d0410e83a.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/c41ef909108623dfcec7373901733a8beda57fd89bdc43fa171e7eb990f5d43a.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/shanghai-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/shenzhen-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/d70768f712e8140bc74ff0f8569ee9f672fe60cfb0ee628aeccb3722b5d97112.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/27a2a3f28fba0f22a6c2529db091edd92419da715fdb41b3bd1b0425f9069146.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/shenzhen-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/suzhou-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/a64a10b43d54a025669322403e457934370aff31289385fbf7bdda5d9f8b6e2e.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/71d238830436470749bd5f12aa953e24938154cb27bbe7699a5abd0a98bdcd56.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/suzhou-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/tianjin-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/f04f25df27a9d0055208623e206eed91625bac76d92a264812672132e5f0ec64.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/b17b9c9dcbffe7471325798c6ab378f02ec8b3c1e8a03b67bd250015a13931c8.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/tianjin-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/wuhan-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/80592bddcacde1bd23b013ccb3bf5273f8eff6baa6b716f2a24e95ec720f5e18.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/2ba76c5631a9ba76ad7be6369583dd4472357e04a8523d4e35c0149d64e50c19.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/wuhan-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/xiamen-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/fe2f6d42db6ecd8ac2d0ccc5066fb7f77ad948b1de30fa3e68a63ce3fa75da84.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/abb2b2e22360a379405ad1429b2bd5980f7b2069e3902f727525229dabac4e99.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/xiamen-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/batch20/xian-b20-artwork-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/91d8e28fe66de91d4cbe6b59202c90840280668258047bd16156c0ba6ab8ed9a.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/7d9ec455a5e5cd9addb24a306853845d61b7b98403533d7dc9892217eea6a941.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/routes/batch20/xian-b20-artwork-v1.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-1-entrance-sign.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/0d54e283f77a11c30663d4802de08251be4ff81eccd87fe7df1e0aacaf5f5d41.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/cf018d6f0f96d667612b40f9a93c14b1709f64ab97405aed84d12a7a5bedc365.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-1-photo-02.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/504677ab6ecc7bd6edfa4045e691a60e30b19b6c154766e9f4a95f3f49eed1d3.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/5dded984fabf60412943856dc6e9da3e4f220748e04ac444af691c335936087a.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-1-photo-03.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/0b60fd2bccbfc3c3f29de25e341ee41807c7f2990bc78db6994e392284d64005.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/31aaef9a3c774e56f44c322dc8e706261f6423d9a4c49e66fdf3c4799ba7f157.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-1-photo-04.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/5d38e24e47a4b73bcb36bb5e1153cacfbf3cbfa270a025846703c4a093eaee3e.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/4383e8b0f785382f63ea953121d26e06f63b6c51b2e7760421e897232f8181d8.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-2-heming-roof.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/81f2641dbb0a8df39d4ceff3e4d8f7e8e0a83aad421298b649ec801d44fba17b.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/a46383f304f05bb3ced38b47fcdcfb4c8f90543be7f2dfab24e12bdc2048ee61.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-2-heming-seating.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/48d74c6f85ca50c017e8cb1f19a35ea7f3a5fffa92ea57b2088d372a7c256e2b.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/a83b94ccf78e8f8857a66eb05ca087d4926e99ac2f74656bee922b556dfa1afc.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-2-photo-05.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/a971d3628d7764d5001d89a0ee2868c972c706abdf7c23e29e277b6843255542.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/0ece7e06b6768d4689526938be22c6711521f350ffc2a0e7d6e583a40010f5fb.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-4-photo-01.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/b7bf8f1c4c3c7cf90fa916ed5518518bf9f43921db4204c2e2b28a9a60ba163d.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/31d4c5a1a5c51ec373b00a7e8bb8093a0480444e0ec567fe057d9ceb7429d648.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-4-photo-08.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/54e1e53d7c63e22f2f8737464e837b1cf78c90765d6c7cb867b436b364614ec5.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/cc02e0398ac7e3fe61f6faf92532b9b8c33ddf2faa190ea5bc6e50d2c9ecab20.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/stop-4-roof-garden.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/3cf25d3b724a9838c68c831c8fa78be5120920b142e12fd9175dc550fbf37a4b.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/863bd58c928745e0e76dc8c1958e3523b59e80ceb31d607b2b33e1fca4b857b8.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-01.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/ce9f22c4528d622ab11d8f3f8774f4d8e95a45585280168c3e09c27e049922e5.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/848546c2e7c24acef2c91daefe5e47314ce8af5f7b6b3345d11916359ee1e454.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-02.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/0b13bb724c6cd718fc8c4a29b9e987040b9c288422ac0bf9acbd08dcfd8eb29b.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/7702421fa43f77b5641d157b5a16cc47b1a0fb45702b7799266ddcd626eceaa2.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-03.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/89b7ff56a657cea38a5d520c403f47b8e50bf9c7e3f96c774cd453c4a13d069f.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/9a12a7e20fd25da166ce2a8c3ecbfadfd8c9033693fc9078d463790c0e198880.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-04.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/9815624493059254a63b470e4d7cd0230f054e973ab570dd41f14d891c39bc39.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/0daa8051ca4b2a502af69f4286ee87b6a022605dee7f739ed44b0708b659b847.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-05.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/4c8f7f9ba92ec063b2d6714f08a0c5451ae659d6ff6244f2c96598087ffcdca7.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/84390ea1bd6dc7a9ce2dc6a0f2a851516821e289cee67f31c5aec713245b62cd.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-06.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/5742d471c5c878209939e62d51390117bfc1f4eb2debdb93fbc3ae79494db514.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/82e141c8a671965719f5089f2c0124ed7a6d91c833d08c4528e8e2451ef6f92e.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-07.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/ddb192563bdcfe139f843c9eb967b64a25c36e579033935309c22dfbef5a7883.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/59eb131ad38cc36d3967bbb07fd5297c4d4e619deefd7b7bc4828f1502cd960c.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-08.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/38b66a31f1ad6f8d26f0a6590ea1fcbda23cf9a24761d621bf2c2d47b15075db.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/6b749621680e45e4ab2c1df6a5493a4c971ce100623c0fd559e6c5e713ed8bb3.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-09.webp": {
+    "preview": {
+      "height": 720,
+      "image": "./assets/optimized/photos/caa849997c3eac624ae90ab3254faac6ead32638a298411794dd11d28d915336.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/e7c47f069029194d73755b26c85bfdedde5659c7251b988795e609b0f07f4474.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-10.webp": {
+    "preview": {
+      "height": 720,
+      "image": "./assets/optimized/photos/6a47ea22da41a5001f6f330921a02d4cee9da99751e87ad6c1350be2026ba48b.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/b6c1d6d3f07acb8049a8033fdcfcc15186a99369f6a73e9c977cb0485632592a.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-11.webp": {
+    "preview": {
+      "height": 720,
+      "image": "./assets/optimized/photos/34e9cecde6e73e8a9e48c0bcb9d858d89465f1edf666d7bd5ab2ce14a0d086c5.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/25c7395d59ae8fd35fa2f2f9c3071a88a421b3cbf539bdc3f5fb42ab02cee92f.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-12.webp": {
+    "preview": {
+      "height": 720,
+      "image": "./assets/optimized/photos/3d2859bc854c2de16d1cc28831280813c10ce8701aaebbcd67e75d5ae6badf94.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 180,
+      "image": "./assets/optimized/photos/e47970224eb18323be3f2555dcbe318642c56af679e8cabe4c65dd4062570128.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-13.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/570050c67033fc0a1ba6f933ed93103523bf19cfbddff96f7e60d91137c81ee3.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/ffb17c7e5d8b3875ee1dc05b427f628a040995e1525b50b17b1bab6b461df91b.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-14.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/30276395e8d9582dc835b3158982b9de0e7b441da0648a9d9e3a736d6533b5a7.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/c52e7d2f42ace0a686149a403b333decdc3b7e9a00be564d919a4cbf65953668.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/cd01-reference-photos/supp-20261013-ifs-panda.webp": {
+    "preview": {
+      "height": 1080,
+      "image": "./assets/routes/cd01-reference-photos/supp-20261013-ifs-panda.webp",
+      "width": 1237
+    },
+    "thumbnail": {
+      "height": 279,
+      "image": "./assets/optimized/photos/64f7df20e1e2653ebc0778baee12c5622237877afa1eef756bb8e1850c43505e.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/chengdu-cd01-map-illustrated-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/b078c8b97999deb2831342ad6eaf3d30af0dd0e230db0c6df2d356d5309adaa0.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/42940a98636f5c35f48fad81d24fe80ebe424185ca47953699a7adadd38b1593.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/optimized/maps/312d6a5bcc56d123d737d535f58eaf16fd45bc3b11e2de4a8207d26591e85af7.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-heming-1.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/656e36339be17f6e6386ee442cfa33deb1d597d9fcaba46915f02426604b26bd.webp",
+      "width": 961
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/95f93de95eabcd4fb68dd54c04a023e1c6dfee78181edb7ac4ff7acfd38de91f.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-heming-2.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/9e95f2c18647aee1c02b72bb028c8f1b1625d125385b7fda6182dee64f0e9f82.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/81a0badac92c2dc8b68e45b1a64b082ae261c8f098274d9859eb89d30d79c2e3.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-heming-3.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/6a0e0f4dfd5be327c1d3c12a23e83ce3b49421fac94c8fafbfdd063698c0f6df.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/4bb97d48834efe9a74898d93f099b728d06621c00bbebaff7e625e0cc7628735.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-heming-card20-20261013.webp": {
+    "preview": {
+      "height": 864,
+      "image": "./assets/routes/dining-reference-photos/cd01-heming-card20-20261013.webp",
+      "width": 866
+    },
+    "thumbnail": {
+      "height": 319,
+      "image": "./assets/optimized/photos/90cd5c684b3dde9bc23088d2933f2d2115d9827e925f0cc9b435fa2179961b0b.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-heming-price20-20261013.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/cb8b7443386fcf4a22e634ff47b4cf93dc36364349bfbcba2da4e24f94f69367.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/512701f8665a83637faee0cd17d07f91bbee6574dda3c298121b498f55ac0a00.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-kaojiang-1.jpg": {
+    "preview": {
+      "height": 462,
+      "image": "./assets/routes/dining-reference-photos/cd01-kaojiang-1.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 231,
+      "image": "./assets/optimized/photos/acbdedaebe8761a957bcabe402c9baf9411d286295483b3d63d558be0f5cae2a.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-kaojiang-2.jpg": {
+    "preview": {
+      "height": 388,
+      "image": "./assets/routes/dining-reference-photos/cd01-kaojiang-2.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 194,
+      "image": "./assets/optimized/photos/1090e063ab6b941ed1291ee011a2c46a3f81d342a954cbea6f8c7c8c214016b7.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-kaojiang-3.jpg": {
+    "preview": {
+      "height": 392,
+      "image": "./assets/routes/dining-reference-photos/cd01-kaojiang-3.jpg",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 196,
+      "image": "./assets/optimized/photos/1abf0f083b2aab63419b033140f8d96013389a3a8ce092a76d7e1e7f521c165b.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-kaojiang-4.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/ee7054995b00eb8eb4fba11fc520b92cd9eb06a244397d47319514e1deb0642c.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/af06a443dce56d37d313306379c971c3d3c7f44a393f851ffed2a555b0e2104d.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-yepopo-1.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/cd01-yepopo-1.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/e4960e53c60c3771ec6fcafb975df9a0de4f8013f06511f80f95a2999ff20d2b.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-yepopo-2.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/cd01-yepopo-2.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/8146981286bece2c019f765d07e2a0fac0cd9dbf84326774563475381b596077.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-yepopo-3.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/cd01-yepopo-3.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/331e8b2665ef8d915b86e8df7fecc17ffb07de50cb3bf09a42913da246a8bb4b.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-yepopo-4.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/6af182cf9e49fa9fa9a354e5f0b2c5558c4345d0c5b9f7ad7805c92949527e68.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/23d0f6a728d0ecd07b6364e3b5ae7e542965542fa420f12ae1c02ea9fbab5e82.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-zili-1.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/09c7af278cbb25ba6a2dd546cafe5780df51b49308113779fb12eefbac11f744.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/869506571c0b5353b9e1d4a9029f66055936fe003e7b293b99068dd05986676e.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-zili-2.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/cd01-zili-2.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/3c8b0b726adee5696ad2c110c38cf1301452036a14cfa68032c47a7167740fad.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-zili-3.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/cd01-zili-3.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/e87da67f72e8dc89441c8479a414b45ca83355890ce4ba4af37cdfc4fa085c76.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-zili-4.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/cd01-zili-4.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/8e6e0048604412edce3d291f8665755d889d68e5250d25aeae6ca18acddbb973.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/cd01-zili-menu-supp-20261013.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/bf9748c297c3a648d4956d2d5cd754846ca58bdfc7488449bb5707bfb7f2fb17.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/02ebf7a31b7f7f8bb07d047ec2e981a77bbee7325f85e91933ab048a60c47ca1.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-aponiuza-1.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/gz-aponiuza-1.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/5dec00a0202990b18ef465cd5b49f742dc7024e3e27aed90228245fbd4a050de.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-aponiuza-2.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/gz-aponiuza-2.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/caabc858872bed24e1f30babddc5a1085c497774a78dfc96f2116ca8619f5abb.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-aponiuza-3.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/gz-aponiuza-3.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/0d6ab5af83c4c3a182ca57a940cd8248fb2163470442f166e014d9a58680fdbe.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-nanxin-1.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/25c402cd14bf3af1191872633c976bd87442ef830f74745e0ac805f223be845a.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/e5839651b153a28a1f8023e0679dfa398955d567061e677adf884b6ca322358a.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-nanxin-2.jpg": {
+    "preview": {
+      "height": 411,
+      "image": "./assets/routes/dining-reference-photos/gz-nanxin-2.jpg",
+      "width": 822
+    },
+    "thumbnail": {
+      "height": 160,
+      "image": "./assets/optimized/photos/1fab3f92f8c03a8d72df9a0d8e707ead50bba1f7be2f69bc8b7a766bc4532171.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-nanxin-3.jpg": {
+    "preview": {
+      "height": 257,
+      "image": "./assets/routes/dining-reference-photos/gz-nanxin-3.jpg",
+      "width": 514
+    },
+    "thumbnail": {
+      "height": 160,
+      "image": "./assets/optimized/photos/5768bc82f83364cae01f527b830cf3d2f1d99c2763ae089ea16dd33d78c6e87a.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-nanxin-4.jpg": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/routes/dining-reference-photos/gz-nanxin-4.jpg",
+      "width": 720
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/fc9820d685c562e33d8a84bc1df46e20a89b22417890655e72366ec62ccd9ee7.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-qiaomei-1.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/7d135508e8f257fa1ddb7ddc7e73af94670c2d12ee9047d73f42d2a51509c897.webp",
+      "width": 1001
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/eaa1d63125912d8da85e135d94fa4d5ab8ea75a581f2d0719f19521844bce914.webp",
+      "width": 250
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-qiaomei-2.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/605e8e421d11e7ce8329c7e10fc012506e093e87f5cfd6c988fe4a2d6c28f1f0.webp",
+      "width": 854
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/dcd024a9584b9c3df94a948d63b8949bff47f1a5750ad2b01e44e6c8a3964791.webp",
+      "width": 214
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-qiaomei-3.jpg": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/ea859d903c66fe8e04d4abd92ce0d2c7ebda596c6dccb0172920cda81aaa5510.webp",
+      "width": 854
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/1132fe5295064fd3ae4b69a4d0c993ce1cd0080cd3abd8c0cca5bd4a2bcdec84.webp",
+      "width": 214
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-qiaomei-4.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/gz-qiaomei-4.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/577b189b8bf6602bf1dd8254c44b10ef1e10154c03d60b43fb83a1226d959177.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-taotaoju-1.jpg": {
+    "preview": {
+      "height": 310,
+      "image": "./assets/routes/dining-reference-photos/gz-taotaoju-1.jpg",
+      "width": 383
+    },
+    "thumbnail": {
+      "height": 259,
+      "image": "./assets/optimized/photos/95ea83aa6e9e53d2b1c383d6299fbaf4f8f0ed6a74b5112cc5f25664c4c92761.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-taotaoju-2.jpg": {
+    "preview": {
+      "height": 689,
+      "image": "./assets/routes/dining-reference-photos/gz-taotaoju-2.jpg",
+      "width": 915
+    },
+    "thumbnail": {
+      "height": 241,
+      "image": "./assets/optimized/photos/df0102d223e567a4b484cf3689128cba96bb36bc17e07b5b887558859bae5c4a.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-taotaoju-3.jpg": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/routes/dining-reference-photos/gz-taotaoju-3.jpg",
+      "width": 720
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/bfd300ffb874c064e1ed94a39dd4010d7635691049f8f54ef659d96da546886f.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/dining-reference-photos/gz-taotaoju-4.jpg": {
+    "preview": {
+      "height": 450,
+      "image": "./assets/routes/dining-reference-photos/gz-taotaoju-4.jpg",
+      "width": 750
+    },
+    "thumbnail": {
+      "height": 192,
+      "image": "./assets/optimized/photos/82967d063055313855dd69a87122a2ea99f26a1ee134f6da790f76a8b7acb00e.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/guangzhou-map-illustrated-v2.png": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/98578e92a29ba864b55f2d37eb010a388e057d0684bf570488cafae9e1f61361.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/d04732ecf9c2dd00880470bbc0415e136d5918fd75ec1965c00ccfbce46d1005.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/optimized/maps/b507d928a5371c92ec1104c99f08be0a60383d0c9ccb6018536709fea238ea53.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/nanjing-nj01-map-illustrated-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/206d8a5a9a1e9e6148ce9023f97b944c0efd2e262eabf193c2f6052077aa16ce.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/6d223cdbd5e47b6b18ad28ed8312eedf521c338d1ac15476195b1eeb8b37c94b.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/optimized/maps/7f319c7b83bd4257ea34ec9fd38b2d9273e65699b5edf1295d67519812c8850a.webp",
+      "width": 1672
+    }
+  },
+  "./assets/routes/nj01-reference-photos/dining-jiang-reference-02.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/4bc4132572721c900502874ff4215b27f33c75a22deaa9d42b6b7620b6a7c4e3.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/1bed8dd617efdcedefee2f9456245be0b70c574a7f0350bebb658035653e100c.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/dining-jiang-store-01.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/550eecaeb5b13131feaa00096b8ef6ed8dd4be35a59755e9ed98ac924e155d5a.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/d59e2c6b8b9f113d09daf7f5f919e8a930a91d81449e262833bac1dd859cca54.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/dining-jiang-store-02.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/b44139b4eb6bb51168301d7c09d01f65b258bb77bb9a0465aba4cecc917e03f3.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/696c94bb80c3053230a78514114ce978b72d9d33be47b5e5c8b6e204ab98fbd2.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/dining-jiming-dumplings.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/0b95ac3f547a1f83407af322e261cb7a12ec8a98af849977d799d953f10d5cf0.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/8c6a3f8cb956e1596bdc49ca8a37fa56ccf669201301f991ca39b5303929aca0.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/nj01-reference-photos/dining-jiming-menu-01.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/06c94dfaf5f3381a720155b2f61d9bc3544c0e3112469821f509842630ca571e.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/68bdd25841ce1affd367c3f8f939e9d0ae46f33581b8dd1c8e8f940cc053794b.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/dining-jiming-menu-02.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/568ae6904fc57d0f1a9ab4991b4ab45613081fcb9f48006d592d520903779cc7.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/255c72c1596fa36173df654742bd1f78b36c09b263aa6f0670b10fb34dbe24cd.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/dining-jiming-radish-cake.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/e92ec78d324a82fb6a57fda8284b94b1ac898c8bec04962d406053bfcf005d7f.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/c1aed73de5ba4be4ea0565c11f01a860a60a91d36494c49699b5a4ca9e3e6c38.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/dining-jiming-shopfront.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/868aee72a80700b86f0d189cb78a4c33ba07af7775353f6d1dae578eef531d5c.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/126a53df5b8f1b38abd86f908409c5bb4fcae7a7b326eb830cfff8c5c929e9de.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/nj01-reference-photos/dining-lu-reference-11.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/3323c626fbee98b646bbc011c98ba9a405d4c4f408813382937778f6d4e74f93.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/c3d400d5ff86b5862317b0fcf58faee1fbfc8ab9e005c7350a792c5d57692e81.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-1-additional-author-03.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/424e69bef53a0c41b8ab8b9e685b33566dd4618f6046af68a562bfd19eb87216.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/09b0acc698ed35c3946f91a08c74475f83e3c26f3a8c0d173e0629c8d2083017.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-1-zhonghuamen-06.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/81966ee63255ccfce3fd2d21a5ac2ee36fd3629e776dcad3a45c7585f0e0804c.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/a35c9255d3a31c065332ebaf21e7105b5a1bc96d2362d8171273b1e925062c90.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-1-zhonghuamen-07.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/7a7e98d3f322a0457b0f8a4e11e257809f0e5cabd60490adcc13a0879c250d15.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/5f545105ea51640b2431de2a03af94b9ba862c6f914605902c2b1dd0457e2475.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-1-zhonghuamen-09.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/497b53f3ecc4e5424a9444c6ec69b2b1b8e7cdc5e6414c20dd96fdc693e817ef.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/e885c8800aafa871b5f878221ad5968fe5b0bb9b139288a35150bdb518424c7c.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-2-additional-author-17.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/7de7a90f2ebcef7c35de463dd00d798d63d812ebf3cf40d4e1541479628ca885.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/36115248bd6c0b7ec6b8d935707898990761db81bd00ff99b74ffa63d08c238b.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-2-laomendong-02.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/52dac6790e109e7a43e566c934e393f16db8dac4dda5943d48f9d0417af0e3a9.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/2bda47059c83d8b80398cb1ae0aba4f15fdffcd1d9b42ca184f8015e2e30b146.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-2-laomendong-13.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/bb3d2c5c1c6cd6743d33024b9296aaeb429ed0b6fbe9614b10a76c38d8765e2d.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/fb437ae3f51d07d678159317221506e533453fb9d359d994ee360a6d56904beb.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-2-laomendong-18.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/cd89c832cb566be2cd24d389bcbf39b264a4eadbf14dfbc2ffe81d15764ee4eb.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/5648bc9d1122bf95d2cfc2a5f9bb47cec4f06c6d8f920667bd69e0fde0a6fc11.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-3-fuzimiao-12.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/bf85b94017387ef25e42370f01eb036630ddec180c41b5f25552e51868682474.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/a45f9de1412d40e1b7ede0752ebb0e14a09c187192a4925df2486cbdcffba7b8.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-3-qinhuai-13.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/ff0798ce9f3ded883b0cfbe39286b8fb8a3e833aca50b4216ce18ff941c383ab.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/c658cbd110b268793cfd8067bd66e9111b9bd7a2b5f87320744ff0b661c487c7.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/nj01-reference-photos/stop-3-qinhuai-15.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/ac519e412ad1b908b6bfc28aa694af495863a2c52aca76c8ab957628b467576d.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/db0d6e8e4486563b61ef2d42de0a27f7d12f689f0aba9bebd6eed30671b95d67.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/xa01-reference-photos/dining-babaili-dish-02.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/8001cd7190f04490ef104e98ff757d7dd324ab799e3f2ceb084a439649f6c7a6.webp",
+      "width": 853
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/35b58a0a7dae816eaf5e07f3f2b9a425e8790787ebd2076cbd63d730d11402e1.webp",
+      "width": 213
+    }
+  },
+  "./assets/routes/xa01-reference-photos/dining-babaili-dish-04.webp": {
+    "preview": {
+      "height": 853,
+      "image": "./assets/optimized/photos/de6ac0351c1a832b2db69cc8cc8aad03d3fcd9f36e1526636b8e4f30e790859a.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 213,
+      "image": "./assets/optimized/photos/f3b948397029cbebe8f61d5c3f7a4eefd974f2e3670cb1c241c5700ea9e81f83.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/xa01-reference-photos/dining-yuedexian-dish-01.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/f03c9a8e5ec61873e3523a28d8377f45bd42de8d2ba50efb7ad447c1ba766935.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/30520583feecf8fecfcf51ac283850c87507ccfbb21d422403de8e417557cb93.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/xa01-reference-photos/dining-yuedexian-dish-03.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/064dd9057bc98b02a0f67a51e2e2e6bea06b348e566fe83f4143981ee1f9c564.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/2ddd75ca8c637a3567727d3a22a75c1c0a9b39a163499c4d605c0c56393b738e.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-1-furongyuan-01.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/9db3acdb7a11336b2be306dee09a0a9c0d8db46fd4df151b61899b42aeca88ff.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/cb2f0fe8488c2bed4c3b3d545fa670ff26013fbeb1d0d762b886b78df10c6576.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-1-furongyuan-03.webp": {
+    "preview": {
+      "height": 1150,
+      "image": "./assets/routes/xa01-reference-photos/stop-1-furongyuan-03.webp",
+      "width": 822
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/07517fac5a59f786c9fcad97daad16591871ccb66978519d37341a28ae654ea1.webp",
+      "width": 229
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-1-furongyuan-04.webp": {
+    "preview": {
+      "height": 960,
+      "image": "./assets/optimized/photos/281bb128aba94005db5d5912ed2b74a928dadc95e25689c4ded63146a8e0557a.webp",
+      "width": 1280
+    },
+    "thumbnail": {
+      "height": 240,
+      "image": "./assets/optimized/photos/f899c53308020af7dd5e82334c3dce528eee3791cad2baa96b48116d4c90e2be.webp",
+      "width": 320
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-2-dayanta-03.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/fd36dc9e12a91b5c70f2a7077428df279eb5ee3cb2897267979ce8da71efd5e0.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/f5a6027a52d9596b458bc3eba879d9d7829e91dcc121ea47143fafe8039002d0.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-2-dayanta-04.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/0d3c6a3f189343d9638c2c4f17a89dea7aca4cb6cdfdbc92bc023c80540410e0.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/e7073640faf80b0c9d372de7c58d4556e45016d50380466fe0041bfe5d7e47cb.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-2-dayanta-05.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/b6e1b2cd28381c58dc65d006aa00485d566649a1dc371411b92fb332b4376531.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/5f911d9c018da0cef695deed06726aa683c91b887572a6576997166bcc0a24b4.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-3-additional-author-10.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/d899bc36eb6007b4f16c86134d5fd126611a9c6f8e8c1a3c16a1f4f8e472185d.webp",
+      "width": 589
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/9337212e742f963fe7f206da20c7ad881b3bc0e47f9bc1cd1b69550157bba1aa.webp",
+      "width": 147
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-3-datang-night-13.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/aa4b4424da0569cfd1b68be9e782456634c97a2d161de6c590d99a227b15ab55.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/cf3010e48a3f386084559e5d14599bf395a306c71dfe1a18036c8dfc4a397a84.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-3-datang-night-17.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/144546b6472e9600231501c6ec44d9e89d81a0b18caf3c5afce558f03e9dd0d6.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/9621daf61aff92dbfab434ea9d8b6a2a04c664ff605f00d75349b65c4147f1d7.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/xa01-reference-photos/stop-3-poetry-street-08.webp": {
+    "preview": {
+      "height": 1280,
+      "image": "./assets/optimized/photos/3c09e1a5654a318f77eda4c821685042684fde32637d446ff026e77837abbf34.webp",
+      "width": 960
+    },
+    "thumbnail": {
+      "height": 320,
+      "image": "./assets/optimized/photos/efbf4b1b18b117645dd78cca65321aa6ed2d86680dc2e4d5bcaa3f22f1329ee5.webp",
+      "width": 240
+    }
+  },
+  "./assets/routes/xian-xa01-map-illustrated-v1.webp": {
+    "card": {
+      "height": 810,
+      "image": "./assets/optimized/maps/c79e95146e1441ac62476b32b18e6c7e918ab8ce13c6c9990f81ca55ed34374b.webp",
+      "width": 1440
+    },
+    "cardSmall": {
+      "height": 540,
+      "image": "./assets/optimized/maps/fada337760dc90f4c80a14f0b8ed94a8185c5f127f68ceeef6ad1edb0a745f87.webp",
+      "width": 960
+    },
+    "map": {
+      "height": 941,
+      "image": "./assets/optimized/maps/874ef04c8d3515e5df8e11e44d493495adc127e43020d52f280edff4b72f12bc.webp",
+      "width": 1672
+    }
+  }
+}

@@ -11,17 +11,26 @@ Pushing to `main` runs `.github/workflows/pages.yml` and publishes the static re
 When adding reviewed route assets, run:
 
 ```cmd
+npm ci
 npm run build:pages
 npm run stage:pages-assets
 ```
 
-The second command stages only runtime assets referenced by the active site, including selected photos in otherwise ignored research folders. Review and commit those files together with your code/data changes, then push. Unused local research copies remain ignored. If a React/Remotion source changes, run its corresponding `build:photos` or `build:motion` command first; Pages publishes the committed browser bundles. `dist/pages/release-manifest.json` records the packaged files and their hashes.
+The `stage:pages-assets` command stages only runtime assets referenced by the active site, including selected photos in otherwise ignored research folders. Review and commit those files together with your code/data changes, then push. Unused local research copies remain ignored. If a React/Remotion source changes, run its corresponding `build:photos` or `build:motion` command first; Pages publishes the committed browser bundles. `dist/pages/release-manifest.json` records the packaged files and their hashes.
+
+### First-visit loading
+
+The homepage uses a generated lightweight feed directory. Each route's full guide is a separate lazy module; the story UI loads on navigation. The production build minifies and hashes scripts/styles with Vite. Card maps have responsive WebP sizes, and offscreen map URLs activate only near the viewport. Route pages first display the card-quality map, then upgrade to the full-size map after the introduction appears, keeping the same coordinates and zoom behavior. Remotion initializes after that opening rather than during the first map decode. Photo decks and hover previews use display variants; thumbnails use small variants; enlarged photos and menu dialogs retain the original images and source links.
+
+`routes-data.js` remains the authoritative data source. After changing route data, run `npm run build:runtime` before using the local source server. When adding/changing image assets, regenerate their variants first with `py -3.11 scripts/optimize-images.py` (requires Pillow), and commit `assets/image-variants.json` plus the selected variant files. The Pages workflow installs Node dependencies and regenerates runtime data, but does not run Python or alter originals. Build-size and browser observations are in [the performance handoff](./handoffs/2026-10-14-first-load-optimization.md).
 
 ## Run locally
 
 From this folder run:
 
 ```cmd
+npm ci
+npm run build:runtime
 node server.mjs
 ```
 

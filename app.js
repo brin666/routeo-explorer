@@ -1,7 +1,6 @@
-import { createRouteStoryController } from "./route-story.js";
 import { RouteMapPreview } from "./route-map-preview.js";
 import { FeedTimelinePreview, routeTimelineStops } from "./feed-timeline.js";
-import { ROUTES, JOURNEYS } from "./routes-data.js";
+import { ROUTES, JOURNEYS, ROUTE_LOADERS } from "./feed-data.js";
 
 const routeFeed = document.querySelector("#route-feed");
 const storyView = document.querySelector("#story-view");
@@ -23,6 +22,9 @@ let activeView = "explore";
 let activeRouteStoryController = null;
 let feedScrollY = 0;
 let toastTimer = 0;
+let storyRequest = 0;
+let cardImageObserver;
+const journeyRequests = new Map();
 
 function readSavedRoutes() {
   try {
@@ -65,11 +67,11 @@ function arrowLeftIcon() {
   return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>';
 }
 
-function routeCard(route) {
+function routeCard(route, index) {
   const isSaved = savedRoutes.has(route.id);
   const timelineDescription = routeTimelineStops(route, JOURNEYS[route.id]).map((stop) => `${stop.time} ${stop.name}`).join("，");
   return `<article class="route-card route-card--${route.theme}" data-route-card="${route.id}">
-    <div class="route-card__map" aria-hidden="true">${RouteMapPreview(route)}</div>
+    <div class="route-card__map" aria-hidden="true">${RouteMapPreview(route, { priority: index === 0, deferred: index > 2 })}</div>
     <div class="route-card__scrim" aria-hidden="true"></div>
     <a class="route-card__link" href="#/route/${route.id}" aria-label="打开路线故事：${escapeHtml(route.place)}，${escapeHtml(route.title)}，${route.days}日行程" aria-describedby="route-itinerary-${route.id}">
       <span class="sr-only">查看${escapeHtml(route.title)}路线故事</span>
@@ -161,6 +163,7 @@ function renderFeed() {
   feedCount.textContent = `${String(matches.length).padStart(2, "0")} 条路线`;
   feedTimelinePreview.reset();
   routeFeed.innerHTML = matches.map(routeCard).join("");
+  observeCardImages();
   routeFeed.hidden = matches.length === 0;
   emptyState.hidden = matches.length !== 0;
   document.querySelector("#reset-filters").textContent = activeView === "saved" ? "回到路线探索" : "查看全部路线";
@@ -191,15 +194,56 @@ function toggleSaved(routeId) {
   else renderFeed();
 }
 
-function renderStory(route) {
+function observeCardImages() {
+  cardImageObserver?.disconnect();
+  const images = routeFeed.querySelectorAll("[data-card-src]");
+  const activate = (image) => {
+    if (image.dataset.cardSrcset) image.srcset = image.dataset.cardSrcset;
+    image.src = image.dataset.cardSrc;
+    delete image.dataset.cardSrc;
+    delete image.dataset.cardSrcset;
+  };
+  if (!("IntersectionObserver" in window)) { images.forEach(activate); return; }
+  cardImageObserver = new IntersectionObserver((entries) => {
+    entries.forEach(({ target, isIntersecting }) => {
+      if (!isIntersecting) return;
+      activate(target);
+      cardImageObserver.unobserve(target);
+    });
+  }, { rootMargin: "400px 0px" });
+  images.forEach((image) => cardImageObserver.observe(image));
+}
+
+function loadJourney(id) {
+  if (!journeyRequests.has(id)) {
+    const pending = ROUTE_LOADERS[id]().then((module) => module.default).catch((error) => {
+      journeyRequests.delete(id);
+      throw error;
+    });
+    journeyRequests.set(id, pending);
+  }
+  return journeyRequests.get(id);
+}
+
+async function renderStory(route) {
+  const request = ++storyRequest;
   activeRouteStoryController?.unmount();
   activeRouteStoryController = null;
   if (!route) {
     storyView.innerHTML = `<div class="story-missing"><h1>这条路线暂时不在这里</h1><a href="#/explore">返回路线探索</a></div>`;
     return;
   }
-  activeRouteStoryController = createRouteStoryController(storyView);
-  void activeRouteStoryController.mount(route, ROUTES);
+  storyView.className = "story-view route-story-view route-story-view--illustrated";
+  storyView.innerHTML = `<div class="route-story-root"><div class="route-map-stage"><img class="route-story-loading-image" src="${escapeHtml(route.cardArtwork.image)}" alt="${escapeHtml(route.place)}插画地图" decoding="async" fetchpriority="high"/></div><header class="route-story-nav"><a class="route-story-nav__back" href="#/explore">← 返回首页</a></header><p class="route-map-status" role="status">正在加载这条路线…</p></div>`;
+  try {
+    const [runtime, detail] = await Promise.all([import("./route-story.js"), loadJourney(route.id)]);
+    if (request !== storyRequest) return;
+    activeRouteStoryController = runtime.createRouteStoryController(storyView);
+    void activeRouteStoryController.mount(detail.route, ROUTES, detail.journey);
+  } catch {
+    if (request !== storyRequest) return;
+    storyView.querySelector(".route-map-status").textContent = "路线资料暂时无法加载，请刷新重试或返回首页。";
+  }
 }
 
 function setSettingsOpen(open, sourceButton) {
@@ -233,6 +277,7 @@ function renderApp({ restoreFeed = false } = {}) {
 
   activeRouteStoryController?.unmount();
   activeRouteStoryController = null;
+  storyRequest += 1;
   const previousView = activeView;
   const hash = location.hash.replace(/^#\/?/, "");
   activeView = hash === "saved" ? "saved" : hash === "destinations" ? "destinations" : "explore";

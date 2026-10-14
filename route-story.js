@@ -1,6 +1,5 @@
 import { RouteMap } from "./route-map.js";
 import { HoverImagePreview, RouteCurtain, RouteOpening } from "./route-components.js";
-import { JOURNEYS } from "./routes-data.js";
 
 const INTRO_SPEED = 1.2;
 
@@ -12,11 +11,10 @@ export class RouteStoryController {
     this.destroyed = false;
   }
 
-  async mount(route, allRoutes) {
+  async mount(route, allRoutes, story) {
     this.destroyed = false;
     this.currentRoute = route;
     this.host.replaceChildren();
-    const story = JOURNEYS[route.id];
     if (!story) {
       this.host.innerHTML = `<div class="story-missing"><h1>这条路线暂时还没有地图数据</h1><a href="#/explore">返回路线探索</a></div>`;
       return;
@@ -50,7 +48,7 @@ export class RouteStoryController {
     }));
     this.opening = new RouteOpening(route, story);
     this.root.append(this.opening.element);
-    this.preview = new HoverImagePreview(this.root, route.image);
+    this.preview = new HoverImagePreview(this.root);
     this.curtain = new RouteCurtain(route, story, this.points, allRoutes, {
       onPreview: (index, event) => this.onPreview(index, event),
       onPreviewEnd: () => this.onPreview(-1),
@@ -108,6 +106,8 @@ export class RouteStoryController {
     this.setPhase("opening");
     if (!await this.delay(reduced ? 10 : 120)) return;
     this.opening.reveal();
+    void this.map.upgradeArtwork();
+    this.map.prepareRouteMotion();
     const revealSteps = [["place", 260], ["title", 320], ["details", 320], ["summary", 420]];
     for (const [part, pause] of revealSteps) {
       if (this.destroyed) return;

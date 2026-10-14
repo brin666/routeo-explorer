@@ -5,12 +5,16 @@ function escapeMapText(value) {
 }
 
 export function routeCardArtwork(route) {
-  return route.storyArtwork?.image || route.map.storyImage || route.image;
+  return route.cardArtwork?.image || route.storyArtwork?.image || route.map.storyImage || route.image;
 }
 
-export function RouteMapPreview(route, { story = false } = {}) {
+export function RouteMapPreview(route, { story = false, priority = false, deferred = false } = {}) {
   if (!story) {
-    return `<img class="route-map-preview route-map-preview--card" src="${escapeMapText(routeCardArtwork(route))}" alt="${escapeMapText(route.place)}插画地图底图" loading="lazy" decoding="async" draggable="false"/>`;
+    const artwork = route.cardArtwork;
+    const srcset = artwork ? `${artwork.smallImage} ${artwork.smallWidth}w, ${artwork.image} ${artwork.width}w` : "";
+    const source = deferred ? "data-card-src" : "src";
+    const sourceSet = srcset ? ` ${deferred ? "data-card-srcset" : "srcset"}="${escapeMapText(srcset)}" sizes="(max-width: 760px) calc(100vw - 32px), calc(100vw - 210px)"` : "";
+    return `<img class="route-map-preview route-map-preview--card" ${source}="${escapeMapText(routeCardArtwork(route))}"${sourceSet} alt="${escapeMapText(route.place)}插画地图底图" loading="${priority ? "eager" : "lazy"}" fetchpriority="${priority ? "high" : "auto"}" decoding="async" draggable="false"/>`;
   }
   const map = route.map;
   const geometry = story ? (map.storyMap || map) : map;

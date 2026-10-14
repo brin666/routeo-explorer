@@ -41,5 +41,6 @@ export function collectPagesFiles() {
   add("index.html");
   collectAssets(ROUTES);
   collectAssets(JOURNEYS);
+  collectAssets(JSON.parse(readFileSync(resolve(projectRoot, "assets/runtime/runtime-assets.json"), "utf8")));
   return [...files].sort();
 }

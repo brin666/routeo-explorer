@@ -195,6 +195,7 @@ export class RouteCurtain {
     this.handlers = handlers;
     this.destroyed = false;
     this.isOpen = false;
+    this.photoImagesActivated = false;
     this.photoDeck = null;
     this.onPhotoDeckChange = (index) => {
       if (this.destroyed || this.photoSelectionMode !== "sequence") return;
@@ -384,7 +385,9 @@ export class RouteCurtain {
     if (fallback) {
       fallback.parentElement.hidden = !photo;
       if (photo) {
-        fallback.src = photo.image;
+        const image = photo.displayImage || photo.image;
+        if (this.photoImagesActivated) fallback.src = image;
+        else fallback.removeAttribute("src");
         fallback.alt = `${stop.name}：${photo.title || "实景照片"}`;
       } else fallback.removeAttribute("src");
     }
@@ -424,7 +427,9 @@ export class RouteCurtain {
     if (grid.dataset.photoPlaceKey !== String(this.galleryPlaceIndex)) {
       grid.innerHTML = photos.map((candidate, index) => {
         const selected = selectedEntry?.placeIndex === this.galleryPlaceIndex && selectedEntry.localIndex === index;
-        return `<button type="button" class="route-photo-thumb${selected ? " is-selected" : ""}" data-photo-index="${index}" aria-pressed="${selected}" aria-label="查看${html(stop.name)}照片 ${index + 1}"><img src="${html(candidate.image)}" alt="" loading="lazy" decoding="async" /><span>${String(index + 1).padStart(2, "0")}</span></button>`;
+        const thumbnail = candidate.thumbnailImage || candidate.image;
+        const sourceAttribute = this.photoImagesActivated ? "src" : "data-photo-image-src";
+        return `<button type="button" class="route-photo-thumb${selected ? " is-selected" : ""}" data-photo-index="${index}" aria-pressed="${selected}" aria-label="查看${html(stop.name)}照片 ${index + 1}"><img ${sourceAttribute}="${html(thumbnail)}" alt="" loading="lazy" decoding="async" /><span>${String(index + 1).padStart(2, "0")}</span></button>`;
       }).join("");
       grid.dataset.photoPlaceKey = String(this.galleryPlaceIndex);
     }
@@ -517,7 +522,7 @@ export class RouteCurtain {
   photoDeckProps() {
     const stop = this.stops[this.galleryPlaceIndex];
     const isEmptySelection = this.photoSelectionMode === "empty";
-    const slides = isEmptySelection ? [] : this.photoSequence.photos.map(({ photo, stop: photoStop }) => ({ image: photo.image, title: photo.title, alt: `${photoStop.name}：${photo.title || "实景照片"}` }));
+    const slides = isEmptySelection ? [] : this.photoSequence.photos.map(({ photo, stop: photoStop }) => ({ image: photo.displayImage || photo.image, title: photo.title, alt: `${photoStop.name}：${photo.title || "实景照片"}` }));
     const collectionKey = isEmptySelection ? `${this.route.id}:empty-place:${this.galleryPlaceIndex}` : this.photoSequenceKey;
     return {
       slides,
@@ -643,8 +648,21 @@ export class RouteCurtain {
       this.scroll.scrollTop = this.tabScrollPositions.get(name) || 0;
     }
     this.root.classList.toggle("is-photos", name === "photos");
+    if (name === "photos" && this.isOpen) this.activatePhotoImages();
     this.updatePhotoDeckActivity();
     this.updateDiningActivity();
+  }
+
+  activatePhotoImages() {
+    if (this.photoImagesActivated || !this.photoPane) return;
+    this.photoImagesActivated = true;
+    const photo = this.currentPhoto();
+    const fallback = this.photoPane.querySelector("[data-photo-fallback]");
+    if (photo && fallback) fallback.src = photo.displayImage || photo.image;
+    this.photoPane.querySelectorAll("[data-photo-image-src]").forEach((image) => {
+      image.src = image.dataset.photoImageSrc;
+      image.removeAttribute("data-photo-image-src");
+    });
   }
 
   updateDiningActivity() {
@@ -708,6 +726,7 @@ export class RouteCurtain {
 
   setOpen(open, { animate = true } = {}) {
     this.isOpen = open;
+    if (open && this.activeTab === "photos") this.activatePhotoImages();
     this.root.classList.toggle("is-open", open);
     this.root.classList.toggle("skip-open-motion", !animate);
     this.panel.inert = !open;
@@ -743,11 +762,11 @@ export class RouteCurtain {
 }
 
 export class HoverImagePreview {
-  constructor(host, initialImage) {
+  constructor(host) {
     this.element = document.createElement("div");
     this.element.className = "hover-image-preview";
     this.element.setAttribute("aria-hidden", "true");
-    this.element.innerHTML = `<img src="${html(initialImage)}" alt="" decoding="async" /><span class="hover-image-preview__caption"></span><span class="hover-image-preview__source">ROUTEO · 场景氛围预览</span>`;
+    this.element.innerHTML = `<img alt="" decoding="async" /><span class="hover-image-preview__caption"></span><span class="hover-image-preview__source">ROUTEO · 场景氛围预览</span>`;
     this.image = this.element.querySelector("img");
     this.caption = this.element.querySelector(".hover-image-preview__caption");
     this.target = { x: 0, y: 0 };

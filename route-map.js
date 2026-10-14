@@ -141,6 +141,8 @@ export class RouteMap {
     this.frame = null;
     this.routeMotion = null;
     this.motionReady = Promise.resolve(null);
+    this.motionRequest = null;
+    this.motionGeneration = 0;
     this.userTookControl = false;
     this.layoutObserver = null;
     this.zoomLevel = 1;
@@ -176,7 +178,9 @@ export class RouteMap {
       image.className = "route-map-artwork-image";
       image.alt = "";
       image.draggable = false;
-      image.src = this.route.storyArtwork.image;
+      image.decoding = "async";
+      image.fetchPriority = "high";
+      image.src = this.route.storyArtwork.previewImage || this.route.storyArtwork.image;
       frame.append(image);
       this.artworkImage = image;
     } else {
@@ -199,7 +203,9 @@ export class RouteMap {
       try {
         await this.artworkImage.decode();
       } catch {
-        throw new Error("ROUTE_ARTWORK_UNAVAILABLE");
+        this.artworkImage.src = this.route.storyArtwork.image;
+        try { await this.artworkImage.decode(); }
+        catch { throw new Error("ROUTE_ARTWORK_UNAVAILABLE"); }
       }
       if (this.destroyed) return null;
     }
@@ -217,8 +223,37 @@ export class RouteMap {
     this.panX = overview.x;
     this.panY = overview.y;
     this.updateLayout();
-    this.motionReady = this.mountRouteMotion().catch(() => null);
     return null;
+  }
+
+  prepareRouteMotion() {
+    if (this.destroyed || !this.motionLayer) return Promise.resolve(null);
+    if (this.motionRequest) return this.motionRequest;
+    if (this.routeMotion) return Promise.resolve(this.routeMotion);
+
+    const generation = ++this.motionGeneration;
+    const request = this.mountRouteMotion(generation)
+      .catch(() => null)
+      .finally(() => {
+        if (this.motionRequest === request) this.motionRequest = null;
+      });
+    this.motionRequest = request;
+    this.motionReady = request;
+    return request;
+  }
+
+  async upgradeArtwork() {
+    const image = this.route.storyArtwork?.image;
+    if (this.destroyed || !this.artworkImage || !image || this.artworkUpgradeStarted || this.artworkImage.getAttribute("src") === image) return;
+    this.artworkUpgradeStarted = true;
+    const full = new Image();
+    full.decoding = "async";
+    full.fetchPriority = "low";
+    full.src = image;
+    try {
+      await full.decode();
+      if (!this.destroyed) this.artworkImage.src = image;
+    } catch { /* Keep the loaded overview available when the detail image fails. */ }
   }
 
   routePathForSelectedModes() {
@@ -229,7 +264,7 @@ export class RouteMap {
     return this.route.storyArtwork?.route || "";
   }
 
-  async mountRouteMotion() {
+  async mountRouteMotion(generation) {
     let rootSvg = this.svg;
     let routeElement = rootSvg?.querySelector(".route-map__route");
     let temporarySource = null;
@@ -261,12 +296,12 @@ export class RouteMap {
 
     const samples = rootSvg && routeElement ? evenlySampleSvgPath(rootSvg, routeElement) : [];
     temporarySource?.remove();
-    if (this.destroyed || samples.length < 2) return null;
+    if (this.destroyed || generation !== this.motionGeneration || samples.length < 2) return null;
     const waypointGeometry = this.getGeometryPoints().map((point) => this.getCanvasPosition(point));
     const waypointProgress = getWaypointProgress(samples, waypointGeometry);
 
     const runtime = await loadRouteMotionRuntime();
-    if (this.destroyed) return null;
+    if (this.destroyed || generation !== this.motionGeneration) return null;
     const reducedMotion = document.body.classList.contains("reduce-motion")
       || window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     const durationInFrames = Math.max(1, (this.points.length - 1) * 30);
@@ -282,7 +317,11 @@ export class RouteMap {
     });
     this.routeMotion = routeMotion;
     await routeMotion.ready;
-    if (this.destroyed) return null;
+    if (this.destroyed || generation !== this.motionGeneration || this.routeMotion !== routeMotion) {
+      routeMotion.destroy();
+      if (this.routeMotion === routeMotion) this.routeMotion = null;
+      return null;
+    }
     this.frame.classList.add("has-remotion-route");
     return routeMotion;
   }
@@ -296,7 +335,10 @@ export class RouteMap {
     const animateRoute = this.host.classList.contains("is-route-motion-visible");
     this.routeMotion?.destroy();
     this.routeMotion = null;
-    this.motionReady = this.mountRouteMotion().then((motion) => {
+    this.motionGeneration += 1;
+    this.motionRequest = null;
+    const request = this.prepareRouteMotion();
+    this.motionReady = request.then((motion) => {
       if (!motion || !animateRoute || this.destroyed) return motion;
       this.frame.classList.add("is-route-motion-visible");
       this.host.classList.add("is-route-motion-visible");
@@ -765,6 +807,7 @@ export class RouteMap {
 
   async playJourney({ durationPerStop = 1100 } = {}) {
     if (!this.points.length || this.destroyed) return;
+    if (!this.motionRequest && !this.routeMotion) this.prepareRouteMotion();
     if (!this.revealedPoints.has(0)) await this.revealPoint(0, { duration: 0, connect: false });
     if (this.destroyed) return;
     this.onJourneyStep(0);

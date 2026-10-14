@@ -41,7 +41,16 @@ function normalizedPhotos(photos) {
     .map((photo, index) => {
       if (!photo || !safeUrl(photo.image)) return null;
       const kind = Object.hasOwn(MENU_FIRST, photo.kind) ? photo.kind : "dish";
-      return { ...photo, kind, index, image: safeUrl(photo.image), url: safeUrl(photo.url) };
+      const image = safeUrl(photo.image);
+      return {
+        ...photo,
+        kind,
+        index,
+        image,
+        displayImage: safeUrl(photo.displayImage) || image,
+        thumbnailImage: safeUrl(photo.thumbnailImage) || safeUrl(photo.displayImage) || image,
+        url: safeUrl(photo.url)
+      };
     })
     .filter(Boolean)
     .sort((a, b) => MENU_FIRST[a.kind] - MENU_FIRST[b.kind] || a.index - b.index);
@@ -393,7 +402,7 @@ export class DiningGallery {
         image.hidden = true;
         unavailable.hidden = false;
       }, { once: true });
-      image.src = photo.image;
+      image.src = photo.thumbnailImage || photo.image;
       button.append(image, unavailable);
       this.thumbnails.append(button);
     });
@@ -490,7 +499,7 @@ export class DiningGallery {
       this.previewImage.hidden = false;
       this.previewStatus.textContent = "";
     };
-    this.previewImage.src = photo.image;
+    this.previewImage.src = photo.displayImage || photo.image;
     this.updatePreviewPlacement();
   }
 

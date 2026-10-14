@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "build:runtime": "node scripts/build-runtime-data.mjs",
     "build:pages": "node scripts/build-pages.mjs",
     "stage:pages-assets": "node scripts/stage-pages-assets.mjs",
     "build:motion": "vite build --config vite.motion.config.js",

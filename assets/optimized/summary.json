@@ -1,0 +1,48 @@
+{
+  "errors": [],
+  "manifestPath": "./assets/image-variants.json",
+  "nativeBytes": {
+    "maps": 23223220,
+    "photos": 118958032,
+    "total": 142181252
+  },
+  "sourceCounts": {
+    "maps": 24,
+    "photos": 263,
+    "total": 287
+  },
+  "uniqueGeneratedVariantBytes": 62857518,
+  "uniqueGeneratedVariantFiles": 485,
+  "variants": {
+    "map.card": {
+      "generatedReferences": 24,
+      "referencedBytes": 10698218,
+      "referencedSources": 24,
+      "reusedOriginalReferences": 0
+    },
+    "map.cardSmall": {
+      "generatedReferences": 24,
+      "referencedBytes": 5469008,
+      "referencedSources": 24,
+      "reusedOriginalReferences": 0
+    },
+    "map.map": {
+      "generatedReferences": 4,
+      "referencedBytes": 19177898,
+      "referencedSources": 24,
+      "reusedOriginalReferences": 20
+    },
+    "photo.preview": {
+      "generatedReferences": 170,
+      "referencedBytes": 60111026,
+      "referencedSources": 263,
+      "reusedOriginalReferences": 93
+    },
+    "photo.thumbnail": {
+      "generatedReferences": 263,
+      "referencedBytes": 4565670,
+      "referencedSources": 263,
+      "reusedOriginalReferences": 0
+    }
+  }
+}
