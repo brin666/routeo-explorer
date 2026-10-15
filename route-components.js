@@ -234,7 +234,7 @@ export class RouteCurtain {
                 </div>
                 <button class="route-agent-prompt__copy" type="button" aria-label="复制行程提示词给 Agent">
                   <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="8" y="7" width="11" height="14" rx="2"/><path d="M16 7V5a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h2"/></svg>
-                  <span>复制提示词</span>
+                  <span>复制给 AI</span>
                 </button>
               </div>
               <details class="route-agent-prompt__preview">
@@ -679,7 +679,7 @@ export class RouteCurtain {
       window.clearTimeout(this.copyResetTimer);
       this.copyResetTimer = window.setTimeout(() => {
         this.copyButton.classList.remove("is-copied");
-        this.copyButton.querySelector("span").textContent = "复制提示词";
+        this.copyButton.querySelector("span").textContent = "复制给 AI";
       }, 2200);
     } catch {
       this.promptPreview.open = true;

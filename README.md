@@ -24,6 +24,14 @@ The homepage uses a generated lightweight feed directory. Each route's full guid
 
 `routes-data.js` remains the authoritative data source. After changing route data, run `npm run build:runtime` before using the local source server. When adding/changing image assets, regenerate their variants first with `py -3.11 scripts/optimize-images.py` (requires Pillow), and commit `assets/image-variants.json` plus the selected variant files. The Pages workflow installs Node dependencies and regenerates runtime data, but does not run Python or alter originals. Build-size and browser observations are in [the performance handoff](./handoffs/2026-10-14-first-load-optimization.md).
 
+## 2026-10-15 mobile discovery update
+
+The discovery shell now uses one top header on desktop and mobile: logo, search, saved routes and preferences. The navigation rail is removed. A compact city bar links to a native modal containing every active city and its actual route count; tags remain searchable and visible on cards.
+
+Mobile cards show the unshaded illustration above a readable title, day/stop count and ordered itinerary. A tap on “行程预览” opens a lightweight timeline directly from the feed summaries without loading route details or the React animation bundle. The full card still opens the route map. Saved routes persist locally, search and empty states include reset actions, and system reduced-motion preferences apply until the user saves an override. Route-detail copy and touch targets are larger on mobile, and the prompt button is labeled “复制给 AI”.
+
+The additional styles are isolated in `discovery.css` and included by the Pages build. These changes do not change route content, photograph sources or map coordinates.
+
 ## Run locally
 
 From this folder run:

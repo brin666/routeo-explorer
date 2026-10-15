@@ -88,6 +88,11 @@ export class FeedTimelinePreview {
     this.reconcile();
   }
 
+  resume() {
+    this.enabled = true;
+    this.reconcile();
+  }
+
   props(record, active) {
     return {
       stops: record.stops,

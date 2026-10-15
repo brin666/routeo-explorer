@@ -12,6 +12,11 @@ const emptyState = document.querySelector("#empty-state");
 const toast = document.querySelector("#toast");
 const settingsPopover = document.querySelector("#settings-popover");
 const reduceMotionToggle = document.querySelector("#reduce-motion");
+const cityDialog = document.querySelector("#city-dialog");
+const itineraryDialog = document.querySelector("#itinerary-dialog");
+const cityPicker = document.querySelector("#city-picker-toggle");
+const featuredCities = ["广州", "成都", "南京"].filter((city) => ROUTES.some((route) => route.city === city));
+const cities = [...new Set(ROUTES.map((route) => route.city))];
 const feedTimelinePreview = new FeedTimelinePreview(routeFeed, ROUTES, JOURNEYS);
 
 const SAVED_KEY = "routeo:saved-routes:v1";
@@ -44,16 +49,6 @@ function escapeHtml(value) {
   })[char]);
 }
 
-function flagMark(code) {
-  const flags = {
-    cn: '<svg class="flag-mark" viewBox="0 0 24 16" aria-hidden="true"><rect width="24" height="16" fill="#d9484b"/><path d="m5 2 .8 2.1 2.3.1-1.8 1.4.6 2.2L5 6.6 3.1 7.8l.6-2.2L2 4.2l2.3-.1L5 2Zm5 3.8.3.7.8.1-.6.5.2.8-.7-.4-.7.4.2-.8-.6-.5.8-.1.3-.7Zm2.1 2.2.3.7.8.1-.6.5.2.8-.7-.4-.7.4.2-.8-.6-.5.8-.1.3-.7Zm0 3 .3.7.8.1-.6.5.2.8-.7-.4-.7.4.2-.8-.6-.5.8-.1.3-.7Zm-2.1 2.2.3.7.8.1-.6.5.2.8-.7-.4-.7.4.2-.8-.6-.5.8-.1.3-.7Z" fill="#ffd35c"/></svg>',
-    jp: '<svg class="flag-mark" viewBox="0 0 24 16" aria-hidden="true"><rect width="24" height="16" fill="#fff"/><circle cx="12" cy="8" r="4.1" fill="#bc3c47"/></svg>',
-    au: '<svg class="flag-mark" viewBox="0 0 24 16" aria-hidden="true"><rect width="24" height="16" fill="#1e3a72"/><path d="M1 1h9v6H1z" fill="#fff"/><path d="M1 1 10 7M10 1 1 7" stroke="#bf3945" stroke-width="1.4"/><path d="M1 1 10 7M10 1 1 7" stroke="#fff" stroke-width=".55"/><path d="m17 2 .7 1.5 1.6.2-1.2 1.1.3 1.6L17 5.6l-1.4.8.3-1.6-1.2-1.1 1.6-.2L17 2Zm3.1 7 .5 1.1 1.2.1-.9.8.2 1.2-1-.6-1 .6.2-1.2-.9-.8 1.2-.1.5-1.1Zm-6.7 2.4.5 1.1 1.2.1-.9.8.2 1.2-1-.6-1 .6.2-1.2-.9-.8 1.2-.1.5-1.1Z" fill="#fff"/></svg>',
-    sg: '<svg class="flag-mark" viewBox="0 0 24 16" aria-hidden="true"><rect width="24" height="8" fill="#d9484b"/><rect y="8" width="24" height="8" fill="#fff"/><circle cx="7.1" cy="4.1" r="2.3" fill="#fff"/><circle cx="7.8" cy="3.6" r="1.8" fill="#d9484b"/><path d="m11 2 .45 1 1.1.1-.8.7.2 1.1-1-.55-1 .55.2-1.1-.8-.7 1.1-.1.55-1Z" fill="#fff"/></svg>',
-    fr: '<svg class="flag-mark" viewBox="0 0 24 16" aria-hidden="true"><rect width="8" height="16" fill="#435f9c"/><rect x="8" width="8" height="16" fill="#fff"/><rect x="16" width="8" height="16" fill="#d7534b"/></svg>'
-  };
-  return flags[code] || flags.jp;
-}
 
 function clockIcon() {
   return '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.2 2"/></svg>';
@@ -69,7 +64,10 @@ function arrowLeftIcon() {
 
 function routeCard(route, index) {
   const isSaved = savedRoutes.has(route.id);
-  const timelineDescription = routeTimelineStops(route, JOURNEYS[route.id]).map((stop) => `${stop.time} ${stop.name}`).join("，");
+  const stops = routeTimelineStops(route, JOURNEYS[route.id]);
+  const timelineDescription = stops.map((stop) => `${stop.time} ${stop.name}`).join("，");
+  const names = stops.map((stop) => stop.name);
+  const itinerary = names.length > 4 ? `${names.slice(0, 3).join(" → ")} … ${names.at(-1)}` : names.join(" → ");
   return `<article class="route-card route-card--${route.theme}" data-route-card="${route.id}">
     <div class="route-card__map" aria-hidden="true">${RouteMapPreview(route, { priority: index === 0, deferred: index > 2 })}</div>
     <div class="route-card__scrim" aria-hidden="true"></div>
@@ -79,10 +77,13 @@ function routeCard(route, index) {
     <span class="sr-only" id="route-itinerary-${route.id}">${escapeHtml(timelineDescription)}</span>
     <div class="route-card__timeline" data-feed-timeline aria-hidden="true"></div>
     <div class="route-card__meta">
-      <span class="place-badge">${flagMark(route.flag)}<span>${escapeHtml(route.place)}</span></span>
+      <div class="route-card__eyebrow"><span class="place-badge">${escapeHtml(route.city)}</span><p class="trip-length">${clockIcon()}<span>${route.days}日 · ${stops.length}站</span></p></div>
       <h2 class="route-title">${escapeHtml(route.title)}</h2>
-      <p class="trip-length">${clockIcon()}<span>${route.days}日行程</span></p>
-      <div class="tag-list" aria-label="体验标签">${route.tags.map((tag) => `<span class="route-tag">${escapeHtml(tag)}</span>`).join("")}</div>
+      <p class="route-card__itinerary">${escapeHtml(itinerary)}</p>
+      <div class="route-card__footer">
+        <div class="tag-list" aria-label="体验标签">${route.tags.slice(0, 2).map((tag) => `<span class="route-tag">${escapeHtml(tag)}</span>`).join("")}</div>
+        <button class="route-card__preview" type="button" data-preview-route="${route.id}" aria-haspopup="dialog" aria-controls="itinerary-dialog" aria-label="预览${escapeHtml(route.title)}行程">行程预览<svg viewBox="0 0 20 20" aria-hidden="true"><path d="m8 5 5 5-5 5"/></svg></button>
+      </div>
     </div>
     <button class="favorite-button${isSaved ? " is-saved" : ""}" type="button" data-save="${route.id}" aria-label="${isSaved ? "取消收藏" : "收藏"}${escapeHtml(route.title)}" aria-pressed="${isSaved}">${heartIcon()}</button>
   </article>`;
@@ -105,18 +106,17 @@ function filteredRoutes() {
 
 function updateSavedCounts() {
   const count = savedRoutes.size;
-  const sideCount = document.querySelector("#saved-count");
   const mobileCount = document.querySelector("#mobile-saved-count");
-  sideCount.textContent = String(count);
-  sideCount.classList.toggle("is-visible", count > 0);
   mobileCount.textContent = String(count);
-  document.querySelector("#mobile-saved").setAttribute("aria-label", `查看收藏路线，${count} 条`);
+  mobileCount.hidden = count === 0;
+  document.querySelector("#mobile-saved").setAttribute("aria-label", activeView === "saved" ? "返回全部路线" : `查看收藏路线，${count} 条`);
 }
 
 function updateNavigation() {
   document.querySelectorAll("[data-nav]").forEach((item) => {
     const isActive = item.dataset.nav === activeView;
     item.classList.toggle("is-active", isActive);
+    item.setAttribute("aria-pressed", String(isActive));
     if (isActive) item.setAttribute("aria-current", "page");
     else item.removeAttribute("aria-current");
   });
@@ -131,15 +131,21 @@ function updateFilterButtons() {
     button.classList.toggle("is-active", matches);
     button.setAttribute("aria-pressed", String(matches));
   });
+  document.querySelectorAll("[data-city]").forEach((button) => {
+    const selected = activeFilter.value === button.dataset.city;
+    button.setAttribute("aria-pressed", String(selected));
+    button.classList.toggle("is-selected", selected);
+  });
+  const pickedCity = activeFilter.type === "city" && !featuredCities.includes(activeFilter.value);
+  cityPicker.classList.toggle("is-active", pickedCity);
+  document.querySelector("#city-picker-label").textContent = pickedCity ? activeFilter.value : "所有城市";
+  cityPicker.setAttribute("aria-label", activeFilter.type === "city" ? `已选择${activeFilter.value}，选择其他城市` : "选择城市");
 }
 
 function populateCityFilters() {
   const bar = document.querySelector("#filter-bar");
-  const anchor = bar.querySelector("[data-filter='city']");
-  if (!anchor) return;
-  const incumbentButtons = [...bar.querySelectorAll("[data-filter='city']")];
   const fragment = document.createDocumentFragment();
-  for (const city of new Set(ROUTES.map((route) => route.city))) {
+  for (const city of featuredCities) {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "filter-chip";
@@ -149,23 +155,57 @@ function populateCityFilters() {
     button.textContent = city;
     fragment.append(button);
   }
-  bar.insertBefore(fragment, anchor);
-  incumbentButtons.forEach((button) => button.remove());
+  bar.append(fragment);
+  document.querySelector("#city-grid").innerHTML = [{ city: "all", label: "全部城市", count: ROUTES.length }, ...cities.map((city) => ({ city, label: city, count: ROUTES.filter((route) => route.city === city).length }))].map(({ city, label, count }) =>
+    `<button class="city-option" type="button" data-city="${escapeHtml(city)}" aria-pressed="false"><strong>${escapeHtml(label)}</strong><span>${count}条路线</span></button>`
+  ).join("");
+}
+
+function openDiscoveryDialog(dialog) {
+  setSettingsOpen(false);
+  feedTimelinePreview.suspend();
+  dialog.showModal();
+  if (dialog === cityDialog) cityPicker.setAttribute("aria-expanded", "true");
+  document.body.classList.add("has-discovery-dialog");
+}
+
+function showItineraryPreview(id) {
+  const route = ROUTES.find((item) => item.id === id);
+  if (!route) return;
+  const stops = routeTimelineStops(route, JOURNEYS[id]);
+  document.querySelector("#itinerary-dialog-city").textContent = `${route.city} · ${route.days}日 · ${stops.length}站`;
+  document.querySelector("#itinerary-dialog-title").textContent = route.title;
+  document.querySelector("#itinerary-preview").innerHTML = stops.map((stop) =>
+    `<li style="--stop-color:${escapeHtml(stop.color || route.accent)}"><span class="itinerary-preview__dot" aria-hidden="true"></span><time>${escapeHtml(stop.time)}</time><strong>${escapeHtml(stop.name)}</strong></li>`
+  ).join("");
+  document.querySelector("#itinerary-dialog-open").href = `#/route/${route.id}`;
+  openDiscoveryDialog(itineraryDialog);
+}
+
+function resetDiscoveryFilters() {
+  activeFilter = { type: "all", value: "all" };
+  searchInput.value = "";
+  renderFeed();
 }
 
 function renderFeed() {
   const matches = filteredRoutes();
   const title = document.querySelector("#feed-title");
-  if (activeView === "saved") title.textContent = "收藏的旅行路线";
-  else if (activeView === "destinations") title.textContent = "按目的地探索旅行路线";
-  else title.textContent = "旅行路线探索";
+  if (activeView === "saved") title.textContent = "收藏的路线";
+  else if (searchInput.value.trim()) title.textContent = "搜索结果";
+  else if (activeFilter.type === "city") title.textContent = `${activeFilter.value}的路线`;
+  else title.textContent = "发现一条好路线";
 
-  feedCount.textContent = `${String(matches.length).padStart(2, "0")} 条路线`;
+  feedCount.textContent = `${matches.length} 条路线`;
   feedTimelinePreview.reset();
   routeFeed.innerHTML = matches.map(routeCard).join("");
   observeCardImages();
   routeFeed.hidden = matches.length === 0;
   emptyState.hidden = matches.length !== 0;
+  const savedEmpty = activeView === "saved" && savedRoutes.size === 0;
+  document.querySelector("#empty-title").textContent = savedEmpty ? "把想去的路线留在这里" : "没有找到匹配的路线";
+  document.querySelector("#empty-description").textContent = savedEmpty ? "点击路线卡片上的爱心，下次就能在这里找到。" : "试试其他城市或景点，也可以清除筛选重新浏览。";
+  document.querySelector("#clear-selection").hidden = activeFilter.type === "all" && !searchInput.value.trim();
   document.querySelector("#reset-filters").textContent = activeView === "saved" ? "回到路线探索" : "查看全部路线";
   searchClear.hidden = searchInput.value.length === 0;
   routeFeed.setAttribute("aria-busy", "false");
@@ -253,13 +293,16 @@ function setSettingsOpen(open, sourceButton) {
 }
 
 function syncMotionPreference() {
-  let stored = false;
-  try { stored = localStorage.getItem(MOTION_KEY) === "true"; } catch { /* storage can be unavailable */ }
-  reduceMotionToggle.checked = stored;
-  document.body.classList.toggle("reduce-motion", stored);
+  let stored = null;
+  try { stored = localStorage.getItem(MOTION_KEY); } catch { /* storage can be unavailable */ }
+  const reduce = stored === null ? window.matchMedia("(prefers-reduced-motion: reduce)").matches : stored === "true";
+  reduceMotionToggle.checked = reduce;
+  document.body.classList.toggle("reduce-motion", reduce);
 }
 
 function renderApp({ restoreFeed = false } = {}) {
+  setSettingsOpen(false);
+  [cityDialog, itineraryDialog].forEach((dialog) => { if (dialog.open) dialog.close(); });
   const routeMatch = location.hash.match(/^#\/route\/([^/]+)$/);
   if (routeMatch) {
     feedTimelinePreview.suspend();
@@ -281,6 +324,10 @@ function renderApp({ restoreFeed = false } = {}) {
   const previousView = activeView;
   const hash = location.hash.replace(/^#\/?/, "");
   activeView = hash === "saved" ? "saved" : hash === "destinations" ? "destinations" : "explore";
+  if (activeView === "saved" && previousView !== "saved" && previousView !== "story") {
+    activeFilter = { type: "all", value: "all" };
+    searchInput.value = "";
+  }
   if (activeView === "destinations" && previousView !== "destinations") {
     activeFilter = { type: "all", value: "all" };
     searchInput.value = "";
@@ -295,7 +342,7 @@ function renderApp({ restoreFeed = false } = {}) {
   if (restoreFeed || previousView === "story") requestAnimationFrame(() => window.scrollTo({ top: feedScrollY, behavior: "auto" }));
 }
 
-document.querySelector("#search-form").addEventListener("submit", (event) => event.preventDefault());
+document.querySelector("#search-form").addEventListener("submit", (event) => { event.preventDefault(); searchInput.blur(); });
 searchInput.addEventListener("input", renderFeed);
 searchClear.addEventListener("click", () => { searchInput.value = ""; searchInput.focus(); renderFeed(); });
 
@@ -304,9 +351,41 @@ document.querySelector("#filter-bar").addEventListener("click", (event) => {
   if (!button) return;
   activeFilter = { type: button.dataset.filter, value: button.dataset.value };
   renderFeed();
+  window.scrollTo({ top: 0, behavior: "auto" });
+});
+
+cityPicker.addEventListener("click", () => openDiscoveryDialog(cityDialog));
+document.querySelector("#city-grid").addEventListener("click", (event) => {
+  const button = event.target.closest("[data-city]");
+  if (!button) return;
+  activeFilter = button.dataset.city === "all" ? { type: "all", value: "all" } : { type: "city", value: button.dataset.city };
+  cityDialog.close();
+  renderFeed();
+  window.scrollTo({ top: 0, behavior: "auto" });
+});
+[cityDialog, itineraryDialog].forEach((dialog) => {
+  dialog.addEventListener("close", () => {
+    if (dialog === cityDialog) cityPicker.setAttribute("aria-expanded", "false");
+    if (!cityDialog.open && !itineraryDialog.open) document.body.classList.remove("has-discovery-dialog");
+    if (!document.body.classList.contains("is-story")) feedTimelinePreview.resume();
+  });
+  dialog.addEventListener("click", (event) => {
+    if (event.target !== dialog) return;
+    const box = dialog.getBoundingClientRect();
+    if (event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom) dialog.close();
+  });
 });
 
 document.addEventListener("click", (event) => {
+  if (!event.target.closest("#settings-popover, #mobile-settings-toggle")) setSettingsOpen(false);
+  const skipLink = event.target.closest(".skip-link");
+  if (skipLink) { event.preventDefault(); document.querySelector("#main-content").focus(); return; }
+  const closeDialog = event.target.closest("[data-close-dialog]");
+  if (closeDialog) { document.getElementById(closeDialog.dataset.closeDialog).close(); return; }
+  const previewButton = event.target.closest("[data-preview-route]");
+  if (previewButton) { event.preventDefault(); showItineraryPreview(previewButton.dataset.previewRoute); return; }
+  if (event.target.closest("#clear-selection")) { resetDiscoveryFilters(); return; }
+  if (event.target.closest("#itinerary-dialog-open")) { feedScrollY = window.scrollY; itineraryDialog.close(); }
   const saveButton = event.target.closest("[data-save]");
   if (saveButton) {
     event.preventDefault();
@@ -326,7 +405,7 @@ document.addEventListener("click", (event) => {
   }
 
   if (event.target.closest("#mobile-saved")) {
-    location.hash = "#/saved";
+    location.hash = activeView === "saved" ? "#/explore" : "#/saved";
     return;
   }
 
@@ -347,8 +426,12 @@ reduceMotionToggle.addEventListener("change", () => {
 });
 
 window.addEventListener("keydown", (event) => {
-  if (event.key === "Escape" && !settingsPopover.hidden) setSettingsOpen(false);
+  if (event.key === "Escape" && !settingsPopover.hidden) {
+    setSettingsOpen(false);
+    document.querySelector("#mobile-settings-toggle").focus();
+  }
 });
+window.matchMedia("(prefers-reduced-motion: reduce)").addEventListener("change", syncMotionPreference);
 
 window.addEventListener("hashchange", () => renderApp({ restoreFeed: true }));
 
