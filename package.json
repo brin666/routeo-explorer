@@ -1,5 +1,12 @@
 {
   "name": "routeo-explorer",
+  "description": "Illustrated city-day routes with photo references and itinerary prompts to copy to AI.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brin666/routeo-explorer.git"
+  },
+  "homepage": "https://brin666.github.io/routeo-explorer/",
   "private": true,
   "type": "module",
   "scripts": {

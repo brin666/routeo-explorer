@@ -1,6 +1,19 @@
 # Routeo
 
-A standalone travel-route discovery prototype built from the supplied UI reference.
+一个以插画地图发现城市一日游路线的开源原型：浏览路线、查看实景与餐饮参考，再把行程复制给自己的 AI 或 Agent 继续规划。
+
+[在线体验](https://brin666.github.io/routeo-explorer/#/explore) · [反馈问题](https://github.com/brin666/routeo-explorer/issues) · [MIT 代码许可](./LICENSE)
+
+## 开源与复用
+
+- 项目原创代码采用 **MIT** 许可证，可在保留许可声明的前提下使用、修改和分发。
+- 照片、笔记、地图插画等素材不统一适用 MIT，复用前请查看来源及 [第三方与素材说明](./THIRD_PARTY_NOTICES.md)。部分照片的转载授权仍待确认。
+- React 和 Remotion 等依赖保留各自许可；仓库附有已打包运行时的上游许可文本。
+- 这是静态旅游路线探索 Demo。“复制给 AI”会生成供外部 AI 使用的内容，站内没有接入个性化规划模型；地图用于路线展示，不提供实时导航。
+
+本地启动需要 Node.js 24 和 npm；可直接克隆此仓库后按下方 **Run locally** 操作。`package.json` 的 `private: true` 用于避免误发布到 npm，不影响 GitHub 开源。
+
+欢迎通过 Issues 或 Pull Requests 提交问题与改进。提交路线资料时请附公开来源，保留作者署名及使用许可；不要提交 API 密钥、Cookie、登录态或原始采集账号资料。
 
 ## Online demo and GitHub Pages
 
